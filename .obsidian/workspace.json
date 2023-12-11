@@ -1,0 +1,307 @@
+{
+  "main": {
+    "id": "43aebc42e53e0a45",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa68081bdb8ca564",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fff3f9831897dc83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/英語で伝えるには和文和訳で簡単な英語を意識する.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd88c0edb8e3ac99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/仏教/読むべき本.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1507cdef2ce1e0fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/仏教/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e83a5fce05c3876a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/仏教/読むべき本.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04f5d40a76a12556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/仏教/読むべき本.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd2fcce11d11a951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/メンタルヘルス.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cf3489ab015b19a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/中学数学/c1/正負の数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "261314dface26ddc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/中学数学/c1/正負の数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2e6c8e904e96deb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/中学数学/c1/文字と式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57158ceaa2ee0a65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "方程式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49ec0e26c3053e30",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1afaeb29f768422",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "942ca54bce5f0efd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e802643ddfeb5eab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ダライ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b747fb570849e51c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 429.50312423706055
+  },
+  "right": {
+    "id": "84812f26217cccba",
+    "type": "split",
+    "children": [
+      {
+        "id": "7373151a8e763cb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e354cbd63cc0c35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "方程式.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47c9f51b7c55b81b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "方程式.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e82cd93c4058a57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f41a263bbab2b4b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "方程式.md"
+              }
+            }
+          },
+          {
+            "id": "8e8b7518b38259e9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "57158ceaa2ee0a65",
+  "lastOpenFiles": [
+    "Projects/中学数学/c1/文字と式.md",
+    "方程式.md",
+    "Projects/中学数学/c1/正負の数.md",
+    "Projects/中学数学/c1",
+    "Notes/Index/仏教/index.md",
+    "Notes/Index/メンタルヘルス.md",
+    "Notes/Inbox/他人と比較しない。物欲より知識欲を持つ。.md",
+    "Notes/Index/仏教/読むべき本.md",
+    "Notes/Index/数学/index.md",
+    "Notes/Index/数学",
+    "Notes/Inbox/貪瞋痴をしてしまう時は誰でもある。大事なのはどう鎮めるか。.md",
+    "Notes/Inbox/怒りに対しては水に書いたような人を目指せ.md",
+    "Daily/2023-11-28.md",
+    "Notes/Inbox/英語で伝えるには和文和訳で簡単な英語を意識する.md",
+    "Notes/Inbox/他人の過失を探し求めて、つねに腹を立てている人は煩悩の汚れが増大する.md",
+    "Notes/Inbox/悪口は贈り物であり。受け取らなければ意味をなさない。無視して受け流すのが大事。.md",
+    "Notes/Inbox/口は禍の元。ブッダは報恩経でこう残している.md",
+    "Notes/Index/英語.md",
+    "Notes/Index/アイデア帳.md",
+    "Notes/Inbox/「不安」とは妄想であり、大事なのはやってみることだとブッダは説く.md",
+    "Notes/Inbox/英語は大袈裟なぐらい丁寧英語でいい。直接的表現は禁止。.md",
+    "Notes/Inbox/実行することを主語にするといい.md",
+    "Notes/Inbox/ブッダの考えの根本は「自灯明・法灯明」.md",
+    "Notes/Index/仏教/ヴィパッサナー瞑想.md",
+    "Notes/Inbox/三毒・貪瞋痴(とんじんち).md",
+    "Notes/Inbox/「誰かのせい」にすると苦しみから抜け出せない.md",
+    "Daily/2023-11-25.md",
+    "Notes/Inbox/三毒を克服するには3つの秘訣がある.md",
+    "Notes/Index/仏教",
+    "Notes/Index/瞑想(マインドフルネス)",
+    "Notes/Blog",
+    "Projects/中学数学/中2数学Web/式と計算/例題",
+    "Projects/中学数学/中2数学Web/式と計算",
+    "Projects/中学数学/中2数学Web",
+    "Projects/中学数学",
+    "Notes/Inbox"
+  ]
+}
