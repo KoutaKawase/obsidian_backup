@@ -8,127 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fff3f9831897dc83",
+            "id": "985f13fdbe70ba1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/英語で伝えるには和文和訳で簡単な英語を意識する.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd88c0edb8e3ac99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/仏教/読むべき本.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1507cdef2ce1e0fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/仏教/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e83a5fce05c3876a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/仏教/読むべき本.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04f5d40a76a12556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/仏教/読むべき本.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd2fcce11d11a951",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cf3489ab015b19a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/中学数学/c1/正負の数.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "261314dface26ddc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/中学数学/c1/正負の数.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2e6c8e904e96deb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/中学数学/c1/文字と式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57158ceaa2ee0a65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "方程式.md",
+                "file": "てすと.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "方程式.md",
+                "file": "てすと.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "方程式.md",
+                "file": "てすと.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "方程式.md"
+                "file": "てすと.md"
               }
             }
           },
@@ -265,10 +156,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "57158ceaa2ee0a65",
+  "active": "985f13fdbe70ba1d",
   "lastOpenFiles": [
-    "Projects/中学数学/c1/文字と式.md",
+    "Daily/2023-12-11.md",
+    "てすと.md",
     "方程式.md",
+    "Projects/中学数学/c1/文字と式.md",
     "Projects/中学数学/c1/正負の数.md",
     "Projects/中学数学/c1",
     "Notes/Index/仏教/index.md",
@@ -293,8 +186,6 @@
     "Notes/Index/仏教/ヴィパッサナー瞑想.md",
     "Notes/Inbox/三毒・貪瞋痴(とんじんち).md",
     "Notes/Inbox/「誰かのせい」にすると苦しみから抜け出せない.md",
-    "Daily/2023-11-25.md",
-    "Notes/Inbox/三毒を克服するには3つの秘訣がある.md",
     "Notes/Index/仏教",
     "Notes/Index/瞑想(マインドフルネス)",
     "Notes/Blog",
