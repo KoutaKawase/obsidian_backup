@@ -25,26 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/やる気の維持はスケジュールが大事。目標->行動計画->記録.md",
+                "file": "Notes/Inbox/攻めの計画は理想 守りの計画は最低限.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c3bc8bf556876b3b",
+            "id": "dd1580cc9fab0b08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "やる気が落ちても継続する環境作りが大事。.md",
+                "file": "Notes/Index/学習の作法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "920afd3626e7379d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "安易な語呂合わせや暗記術は危険。概念は.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/やる気の維持はスケジュールが大事。目標->行動計画->記録.md",
+                "file": "安易な語呂合わせや暗記術は危険。概念は.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/やる気の維持はスケジュールが大事。目標->行動計画->記録.md",
+                "file": "安易な語呂合わせや暗記術は危険。概念は.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/やる気の維持はスケジュールが大事。目標->行動計画->記録.md"
+                "file": "安易な語呂合わせや暗記術は危険。概念は.md"
               }
             }
           },
@@ -181,14 +193,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1afaabf5e6f9e0ef",
+  "active": "920afd3626e7379d",
   "lastOpenFiles": [
-    "やる気が落ちても継続する環境作りが大事。.md",
-    "Notes/Inbox/やる気の維持はスケジュールが大事。目標->行動計画->記録.md",
-    "感謝の日記.md",
     "Notes/Index/学習の作法.md",
+    "安易な語呂合わせや暗記術は危険。概念は.md",
+    "Notes/Inbox/参考書や問題集に安易にマーカーを引かない.md",
+    "Notes/Inbox/攻めの計画は理想 守りの計画は最低限.md",
+    "Notes/Inbox/やる気が落ちても継続する環境作りが大事。.md",
+    "感謝の日記.md",
+    "Notes/Inbox/やる気の維持はスケジュールが大事。目標->行動計画->記録.md",
     "３行日記.md",
-    "攻めの計画.md",
     "Notes/Inbox/長時間勉强において一番大事なのは休憩。瞑想 運動 癒やし 昼寝 ぼーっとする.md",
     "Notes/Index/数学/index.md",
     "Projects/中学数学/c1/方程式.md",
@@ -209,8 +223,6 @@
     "Notes/Inbox/悪口は贈り物であり。受け取らなければ意味をなさない。無視して受け流すのが大事。.md",
     "Notes/Inbox/口は禍の元。ブッダは報恩経でこう残している.md",
     "Notes/Index/英語.md",
-    "Notes/Index/アイデア帳.md",
-    "Notes/Inbox/「不安」とは妄想であり、大事なのはやってみることだとブッダは説く.md",
     "Notes/Index/仏教",
     "Notes/Index/瞑想(マインドフルネス)",
     "Notes/Blog",
