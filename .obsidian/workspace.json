@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
+                "file": "Notes/Index/学習の作法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
+                "file": "Notes/Index/学習の作法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
+                "file": "Notes/Index/学習の作法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md"
+                "file": "Notes/Index/学習の作法.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "381c3f183a1b451e",
   "lastOpenFiles": [
+    "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
     "Notes/Inbox/理解は集中的に。暗記は分散的にする。理解が一番重要。.md",
-    "忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
     "Notes/Inbox/覚えたい内容が来たら数十秒大仏のようにぼーっとする.md",
     "Notes/Index/学習の作法.md",
     "Notes/Inbox/運動をしながら勉强する(歩きながらでもいい).md",
