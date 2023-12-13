@@ -4,28 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "aa68081bdb8ca564",
+        "id": "1984a1307249d64a",
         "type": "tabs",
         "children": [
           {
-            "id": "7f845dc4620cece5",
+            "id": "f1a933e8d8b1e057",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/「苦」は「無知」から始まる。反応しない練習が大事。.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "b3a15e4c810e8779",
+            "id": "a9416da94620c567",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-12-11.md",
+                "file": "Notes/Inbox/自分は一人で生きているのではない。無我の定義.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-12-11.md",
+                "file": "Notes/Inbox/自分は一人で生きているのではない。無我の定義.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-12-11.md",
+                "file": "Notes/Inbox/自分は一人で生きているのではない。無我の定義.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-12-11.md"
+                "file": "Notes/Inbox/自分は一人で生きているのではない。無我の定義.md"
               }
             }
           },
@@ -169,16 +165,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b3a15e4c810e8779",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "無題のファイル.md",
+    "Notes/Inbox/自分は一人で生きているのではない。無我の定義.md",
     "Notes/Inbox/「苦」は「無知」から始まる。反応しない練習が大事。.md",
-    "Notes/Inbox/欲と怒りが自分を苦しめる。苦しめるのは自分の感情。.md",
+    "Notes/Inbox/誰かを傷つけたり取り返しのつかない行為をした時は素直に謝る。これに尽きる.md",
     "Notes/Index/仏教/index.md",
+    "Notes/Inbox/懺悔は自分の過ちを認める善行為。後悔は自分に対する怒り。後悔は禁止。.md",
+    "Daily/2023-12-11.md",
+    "Notes/Inbox/欲と怒りが自分を苦しめる。苦しめるのは自分の感情。.md",
     "Notes/Index/仏教/ヴィパッサナー瞑想.md",
     "Notes/Inbox/ヴィパッサナー瞑想の注意点と意識するポイント.md",
     "Notes/Index/学習の作法.md",
-    "アーナパーナサティ瞑想のやり方。.md",
+    "Notes/Inbox/アーナパーナサティ瞑想のやり方。.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Inbox/歩行瞑想は手軽に実践できオススメ.md",
     "Notes/Inbox/思考との距離を取る練習には感情の実況中継.md",
@@ -194,9 +193,6 @@
     "Notes/Inbox/参考書や問題集に安易にマーカーを引かない.md",
     "Notes/Inbox/安易な語呂合わせや暗記術は危険。概念は周辺にある知識と結びつけて覚える。.md",
     "Notes/Inbox/やる気が落ちても継続する環境作りが大事。環境 ライン 習慣化 感謝.md",
-    "Notes/Inbox/やる気の維持はスケジュールが大事。目標->行動計画->記録.md",
-    "ファインマンテクニック.md",
-    "感謝の日記.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
