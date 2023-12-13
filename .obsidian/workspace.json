@@ -20,43 +20,19 @@
             }
           },
           {
-            "id": "84b989291cde0d36",
+            "id": "e417a93e53530d2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/仏教/ヴィパッサナー瞑想.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ef4dbf758ac9035",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/ヴィパッサナー瞑想の注意点と意識するポイント.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bdb322bb0d87658",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "「苦」は「無知」から始まる。反応しない練習が大事。.md",
+                "file": "欲と怒りが自分を苦しめる。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "「苦」は「無知」から始まる。反応しない練習が大事。.md",
+                "file": "欲と怒りが自分を苦しめる。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "「苦」は「無知」から始まる。反応しない練習が大事。.md",
+                "file": "欲と怒りが自分を苦しめる。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "「苦」は「無知」から始まる。反応しない練習が大事。.md"
+                "file": "欲と怒りが自分を苦しめる。.md"
               }
             }
           },
@@ -193,12 +169,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1bdb322bb0d87658",
+  "active": "e417a93e53530d2e",
   "lastOpenFiles": [
-    "Notes/Index/仏教/ヴィパッサナー瞑想.md",
     "Notes/Index/仏教/index.md",
-    "「苦」は「無知」から始まる。反応しない練習が大事。.md",
+    "欲と怒りが自分を苦しめる。.md",
+    "Notes/Index/仏教/ヴィパッサナー瞑想.md",
     "Notes/Inbox/ヴィパッサナー瞑想の注意点と意識するポイント.md",
+    "「苦」は「無知」から始まる。反応しない練習が大事。.md",
     "Notes/Index/学習の作法.md",
     "アーナパーナサティ瞑想のやり方。.md",
     "Notes/Index/仏教/読むべき本.md",
@@ -220,7 +197,6 @@
     "ファインマンテクニック.md",
     "感謝の日記.md",
     "Notes/Index/数学/index.md",
-    "Projects/中学数学/c1/方程式.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
