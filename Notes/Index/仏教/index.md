@@ -12,9 +12,9 @@ TABLE FROM #仏教 AND #ブッダ
 TABLE FROM #仏教 AND #三毒 
 ```
 
-## 歩行瞑想
+## 瞑想
 ```dataview
-TABLE FROM #歩行瞑想 
+TABLE FROM #瞑想 
 ```
 ## [[ヴィパッサナー瞑想]] 
 
