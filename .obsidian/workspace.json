@@ -26,9 +26,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f89f9dffe56e2f62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/欲望(期待)、執着があるからつらくなる。それを捨てる工夫がブッダの教え.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ef049f3a0173f10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/欲望(期待)、執着があるからつらくなる。それを捨てる工夫がブッダの教え.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/自分は一人で生きているのではない。無我の定義.md",
+                "file": "Notes/Inbox/欲望(期待)、執着があるからつらくなる。それを捨てる工夫がブッダの教え.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/自分は一人で生きているのではない。無我の定義.md",
+                "file": "Notes/Inbox/欲望(期待)、執着があるからつらくなる。それを捨てる工夫がブッダの教え.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/自分は一人で生きているのではない。無我の定義.md"
+                "file": "Notes/Inbox/欲望(期待)、執着があるからつらくなる。それを捨てる工夫がブッダの教え.md"
               }
             }
           },
@@ -167,6 +191,8 @@
   },
   "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
+    "Notes/Inbox/瞑想とは「気づき」と「集中」、そして「無執着」。最後に無執着に至る儀式である。.md",
+    "Notes/Inbox/欲望(期待)、執着があるからつらくなる。それを捨てる工夫がブッダの教え.md",
     "Notes/Inbox/自分は一人で生きているのではない。無我の定義.md",
     "Notes/Inbox/「苦」は「無知」から始まる。反応しない練習が大事。.md",
     "Notes/Inbox/誰かを傷つけたり取り返しのつかない行為をした時は素直に謝る。これに尽きる.md",
@@ -191,8 +217,6 @@
     "Notes/Inbox/学習の安易な要約化は危険。大事なのはクイズ化。.md",
     "Notes/Inbox/クイズやテストの要素を取り入れた要約が効果的.md",
     "Notes/Inbox/参考書や問題集に安易にマーカーを引かない.md",
-    "Notes/Inbox/安易な語呂合わせや暗記術は危険。概念は周辺にある知識と結びつけて覚える。.md",
-    "Notes/Inbox/やる気が落ちても継続する環境作りが大事。環境 ライン 習慣化 感謝.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
