@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
+                "file": "Projects/中学数学/c1/関数.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
+                "file": "Projects/中学数学/c1/関数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
+                "file": "Projects/中学数学/c1/関数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md"
+                "file": "Projects/中学数学/c1/関数.md"
               }
             }
           },
@@ -171,9 +171,9 @@
   },
   "active": "58a307bce31b1f1a",
   "lastOpenFiles": [
-    "Notes/Index/学習の作法.md",
-    "関数.md",
     "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
+    "Notes/Index/学習の作法.md",
+    "Projects/中学数学/c1/関数.md",
     "Notes/Inbox/理解は集中的に。暗記は分散的にする。理解が一番重要。.md",
     "Notes/Inbox/覚えたい内容が来たら数十秒大仏のようにぼーっとする.md",
     "Notes/Inbox/運動をしながら勉强する(歩きながらでもいい).md",
