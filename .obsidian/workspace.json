@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/学習の作法.md",
+                "file": "Notes/Index/メンタルヘルス.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "702f117f430020c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/やる気の維持はスケジュールが大事。目標->行動計画->記録.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anki",
+                "query": "日記",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/学習の作法.md",
+                "file": "Notes/Inbox/やる気の維持はスケジュールが大事。目標->行動計画->記録.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/学習の作法.md",
+                "file": "Notes/Inbox/やる気の維持はスケジュールが大事。目標->行動計画->記録.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/学習の作法.md"
+                "file": "Notes/Inbox/やる気の維持はスケジュールが大事。目標->行動計画->記録.md"
               }
             }
           },
@@ -168,11 +182,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "702f117f430020c4",
   "lastOpenFiles": [
+    "Notes/Inbox/ポジティブを感じたらメモを取るとトレーニングになる.md",
+    "Notes/Index/メンタルヘルス.md",
+    "Notes/Inbox/やる気の維持はスケジュールが大事。目標->行動計画->記録.md",
+    "Notes/Index/学習の作法.md",
     "Projects/中学数学/c1/関数.md",
     "Notes/Inbox/戦略的に午後だけたまに休むのを取り入れる.md",
-    "Notes/Index/学習の作法.md",
     "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
     "Notes/Inbox/理解は集中的に。暗記は分散的にする。理解が一番重要。.md",
     "Notes/Inbox/覚えたい内容が来たら数十秒大仏のようにぼーっとする.md",
@@ -185,7 +202,6 @@
     "Notes/Inbox/悪習慣の効果は遅れてやってくる。だから今日はいいかと甘えるのが危険。.md",
     "Notes/Index/仏教/ヴィパッサナー瞑想.md",
     "Notes/Inbox/悪習慣は5分先延ばしと瞑想が鍵.md",
-    "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/ヴィパッサナー瞑想の基本は動詞と実況中継.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Inbox/何かを手に入れる幸せは持続性がない。大事なのは意義を感じる善を行う事。.md",
@@ -194,8 +210,6 @@
     "Notes/Inbox/欲望(期待)、執着があるからつらくなる。それを捨てる工夫がブッダの教え.md",
     "Notes/Inbox/瞑想とは「気づき」と「集中」、そして「無執着」。最後に無執着に至る儀式である。.md",
     "Notes/Inbox/自分は一人で生きているのではない。無我の定義.md",
-    "Notes/Inbox/「苦」は「無知」から始まる。反応しない練習が大事。.md",
-    "Notes/Inbox/誰かを傷つけたり取り返しのつかない行為をした時は素直に謝る。これに尽きる.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
