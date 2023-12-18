@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/英語.md",
+                "file": "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "どっちに",
+                "query": "復習",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/英語.md",
+                "file": "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/英語.md",
+                "file": "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/英語.md"
+                "file": "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md"
               }
             }
           },
@@ -183,8 +184,8 @@
   },
   "active": "4fb305b510ee8841",
   "lastOpenFiles": [
-    "英作文、スピーキングの基本は和文和訳！.md",
     "Notes/Index/英語.md",
+    "英作文、スピーキングの基本は和文和訳！.md",
     "Notes/Inbox/戦略的に午後だけたまに休むのを取り入れる.md",
     "Notes/Index/学習の作法.md",
     "Notes/Index/English.md",
