@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "83d709c6352f9418",
+        "id": "2c8d0f9e004e0daf",
         "type": "tabs",
         "children": [
           {
-            "id": "381c3f183a1b451e",
+            "id": "6d2a3eaf41db2c68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
+                "file": "Notes/Index/数学/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "702f117f430020c4",
+            "id": "72380a592eb30bfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fb305b510ee8841",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
+                "file": "無題のファイル.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
+                "file": "無題のファイル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
+                "file": "無題のファイル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md"
+                "file": "無題のファイル.md"
               }
             }
           },
@@ -182,14 +169,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4fb305b510ee8841",
+  "active": "72380a592eb30bfd",
   "lastOpenFiles": [
+    "Notes/Index/数学/index.md",
+    "無題のファイル.md",
+    "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
     "Notes/Index/英語.md",
     "英作文、スピーキングの基本は和文和訳！.md",
     "Notes/Inbox/戦略的に午後だけたまに休むのを取り入れる.md",
     "Notes/Index/学習の作法.md",
     "Notes/Index/English.md",
-    "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
     "Notes/Inbox/やる気の維持はスケジュールが大事。目標->行動計画->記録.md",
     "Notes/Inbox/ポジティブを感じたらメモを取るとトレーニングになる.md",
     "Notes/Index/メンタルヘルス.md",
@@ -208,8 +197,6 @@
     "Notes/Inbox/ヴィパッサナー瞑想の基本は動詞と実況中継.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Inbox/何かを手に入れる幸せは持続性がない。大事なのは意義を感じる善を行う事。.md",
-    "Notes/Inbox/自我を持つから仕事や人間関係がつらくなる。無我が大事.md",
-    "Notes/Inbox/妄想する莫（なか）れ。苦しみは価値判断から.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
