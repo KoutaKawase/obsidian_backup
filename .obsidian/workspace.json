@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2c8d0f9e004e0daf",
+        "id": "837a7204b5567847",
         "type": "tabs",
         "children": [
           {
-            "id": "6d2a3eaf41db2c68",
+            "id": "2f1d5ef5c27b3a5b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3761da4a8f4d7f74",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,67 +28,19 @@
             }
           },
           {
-            "id": "aa414245e06ec3fc",
+            "id": "f4ed237a79193dd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/数学/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c91aae36f5f8b9b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/間違えた問題出来なかった問題は2回綺麗に解けるまでやる。問題集は最低3周。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55b7f4b10c0bd3f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/数学/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06464faa4a0561fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/問題は下書き用の紙と解答用の紙を用意して練習する.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6763693f9a51d8d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/分からない時は自分は何が分からないのか書いてみる.md",
+                "file": "Notes/Inbox/数学の正しい復習。定義定理公式性質の説明、問題を見て想起.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/分からない時は自分は何が分からないのか書いてみる.md",
+                "file": "Notes/Inbox/数学の正しい復習。定義定理公式性質の説明、問題を見て想起.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/分からない時は自分は何が分からないのか書いてみる.md",
+                "file": "Notes/Inbox/数学の正しい復習。定義定理公式性質の説明、問題を見て想起.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/分からない時は自分は何が分からないのか書いてみる.md"
+                "file": "Notes/Inbox/数学の正しい復習。定義定理公式性質の説明、問題を見て想起.md"
               }
             }
           },
@@ -217,14 +177,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "f4ed237a79193dd4",
   "lastOpenFiles": [
-    "Notes/Inbox/問題は下書き用の紙と解答用の紙を用意して練習する.md",
-    "Notes/Inbox/分からない時は自分は何が分からないのか書いてみる.md",
     "Notes/Index/数学/index.md",
+    "Notes/Inbox/分からない時、質問する時はどこまでが分かってどこまでが分からないか明確に.md",
+    "Notes/Inbox/問題は下書き用の紙と解答用の紙を用意して練習する.md",
+    "Notes/Inbox/解説の読み方 何が必要だったか、なぜそうするのか、書いたり声に出したり、要約.md",
+    "Notes/Inbox/数学の正しい復習。定義定理公式性質の説明、問題を見て想起.md",
+    "Notes/Inbox/分からない時は自分は何が分からないのか書いてみる.md",
+    "Notes/Inbox/\"解ける\"とは アプローチが思い浮かぶ→論理的に計算、答案を記述->計算ミスなく出来る事.md",
+    "Notes/Index/学習の作法.md",
+    "Notes/Inbox/数学で分からない時は少しだけ答えを見て自分で導けるか試してみる.md",
     "Notes/Inbox/概念や知識面について重点的に解説しているパートは多少時間がかかっても手を動かす.md",
     "Notes/Inbox/間違えた問題出来なかった問題は2回綺麗に解けるまでやる。問題集は最低3周。.md",
-    "Notes/Index/学習の作法.md",
     "Notes/Inbox/解法は何故そうするのかプロセスの論理的理解を疎かにしない.md",
     "Notes/Inbox/解けたとしても模範となる解放と照らし合わせる事が大事.md",
     "Notes/Inbox/数学は考えた事を普段から言語化図式化して手を動かす練習をする.md",
@@ -240,11 +205,6 @@
     "Projects/中学数学/c1/関数.md",
     "Notes/Inbox/理解は集中的に。暗記は分散的にする。理解が一番重要。.md",
     "Notes/Inbox/覚えたい内容が来たら数十秒大仏のようにぼーっとする.md",
-    "Notes/Inbox/運動をしながら勉强する(歩きながらでもいい).md",
-    "Notes/Inbox/人形に話しかけてアウトプットする.md",
-    "Notes/Inbox/シャドウティーチングしたものをスキマ時間に聞く.md",
-    "Notes/Inbox/勉強中はテストの様に厳密に時間を区切る。.md",
-    "Notes/Inbox/ブツブツ独り言をして論点や(英)単語を説明するのが効果的.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
