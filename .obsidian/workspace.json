@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/英語の発音は母音をダラダラ伸ばして息を切らさないイメージ.md",
+                "file": "Daily/2023-12-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/英語の発音は母音をダラダラ伸ばして息を切らさないイメージ.md",
+                "file": "Daily/2023-12-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/英語の発音は母音をダラダラ伸ばして息を切らさないイメージ.md",
+                "file": "Daily/2023-12-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/英語の発音は母音をダラダラ伸ばして息を切らさないイメージ.md"
+                "file": "Daily/2023-12-19.md"
               }
             }
           },
@@ -213,8 +213,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "abb65558b0f62ed6",
   "lastOpenFiles": [
+    "Daily/2023-12-19.md",
     "Notes/Index/英語.md",
     "Notes/Inbox/英語の発音は母音をダラダラ伸ばして息を切らさないイメージ.md",
     "Notes/Index/メンタルヘルス.md",
@@ -240,7 +241,6 @@
     "Notes/Inbox/戦略的に午後だけたまに休むのを取り入れる.md",
     "Notes/Index/English.md",
     "Notes/Inbox/やる気の維持はスケジュールが大事。目標->行動計画->記録.md",
-    "Notes/Inbox/ポジティブを感じたらメモを取るとトレーニングになる.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
