@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/数学/index.md",
+                "file": "Notes/Index/学習の作法.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/数学/index.md",
+                "file": "Notes/Index/学習の作法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/数学/index.md",
+                "file": "Notes/Index/学習の作法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/数学/index.md"
+                "file": "Notes/Index/学習の作法.md"
               }
             }
           },
@@ -203,14 +203,14 @@
   },
   "active": "c64f6831ae59b157",
   "lastOpenFiles": [
+    "Notes/Index/英語.md",
+    "Notes/Index/数学/index.md",
     "Notes/Inbox/数学はまず問題文を全部しっかり読む。図などはそのあと頭の中でイメージしたあと書き起こすのが大事。.md",
     "Daily/2023-12-21.md",
     "Notes/Inbox/解法暗記は危険。プロセスの理解が大事。なぜそうするに至るか。初心者は定義定理公式の暗記をしっかり。.md",
     "Notes/Inbox/途中式は面倒でも日本語で式を繋げて整理する.md",
     "Notes/Inbox/応用問題はどういう基礎問題の組み合わせか、何を知っていれば解けたかを理解する.md",
-    "Notes/Index/数学/index.md",
     "Notes/Inbox/英語はソフトパレットと腹式発声.md",
-    "Notes/Index/英語.md",
     "Daily/2023-12-19.md",
     "Notes/Inbox/英語の発音は母音をダラダラ伸ばして息を切らさないイメージ.md",
     "Notes/Index/メンタルヘルス.md",
