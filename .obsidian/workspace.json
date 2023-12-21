@@ -52,19 +52,19 @@
             }
           },
           {
-            "id": "7ce227fc071b6737",
+            "id": "c64f6831ae59b157",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/英語.md",
+                "file": "Notes/Index/数学/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-12-21.md",
+                "file": "Notes/Index/数学/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-12-21.md",
+                "file": "Notes/Index/数学/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-12-21.md"
+                "file": "Notes/Index/数学/index.md"
               }
             }
           },
@@ -201,9 +201,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e9bf6a8138bd9bef",
+  "active": "c64f6831ae59b157",
   "lastOpenFiles": [
+    "Notes/Inbox/数学はまず問題文を全部しっかり読む。図などはそのあと頭の中でイメージしたあと書き起こすのが大事。.md",
     "Daily/2023-12-21.md",
+    "Notes/Inbox/解法暗記は危険。プロセスの理解が大事。なぜそうするに至るか。初心者は定義定理公式の暗記をしっかり。.md",
     "Notes/Inbox/途中式は面倒でも日本語で式を繋げて整理する.md",
     "Notes/Inbox/応用問題はどういう基礎問題の組み合わせか、何を知っていれば解けたかを理解する.md",
     "Notes/Index/数学/index.md",
@@ -227,8 +229,6 @@
     "Notes/Inbox/解けたとしても模範となる解放と照らし合わせる事が大事.md",
     "Notes/Inbox/数学は考えた事を普段から言語化図式化して手を動かす練習をする.md",
     "Notes/Inbox/計算力はなるべく暗算でやっていくのが力になる。.md",
-    "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
-    "英作文、スピーキングの基本は和文和訳！.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
