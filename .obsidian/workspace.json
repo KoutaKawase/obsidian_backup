@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/応用問題はどういう基礎問題の組み合わせか、何を知っていれば解けたかを理解する.md",
+                "file": "Daily/2023-12-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/応用問題はどういう基礎問題の組み合わせか、何を知っていれば解けたかを理解する.md",
+                "file": "Daily/2023-12-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/応用問題はどういう基礎問題の組み合わせか、何を知っていれば解けたかを理解する.md",
+                "file": "Daily/2023-12-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/応用問題はどういう基礎問題の組み合わせか、何を知っていれば解けたかを理解する.md"
+                "file": "Daily/2023-12-21.md"
               }
             }
           },
@@ -201,8 +201,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "e9bf6a8138bd9bef",
   "lastOpenFiles": [
+    "Daily/2023-12-21.md",
     "Notes/Inbox/途中式は面倒でも日本語で式を繋げて整理する.md",
     "Notes/Inbox/応用問題はどういう基礎問題の組み合わせか、何を知っていれば解けたかを理解する.md",
     "Notes/Index/数学/index.md",
@@ -228,7 +229,6 @@
     "Notes/Inbox/計算力はなるべく暗算でやっていくのが力になる。.md",
     "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
     "英作文、スピーキングの基本は和文和訳！.md",
-    "Notes/Inbox/戦略的に午後だけたまに休むのを取り入れる.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
