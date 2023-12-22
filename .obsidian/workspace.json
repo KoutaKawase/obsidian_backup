@@ -76,12 +76,12 @@
             }
           },
           {
-            "id": "a2e74f7425a9fbd2",
+            "id": "a9e844fc18065450",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/マーク式でも記述を書く事。ただし簡易的に。.md",
+                "file": "ガムを噛みながら勉强するのも効果的.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/マーク式でも記述を書く事。ただし簡易的に。.md",
+                "file": "ガムを噛みながら勉强するのも効果的.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/マーク式でも記述を書く事。ただし簡易的に。.md",
+                "file": "ガムを噛みながら勉强するのも効果的.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/マーク式でも記述を書く事。ただし簡易的に。.md"
+                "file": "ガムを噛みながら勉强するのも効果的.md"
               }
             }
           },
@@ -225,11 +225,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "a9e844fc18065450",
   "lastOpenFiles": [
     "Notes/Inbox/図はなるべく綺麗に書くのが大事。あとは試験ではたくさん書く。.md",
     "Notes/Inbox/マーク式でも記述を書く事。ただし簡易的に。.md",
     "Notes/Index/学習の作法.md",
+    "ガムを噛みながら勉强するのも効果的.md",
     "Notes/Index/英語.md",
     "Notes/Index/数学/index.md",
     "Notes/Inbox/数学はまず問題文を全部しっかり読む。図などはそのあと頭の中でイメージしたあと書き起こすのが大事。.md",
@@ -252,7 +253,6 @@
     "Notes/Inbox/概念や知識面について重点的に解説しているパートは多少時間がかかっても手を動かす.md",
     "Notes/Inbox/間違えた問題出来なかった問題は2回綺麗に解けるまでやる。問題集は最低3周。.md",
     "Notes/Inbox/解法は何故そうするのかプロセスの論理的理解を疎かにしない.md",
-    "Notes/Inbox/解けたとしても模範となる解放と照らし合わせる事が大事.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
