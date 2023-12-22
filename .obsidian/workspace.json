@@ -62,9 +62,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "66a462bbf58918a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/図はなるべく綺麗に書くのが大事。あとは試験ではたくさん書く。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2e74f7425a9fbd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/マーク式でも記述を書く事。ただし簡易的に。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -130,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/学習の作法.md",
+                "file": "Notes/Inbox/マーク式でも記述を書く事。ただし簡易的に。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/学習の作法.md",
+                "file": "Notes/Inbox/マーク式でも記述を書く事。ただし簡易的に。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/学習の作法.md"
+                "file": "Notes/Inbox/マーク式でも記述を書く事。ただし簡易的に。.md"
               }
             }
           },
@@ -201,8 +225,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c64f6831ae59b157",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
+    "Notes/Inbox/図はなるべく綺麗に書くのが大事。あとは試験ではたくさん書く。.md",
+    "Notes/Inbox/マーク式でも記述を書く事。ただし簡易的に。.md",
+    "Notes/Index/学習の作法.md",
     "Notes/Index/英語.md",
     "Notes/Index/数学/index.md",
     "Notes/Inbox/数学はまず問題文を全部しっかり読む。図などはそのあと頭の中でイメージしたあと書き起こすのが大事。.md",
@@ -221,14 +248,11 @@
     "Notes/Inbox/解説の読み方 何が必要だったか、なぜそうするのか、書いたり声に出したり、要約.md",
     "Notes/Inbox/分からない時は自分は何が分からないのか書いてみる.md",
     "Notes/Inbox/\"解ける\"とは アプローチが思い浮かぶ→論理的に計算、答案を記述->計算ミスなく出来る事.md",
-    "Notes/Index/学習の作法.md",
     "Notes/Inbox/数学で分からない時は少しだけ答えを見て自分で導けるか試してみる.md",
     "Notes/Inbox/概念や知識面について重点的に解説しているパートは多少時間がかかっても手を動かす.md",
     "Notes/Inbox/間違えた問題出来なかった問題は2回綺麗に解けるまでやる。問題集は最低3周。.md",
     "Notes/Inbox/解法は何故そうするのかプロセスの論理的理解を疎かにしない.md",
     "Notes/Inbox/解けたとしても模範となる解放と照らし合わせる事が大事.md",
-    "Notes/Inbox/数学は考えた事を普段から言語化図式化して手を動かす練習をする.md",
-    "Notes/Inbox/計算力はなるべく暗算でやっていくのが力になる。.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
