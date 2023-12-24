@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/仏教/index.md",
+                "file": "Notes/Index/数学/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/仏教/index.md",
+                "file": "Notes/Index/数学/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/仏教/index.md",
+                "file": "Notes/Index/数学/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/仏教/index.md"
+                "file": "Notes/Index/数学/index.md"
               }
             }
           },
@@ -203,8 +203,8 @@
   },
   "active": "a9e844fc18065450",
   "lastOpenFiles": [
-    "Notes/Inbox/ブッダの考えの根本は「自灯明・法灯明」.md",
     "Notes/Index/仏教/index.md",
+    "Notes/Inbox/ブッダの考えの根本は「自灯明・法灯明」.md",
     "Notes/Inbox/ガムを噛みながら勉强するのも効果的.md",
     "Notes/Inbox/図はなるべく綺麗に書くのが大事。あとは試験ではたくさん書く。.md",
     "Notes/Inbox/マーク式でも記述を書く事。ただし簡易的に。.md",
