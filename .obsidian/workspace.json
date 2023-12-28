@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/学習の作法.md",
+                "file": "どうしても覚えたい物は問題形式で3回ずつ読んで録音し寝る前翌朝週末に.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "復習",
+                "query": "tag:学習法アクティブラーニング",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/学習の作法.md",
+                "file": "どうしても覚えたい物は問題形式で3回ずつ読んで録音し寝る前翌朝週末に.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/学習の作法.md",
+                "file": "どうしても覚えたい物は問題形式で3回ずつ読んで録音し寝る前翌朝週末に.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/学習の作法.md"
+                "file": "どうしても覚えたい物は問題形式で3回ずつ読んで録音し寝る前翌朝週末に.md"
               }
             }
           },
@@ -239,6 +240,8 @@
   },
   "active": "410f95e3fc08f7a5",
   "lastOpenFiles": [
+    "Notes/Index/学習の作法.md",
+    "どうしても覚えたい物は問題形式で3回ずつ読んで録音し寝る前翌朝週末に.md",
     "Notes/Inbox/録音勉强は自分で授業動画とか作るといい.md",
     "Notes/Index/法律.md",
     "Notes/Inbox/1ページ読んだら本を閉じて思い出して見る。.md",
@@ -248,7 +251,6 @@
     "Notes/Inbox/ガムを噛みながら勉强するのも効果的.md",
     "Notes/Inbox/図はなるべく綺麗に書くのが大事。あとは試験ではたくさん書く。.md",
     "Notes/Inbox/マーク式でも記述を書く事。ただし簡易的に。.md",
-    "Notes/Index/学習の作法.md",
     "Notes/Index/英語.md",
     "Notes/Inbox/数学はまず問題文を全部しっかり読む。図などはそのあと頭の中でイメージしたあと書き起こすのが大事。.md",
     "Daily/2023-12-21.md",
@@ -264,7 +266,6 @@
     "Notes/Inbox/分からない時、質問する時はどこまでが分かってどこまでが分からないか明確に.md",
     "Notes/Inbox/問題は下書き用の紙と解答用の紙を用意して練習する.md",
     "Notes/Inbox/解説の読み方 何が必要だったか、なぜそうするのか、書いたり声に出したり、要約.md",
-    "Notes/Inbox/分からない時は自分は何が分からないのか書いてみる.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
