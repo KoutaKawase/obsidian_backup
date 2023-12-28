@@ -76,24 +76,20 @@
             }
           },
           {
-            "id": "cfade5ef060de879",
+            "id": "8b6dec660107ab23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/法律.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "410f95e3fc08f7a5",
+            "id": "42d5753bd5ea88eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "どうしても覚えたい物は問題形式で3回ずつ読んで録音し寝る前翌朝週末に.md",
+                "file": "Notes/Inbox/数学のパターンとは「なぜそうするか、どうしてそれが思いついたかどう閃くか」プロセスが大事.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,8 +142,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "どうしても覚えたい物は問題形式で3回ずつ読んで録音し寝る前翌朝週末に.md",
+                "file": "Notes/Inbox/数学のパターンとは「なぜそうするか、どうしてそれが思いついたかどう閃くか」プロセスが大事.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "どうしても覚えたい物は問題形式で3回ずつ読んで録音し寝る前翌朝週末に.md",
+                "file": "Notes/Inbox/数学のパターンとは「なぜそうするか、どうしてそれが思いついたかどう閃くか」プロセスが大事.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "どうしても覚えたい物は問題形式で3回ずつ読んで録音し寝る前翌朝週末に.md"
+                "file": "Notes/Inbox/数学のパターンとは「なぜそうするか、どうしてそれが思いついたかどう閃くか」プロセスが大事.md"
               }
             }
           },
@@ -238,13 +233,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "410f95e3fc08f7a5",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "Notes/Index/学習の作法.md",
-    "どうしても覚えたい物は問題形式で3回ずつ読んで録音し寝る前翌朝週末に.md",
-    "Notes/Inbox/録音勉强は自分で授業動画とか作るといい.md",
-    "Notes/Index/法律.md",
+    "Notes/Inbox/数学のパターンとは「なぜそうするか、どうしてそれが思いついたかどう閃くか」プロセスが大事.md",
     "Notes/Inbox/1ページ読んだら本を閉じて思い出して見る。.md",
+    "Notes/Index/法律.md",
+    "Notes/Inbox/どうしても覚えたい物は問題形式で3回ずつ読んで録音し寝る前翌朝週末に.md",
+    "Notes/Index/学習の作法.md",
+    "Notes/Inbox/録音勉强は自分で授業動画とか作るといい.md",
     "Notes/Index/数学/index.md",
     "Notes/Index/仏教/index.md",
     "Notes/Inbox/ブッダの考えの根本は「自灯明・法灯明」.md",
@@ -265,7 +261,6 @@
     "Notes/Inbox/数学の正しい復習。定義定理公式性質の説明、問題を見て想起.md",
     "Notes/Inbox/分からない時、質問する時はどこまでが分かってどこまでが分からないか明確に.md",
     "Notes/Inbox/問題は下書き用の紙と解答用の紙を用意して練習する.md",
-    "Notes/Inbox/解説の読み方 何が必要だったか、なぜそうするのか、書いたり声に出したり、要約.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
