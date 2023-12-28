@@ -81,14 +81,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "法律.md",
+                "file": "Notes/Index/法律.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "410f95e3fc08f7a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/学習の作法.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "法律.md",
+                "file": "Notes/Index/学習の作法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "法律.md",
+                "file": "Notes/Index/学習の作法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "法律.md"
+                "file": "Notes/Index/学習の作法.md"
               }
             }
           },
@@ -225,10 +237,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "cfade5ef060de879",
+  "active": "410f95e3fc08f7a5",
   "lastOpenFiles": [
+    "Notes/Inbox/録音勉强は自分で授業動画とか作るといい.md",
+    "Notes/Index/法律.md",
     "Notes/Inbox/1ページ読んだら本を閉じて思い出して見る。.md",
-    "法律.md",
     "Notes/Index/数学/index.md",
     "Notes/Index/仏教/index.md",
     "Notes/Inbox/ブッダの考えの根本は「自灯明・法灯明」.md",
@@ -252,7 +265,6 @@
     "Notes/Inbox/問題は下書き用の紙と解答用の紙を用意して練習する.md",
     "Notes/Inbox/解説の読み方 何が必要だったか、なぜそうするのか、書いたり声に出したり、要約.md",
     "Notes/Inbox/分からない時は自分は何が分からないのか書いてみる.md",
-    "Notes/Inbox/\"解ける\"とは アプローチが思い浮かぶ→論理的に計算、答案を記述->計算ミスなく出来る事.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
