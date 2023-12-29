@@ -137,7 +137,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "教科書のある章や段落、ページや覚えたい箇所を読み終えたら紙に書くか録音.md",
+                "file": "Notes/Inbox/教科書のある章や段落、ページや覚えたい箇所を読み終えたら紙に書くか録音.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "教科書のある章や段落、ページや覚えたい箇所を読み終えたら紙に書くか録音.md",
+                "file": "Notes/Inbox/教科書のある章や段落、ページや覚えたい箇所を読み終えたら紙に書くか録音.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "教科書のある章や段落、ページや覚えたい箇所を読み終えたら紙に書くか録音.md",
+                "file": "Notes/Inbox/教科書のある章や段落、ページや覚えたい箇所を読み終えたら紙に書くか録音.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "教科書のある章や段落、ページや覚えたい箇所を読み終えたら紙に書くか録音.md"
+                "file": "Notes/Inbox/教科書のある章や段落、ページや覚えたい箇所を読み終えたら紙に書くか録音.md"
               }
             }
           },
@@ -281,10 +281,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "56c624064d18e499",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
     "Notes/Index/学習段階は答えと解説をすぐ見てプロセスを学ぶ。.md",
-    "教科書のある章や段落、ページや覚えたい箇所を読み終えたら紙に書くか録音.md",
+    "Notes/Inbox/教科書のある章や段落、ページや覚えたい箇所を読み終えたら紙に書くか録音.md",
     "Notes/Inbox/クイズ化は最初は部分ごとに個数を絞る。メンタルマップを作る。.md",
     "Notes/Inbox/検索学習は同じ順序で何度もやらない.md",
     "Notes/Inbox/数学のパターンとは「なぜそうするか、どうしてそれが思いついたかどう閃くか」プロセスが大事.md",
