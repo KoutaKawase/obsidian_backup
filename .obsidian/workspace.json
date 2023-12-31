@@ -8,143 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f1d5ef5c27b3a5b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3761da4a8f4d7f74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/数学/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c4cda8bce1adbd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/途中式は面倒でも日本語で式を繋げて整理する.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66a462bbf58918a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/図はなるべく綺麗に書くのが大事。あとは試験ではたくさん書く。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9e844fc18065450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/数学/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c62405f0da36c59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/1ページ読んだら本を閉じて思い出して見る。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b6dec660107ab23",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "42d5753bd5ea88eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/数学のパターンとは「なぜそうするか、どうしてそれが思いついたかどう閃くか」プロセスが大事.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9e9ba6c2b60c807",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/検索学習は同じ順序で何度もやらない.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e33f92865701f7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/クイズ化は最初は部分ごとに個数を絞る。メンタルマップを作る。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56f0d4e6e68f3154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/学習段階は答えと解説をすぐ見てプロセスを学ぶ。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "56c624064d18e499",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/教科書のある章や段落、ページや覚えたい箇所を読み終えたら紙に書くか録音.md",
+                "file": "Notes/Index/仏教/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/教科書のある章や段落、ページや覚えたい箇所を読み終えたら紙に書くか録音.md",
+                "file": "Notes/Index/仏教/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/教科書のある章や段落、ページや覚えたい箇所を読み終えたら紙に書くか録音.md",
+                "file": "Notes/Index/仏教/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/教科書のある章や段落、ページや覚えたい箇所を読み終えたら紙に書くか録音.md"
+                "file": "Notes/Index/仏教/index.md"
               }
             }
           },
@@ -281,10 +156,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "56c624064d18e499",
   "lastOpenFiles": [
-    "Notes/Index/学習段階は答えと解説をすぐ見てプロセスを学ぶ。.md",
+    "Notes/Inbox/口は禍の元。ブッダは報恩経でこう残している.md",
+    "Notes/Index/仏教/index.md",
+    "Notes/Inbox/ブッダの考えの根本は「自灯明・法灯明」.md",
+    "Notes/Inbox/他人の過失を探し求めて、つねに腹を立てている人は煩悩の汚れが増大する.md",
     "Notes/Inbox/教科書のある章や段落、ページや覚えたい箇所を読み終えたら紙に書くか録音.md",
+    "Notes/Index/学習段階は答えと解説をすぐ見てプロセスを学ぶ。.md",
     "Notes/Inbox/クイズ化は最初は部分ごとに個数を絞る。メンタルマップを作る。.md",
     "Notes/Inbox/検索学習は同じ順序で何度もやらない.md",
     "Notes/Inbox/数学のパターンとは「なぜそうするか、どうしてそれが思いついたかどう閃くか」プロセスが大事.md",
@@ -294,8 +173,6 @@
     "Notes/Index/学習の作法.md",
     "Notes/Inbox/録音勉强は自分で授業動画とか作るといい.md",
     "Notes/Index/数学/index.md",
-    "Notes/Index/仏教/index.md",
-    "Notes/Inbox/ブッダの考えの根本は「自灯明・法灯明」.md",
     "Notes/Inbox/ガムを噛みながら勉强するのも効果的.md",
     "Notes/Inbox/図はなるべく綺麗に書くのが大事。あとは試験ではたくさん書く。.md",
     "Notes/Inbox/マーク式でも記述を書く事。ただし簡易的に。.md",
@@ -307,8 +184,6 @@
     "Notes/Inbox/応用問題はどういう基礎問題の組み合わせか、何を知っていれば解けたかを理解する.md",
     "Notes/Inbox/英語はソフトパレットと腹式発声.md",
     "Daily/2023-12-19.md",
-    "Notes/Inbox/英語の発音は母音をダラダラ伸ばして息を切らさないイメージ.md",
-    "Notes/Index/メンタルヘルス.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
