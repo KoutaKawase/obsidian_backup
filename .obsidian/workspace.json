@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6866c0269e9b9aff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/応用問題はようは何を問われてるかや複雑な条件は和文和訳してわかりやすくする.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/仏教/index.md",
+                "file": "Notes/Inbox/応用問題はようは何を問われてるかや複雑な条件は和文和訳してわかりやすくする.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/仏教/index.md",
+                "file": "Notes/Inbox/応用問題はようは何を問われてるかや複雑な条件は和文和訳してわかりやすくする.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/仏教/index.md"
+                "file": "Notes/Inbox/応用問題はようは何を問われてるかや複雑な条件は和文和訳してわかりやすくする.md"
               }
             }
           },
@@ -156,10 +169,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "56c624064d18e499",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "Notes/Inbox/口は禍の元。ブッダは報恩経でこう残している.md",
     "Notes/Index/仏教/index.md",
+    "Notes/Inbox/応用問題はようは何を問われてるかや複雑な条件は和文和訳してわかりやすくする.md",
+    "Notes/Inbox/口は禍の元。ブッダは報恩経でこう残している.md",
     "Notes/Inbox/ブッダの考えの根本は「自灯明・法灯明」.md",
     "Notes/Inbox/他人の過失を探し求めて、つねに腹を立てている人は煩悩の汚れが増大する.md",
     "Notes/Inbox/教科書のある章や段落、ページや覚えたい箇所を読み終えたら紙に書くか録音.md",
@@ -183,7 +197,6 @@
     "Notes/Inbox/途中式は面倒でも日本語で式を繋げて整理する.md",
     "Notes/Inbox/応用問題はどういう基礎問題の組み合わせか、何を知っていれば解けたかを理解する.md",
     "Notes/Inbox/英語はソフトパレットと腹式発声.md",
-    "Daily/2023-12-19.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
