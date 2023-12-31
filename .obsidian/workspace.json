@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/応用問題はようは何を問われてるかや複雑な条件は和文和訳してわかりやすくする.md",
+                "file": "Notes/Index/数学/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/応用問題はようは何を問われてるかや複雑な条件は和文和訳してわかりやすくする.md",
+                "file": "Notes/Index/数学/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/応用問題はようは何を問われてるかや複雑な条件は和文和訳してわかりやすくする.md",
+                "file": "Notes/Index/数学/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/応用問題はようは何を問われてるかや複雑な条件は和文和訳してわかりやすくする.md"
+                "file": "Notes/Index/数学/index.md"
               }
             }
           },
@@ -169,10 +169,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "6866c0269e9b9aff",
   "lastOpenFiles": [
-    "Notes/Index/仏教/index.md",
     "Notes/Inbox/応用問題はようは何を問われてるかや複雑な条件は和文和訳してわかりやすくする.md",
+    "Notes/Index/仏教/index.md",
     "Notes/Inbox/口は禍の元。ブッダは報恩経でこう残している.md",
     "Notes/Inbox/ブッダの考えの根本は「自灯明・法灯明」.md",
     "Notes/Inbox/他人の過失を探し求めて、つねに腹を立てている人は煩悩の汚れが増大する.md",
