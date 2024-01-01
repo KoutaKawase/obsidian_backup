@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b72ece72cf08f76a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/数学/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,8 +181,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6866c0269e9b9aff",
+  "active": "b72ece72cf08f76a",
   "lastOpenFiles": [
+    "入門問題精工はきっちり全問瞬殺出来るまで繰り返す事.md",
+    "Notes/Index/数学/index.md",
     "Notes/Inbox/応用問題はようは何を問われてるかや複雑な条件は和文和訳してわかりやすくする.md",
     "Notes/Index/仏教/index.md",
     "Notes/Inbox/口は禍の元。ブッダは報恩経でこう残している.md",
@@ -186,7 +200,6 @@
     "Notes/Inbox/どうしても覚えたい物は問題形式で3回ずつ読んで録音し寝る前翌朝週末に.md",
     "Notes/Index/学習の作法.md",
     "Notes/Inbox/録音勉强は自分で授業動画とか作るといい.md",
-    "Notes/Index/数学/index.md",
     "Notes/Inbox/ガムを噛みながら勉强するのも効果的.md",
     "Notes/Inbox/図はなるべく綺麗に書くのが大事。あとは試験ではたくさん書く。.md",
     "Notes/Inbox/マーク式でも記述を書く事。ただし簡易的に。.md",
@@ -196,7 +209,6 @@
     "Notes/Inbox/解法暗記は危険。プロセスの理解が大事。なぜそうするに至るか。初心者は定義定理公式の暗記をしっかり。.md",
     "Notes/Inbox/途中式は面倒でも日本語で式を繋げて整理する.md",
     "Notes/Inbox/応用問題はどういう基礎問題の組み合わせか、何を知っていれば解けたかを理解する.md",
-    "Notes/Inbox/英語はソフトパレットと腹式発声.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
