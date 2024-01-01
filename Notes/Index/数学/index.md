@@ -17,6 +17,10 @@ TABLE FROM #数学 AND #計算力
 TABLE FROM #数学 AND #参考書 
 ```
 
+## 三角関数
+```dataview
+TABLE FROM #三角関数
+```
 大事なのは手を動かす事
 
 - [小学生がたった1日で19×19までかんぺきに暗算できる本 | 小杉拓也 |本 | 通販 | Amazon](https://www.amazon.co.jp/o/ASIN/4478116563/diamondinc-22/)
