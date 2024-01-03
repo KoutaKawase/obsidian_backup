@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d9a5c47b96a5b27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-01-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/資格.md",
+                "file": "Daily/2024-01-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/資格.md",
+                "file": "Daily/2024-01-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/資格.md"
+                "file": "Daily/2024-01-03.md"
               }
             }
           },
@@ -156,8 +169,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f21116dce4e1baa5",
+  "active": "8d9a5c47b96a5b27",
   "lastOpenFiles": [
+    "Daily/2024-01-03.md",
     "Notes/Inbox/テキストや参考書は1周目に時間をかけすぎない。後戻りと完璧禁止。まずは全体像の把握。.md",
     "Notes/Index/資格.md",
     "Notes/Index/学習の作法.md",
@@ -184,7 +198,6 @@
     "Notes/Inbox/学習段階は答えと解説をすぐ見てプロセスを学ぶ。.md",
     "Notes/Inbox/クイズ化は最初は部分ごとに個数を絞る。メンタルマップを作る。.md",
     "Notes/Inbox/検索学習は同じ順序で何度もやらない.md",
-    "Notes/Inbox/数学のパターンとは「なぜそうするか、どうしてそれが思いついたかどう閃くか」プロセスが大事.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
