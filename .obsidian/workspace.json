@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56c624064d18e499",
+            "id": "26a9acf08ee263b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/仏教/index.md",
+                "file": "Notes/Inbox/測量士補はテキストやアガルートで全体を把握してとにかく過去問を完璧に.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6866c0269e9b9aff",
+            "id": "89726f62eaa1a398",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,43 +32,19 @@
             }
           },
           {
-            "id": "b553910f4c064c15",
+            "id": "f61955c4ad2ce97c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/数学/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26a9acf08ee263b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/数学/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b72ece72cf08f76a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/悪習慣は5分先延ばしと瞑想が鍵.md",
+                "file": "Notes/Index/学習の作法.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:学習法アクティブラーニング",
+                "query": "#勉強習慣",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/数学/index.md",
+                "file": "Notes/Index/学習の作法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/数学/index.md",
+                "file": "Notes/Index/学習の作法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/数学/index.md"
+                "file": "Notes/Index/学習の作法.md"
               }
             }
           },
@@ -205,13 +182,23 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "26a9acf08ee263b2",
+  "active": "e802643ddfeb5eab",
   "lastOpenFiles": [
-    "Notes/Inbox/三角関数はライトと単位円で公式を理解する.md",
-    "Notes/Index/数学/index.md",
-    "Notes/Inbox/問題集は最低７回はしたい。仕分けと解法の想起を全問出来るかが大事.md",
+    "Notes/Inbox/資格のテキストは1周目に時間をかけすぎない。後戻りと完璧禁止.md",
     "Notes/Index/学習の作法.md",
+    "簿記三級はまず1周して全体像を把握して模試をやり込む。そのあともう一回テキストに。.md",
+    "Notes/Inbox/長時間勉强において一番大事なのは休憩。瞑想 運動 癒やし 昼寝 ぼーっとする.md",
+    "Notes/Index/資格.md",
+    "Notes/Inbox/測量士補はテキストやアガルートで全体を把握してとにかく過去問を完璧に.md",
+    "Notes/Index/プログラミング/フロントエンド.md",
+    "Notes/Index/プログラミング",
+    "Notes/Index/アイデア帳.md",
+    "Notes/Index/プログラミング/React.md",
+    "Notes/Index/筋肉.md",
     "Notes/Inbox/悪習慣は5分先延ばしと瞑想が鍵.md",
+    "Notes/Index/数学/index.md",
+    "Notes/Inbox/三角関数はライトと単位円で公式を理解する.md",
+    "Notes/Inbox/問題集は最低７回はしたい。仕分けと解法の想起を全問出来るかが大事.md",
     "Notes/Index/仏教/index.md",
     "Notes/Inbox/入門問題精工はきっちり全問瞬殺出来るまで繰り返す事.md",
     "Notes/Inbox/応用問題はようは何を問われてるかや複雑な条件は和文和訳してわかりやすくする.md",
@@ -224,15 +211,6 @@
     "Notes/Inbox/検索学習は同じ順序で何度もやらない.md",
     "Notes/Inbox/数学のパターンとは「なぜそうするか、どうしてそれが思いついたかどう閃くか」プロセスが大事.md",
     "Notes/Inbox/1ページ読んだら本を閉じて思い出して見る。.md",
-    "Notes/Index/法律.md",
-    "Notes/Inbox/どうしても覚えたい物は問題形式で3回ずつ読んで録音し寝る前翌朝週末に.md",
-    "Notes/Inbox/録音勉强は自分で授業動画とか作るといい.md",
-    "Notes/Inbox/ガムを噛みながら勉强するのも効果的.md",
-    "Notes/Inbox/図はなるべく綺麗に書くのが大事。あとは試験ではたくさん書く。.md",
-    "Notes/Inbox/マーク式でも記述を書く事。ただし簡易的に。.md",
-    "Notes/Index/英語.md",
-    "Notes/Inbox/数学はまず問題文を全部しっかり読む。図などはそのあと頭の中でイメージしたあと書き起こすのが大事。.md",
-    "Daily/2023-12-21.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
@@ -241,7 +219,6 @@
     "Projects/中学数学/中2数学Web/式と計算/例題",
     "Projects/中学数学/中2数学Web/式と計算",
     "Projects/中学数学/中2数学Web",
-    "Projects/中学数学",
-    "Notes/Inbox"
+    "Projects/中学数学"
   ]
 }
