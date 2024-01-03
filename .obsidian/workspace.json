@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/テキストや参考書は1周目に時間をかけすぎない。後戻りと完璧禁止。まずは全体像の把握。.md",
+                "file": "Notes/Index/資格.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/テキストや参考書は1周目に時間をかけすぎない。後戻りと完璧禁止。まずは全体像の把握。.md",
+                "file": "Notes/Index/資格.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/テキストや参考書は1周目に時間をかけすぎない。後戻りと完璧禁止。まずは全体像の把握。.md",
+                "file": "Notes/Index/資格.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/テキストや参考書は1周目に時間をかけすぎない。後戻りと完璧禁止。まずは全体像の把握。.md"
+                "file": "Notes/Index/資格.md"
               }
             }
           },
@@ -158,13 +158,13 @@
   },
   "active": "f21116dce4e1baa5",
   "lastOpenFiles": [
+    "Notes/Inbox/テキストや参考書は1周目に時間をかけすぎない。後戻りと完璧禁止。まずは全体像の把握。.md",
+    "Notes/Index/資格.md",
     "Notes/Index/学習の作法.md",
     "Notes/Inbox/簿記三級はまず1周して全体像を把握して模試をやり込む。そのあともう一回テキストに。.md",
     "Notes/Inbox/測量士補はテキストやアガルートで全体を把握してとにかく過去問を完璧に.md",
-    "Notes/Inbox/テキストや参考書は1周目に時間をかけすぎない。後戻りと完璧禁止。まずは全体像の把握。.md",
     "Notes/Inbox/勉強中はテストの様に厳密に時間を区切る。.md",
     "Notes/Inbox/長時間勉强において一番大事なのは休憩。瞑想 運動 癒やし 昼寝 ぼーっとする.md",
-    "Notes/Index/資格.md",
     "Notes/Index/プログラミング/フロントエンド.md",
     "Notes/Index/プログラミング",
     "Notes/Index/アイデア帳.md",
