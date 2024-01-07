@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9900ac44d5c6baef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/勉強/Anki.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c7b3582cd5e37b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "カードは1対1で対応付けして作成する。複雑になる場合は複数のカードに分ける。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/勉強/Anki.md",
+                "file": "カードは1対1で対応付けして作成する。複雑になる場合は複数のカードに分ける。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/勉強/Anki.md",
+                "file": "カードは1対1で対応付けして作成する。複雑になる場合は複数のカードに分ける。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/勉強/Anki.md"
+                "file": "カードは1対1で対応付けして作成する。複雑になる場合は複数のカードに分ける。.md"
               }
             }
           },
@@ -156,13 +181,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "79adb84235768a48",
+  "active": "0c7b3582cd5e37b7",
   "lastOpenFiles": [
-    "Notes/Index/勉強/学習の作法.md",
+    "Notes/Inbox/重要度の高い事柄にある程度絞る(パレートの法則).md",
     "Notes/Index/勉強/Anki.md",
+    "カードは1対1で対応付けして作成する。複雑になる場合は複数のカードに分ける。.md",
+    "Notes/Inbox/Ankiでカード化する知識は必ず理解し腹落ちしてある程度覚えたもののみにする。.md",
+    "Notes/Index/勉強/学習の作法.md",
     "Notes/Index/勉強",
-    "Ankiは具体的なジャンル分けはサブデッキよりタグを使う。.md",
-    "Ankiのデッキは安易に細分化しない。試験用や資格用に一つのデッキ等大きく保つ.md",
+    "Notes/Inbox/Ankiは具体的なジャンル分けはサブデッキよりタグを使う。.md",
+    "Notes/Inbox/Ankiのデッキは安易に細分化しない。試験用や資格用に一つのデッキ等大きく保つ.md",
     "Notes/Index/仏教/index.md",
     "Notes/Inbox/利他行や親切に見返りを求めてはいけない。ブッダは\"貯金\"をしていると考え三輪空を忘れよと説く。.md",
     "ファインマンテクニック.md",
@@ -183,7 +211,6 @@
     "Notes/Index/アイデア帳.md",
     "Notes/Index/プログラミング/React.md",
     "Notes/Index/筋肉.md",
-    "Notes/Inbox/悪習慣は5分先延ばしと瞑想が鍵.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
