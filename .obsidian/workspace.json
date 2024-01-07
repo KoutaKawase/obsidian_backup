@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/仏教/読むべき本.md",
+                "file": "Notes/Index/学習の作法.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/仏教/読むべき本.md",
+                "file": "Notes/Index/学習の作法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/仏教/読むべき本.md",
+                "file": "Notes/Index/学習の作法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/仏教/読むべき本.md"
+                "file": "Notes/Index/学習の作法.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "02e5d0b79ed9ddcd",
   "lastOpenFiles": [
+    "Notes/Index/仏教/読むべき本.md",
     "Notes/Index/仏教/ヴィパッサナー瞑想.md",
     "Notes/Index/仏教/index.md",
     "Notes/Index/数学/index.md",
@@ -209,7 +210,6 @@
     "Notes/Inbox/口は禍の元。ブッダは報恩経でこう残している.md",
     "Notes/Inbox/ブッダの考えの根本は「自灯明・法灯明」.md",
     "Notes/Inbox/他人の過失を探し求めて、つねに腹を立てている人は煩悩の汚れが増大する.md",
-    "Notes/Inbox/教科書のある章や段落、ページや覚えたい箇所を読み終えたら紙に書くか録音.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
