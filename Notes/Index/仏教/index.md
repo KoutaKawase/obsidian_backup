@@ -4,7 +4,7 @@ tags:
 ---
 ## ブッダ
 ```dataview
-TABLE FROM #仏教 AND #ブッダ 
+TABLE FROM #ブッダ 
 ```
 
 ## 三毒
