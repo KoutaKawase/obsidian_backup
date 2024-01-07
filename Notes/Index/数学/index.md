@@ -17,6 +17,11 @@ TABLE FROM #数学 AND #計算力
 TABLE FROM #数学 AND #参考書 
 ```
 
+## 大学数学
+```dataview
+TABLE FROM #大学数学 
+```
+
 ## 三角関数
 ```dataview
 TABLE FROM #三角関数
