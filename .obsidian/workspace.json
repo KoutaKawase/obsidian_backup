@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "64439cf5810e1896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/勉強/Anki.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de00c7a7b828977c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/カードにソースをつけられそうなら参考書の該当箇所なども載せる.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9900ac44d5c6baef",
             "type": "leaf",
             "state": {
@@ -43,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/ストーリー型や語呂合わせをカードのヒントに忍ばせる.md",
+                "file": "Notes/Inbox/カードにソースをつけられそうなら参考書の該当箇所なども載せる.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/ストーリー型や語呂合わせをカードのヒントに忍ばせる.md",
+                "file": "Notes/Inbox/カードにソースをつけられそうなら参考書の該当箇所なども載せる.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/ストーリー型や語呂合わせをカードのヒントに忍ばせる.md"
+                "file": "Notes/Inbox/カードにソースをつけられそうなら参考書の該当箇所なども載せる.md"
               }
             }
           },
@@ -183,13 +208,16 @@
   "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
     "Notes/Index/勉強/Anki.md",
+    "Notes/Inbox/カードにソースをつけられそうなら参考書の該当箇所なども載せる.md",
+    "Notes/Index/数学/index.md",
+    "Notes/Inbox/カードは一つの事柄に対して複数の角度からアプローチしてテストする.md",
+    "Notes/Inbox/ストーリー型や語呂合わせをカードのヒントに忍ばせる.md",
     "Notes/Inbox/Ankiのデッキは安易に細分化しない。試験用や資格用に一つのデッキ等大きく保つ.md",
     "Notes/Inbox/重要度の高い事柄にある程度絞る(パレートの法則).md",
     "Notes/Inbox/Ankiは具体的なジャンル分けはサブデッキよりタグを使う。.md",
     "Notes/Inbox/Ankiでカード化する知識は必ず理解し腹落ちしてある程度覚えたもののみにする。.md",
     "Notes/Inbox/カードは1対1で対応付けして作成する。複雑になる場合は複数のカードに分ける。.md",
     "Notes/Inbox/カードには積極的に画像を使用する(参考書の図など).md",
-    "Notes/Inbox/ストーリー型や語呂合わせをカードのヒントに忍ばせる.md",
     "Notes/Index/勉強/学習の作法.md",
     "Notes/Index/勉強",
     "Notes/Index/仏教/index.md",
@@ -197,7 +225,6 @@
     "ファインマンテクニック.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Index/仏教/ヴィパッサナー瞑想.md",
-    "Notes/Index/数学/index.md",
     "Notes/Inbox/大学数学は高校教科書レベルをしっかりで十分。ただし微積と計算力だけはしっかりやり込む。.md",
     "Daily/2024-01-07.md",
     "Notes/Index/資格.md",
@@ -207,9 +234,7 @@
     "Notes/Inbox/測量士補はテキストやアガルートで全体を把握してとにかく過去問を完璧に.md",
     "Notes/Inbox/勉強中はテストの様に厳密に時間を区切る。.md",
     "Notes/Inbox/長時間勉强において一番大事なのは休憩。瞑想 運動 癒やし 昼寝 ぼーっとする.md",
-    "Notes/Index/プログラミング/フロントエンド.md",
     "Notes/Index/プログラミング",
-    "Notes/Index/アイデア帳.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
