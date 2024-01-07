@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-03.md",
+                "file": "Notes/Index/数学/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-03.md",
+                "file": "Notes/Index/数学/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-03.md",
+                "file": "Notes/Index/数学/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-03.md"
+                "file": "Notes/Index/数学/index.md"
               }
             }
           },
@@ -171,10 +171,13 @@
   },
   "active": "8d9a5c47b96a5b27",
   "lastOpenFiles": [
-    "Daily/2024-01-03.md",
-    "Notes/Inbox/テキストや参考書は1周目に時間をかけすぎない。後戻りと完璧禁止。まずは全体像の把握。.md",
+    "Daily/2024-01-07.md",
+    "Notes/Index/数学/index.md",
+    "Notes/Index/仏教/index.md",
     "Notes/Index/資格.md",
     "Notes/Index/学習の作法.md",
+    "Daily/2024-01-03.md",
+    "Notes/Inbox/テキストや参考書は1周目に時間をかけすぎない。後戻りと完璧禁止。まずは全体像の把握。.md",
     "Notes/Inbox/簿記三級はまず1周して全体像を把握して模試をやり込む。そのあともう一回テキストに。.md",
     "Notes/Inbox/測量士補はテキストやアガルートで全体を把握してとにかく過去問を完璧に.md",
     "Notes/Inbox/勉強中はテストの様に厳密に時間を区切る。.md",
@@ -185,10 +188,8 @@
     "Notes/Index/プログラミング/React.md",
     "Notes/Index/筋肉.md",
     "Notes/Inbox/悪習慣は5分先延ばしと瞑想が鍵.md",
-    "Notes/Index/数学/index.md",
     "Notes/Inbox/三角関数はライトと単位円で公式を理解する.md",
     "Notes/Inbox/問題集は最低７回はしたい。仕分けと解法の想起を全問出来るかが大事.md",
-    "Notes/Index/仏教/index.md",
     "Notes/Inbox/入門問題精工はきっちり全問瞬殺出来るまで繰り返す事.md",
     "Notes/Inbox/応用問題はようは何を問われてるかや複雑な条件は和文和訳してわかりやすくする.md",
     "Notes/Inbox/口は禍の元。ブッダは報恩経でこう残している.md",
@@ -197,7 +198,6 @@
     "Notes/Inbox/教科書のある章や段落、ページや覚えたい箇所を読み終えたら紙に書くか録音.md",
     "Notes/Inbox/学習段階は答えと解説をすぐ見てプロセスを学ぶ。.md",
     "Notes/Inbox/クイズ化は最初は部分ごとに個数を絞る。メンタルマップを作る。.md",
-    "Notes/Inbox/検索学習は同じ順序で何度もやらない.md",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
     "Notes/Index/仏教",
