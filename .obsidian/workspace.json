@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "220404bf4422d7c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/メンタルヘルス.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9900ac44d5c6baef",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -277,10 +289,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d7c9e5a03690a2fe",
+  "active": "220404bf4422d7c8",
   "lastOpenFiles": [
-    "Notes/Inbox/16時間断食とバルクアップは向かない。懸垂とかHIITぐらいで留めておく。.md",
+    "Notes/Inbox/HIITは苦しいところまで追い込まないとエンドルフィンは出ない.md",
     "Notes/Index/メンタルヘルス.md",
+    "Notes/Inbox/16時間断食とバルクアップは向かない。懸垂とかHIITぐらいで留めておく。.md",
     "Notes/Inbox/16時間断食は毎日でなくても効果はある。プロテインを17時ぐらいに取ってトレの日もOK.md",
     "Notes/Inbox/0か100かで考えるのではなく、出来る事から始めて続ける事。散歩なら朝夜こだわらずまず５分からとか。.md",
     "Notes/Index/勉強/学習の作法.md",
@@ -305,7 +318,6 @@
     "ファインマンテクニック.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Index/仏教/ヴィパッサナー瞑想.md",
-    "Notes/Inbox/大学数学は高校教科書レベルをしっかりで十分。ただし微積と計算力だけはしっかりやり込む。.md",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
