@@ -4,155 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0f64f0cc033e4265",
+        "id": "c8a74749efea59bd",
         "type": "tabs",
         "children": [
           {
-            "id": "79adb84235768a48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/ストーリー型や語呂合わせをカードのヒントに忍ばせる.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64439cf5810e1896",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/勉強/Anki.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de00c7a7b828977c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/カードにソースをつけられそうなら参考書の該当箇所なども載せる.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc8e6e3d9a6b15ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/カードは恐れず編集と削除を活用する.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03bc60ec2152dec4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/勉強/Anki.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b4b7aada4072245",
+            "id": "1ec45785b0660f87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/Index/メンタルヘルス.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1958a491ecaf791c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5eeddb79a6c2a4bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7c9e5a03690a2fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "220404bf4422d7c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9900ac44d5c6baef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/カードは1対1で対応付けして作成する。複雑になる場合は複数のカードに分ける。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c7b3582cd5e37b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/Ankiでカード化する知識は必ず理解し腹落ちしてある程度覚えたもののみにする。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -289,10 +156,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "220404bf4422d7c8",
+  "active": "1ec45785b0660f87",
   "lastOpenFiles": [
-    "Notes/Inbox/HIITは苦しいところまで追い込まないとエンドルフィンは出ない.md",
+    "Notes/Inbox/ノルウェー式まではまずタバタを腕立てありで完遂できるように。そのあとなんちゃってノルウェーにつなげる。.md",
     "Notes/Index/メンタルヘルス.md",
+    "Notes/Inbox/HIITは苦しいところまで追い込まないとエンドルフィンは出ない.md",
+    "Notes/Inbox/Ankiでカード化する知識は必ず理解し腹落ちしてある程度覚えたもののみにする。.md",
+    "Notes/Inbox/カードは1対1で対応付けして作成する。複雑になる場合は複数のカードに分ける。.md",
     "Notes/Inbox/16時間断食とバルクアップは向かない。懸垂とかHIITぐらいで留めておく。.md",
     "Notes/Inbox/16時間断食は毎日でなくても効果はある。プロテインを17時ぐらいに取ってトレの日もOK.md",
     "Notes/Inbox/0か100かで考えるのではなく、出来る事から始めて続ける事。散歩なら朝夜こだわらずまず５分からとか。.md",
@@ -309,15 +179,12 @@
     "Notes/Inbox/Ankiのデッキは安易に細分化しない。試験用や資格用に一つのデッキ等大きく保つ.md",
     "Notes/Inbox/重要度の高い事柄にある程度絞る(パレートの法則).md",
     "Notes/Inbox/Ankiは具体的なジャンル分けはサブデッキよりタグを使う。.md",
-    "Notes/Inbox/Ankiでカード化する知識は必ず理解し腹落ちしてある程度覚えたもののみにする。.md",
-    "Notes/Inbox/カードは1対1で対応付けして作成する。複雑になる場合は複数のカードに分ける。.md",
     "Notes/Inbox/カードには積極的に画像を使用する(参考書の図など).md",
     "Notes/Index/勉強",
     "Notes/Index/仏教/index.md",
     "Notes/Inbox/利他行や親切に見返りを求めてはいけない。ブッダは\"貯金\"をしていると考え三輪空を忘れよと説く。.md",
     "ファインマンテクニック.md",
     "Notes/Index/仏教/読むべき本.md",
-    "Notes/Index/仏教/ヴィパッサナー瞑想.md",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
