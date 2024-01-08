@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "インターリーブは積極的に使う。学ぶジャンルを細分化して振り分ける。.md",
+                "file": "Notes/Index/勉強/学習の作法.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "インターリーブは積極的に使う。学ぶジャンルを細分化して振り分ける。.md",
+                "file": "Notes/Index/勉強/学習の作法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "インターリーブは積極的に使う。学ぶジャンルを細分化して振り分ける。.md",
+                "file": "Notes/Index/勉強/学習の作法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "インターリーブは積極的に使う。学ぶジャンルを細分化して振り分ける。.md"
+                "file": "Notes/Index/勉強/学習の作法.md"
               }
             }
           },
@@ -243,8 +243,9 @@
   },
   "active": "6b4b7aada4072245",
   "lastOpenFiles": [
+    "Notes/Inbox/インターリーブは積極的に使う。学ぶジャンルを細分化して振り分ける。.md",
+    "無題のファイル.md",
     "Notes/Index/勉強/Anki.md",
-    "インターリーブは積極的に使う。学ぶジャンルを細分化して振り分ける。.md",
     "Notes/Inbox/新しいカードの追加のみ閾値をつける。復習は上限をなくす。.md",
     "Notes/Inbox/カードは恐れず編集と削除を活用する.md",
     "Notes/Inbox/カードにソースをつけられそうなら参考書の該当箇所なども載せる.md",
@@ -269,7 +270,6 @@
     "Notes/Index/資格.md",
     "Daily/2024-01-03.md",
     "Notes/Inbox/テキストや参考書は1周目に時間をかけすぎない。後戻りと完璧禁止。まずは全体像の把握。.md",
-    "Notes/Inbox/簿記三級はまず1周して全体像を把握して模試をやり込む。そのあともう一回テキストに。.md",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
     "Notes/Index/数学",
