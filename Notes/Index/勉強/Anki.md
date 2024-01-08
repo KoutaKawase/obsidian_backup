@@ -12,8 +12,4 @@ TABLE FROm #Anki AND #カード
 ```dataview
 TABLE FROM #Anki AND #デッキ 
 ```
-### Anki Best Practice
 
-```dataview
-TABLE FROM #Anki 
-```
