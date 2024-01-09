@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "複雑なプロセスをカードにする場合は必ず流れを理解してからまとめてカードにする.md",
+                "file": "Notes/Inbox/複雑なプロセスをカードにする場合は必ず流れを理解してからまとめてカードにする.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d58e6ff366a4645f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/カードは10秒で終えられる粒度を目指す。具体的な質問 答え 補足.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "複雑なプロセスをカードにする場合は必ず流れを理解してからまとめてカードにする.md",
+                "file": "Notes/Inbox/カードは10秒で終えられる粒度を目指す。具体的な質問 答え 補足.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "複雑なプロセスをカードにする場合は必ず流れを理解してからまとめてカードにする.md",
+                "file": "Notes/Inbox/カードは10秒で終えられる粒度を目指す。具体的な質問 答え 補足.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "複雑なプロセスをカードにする場合は必ず流れを理解してからまとめてカードにする.md"
+                "file": "Notes/Inbox/カードは10秒で終えられる粒度を目指す。具体的な質問 答え 補足.md"
               }
             }
           },
@@ -181,10 +193,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "67d6c8f85c573da3",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
+    "Notes/Inbox/複雑なプロセスをカードにする場合は必ず流れを理解してからまとめてカードにする.md",
+    "Notes/Inbox/カードは10秒で終えられる粒度を目指す。具体的な質問 答え 補足.md",
     "Notes/Inbox/複雑な情報は必ず全体の情報をしっかり理解してからカード化する。太字の単語ごとにカードを作らない。.md",
-    "複雑なプロセスをカードにする場合は必ず流れを理解してからまとめてカードにする.md",
     "Notes/Inbox/カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加。より広い文脈で使う。.md",
     "Notes/Index/勉強/Anki.md",
     "Notes/Inbox/カード作りのアンチパターン。無質問 長文 リスト 選択式.md",
@@ -208,7 +221,6 @@
     "Notes/Inbox/Ankiでカード化する知識は必ず理解し腹落ちしてある程度覚えたもののみにする。.md",
     "Notes/Inbox/カードは1対1で対応付けして作成する。複雑になる場合は複数のカードに分ける。.md",
     "Notes/Inbox/16時間断食とバルクアップは向かない。懸垂とかHIITぐらいで留めておく。.md",
-    "Notes/Inbox/16時間断食は毎日でなくても効果はある。プロテインを17時ぐらいに取ってトレの日もOK.md",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
