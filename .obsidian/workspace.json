@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "18545cdcdfa78efe",
+        "id": "1c75d4d02465ef61",
         "type": "tabs",
         "children": [
           {
-            "id": "f41f516c01f971dd",
+            "id": "69a7fa9fac68d74a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/数学/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "066e84c7b118b61d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/仏教/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca4f92a53ee66725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/カード内容をは小さく分割する。運動法則の例.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "870e53c42b704d63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/カード作成時は既存の知識との関連付けをすることで質の高いカードが出来る.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c13e6048adcca261",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,14 +148,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c13e6048adcca261",
+  "active": "69a7fa9fac68d74a",
   "lastOpenFiles": [
+    "Notes/Inbox/カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加.md",
+    "Notes/Index/勉強/Anki.md",
+    "Notes/Inbox/カードには情報のソース(参考書の該当箇所のスクショ等)とタグを貼ると有効.md",
     "Notes/Inbox/カード作成時は既存の知識との関連付けをすることで質の高いカードが出来る.md",
-    "カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加.md",
     "Notes/Inbox/カード内容をは小さく分割する。運動法則の例.md",
     "Notes/Index/仏教/index.md",
     "Notes/Index/仏教/ヴィパッサナー瞑想.md",
-    "Notes/Index/勉強/Anki.md",
     "Notes/Inbox/可能な限り最小限のデッキを使用する。ただし試験や資格単位で分けるのもあり.md",
     "Notes/Index/数学/index.md",
     "Notes/Index/勉強/学習の作法.md",
@@ -232,7 +176,6 @@
     "Notes/Inbox/0か100かで考えるのではなく、出来る事から始めて続ける事。散歩なら朝夜こだわらずまず５分からとか。.md",
     "Notes/Inbox/インターリーブは積極的に使う。学ぶジャンルを細分化して振り分ける。.md",
     "無題のファイル.md",
-    "Notes/Inbox/新しいカードの追加のみ閾値をつける。復習は上限をなくす。.md",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
