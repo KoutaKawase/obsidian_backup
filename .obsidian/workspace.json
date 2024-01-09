@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "870e53c42b704d63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/カード作成時は既存の知識との関連付けをすることで質の高いカードが出来る.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c13e6048adcca261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/カード内容をは小さく分割する。運動法則の例.md",
+                "file": "カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/カード内容をは小さく分割する。運動法則の例.md",
+                "file": "カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/カード内容をは小さく分割する。運動法則の例.md"
+                "file": "カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加.md"
               }
             }
           },
@@ -181,10 +205,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "c13e6048adcca261",
   "lastOpenFiles": [
-    "Notes/Index/仏教/index.md",
+    "Notes/Inbox/カード作成時は既存の知識との関連付けをすることで質の高いカードが出来る.md",
+    "カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加.md",
     "Notes/Inbox/カード内容をは小さく分割する。運動法則の例.md",
+    "Notes/Index/仏教/index.md",
     "Notes/Index/仏教/ヴィパッサナー瞑想.md",
     "Notes/Index/勉強/Anki.md",
     "Notes/Inbox/可能な限り最小限のデッキを使用する。ただし試験や資格単位で分けるのもあり.md",
@@ -207,8 +233,6 @@
     "Notes/Inbox/インターリーブは積極的に使う。学ぶジャンルを細分化して振り分ける。.md",
     "無題のファイル.md",
     "Notes/Inbox/新しいカードの追加のみ閾値をつける。復習は上限をなくす。.md",
-    "Notes/Inbox/カードは恐れず編集と削除を活用する.md",
-    "Notes/Inbox/カードにソースをつけられそうなら参考書の該当箇所なども載せる.md",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
