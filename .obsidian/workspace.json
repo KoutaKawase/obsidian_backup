@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c8a74749efea59bd",
+        "id": "18545cdcdfa78efe",
         "type": "tabs",
         "children": [
           {
-            "id": "1ec45785b0660f87",
+            "id": "f41f516c01f971dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e68b96424d0c1db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/カードは複数の方法で質問したりするのもあり.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c6c761b9419913d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/勉強/Anki.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1341eee930b14f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/勉強/Anki.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f3fdc514db955f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/カードの９割はBasicでいい。ほんの少しだけclozedを使う。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdf645c45bf2d3ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/例えば本を一冊読んで何でもかんでもカード化は避ける。長期的な目標にかなうものと数を絞る。.md",
+                "file": "人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/例えば本を一冊読んで何でもかんでもカード化は避ける。長期的な目標にかなうものと数を絞る。.md",
+                "file": "人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/例えば本を一冊読んで何でもかんでもカード化は避ける。長期的な目標にかなうものと数を絞る。.md",
+                "file": "人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/例えば本を一冊読んで何でもかんでもカード化は避ける。長期的な目標にかなうものと数を絞る。.md"
+                "file": "人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md"
               }
             }
           },
@@ -217,15 +156,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "f41f516c01f971dd",
   "lastOpenFiles": [
-    "Notes/Inbox/カードの９割はBasicでいい。ほんの少しだけclozedを使う。.md",
+    "Notes/Index/勉強/学習の作法.md",
+    "人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md",
+    "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/例えば本を一冊読んで何でもかんでもカード化は避ける。長期的な目標にかなうものと数を絞る。.md",
+    "Notes/Inbox/カードの９割はBasicでいい。ほんの少しだけclozedを使う。.md",
     "Notes/Index/勉強/Anki.md",
     "Notes/Inbox/デッキは一つのマスターデッキで管理し復習を一括でする.md",
     "Notes/Inbox/カードはなるべく大きい単位のデッキで保持して細かいジャンル分けはタグで管理する.md",
     "Notes/Inbox/カードは複数の方法で質問したりするのもあり.md",
-    "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/ノルウェー式まではまずタバタを腕立てありで完遂できるように。そのあとなんちゃってノルウェーにつなげる。.md",
     "Notes/Inbox/HIITは苦しいところまで追い込まないとエンドルフィンは出ない.md",
     "Notes/Inbox/Ankiでカード化する知識は必ず理解し腹落ちしてある程度覚えたもののみにする。.md",
@@ -233,7 +174,6 @@
     "Notes/Inbox/16時間断食とバルクアップは向かない。懸垂とかHIITぐらいで留めておく。.md",
     "Notes/Inbox/16時間断食は毎日でなくても効果はある。プロテインを17時ぐらいに取ってトレの日もOK.md",
     "Notes/Inbox/0か100かで考えるのではなく、出来る事から始めて続ける事。散歩なら朝夜こだわらずまず５分からとか。.md",
-    "Notes/Index/勉強/学習の作法.md",
     "Notes/Inbox/インターリーブは積極的に使う。学ぶジャンルを細分化して振り分ける。.md",
     "無題のファイル.md",
     "Notes/Inbox/新しいカードの追加のみ閾値をつける。復習は上限をなくす。.md",
@@ -244,7 +184,6 @@
     "Notes/Inbox/ストーリー型や語呂合わせをカードのヒントに忍ばせる.md",
     "Notes/Inbox/Ankiのデッキは安易に細分化しない。試験用や資格用に一つのデッキ等大きく保つ.md",
     "Notes/Inbox/重要度の高い事柄にある程度絞る(パレートの法則).md",
-    "Notes/Inbox/Ankiは具体的なジャンル分けはサブデッキよりタグを使う。.md",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
