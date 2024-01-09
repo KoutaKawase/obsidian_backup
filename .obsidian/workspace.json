@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md",
+                "file": "Notes/Index/数学/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "066e84c7b118b61d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "可能な限り最小限のデッキを使用する。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md",
+                "file": "可能な限り最小限のデッキを使用する。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md",
+                "file": "可能な限り最小限のデッキを使用する。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md"
+                "file": "可能な限り最小限のデッキを使用する。.md"
               }
             }
           },
@@ -156,11 +169,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f41f516c01f971dd",
+  "active": "066e84c7b118b61d",
   "lastOpenFiles": [
+    "Notes/Index/数学/index.md",
+    "可能な限り最小限のデッキを使用する。.md",
     "Notes/Index/勉強/学習の作法.md",
-    "人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md",
     "Notes/Index/メンタルヘルス.md",
+    "Notes/Inbox/人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md",
     "Notes/Inbox/例えば本を一冊読んで何でもかんでもカード化は避ける。長期的な目標にかなうものと数を絞る。.md",
     "Notes/Inbox/カードの９割はBasicでいい。ほんの少しだけclozedを使う。.md",
     "Notes/Index/勉強/Anki.md",
@@ -179,11 +194,9 @@
     "Notes/Inbox/新しいカードの追加のみ閾値をつける。復習は上限をなくす。.md",
     "Notes/Inbox/カードは恐れず編集と削除を活用する.md",
     "Notes/Inbox/カードにソースをつけられそうなら参考書の該当箇所なども載せる.md",
-    "Notes/Index/数学/index.md",
     "Notes/Inbox/カードは一つの事柄に対して複数の角度からアプローチしてテストする.md",
     "Notes/Inbox/ストーリー型や語呂合わせをカードのヒントに忍ばせる.md",
     "Notes/Inbox/Ankiのデッキは安易に細分化しない。試験用や資格用に一つのデッキ等大きく保つ.md",
-    "Notes/Inbox/重要度の高い事柄にある程度絞る(パレートの法則).md",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
