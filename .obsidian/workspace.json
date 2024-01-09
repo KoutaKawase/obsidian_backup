@@ -11,8 +11,12 @@
             "id": "69a7fa9fac68d74a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加。より広い文脈で使う。.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#勉強習慣",
+                "query": "文脈",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Inbox/カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加。より広い文脈で使う。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Inbox/カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加。より広い文脈で使う。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Inbox/カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加。より広い文脈で使う。.md"
+              }
             }
           },
           {
@@ -150,8 +159,9 @@
   },
   "active": "69a7fa9fac68d74a",
   "lastOpenFiles": [
-    "Notes/Inbox/カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加.md",
     "Notes/Index/勉強/Anki.md",
+    "Notes/Inbox/カード作りのアンチパターン。無質問 長文 リスト 選択式.md",
+    "Notes/Inbox/カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加。より広い文脈で使う。.md",
     "Notes/Inbox/カードには情報のソース(参考書の該当箇所のスクショ等)とタグを貼ると有効.md",
     "Notes/Inbox/カード作成時は既存の知識との関連付けをすることで質の高いカードが出来る.md",
     "Notes/Inbox/カード内容をは小さく分割する。運動法則の例.md",
@@ -175,7 +185,6 @@
     "Notes/Inbox/16時間断食は毎日でなくても効果はある。プロテインを17時ぐらいに取ってトレの日もOK.md",
     "Notes/Inbox/0か100かで考えるのではなく、出来る事から始めて続ける事。散歩なら朝夜こだわらずまず５分からとか。.md",
     "Notes/Inbox/インターリーブは積極的に使う。学ぶジャンルを細分化して振り分ける。.md",
-    "無題のファイル.md",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
