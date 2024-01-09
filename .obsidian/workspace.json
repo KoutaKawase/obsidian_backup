@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca4f92a53ee66725",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/カード内容をは小さく分割する。運動法則の例.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/仏教/index.md",
+                "file": "Notes/Inbox/カード内容をは小さく分割する。運動法則の例.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/仏教/index.md",
+                "file": "Notes/Inbox/カード内容をは小さく分割する。運動法則の例.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/仏教/index.md"
+                "file": "Notes/Inbox/カード内容をは小さく分割する。運動法則の例.md"
               }
             }
           },
@@ -169,8 +181,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "066e84c7b118b61d",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
+    "Notes/Index/仏教/index.md",
+    "Notes/Inbox/カード内容をは小さく分割する。運動法則の例.md",
     "Notes/Index/仏教/ヴィパッサナー瞑想.md",
     "Notes/Index/勉強/Anki.md",
     "Notes/Inbox/可能な限り最小限のデッキを使用する。ただし試験や資格単位で分けるのもあり.md",
@@ -195,8 +209,6 @@
     "Notes/Inbox/新しいカードの追加のみ閾値をつける。復習は上限をなくす。.md",
     "Notes/Inbox/カードは恐れず編集と削除を活用する.md",
     "Notes/Inbox/カードにソースをつけられそうなら参考書の該当箇所なども載せる.md",
-    "Notes/Inbox/カードは一つの事柄に対して複数の角度からアプローチしてテストする.md",
-    "Notes/Inbox/ストーリー型や語呂合わせをカードのヒントに忍ばせる.md",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
