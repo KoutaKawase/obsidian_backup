@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "可能な限り最小限のデッキを使用する。.md",
+                "file": "Notes/Index/仏教/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "可能な限り最小限のデッキを使用する。.md",
+                "file": "Notes/Index/仏教/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "可能な限り最小限のデッキを使用する。.md",
+                "file": "Notes/Index/仏教/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "可能な限り最小限のデッキを使用する。.md"
+                "file": "Notes/Index/仏教/index.md"
               }
             }
           },
@@ -171,14 +171,15 @@
   },
   "active": "066e84c7b118b61d",
   "lastOpenFiles": [
+    "Notes/Index/仏教/ヴィパッサナー瞑想.md",
+    "Notes/Index/勉強/Anki.md",
+    "Notes/Inbox/可能な限り最小限のデッキを使用する。ただし試験や資格単位で分けるのもあり.md",
     "Notes/Index/数学/index.md",
-    "可能な限り最小限のデッキを使用する。.md",
     "Notes/Index/勉強/学習の作法.md",
     "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md",
     "Notes/Inbox/例えば本を一冊読んで何でもかんでもカード化は避ける。長期的な目標にかなうものと数を絞る。.md",
     "Notes/Inbox/カードの９割はBasicでいい。ほんの少しだけclozedを使う。.md",
-    "Notes/Index/勉強/Anki.md",
     "Notes/Inbox/デッキは一つのマスターデッキで管理し復習を一括でする.md",
     "Notes/Inbox/カードはなるべく大きい単位のデッキで保持して細かいジャンル分けはタグで管理する.md",
     "Notes/Inbox/カードは複数の方法で質問したりするのもあり.md",
@@ -196,7 +197,6 @@
     "Notes/Inbox/カードにソースをつけられそうなら参考書の該当箇所なども載せる.md",
     "Notes/Inbox/カードは一つの事柄に対して複数の角度からアプローチしてテストする.md",
     "Notes/Inbox/ストーリー型や語呂合わせをカードのヒントに忍ばせる.md",
-    "Notes/Inbox/Ankiのデッキは安易に細分化しない。試験用や資格用に一つのデッキ等大きく保つ.md",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",

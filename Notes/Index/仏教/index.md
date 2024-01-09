@@ -17,6 +17,9 @@ TABLE FROM #仏教 AND #三毒
 TABLE FROM #瞑想 
 ```
 ## [[ヴィパッサナー瞑想]] 
+```dataview
+TABLE FROM #ヴィパッサナー瞑想 
+```
 
 ## etc
 [[読むべき本]]
