@@ -61,14 +61,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/仏教/index.md",
+                "file": "Notes/Inbox/成功するまでやるやつが成功する.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "465dd1c429f41b59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/経験は自分で作れる。公園で練習したり修行中は何でも吸収すべき.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b65662b999ef02aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/修行中はただの雇われじゃない。休みたいなんて思わず死ぬ気で実力をつけろ。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/仏教/index.md",
+                "file": "Notes/Inbox/修行中はただの雇われじゃない。休みたいなんて思わず死ぬ気で実力をつけろ。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/仏教/index.md",
+                "file": "Notes/Inbox/修行中はただの雇われじゃない。休みたいなんて思わず死ぬ気で実力をつけろ。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/仏教/index.md"
+                "file": "Notes/Inbox/修行中はただの雇われじゃない。休みたいなんて思わず死ぬ気で実力をつけろ。.md"
               }
             }
           },
@@ -205,10 +229,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "56cd463d259f9818",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "Notes/Inbox/三毒・貪瞋痴(とんじんち).md",
+    "Notes/Inbox/経験は自分で作れる。公園で練習したり修行中は何でも吸収すべき.md",
+    "Notes/Inbox/修行中はただの雇われじゃない。休みたいなんて思わず死ぬ気で実力をつけろ。.md",
+    "Notes/Inbox/成功するまでやるやつが成功する.md",
     "Notes/Index/仏教/index.md",
+    "Notes/Inbox/三毒・貪瞋痴(とんじんち).md",
     "Notes/Inbox/妄想する莫（なか）れ。苦しみは価値判断から.md",
     "Notes/Index/資格.md",
     "Notes/Inbox/資格にお金を払っているのではなくあなたにお金を払われているという意識が大事。.md",
@@ -230,9 +257,6 @@
     "Notes/Inbox/例えば本を一冊読んで何でもかんでもカード化は避ける。長期的な目標にかなうものと数を絞る。.md",
     "Notes/Inbox/カードの９割はBasicでいい。ほんの少しだけclozedを使う。.md",
     "Notes/Inbox/デッキは一つのマスターデッキで管理し復習を一括でする.md",
-    "Notes/Inbox/カードはなるべく大きい単位のデッキで保持して細かいジャンル分けはタグで管理する.md",
-    "Notes/Inbox/カードは複数の方法で質問したりするのもあり.md",
-    "Notes/Inbox/ノルウェー式まではまずタバタを腕立てありで完遂できるように。そのあとなんちゃってノルウェーにつなげる。.md",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
