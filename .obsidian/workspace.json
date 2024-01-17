@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbcfae56c81e7355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/電験はとにかくまずは計算力.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "313886eafe441c7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/資格にお金を払っているのではなくあなたにお金を払われているという意識が大事。.md",
+                "file": "無題のファイル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/資格にお金を払っているのではなくあなたにお金を払われているという意識が大事。.md",
+                "file": "無題のファイル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/資格にお金を払っているのではなくあなたにお金を払われているという意識が大事。.md"
+                "file": "無題のファイル.md"
               }
             }
           },
@@ -217,9 +241,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b65662b999ef02aa",
+  "active": "313886eafe441c7a",
   "lastOpenFiles": [
+    "Notes/Inbox/電験はとにかくまずは計算力.md",
+    "無題のファイル.md",
     "Notes/Index/資格.md",
+    "Notes/Inbox/資格にお金を払っているのではなくあなたにお金を払われているという意識が大事。.md",
     "Notes/Inbox/修行中はただの雇われじゃない。休みたいなんて思わず死ぬ気で実力をつけろ。.md",
     "Notes/Inbox/経験は自分で作れる。公園で練習したり修行中は何でも吸収すべき.md",
     "Notes/Inbox/カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加。より広い文脈で使う。.md",
@@ -227,7 +254,6 @@
     "Notes/Index/仏教/index.md",
     "Notes/Inbox/三毒・貪瞋痴(とんじんち).md",
     "Notes/Inbox/妄想する莫（なか）れ。苦しみは価値判断から.md",
-    "Notes/Inbox/資格にお金を払っているのではなくあなたにお金を払われているという意識が大事。.md",
     "Notes/Inbox/複雑なプロセスをカードにする場合は必ず流れを理解してからまとめてカードにする.md",
     "Notes/Inbox/カードは10秒で終えられる粒度を目指す。具体的な質問 答え 補足.md",
     "Notes/Inbox/複雑な情報は必ず全体の情報をしっかり理解してからカード化する。太字の単語ごとにカードを作らない。.md",
@@ -243,8 +269,6 @@
     "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md",
     "Notes/Inbox/例えば本を一冊読んで何でもかんでもカード化は避ける。長期的な目標にかなうものと数を絞る。.md",
-    "Notes/Inbox/カードの９割はBasicでいい。ほんの少しだけclozedを使う。.md",
-    "Notes/Inbox/デッキは一つのマスターデッキで管理し復習を一括でする.md",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
