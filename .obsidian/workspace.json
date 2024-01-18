@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欲を出さず執着しないで今あるもの眼の前のものを有り難く受け取る。足りない物ばかりに目を向けない。.md",
+                "file": "Notes/Index/メンタルヘルス.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加。より広い文脈で使う。.md",
+                "file": "Notes/Index/メンタルヘルス.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加。より広い文脈で使う。.md",
+                "file": "Notes/Index/メンタルヘルス.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加。より広い文脈で使う。.md"
+                "file": "Notes/Index/メンタルヘルス.md"
               }
             }
           },
@@ -242,8 +241,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e802643ddfeb5eab",
+  "active": "313886eafe441c7a",
   "lastOpenFiles": [
+    "Notes/Inbox/カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加。より広い文脈で使う。.md",
     "Notes/Index/仏教/index.md",
     "欲を出さず執着しないで今あるもの眼の前のものを有り難く受け取る。足りない物ばかりに目を向けない。.md",
     "Notes/Inbox/電験はとにかくまずは計算力.md",
@@ -251,7 +251,6 @@
     "Notes/Inbox/資格にお金を払っているのではなくあなたにお金を払われているという意識が大事。.md",
     "Notes/Inbox/修行中はただの雇われじゃない。休みたいなんて思わず死ぬ気で実力をつけろ。.md",
     "Notes/Inbox/経験は自分で作れる。公園で練習したり修行中は何でも吸収すべき.md",
-    "Notes/Inbox/カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加。より広い文脈で使う。.md",
     "Notes/Inbox/成功するまでやるやつが成功する.md",
     "Notes/Inbox/三毒・貪瞋痴(とんじんち).md",
     "Notes/Inbox/妄想する莫（なか）れ。苦しみは価値判断から.md",
