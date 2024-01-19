@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8061744b0d65b311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英語は結論→理由と論理的に話すことがとても大事.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
+                "file": "英語は結論→理由と論理的に話すことがとても大事.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
+                "file": "英語は結論→理由と論理的に話すことがとても大事.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/メンタルヘルス.md"
+                "file": "英語は結論→理由と論理的に話すことがとても大事.md"
               }
             }
           },
@@ -241,8 +253,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "313886eafe441c7a",
+  "active": "8061744b0d65b311",
   "lastOpenFiles": [
+    "Notes/Index/メンタルヘルス.md",
+    "英語は結論→理由と論理的に話すことがとても大事.md",
     "Notes/Inbox/カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加。より広い文脈で使う。.md",
     "Notes/Index/仏教/index.md",
     "欲を出さず執着しないで今あるもの眼の前のものを有り難く受け取る。足りない物ばかりに目を向けない。.md",
@@ -266,9 +280,7 @@
     "Notes/Inbox/可能な限り最小限のデッキを使用する。ただし試験や資格単位で分けるのもあり.md",
     "Notes/Index/数学/index.md",
     "Notes/Index/勉強/学習の作法.md",
-    "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md",
-    "Notes/Inbox/例えば本を一冊読んで何でもかんでもカード化は避ける。長期的な目標にかなうものと数を絞る。.md",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
