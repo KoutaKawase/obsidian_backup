@@ -8,127 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69a7fa9fac68d74a",
+            "id": "d7e13ea400fdcf3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加。より広い文脈で使う。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e0e45805cbdeaf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/複雑な情報は必ず全体の情報をしっかり理解してからカード化する。太字の単語ごとにカードを作らない。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67d6c8f85c573da3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/複雑なプロセスをカードにする場合は必ず流れを理解してからまとめてカードにする.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d58e6ff366a4645f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/資格.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56cd463d259f9818",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/成功するまでやるやつが成功する.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b65662b999ef02aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/資格にお金を払っているのではなくあなたにお金を払われているという意識が大事。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbcfae56c81e7355",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/電験はとにかくまずは計算力.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "313886eafe441c7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8061744b0d65b311",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eeab012481b4cd14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/何かを手に入れる幸せは持続性がない。大事なのは意義を感じる善を行う事。.md",
+                "file": "人にすごいと思われたいと思って生きるのはとても辛い。承認されたいは幸せになれない。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "幸福",
+                "query": "足るを",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/何かを手に入れる幸せは持続性がない。大事なのは意義を感じる善を行う事。.md",
+                "file": "人にすごいと思われたいと思って生きるのはとても辛い。承認されたいは幸せになれない。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/何かを手に入れる幸せは持続性がない。大事なのは意義を感じる善を行う事。.md",
+                "file": "人にすごいと思われたいと思って生きるのはとても辛い。承認されたいは幸せになれない。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/何かを手に入れる幸せは持続性がない。大事なのは意義を感じる善を行う事。.md"
+                "file": "人にすごいと思われたいと思って生きるのはとても辛い。承認されたいは幸せになれない。.md"
               }
             }
           },
@@ -266,13 +156,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "eeab012481b4cd14",
+  "active": "d7e13ea400fdcf3e",
   "lastOpenFiles": [
-    "Takerのカモになるな。搾取されない。安易にGiveしない。マッチャーになれ。断る勇気。.md",
+    "Notes/Inbox/欲を出さず執着しないで今あるもの眼の前のものを有り難く受け取る。足りない物ばかりに目を向けない。.md",
+    "人にすごいと思われたいと思って生きるのはとても辛い。承認されたいは幸せになれない。.md",
     "Notes/Index/メンタルヘルス.md",
+    "Notes/Inbox/Takerのカモになるな。搾取されない。安易にGiveしない。マッチャーになれ。断る勇気。.md",
+    "Notes/Inbox/何かを手に入れる幸せは持続性がない。大事なのは意義を感じる善を行う事。.md",
     "Notes/Inbox/英語は結論→理由と論理的に話すことがとても大事.md",
     "Notes/Index/仏教/index.md",
-    "Notes/Inbox/欲を出さず執着しないで今あるもの眼の前のものを有り難く受け取る。足りない物ばかりに目を向けない。.md",
     "Notes/Index/英語.md",
     "Notes/Inbox/カードの将来性のあげるには思い出すべき項目を増やす事とコンテキストの追加。より広い文脈で使う。.md",
     "Notes/Inbox/電験はとにかくまずは計算力.md",
@@ -292,8 +184,6 @@
     "Notes/Inbox/カード作成時は既存の知識との関連付けをすることで質の高いカードが出来る.md",
     "Notes/Inbox/カード内容をは小さく分割する。運動法則の例.md",
     "Notes/Index/仏教/ヴィパッサナー瞑想.md",
-    "Notes/Inbox/可能な限り最小限のデッキを使用する。ただし試験や資格単位で分けるのもあり.md",
-    "Notes/Index/数学/index.md",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
