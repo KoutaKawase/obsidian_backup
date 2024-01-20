@@ -4,107 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1c75d4d02465ef61",
+        "id": "47115b17237806fb",
         "type": "tabs",
         "children": [
           {
-            "id": "d7e13ea400fdcf3e",
+            "id": "ea64b0435a413948",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/数学/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0592f7e7e4e8e6e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/ラジアンは脳死で180分のπをかけると覚えない。原理を覚えること。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f229c6f8cd40dd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be331af205e56d52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dd30f19fbee8c34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/定期的な運動がコルチゾールの減少に役立つ。つまり運動以外のストレスに反応しにくい.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1b1a75c14f85d9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "「捉え方」で幸福度は変わる。肉体労働も仕事も自己超越目標を持つことでストレス軽減。結局マインドセット.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e5f4f167f6df8da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "「捉え方」で幸福度は変わる。肉体労働も仕事も自己超越目標を持つことでストレス軽減。結局マインドセット.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b33639c9dc98624c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "「捉え方」で幸福度は変わる。肉体労働も仕事も自己超越目標を持つことでストレス軽減。結局マインドセット.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "「捉え方」で幸福度は変わる。肉体労働も仕事も自己超越目標を持つことでストレス軽減。結局マインドセット.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "「捉え方」で幸福度は変わる。肉体労働も仕事も自己超越目標を持つことでストレス軽減。結局マインドセット.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "「捉え方」で幸福度は変わる。肉体労働も仕事も自己超越目標を持つことでストレス軽減。結局マインドセット.md"
-              }
+              "state": {}
             }
           },
           {
@@ -241,16 +148,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b33639c9dc98624c",
+  "active": "ea64b0435a413948",
   "lastOpenFiles": [
-    "Notes/Index/メンタルヘルス.md",
-    "Notes/Inbox/無理やりポジティブ思考にすると逆に鬱が加速する.md",
-    "「捉え方」で幸福度は変わる。肉体労働も仕事も自己超越目標を持つことでストレス軽減。結局マインドセット.md",
-    "Notes/Inbox/ストレスの対処としてやりがちなゲーム、映画、テレビ、ネットサーフィン、食事、買い物は逆効果。運動瞑想(慈悲)が大事。.md",
+    "Notes/Inbox/「捉え方」で幸福度は変わる。肉体労働も仕事も自己超越目標を持つことでストレス軽減。結局マインドセット.md",
     "Notes/Inbox/定期的な運動がコルチゾールの減少に役立つ。つまり運動以外のストレスに反応しにくい.md",
+    "Notes/Index/メンタルヘルス.md",
+    "Notes/Inbox/ラジアンは脳死で180分のπをかけると覚えない。原理を覚えること。.md",
+    "Notes/Inbox/無理やりポジティブ思考にすると逆に鬱が加速する.md",
+    "Notes/Inbox/ストレスの対処としてやりがちなゲーム、映画、テレビ、ネットサーフィン、食事、買い物は逆効果。運動瞑想(慈悲)が大事。.md",
     "Notes/Inbox/運動で幸福を感じるには苦しむ必要がある。ランニングなら苦しさで諦めず続ける。.md",
     "Notes/Inbox/三角比は必ず単位円で覚える。たとえ数Iでも。.md",
-    "Notes/Inbox/ラジアンは脳死で180分のπをかけると覚えない。原理を覚えること。.md",
     "Notes/Index/数学/index.md",
     "Notes/Inbox/人にすごいと思われたいと思って生きるのはとても辛い。承認されたいは幸せになれない。.md",
     "Notes/Inbox/欲を出さず執着しないで今あるもの眼の前のものを有り難く受け取る。足りない物ばかりに目を向けない。.md",
