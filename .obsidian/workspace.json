@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea64b0435a413948",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d962b5d11c5d4560",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/何でもかんでもストレスは避けるものではない。成長を促すストレスはむしろ有益.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21f397dedcacb016",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/劣等感が強い場合人との比較と卑下と挑戦しないで現状維持はするべきではない。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49bdf0d55fcc979b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/ドーパミン型の幸福は持続しない。オキシトシンとセロトニン型の幸福を目指すべき。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7928f6de206324ed",
             "type": "leaf",
             "state": {
@@ -66,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23e0ad197633c0df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/感謝はエンドルフィン、セロトニンにおいて最強。小さな感謝を積み重ねる。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ドーパミンは短期的報酬型(ネット)を減らして長期的報酬型(勉強とか運動)を中心にする。.md",
+                "file": "Notes/Inbox/感謝はエンドルフィン、セロトニンにおいて最強。小さな感謝を積み重ねる。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ドーパミンは短期的報酬型(ネット)を減らして長期的報酬型(勉強とか運動)を中心にする。.md",
+                "file": "Notes/Inbox/感謝はエンドルフィン、セロトニンにおいて最強。小さな感謝を積み重ねる。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ドーパミンは短期的報酬型(ネット)を減らして長期的報酬型(勉強とか運動)を中心にする。.md"
+                "file": "Notes/Inbox/感謝はエンドルフィン、セロトニンにおいて最強。小さな感謝を積み重ねる。.md"
               }
             }
           },
@@ -205,14 +169,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "7928f6de206324ed",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "Notes/Inbox/ドーパミン型の幸福は持続しない。オキシトシンとセロトニン型の幸福を目指すべき。.md",
     "ドーパミンは短期的報酬型(ネット)を減らして長期的報酬型(勉強とか運動)を中心にする。.md",
-    "Pasted image 20240120171059.png",
+    "Notes/Inbox/ドーパミン型の幸福は持続しない。オキシトシンとセロトニン型の幸福を目指すべき。.md",
     "Notes/Inbox/劣等感が強い場合人との比較と卑下と挑戦しないで現状維持はするべきではない。.md",
     "Notes/Inbox/何でもかんでもストレスは避けるものではない。成長を促すストレスはむしろ有益.md",
     "Notes/Index/メンタルヘルス.md",
+    "Notes/Inbox/感謝はエンドルフィン、セロトニンにおいて最強。小さな感謝を積み重ねる。.md",
+    "Pasted image 20240120171059.png",
     "Notes/Inbox/女性をただの友人として見て交友するのが大事。ポルノに脳を侵されるな.md",
     "Notes/Inbox/「捉え方」で幸福度は変わる。肉体労働も仕事も自己超越目標を持つことでストレス軽減。結局マインドセット.md",
     "Notes/Inbox/定期的な運動がコルチゾールの減少に役立つ。つまり運動以外のストレスに反応しにくい.md",
@@ -233,7 +198,6 @@
     "Notes/Inbox/電験はとにかくまずは計算力.md",
     "Notes/Index/資格.md",
     "Notes/Inbox/資格にお金を払っているのではなくあなたにお金を払われているという意識が大事。.md",
-    "Notes/Inbox/修行中はただの雇われじゃない。休みたいなんて思わず死ぬ気で実力をつけろ。.md",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
