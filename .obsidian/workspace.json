@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f038fb13e1b0e21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/運動で脳を良くするには心拍数80%目安に30-60分を週3,4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "足るを",
+                "query": "bdnf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/ストレス解消の食事、過度のネット・ゲーム、ギャンブルや買い物、ポルノと自慰、スリルや目新しい行為はドーパミンのために断つ。.md",
+                "file": "Notes/Inbox/運動で脳を良くするには心拍数80%目安に30-60分を週3,4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/ストレス解消の食事、過度のネット・ゲーム、ギャンブルや買い物、ポルノと自慰、スリルや目新しい行為はドーパミンのために断つ。.md",
+                "file": "Notes/Inbox/運動で脳を良くするには心拍数80%目安に30-60分を週3,4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/ストレス解消の食事、過度のネット・ゲーム、ギャンブルや買い物、ポルノと自慰、スリルや目新しい行為はドーパミンのために断つ。.md"
+                "file": "Notes/Inbox/運動で脳を良くするには心拍数80%目安に30-60分を週3,4.md"
               }
             }
           },
@@ -205,11 +217,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "3f038fb13e1b0e21",
   "lastOpenFiles": [
-    "Notes/Inbox/褒める事はオキシトシンをお互いに獲得出来るので積極的にするべき.md",
-    "Notes/Inbox/ストレス解消の食事、過度のネット・ゲーム、ギャンブルや買い物、ポルノと自慰、スリルや目新しい行為はドーパミンのために断つ。.md",
     "Notes/Index/メンタルヘルス.md",
+    "Notes/Inbox/運動で脳を良くするには心拍数80%目安に30-60分を週3,4.md",
+    "Notes/Index/勉強/学習の作法.md",
+    "Notes/Index/勉強/Anki.md",
+    "Notes/Inbox/ストレス解消の食事、過度のネット・ゲーム、ギャンブルや買い物、ポルノと自慰、スリルや目新しい行為はドーパミンのために断つ。.md",
+    "Notes/Inbox/褒める事はオキシトシンをお互いに獲得出来るので積極的にするべき.md",
     "Notes/Index/仏教/index.md",
     "Notes/Inbox/食べ物、電気水家、服、あらゆるもの何一つ自分一人で得たものではないのを理解しろ。無我。.md",
     "Notes/Inbox/自分は一人で生きているのではない。無我の定義.md",
@@ -231,9 +246,6 @@
     "Notes/Index/数学/index.md",
     "Notes/Inbox/人にすごいと思われたいと思って生きるのはとても辛い。承認されたいは幸せになれない。.md",
     "Notes/Inbox/欲を出さず執着しないで今あるもの眼の前のものを有り難く受け取る。足りない物ばかりに目を向けない。.md",
-    "Notes/Inbox/Takerのカモになるな。搾取されない。安易にGiveしない。マッチャーになれ。断る勇気。.md",
-    "Notes/Inbox/何かを手に入れる幸せは持続性がない。大事なのは意義を感じる善を行う事。.md",
-    "Notes/Inbox/英語は結論→理由と論理的に話すことがとても大事.md",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
