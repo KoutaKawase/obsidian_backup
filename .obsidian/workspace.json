@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/無理やりポジティブ思考にすると逆に鬱が加速する.md",
+                "file": "Notes/Index/メンタルヘルス.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/無理やりポジティブ思考にすると逆に鬱が加速する.md",
+                "file": "Notes/Index/メンタルヘルス.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/無理やりポジティブ思考にすると逆に鬱が加速する.md",
+                "file": "Notes/Index/メンタルヘルス.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/無理やりポジティブ思考にすると逆に鬱が加速する.md"
+                "file": "Notes/Index/メンタルヘルス.md"
               }
             }
           },
@@ -241,10 +241,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "b33639c9dc98624c",
   "lastOpenFiles": [
-    "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/無理やりポジティブ思考にすると逆に鬱が加速する.md",
+    "Notes/Index/メンタルヘルス.md",
     "無題のファイル.md",
     "Notes/Inbox/ストレスの対処としてやりがちなゲーム、映画、テレビ、ネットサーフィン、食事、買い物は逆効果。運動瞑想(慈悲)が大事。.md",
     "Notes/Inbox/定期的な運動がコルチゾールの減少に役立つ。つまり運動以外のストレスに反応しにくい.md",
