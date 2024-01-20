@@ -11,8 +11,12 @@
             "id": "ea64b0435a413948",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/メンタルヘルス.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Index/メンタルヘルス.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Index/メンタルヘルス.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Index/メンタルヘルス.md"
+              }
             }
           },
           {
@@ -148,8 +156,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ea64b0435a413948",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
+    "Notes/Inbox/女性をただの友人として見て交友するのが大事。ポルノに脳を侵されるな.md",
     "Notes/Inbox/「捉え方」で幸福度は変わる。肉体労働も仕事も自己超越目標を持つことでストレス軽減。結局マインドセット.md",
     "Notes/Inbox/定期的な運動がコルチゾールの減少に役立つ。つまり運動以外のストレスに反応しにくい.md",
     "Notes/Index/メンタルヘルス.md",
@@ -175,7 +184,6 @@
     "Notes/Inbox/成功するまでやるやつが成功する.md",
     "Notes/Inbox/三毒・貪瞋痴(とんじんち).md",
     "Notes/Inbox/妄想する莫（なか）れ。苦しみは価値判断から.md",
-    "Notes/Inbox/複雑なプロセスをカードにする場合は必ず流れを理解してからまとめてカードにする.md",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
