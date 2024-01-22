@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76490d521afa7acd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "嫌なことの前に瞑想や運動をすると軽減出来る.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/短期的報酬はドーパミン濃度を下げる。結果的にやる気がなくなりチャレンジしなくなる。.md",
+                "file": "嫌なことの前に瞑想や運動をすると軽減出来る.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/短期的報酬はドーパミン濃度を下げる。結果的にやる気がなくなりチャレンジしなくなる。.md",
+                "file": "嫌なことの前に瞑想や運動をすると軽減出来る.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/短期的報酬はドーパミン濃度を下げる。結果的にやる気がなくなりチャレンジしなくなる。.md"
+                "file": "嫌なことの前に瞑想や運動をすると軽減出来る.md"
               }
             }
           },
@@ -169,11 +181,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "76490d521afa7acd",
   "lastOpenFiles": [
+    "Notes/Inbox/短期的報酬はドーパミン濃度を下げる。結果的にやる気がなくなりチャレンジしなくなる。.md",
+    "嫌なことの前に瞑想や運動をすると軽減出来る.md",
     "ファインマンテクニック.md",
     "ドーパミンは短期的報酬型(ネット)を減らして長期的報酬型(勉強とか運動)を中心にする。.md",
-    "Notes/Inbox/短期的報酬はドーパミン濃度を下げる。結果的にやる気がなくなりチャレンジしなくなる。.md",
     "Notes/Inbox/逃げのインターネットは鬱とストレスを加速させる.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Index/仏教/index.md",
@@ -197,7 +210,6 @@
     "Notes/Inbox/ラジアンは脳死で180分のπをかけると覚えない。原理を覚えること。.md",
     "Notes/Inbox/無理やりポジティブ思考にすると逆に鬱が加速する.md",
     "Notes/Inbox/ストレスの対処としてやりがちなゲーム、映画、テレビ、ネットサーフィン、食事、買い物は逆効果。運動瞑想(慈悲)が大事。.md",
-    "Notes/Inbox/運動で幸福を感じるには苦しむ必要がある。ランニングなら苦しさで諦めず続ける。.md",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
