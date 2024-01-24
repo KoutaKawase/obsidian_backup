@@ -4,119 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "47115b17237806fb",
+        "id": "e6eb60c9a720cc89",
         "type": "tabs",
         "children": [
           {
-            "id": "100fda7f0055a8f6",
+            "id": "1f8583e1e554b5f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ドーパミンは短期的報酬型(ネット)を減らして長期的報酬型(勉強とか運動)を中心にする。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9da546fcbd66cc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/短期的報酬はドーパミン濃度を下げる。結果的にやる気がなくなりチャレンジしなくなる。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76490d521afa7acd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/嫌なことの前に瞑想や運動をすると軽減出来る.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b288da3f67118c8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/BDNFは砂糖と飽和脂肪が悪影響.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42d9bf826e5ecd33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/アイデア帳.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c8ea6baf41a62cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/数学/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7966986bf5fb4241",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35407f30a9276b2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/資格.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73e44e34c688dac1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/親切は大事だが見返りや「してあげた」は厳禁。上から目線がダメ。自己犠牲の親切もダメ。.md",
+                "file": "Notes/Index/仏教/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bdnf",
+                "query": "善行",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/親切は大事だが見返りや「してあげた」は厳禁。上から目線がダメ。自己犠牲の親切もダメ。.md",
+                "file": "Notes/Index/仏教/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/親切は大事だが見返りや「してあげた」は厳禁。上から目線がダメ。自己犠牲の親切もダメ。.md",
+                "file": "Notes/Index/仏教/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/親切は大事だが見返りや「してあげた」は厳禁。上から目線がダメ。自己犠牲の親切もダメ。.md"
+                "file": "Notes/Index/仏教/index.md"
               }
             }
           },
@@ -253,21 +156,25 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "73e44e34c688dac1",
+  "active": "1f8583e1e554b5f0",
   "lastOpenFiles": [
+    "善行はこっそり行うべし。潜行密用は、愚のごとく魯のごとし。見返りを求めない。.md",
+    "ドーパミンは短期的報酬型(ネット)を減らして長期的報酬型(勉強とか運動)を中心にする。.md",
+    "Notes/Index/数学/index.md",
     "Notes/Index/メンタルヘルス.md",
-    "Notes/Inbox/Takerのカモになるな。搾取されない。安易にGiveしない。マッチャーになれ。断る勇気。Takerと付き合わない.md",
+    "Notes/Index/資格.md",
     "Notes/Inbox/親切は大事だが見返りや「してあげた」は厳禁。上から目線がダメ。自己犠牲の親切もダメ。.md",
+    "Notes/Inbox/三毒を克服するには3つの秘訣がある.md",
+    "Notes/Inbox/利他行や親切に見返りを求めてはいけない。ブッダは\"貯金\"をしていると考え三輪空を忘れよと説く。.md",
+    "Notes/Index/仏教/index.md",
+    "Notes/Inbox/Takerのカモになるな。搾取されない。安易にGiveしない。マッチャーになれ。断る勇気。Takerと付き合わない.md",
     "Notes/Index/金融.md",
     "Notes/Inbox/資産運用に役立ちそうな知識が学べる資格とか.md",
-    "Notes/Index/資格.md",
     "Notes/Index/法律.md",
     "Notes/Inbox/超常刺激が自己管理を欠落させる。ドーパミンは快楽じゃなくて快楽を探す物質。ポルノネットジャンクフード.md",
     "Notes/Inbox/感謝は積極的に伝えるだけでメリットたくさん。感謝は想像以上に相手は嬉しい。.md",
-    "Notes/Index/数学/index.md",
     "Notes/Inbox/生活水準をあげてはいけない。贅沢も極力しない。贅沢はすぐ慣れすぐ飽きる。世の中の大半は買わなくていいもの。.md",
     "Notes/Index/アイデア帳.md",
-    "ドーパミンは短期的報酬型(ネット)を減らして長期的報酬型(勉強とか運動)を中心にする。.md",
     "Notes/Inbox/BDNFは砂糖と飽和脂肪が悪影響.md",
     "Notes/Inbox/ミトコンドリアには軽い運動(ウォーキングなど)と強い運動(タバタ)を組み合わせると質と量が得られる.md",
     "Notes/Inbox/嫌なことの前に瞑想や運動をすると軽減出来る.md",
@@ -275,12 +182,8 @@
     "ファインマンテクニック.md",
     "Notes/Inbox/逃げのインターネットは鬱とストレスを加速させる.md",
     "Notes/Index/仏教/読むべき本.md",
-    "Notes/Index/仏教/index.md",
     "Notes/Inbox/運動で脳を良くするには心拍数80%目安に30-60分を週3,4.md",
     "Notes/Index/勉強/学習の作法.md",
-    "Notes/Index/勉強/Anki.md",
-    "Notes/Inbox/ストレス解消の食事、過度のネット・ゲーム、ギャンブルや買い物、ポルノと自慰、スリルや目新しい行為はドーパミンのために断つ。.md",
-    "Notes/Inbox/褒める事はオキシトシンをお互いに獲得出来るので積極的にするべき.md",
     "Extra/Pasted image 20240120171059.png",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
