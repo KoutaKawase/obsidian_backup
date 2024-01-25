@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23e34d0cf9b935b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "勉強がわからなくて不快な時、それは成長している証拠。苦痛があるから成長できる。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/妄想するなかれ。人生を楽しむコツは他人、世間と比較しないこと。不安は妄想。.md",
+                "file": "勉強がわからなくて不快な時、それは成長している証拠。苦痛があるから成長できる。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/妄想するなかれ。人生を楽しむコツは他人、世間と比較しないこと。不安は妄想。.md",
+                "file": "勉強がわからなくて不快な時、それは成長している証拠。苦痛があるから成長できる。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/妄想するなかれ。人生を楽しむコツは他人、世間と比較しないこと。不安は妄想。.md"
+                "file": "勉強がわからなくて不快な時、それは成長している証拠。苦痛があるから成長できる。.md"
               }
             }
           },
@@ -181,10 +193,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "23e34d0cf9b935b7",
   "lastOpenFiles": [
-    "Notes/Inbox/小欲知足。あまり欲ばらないで、少し足らなくても満足し、感謝することを知る。.md",
     "Notes/Inbox/妄想するなかれ。人生を楽しむコツは他人、世間と比較しないこと。不安は妄想。.md",
+    "勉強がわからなくて不快な時、それは成長している証拠。苦痛があるから成長できる。.md",
+    "Notes/Inbox/小欲知足。あまり欲ばらないで、少し足らなくても満足し、感謝することを知る。.md",
     "Notes/Inbox/善行はこっそり行うべし。潜行密用は、愚のごとく魯のごとし。ただし自己犠牲ではない。自利自他が大事。.md",
     "Notes/Index/仏教/index.md",
     "ドーパミンは短期的報酬型(ネット)を減らして長期的報酬型(勉強とか運動)を中心にする。.md",
@@ -208,7 +221,6 @@
     "Notes/Inbox/短期的報酬はドーパミン濃度を下げる。結果的にやる気がなくなりチャレンジしなくなる。.md",
     "ファインマンテクニック.md",
     "Notes/Inbox/逃げのインターネットは鬱とストレスを加速させる.md",
-    "Notes/Index/仏教/読むべき本.md",
     "Extra/Pasted image 20240120171059.png",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
