@@ -49,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "勉強がわからなくて不快な時、それは成長している証拠。苦痛があるから成長できる。.md",
+                "file": "Notes/Inbox/勉強がわからなくて不快な時、それは成長している証拠。苦痛があるから成長できる。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d94dfcdfc876bd01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/人はサプライズより実用性を好む。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81d9127a2c7d71f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/メンタルヘルス.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "善行",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "勉強がわからなくて不快な時、それは成長している証拠。苦痛があるから成長できる。.md",
+                "file": "Notes/Index/メンタルヘルス.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "勉強がわからなくて不快な時、それは成長している証拠。苦痛があるから成長できる。.md",
+                "file": "Notes/Index/メンタルヘルス.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "勉強がわからなくて不快な時、それは成長している証拠。苦痛があるから成長できる。.md"
+                "file": "Notes/Index/メンタルヘルス.md"
               }
             }
           },
@@ -193,10 +217,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "23e34d0cf9b935b7",
+  "active": "81d9127a2c7d71f9",
   "lastOpenFiles": [
+    "Notes/Inbox/幸福度を上げるお金の使い方。経験、他人の為に使う、細かく使う、人気のあるものを買う、何かをするための買い物.md",
+    "Notes/Inbox/人はサプライズより実用性を好む。.md",
+    "Notes/Inbox/勉強がわからなくて不快な時、それは成長している証拠。苦痛があるから成長できる。.md",
     "Notes/Inbox/妄想するなかれ。人生を楽しむコツは他人、世間と比較しないこと。不安は妄想。.md",
-    "勉強がわからなくて不快な時、それは成長している証拠。苦痛があるから成長できる。.md",
     "Notes/Inbox/小欲知足。あまり欲ばらないで、少し足らなくても満足し、感謝することを知る。.md",
     "Notes/Inbox/善行はこっそり行うべし。潜行密用は、愚のごとく魯のごとし。ただし自己犠牲ではない。自利自他が大事。.md",
     "Notes/Index/仏教/index.md",
@@ -219,8 +245,6 @@
     "Notes/Inbox/ミトコンドリアには軽い運動(ウォーキングなど)と強い運動(タバタ)を組み合わせると質と量が得られる.md",
     "Notes/Inbox/嫌なことの前に瞑想や運動をすると軽減出来る.md",
     "Notes/Inbox/短期的報酬はドーパミン濃度を下げる。結果的にやる気がなくなりチャレンジしなくなる。.md",
-    "ファインマンテクニック.md",
-    "Notes/Inbox/逃げのインターネットは鬱とストレスを加速させる.md",
     "Extra/Pasted image 20240120171059.png",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
