@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "Notes/Inbox/意思力が強いとは要因の排除と未来の自分への明確な意識と客観的思考.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a8a6c5492f8c0ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ブッダも欲をなくすことが幸福につながると説く。象と飼い慣らすには刺激しない、象使いを訓練、調教.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "ブッダも欲をなくすことが幸福につながると説く。象と飼い慣らすには刺激しない、象使いを訓練、調教.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "ブッダも欲をなくすことが幸福につながると説く。象と飼い慣らすには刺激しない、象使いを訓練、調教.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "無題のファイル.md"
+                "file": "ブッダも欲をなくすことが幸福につながると説く。象と飼い慣らすには刺激しない、象使いを訓練、調教.md"
               }
             }
           },
@@ -205,10 +217,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "72442f630d2d107c",
+  "active": "7a8a6c5492f8c0ff",
   "lastOpenFiles": [
+    "Notes/Inbox/意思力が強いとは要因の排除と未来の自分への明確な意識と客観的思考.md",
+    "ブッダも欲をなくすことが幸福につながると説く。象と飼い慣らすには刺激しない、象使いを訓練、調教.md",
+    "Extra/Pasted image 20240125193012.png",
+    "Extra/Pasted image 20240125192944.png",
     "Notes/Inbox/普段の小さな我慢が人生を左右する.md",
-    "無題のファイル.md",
     "Notes/Inbox/目の前の誘惑はif thenと小さな意味のないルーチンをこなす.md",
     "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/セルフコントロールは誘惑を排除した環境作りに使う。.md",
@@ -232,7 +247,6 @@
     "Notes/Index/法律.md",
     "Notes/Inbox/超常刺激が自己管理を欠落させる。ドーパミンは快楽じゃなくて快楽を探す物質。ポルノネットジャンクフード.md",
     "Notes/Inbox/感謝は積極的に伝えるだけでメリットたくさん。感謝は想像以上に相手は嬉しい。.md",
-    "Notes/Inbox/生活水準をあげてはいけない。贅沢も極力しない。贅沢はすぐ慣れすぐ飽きる。世の中の大半は買わなくていいもの。.md",
     "Extra/Pasted image 20240120171059.png",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
