@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "猫背はストレスに悪影響。逆に姿勢を正すだけでセルフコントロールが強くなりストレスに強くなる.md",
+                "file": "Notes/Inbox/猫背はストレスに悪影響。逆に姿勢を正すだけでセルフコントロールが強くなりストレスに強くなる.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +85,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HIITの限度は心拍数90%で週40分まで。それ以上は効果が下がるし膝にも悪い。.md",
+                "file": "Notes/Index/メンタルヘルス.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "479ccaa6d43e326e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/メンタルヘルス.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63f6df812baed463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/自分の強み(プログラミングや英語など)を活かして社会や人の役に立つ事が幸福につながる.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89f99d5e422a5bcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "東洋軒の中村さんぐらいどんな仕事でも自分にできる事を不貞腐れず精一杯やってGiveもできるようになりたい。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -158,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HIITの限度は心拍数90%で週40分まで。それ以上は効果が下がるし膝にも悪い。.md",
+                "file": "東洋軒の中村さんぐらいどんな仕事でも自分にできる事を不貞腐れず精一杯やってGiveもできるようになりたい。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HIITの限度は心拍数90%で週40分まで。それ以上は効果が下がるし膝にも悪い。.md",
+                "file": "東洋軒の中村さんぐらいどんな仕事でも自分にできる事を不貞腐れず精一杯やってGiveもできるようになりたい。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HIITの限度は心拍数90%で週40分まで。それ以上は効果が下がるし膝にも悪い。.md"
+                "file": "東洋軒の中村さんぐらいどんな仕事でも自分にできる事を不貞腐れず精一杯やってGiveもできるようになりたい。.md"
               }
             }
           },
@@ -229,24 +265,27 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "51b4a603f1929980",
+  "active": "89f99d5e422a5bcf",
   "lastOpenFiles": [
+    "Notes/Inbox/自分の強み(プログラミングや英語など)を活かして社会や人の役に立つ事が幸福につながる.md",
+    "東洋軒の中村さんぐらいどんな仕事でも自分にできる事を不貞腐れず精一杯やってGiveもできるようになりたい。.md",
+    "Notes/Index/メンタルヘルス.md",
+    "Notes/Inbox/ドーパミンは短期的報酬型(ネット)を減らして長期的報酬型(勉強とか運動)を中心にする。.md",
+    "Notes/Inbox/砂糖の過剰摂取は鬱を悪化させる.md",
+    "Notes/Inbox/HIITの限度は心拍数90%で週40分まで。それ以上は効果が下がるし膝にも悪い。.md",
     "Notes/Inbox/ストレス、不安、ネガティブは脱フュージョンで思考を切り離す。採点、擬人化、言語化、歌、雲、列車、箱.md",
-    "HIITの限度は心拍数90%で週40分まで。それ以上は効果が下がるし膝にも悪い。.md",
-    "猫背はストレスに悪影響。逆に姿勢を正すだけでセルフコントロールが強くなりストレスに強くなる.md",
+    "Notes/Inbox/猫背はストレスに悪影響。逆に姿勢を正すだけでセルフコントロールが強くなりストレスに強くなる.md",
     "Notes/Inbox/立って活動しないと老けるしメンタルにも悪い。座りっぱなしは最悪。.md",
     "Notes/Inbox/自分の幸せな基準を作る。ある物で満足する。都合の悪い情報に触れない。衣食住あるだけで幸せなんだ。.md",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
     "Pasted image 20240126135252.png",
-    "ドーパミンは短期的報酬型(ネット)を減らして長期的報酬型(勉強とか運動)を中心にする。.md",
     "Notes/Inbox/マルチタスクはIQを大きく下げる。ながら作業しない。.md",
     "Extra/Pasted image 20240126135135.png",
     "Notes/Inbox/下方比較や上方比較を避けてドーパミンを出さない為にニュース、SNSはやめたほうがいい。優越感は良くない。マイペース。.md",
     "Notes/Inbox/セロトニンは日光有酸素栄養咀嚼笑顔、背筋！.md",
     "Notes/Inbox/姿勢は自尊心も高めポジティブな感情を生む。.md",
     "Notes/Inbox/幸福とはセロトニンオキシトシンドーパミンのバランスが良い事。ドーパミン以外を追い求めるのが大事。ドーパミンを追い求めるな。.md",
-    "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/意思力が強いとは要因の排除と未来の自分への明確な意識と客観的思考.md",
     "Notes/Inbox/普段の小さな我慢が人生を左右する.md",
     "Extra/Pasted image 20240126104349.png",
@@ -262,9 +301,6 @@
     "Notes/Inbox/人はサプライズより実用性を好む。.md",
     "Notes/Inbox/勉強がわからなくて不快な時、それは成長している証拠。苦痛があるから成長できる。.md",
     "Notes/Inbox/妄想するなかれ。人生を楽しむコツは他人、世間と比較しないこと。不安は妄想。.md",
-    "Notes/Inbox/小欲知足。あまり欲ばらないで、少し足らなくても満足し、感謝することを知る。.md",
-    "Notes/Inbox/善行はこっそり行うべし。潜行密用は、愚のごとく魯のごとし。ただし自己犠牲ではない。自利自他が大事。.md",
-    "Notes/Index/仏教/index.md",
     "Extra/Pasted image 20240120171059.png",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
