@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e252161cb42e198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "立って活動しないと老けるしメンタルにも悪い。座りっぱなしは最悪。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,13 +193,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f549416e622873de",
+  "active": "2e252161cb42e198",
   "lastOpenFiles": [
-    "Notes/Inbox/下方比較や上方比較を避けてドーパミンを出さない為にニュース、SNSはやめたほうがいい。優越感は良くない。マイペース。.md",
+    "Notes/Inbox/自分の幸せな基準を作る。ある物で満足する。都合の悪い情報に触れない。衣食住あるだけで幸せなんだ。.md",
     "立って活動しないと老けるしメンタルにも悪い。座りっぱなしは最悪。.md",
+    "Pasted image 20240126135401.png",
+    "Extra/Pasted image 20240126135400.png",
+    "Pasted image 20240126135252.png",
+    "ドーパミンは短期的報酬型(ネット)を減らして長期的報酬型(勉強とか運動)を中心にする。.md",
+    "Notes/Inbox/マルチタスクはIQを大きく下げる。ながら作業しない。.md",
+    "Extra/Pasted image 20240126135135.png",
+    "Notes/Inbox/下方比較や上方比較を避けてドーパミンを出さない為にニュース、SNSはやめたほうがいい。優越感は良くない。マイペース。.md",
     "Notes/Inbox/セロトニンは日光有酸素栄養咀嚼笑顔、背筋！.md",
     "Notes/Inbox/姿勢は自尊心も高めポジティブな感情を生む。.md",
-    "ドーパミンは短期的報酬型(ネット)を減らして長期的報酬型(勉強とか運動)を中心にする。.md",
     "Notes/Inbox/幸福とはセロトニンオキシトシンドーパミンのバランスが良い事。ドーパミン以外を追い求めるのが大事。ドーパミンを追い求めるな。.md",
     "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/意思力が強いとは要因の排除と未来の自分への明確な意識と客観的思考.md",
@@ -211,8 +229,6 @@
     "Notes/Index/数学/index.md",
     "Notes/Index/資格.md",
     "Notes/Inbox/親切は大事だが見返りや「してあげた」は厳禁。上から目線がダメ。自己犠牲の親切もダメ。.md",
-    "Notes/Inbox/三毒を克服するには3つの秘訣がある.md",
-    "Notes/Inbox/利他行や親切に見返りを求めてはいけない。ブッダは\"貯金\"をしていると考え三輪空を忘れよと説く。.md",
     "Extra/Pasted image 20240120171059.png",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
