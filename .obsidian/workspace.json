@@ -8,126 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf2fc4b872fe5354",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/セロトニンは日光有酸素栄養咀嚼笑顔、背筋！.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51d3a374efb344c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/下方比較や上方比較を避けてドーパミンを出さない為にニュース、SNSはやめたほうがいい。優越感は良くない。マイペース。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f549416e622873de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/立って活動しないと老けるしメンタルにも悪い。座りっぱなしは最悪。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e252161cb42e198",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/立って活動しないと老けるしメンタルにも悪い。座りっぱなしは最悪。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce3e794449a88534",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/猫背はストレスに悪影響。逆に姿勢を正すだけでセルフコントロールが強くなりストレスに強くなる.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea8be5dd71ba180b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/ストレス、不安、ネガティブは脱フュージョンで思考を切り離す。採点、擬人化、言語化、歌、雲、列車、箱.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51b4a603f1929980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "479ccaa6d43e326e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63f6df812baed463",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/自分の強み(プログラミングや英語など)を活かして社会や人の役に立つ事が幸福につながる.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89f99d5e422a5bcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/仕事は選べないかもしれないが、仕事への姿勢や生き方は自分で選べる.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "796221c4b79f29c6",
             "type": "leaf",
             "state": {
@@ -175,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "「陰徳」を積むのがもっともよい善行。ただし「善い事をしたい」「善果がほしい」など不純が混じるのはよくない。陰徳あれば陽報あり.md",
+                "file": "Notes/Inbox/親切をされたした場合、謝礼はあげないほうがいい。受け取るのもよしたほうがいい.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "「陰徳」を積むのがもっともよい善行。ただし「善い事をしたい」「善果がほしい」など不純が混じるのはよくない。陰徳あれば陽報あり.md",
+                "file": "Notes/Inbox/親切をされたした場合、謝礼はあげないほうがいい。受け取るのもよしたほうがいい.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "「陰徳」を積むのがもっともよい善行。ただし「善い事をしたい」「善果がほしい」など不純が混じるのはよくない。陰徳あれば陽報あり.md"
+                "file": "Notes/Inbox/親切をされたした場合、謝礼はあげないほうがいい。受け取るのもよしたほうがいい.md"
               }
             }
           },
@@ -313,16 +192,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1143e24c5a4f42a1",
+  "active": "796221c4b79f29c6",
   "lastOpenFiles": [
-    "やる気を増やしもっとも良いドーパミンの出し方は親切である。物や食べ物やご褒美は間違い。.md",
-    "「陰徳」を積むのがもっともよい善行。ただし「善い事をしたい」「善果がほしい」など不純が混じるのはよくない。陰徳あれば陽報あり.md",
-    "Notes/Inbox/職場を働きやすくするなら積極的に同僚に親切したほうがいい。嫌いな人でも。.md",
-    "Notes/Inbox/親切をされたした場合、謝礼はあげないほうがいい。受け取るのもよしたほうがいい.md",
     "Notes/Inbox/仕事は選べないかもしれないが、仕事への姿勢や生き方は自分で選べる.md",
-    "Notes/Inbox/東洋軒の中村さんぐらいどんな仕事でも自分にできる事を不貞腐れず精一杯やってGiveもできるようになりたい。.md",
     "Notes/Inbox/自分の強み(プログラミングや英語など)を活かして社会や人の役に立つ事が幸福につながる.md",
     "Notes/Index/メンタルヘルス.md",
+    "「陰徳」を積むのがもっともよい善行。ただし「善い事をしたい」「善果がほしい」など不純が混じるのはよくない。陰徳あれば陽報あり.md",
+    "やる気を増やしもっとも良いドーパミンの出し方は親切である。物や食べ物やご褒美は間違い。.md",
+    "Notes/Inbox/職場を働きやすくするなら積極的に同僚に親切したほうがいい。嫌いな人でも。.md",
+    "Notes/Inbox/親切をされたした場合、謝礼はあげないほうがいい。受け取るのもよしたほうがいい.md",
+    "Notes/Inbox/東洋軒の中村さんぐらいどんな仕事でも自分にできる事を不貞腐れず精一杯やってGiveもできるようになりたい。.md",
     "Notes/Inbox/ドーパミンは短期的報酬型(ネット)を減らして長期的報酬型(勉強とか運動)を中心にする。.md",
     "Notes/Inbox/砂糖の過剰摂取は鬱を悪化させる.md",
     "Notes/Inbox/HIITの限度は心拍数90%で週40分まで。それ以上は効果が下がるし膝にも悪い。.md",
