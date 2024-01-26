@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "立って活動しないと老けるしメンタルにも悪い。座りっぱなしは最悪。.md",
+                "file": "Notes/Inbox/立って活動しないと老けるしメンタルにも悪い。座りっぱなしは最悪。.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "立って活動しないと老けるしメンタルにも悪い。座りっぱなしは最悪。.md",
+                "file": "Notes/Inbox/立って活動しないと老けるしメンタルにも悪い。座りっぱなしは最悪。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce3e794449a88534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "猫背はストレスに悪影響。逆に姿勢を正すだけでセルフコントロールが強くなりストレスに強くなる.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea8be5dd71ba180b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/ストレス、不安、ネガティブは脱フュージョンで思考を切り離す。採点、擬人化、言語化、歌、雲、列車、箱.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "立って活動しないと老けるしメンタルにも悪い。座りっぱなしは最悪。.md",
+                "file": "Notes/Inbox/ストレス、不安、ネガティブは脱フュージョンで思考を切り離す。採点、擬人化、言語化、歌、雲、列車、箱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "立って活動しないと老けるしメンタルにも悪い。座りっぱなしは最悪。.md",
+                "file": "Notes/Inbox/ストレス、不安、ネガティブは脱フュージョンで思考を切り離す。採点、擬人化、言語化、歌、雲、列車、箱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "立って活動しないと老けるしメンタルにも悪い。座りっぱなしは最悪。.md"
+                "file": "Notes/Inbox/ストレス、不安、ネガティブは脱フュージョンで思考を切り離す。採点、擬人化、言語化、歌、雲、列車、箱.md"
               }
             }
           },
@@ -193,10 +217,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "2e252161cb42e198",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
+    "猫背はストレスに悪影響。逆に姿勢を正すだけでセルフコントロールが強くなりストレスに強くなる.md",
+    "Notes/Inbox/ストレス、不安、ネガティブは脱フュージョンで思考を切り離す。採点、擬人化、言語化、歌、雲、列車、箱.md",
+    "Notes/Inbox/立って活動しないと老けるしメンタルにも悪い。座りっぱなしは最悪。.md",
     "Notes/Inbox/自分の幸せな基準を作る。ある物で満足する。都合の悪い情報に触れない。衣食住あるだけで幸せなんだ。.md",
-    "立って活動しないと老けるしメンタルにも悪い。座りっぱなしは最悪。.md",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
     "Pasted image 20240126135252.png",
@@ -227,8 +253,6 @@
     "Notes/Inbox/善行はこっそり行うべし。潜行密用は、愚のごとく魯のごとし。ただし自己犠牲ではない。自利自他が大事。.md",
     "Notes/Index/仏教/index.md",
     "Notes/Index/数学/index.md",
-    "Notes/Index/資格.md",
-    "Notes/Inbox/親切は大事だが見返りや「してあげた」は厳禁。上から目線がダメ。自己犠牲の親切もダメ。.md",
     "Extra/Pasted image 20240120171059.png",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
