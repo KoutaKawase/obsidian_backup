@@ -121,14 +121,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "東洋軒の中村さんぐらいどんな仕事でも自分にできる事を不貞腐れず精一杯やってGiveもできるようになりたい。.md",
+                "file": "Notes/Inbox/仕事は選べないかもしれないが、仕事への姿勢や生き方は自分で選べる.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "796221c4b79f29c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/親切をされたした場合、謝礼はあげないほうがいい。受け取るのもよしたほうがいい.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6ce04370adf1fd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/職場を働きやすくするなら積極的に同僚に親切したほうがいい。嫌いな人でも。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "289402249d85c653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "やる気を増やしもっとも良いドーパミンの出し方は親切である。物や食べ物やご褒美は間違い。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1143e24c5a4f42a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "「陰徳」を積むのがもっともよい善行。ただし「善い事をしたい」「善果がほしい」など不純が混じるのはよくない。陰徳あれば陽報あり.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -157,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "肉体労働",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "東洋軒の中村さんぐらいどんな仕事でも自分にできる事を不貞腐れず精一杯やってGiveもできるようになりたい。.md",
+                "file": "「陰徳」を積むのがもっともよい善行。ただし「善い事をしたい」「善果がほしい」など不純が混じるのはよくない。陰徳あれば陽報あり.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "東洋軒の中村さんぐらいどんな仕事でも自分にできる事を不貞腐れず精一杯やってGiveもできるようになりたい。.md",
+                "file": "「陰徳」を積むのがもっともよい善行。ただし「善い事をしたい」「善果がほしい」など不純が混じるのはよくない。陰徳あれば陽報あり.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "東洋軒の中村さんぐらいどんな仕事でも自分にできる事を不貞腐れず精一杯やってGiveもできるようになりたい。.md"
+                "file": "「陰徳」を積むのがもっともよい善行。ただし「善い事をしたい」「善果がほしい」など不純が混じるのはよくない。陰徳あれば陽報あり.md"
               }
             }
           },
@@ -265,10 +313,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "89f99d5e422a5bcf",
+  "active": "1143e24c5a4f42a1",
   "lastOpenFiles": [
+    "やる気を増やしもっとも良いドーパミンの出し方は親切である。物や食べ物やご褒美は間違い。.md",
+    "「陰徳」を積むのがもっともよい善行。ただし「善い事をしたい」「善果がほしい」など不純が混じるのはよくない。陰徳あれば陽報あり.md",
+    "Notes/Inbox/職場を働きやすくするなら積極的に同僚に親切したほうがいい。嫌いな人でも。.md",
+    "Notes/Inbox/親切をされたした場合、謝礼はあげないほうがいい。受け取るのもよしたほうがいい.md",
+    "Notes/Inbox/仕事は選べないかもしれないが、仕事への姿勢や生き方は自分で選べる.md",
+    "Notes/Inbox/東洋軒の中村さんぐらいどんな仕事でも自分にできる事を不貞腐れず精一杯やってGiveもできるようになりたい。.md",
     "Notes/Inbox/自分の強み(プログラミングや英語など)を活かして社会や人の役に立つ事が幸福につながる.md",
-    "東洋軒の中村さんぐらいどんな仕事でも自分にできる事を不貞腐れず精一杯やってGiveもできるようになりたい。.md",
     "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/ドーパミンは短期的報酬型(ネット)を減らして長期的報酬型(勉強とか運動)を中心にする。.md",
     "Notes/Inbox/砂糖の過剰摂取は鬱を悪化させる.md",
@@ -296,11 +349,6 @@
     "Extra/Pasted image 20240125192944.png",
     "Notes/Inbox/目の前の誘惑はif thenと小さな意味のないルーチンをこなす.md",
     "Notes/Inbox/セルフコントロールは誘惑を排除した環境作りに使う。.md",
-    "Notes/Inbox/良いプレゼントの贈り方。迷ったら現金。長く使える、実用的。前持って知らせる。価格は比例しない。.md",
-    "Notes/Inbox/幸福度を上げるお金の使い方。経験、他人の為に使う、細かく使う、人気のあるものを買う、何かをするための買い物.md",
-    "Notes/Inbox/人はサプライズより実用性を好む。.md",
-    "Notes/Inbox/勉強がわからなくて不快な時、それは成長している証拠。苦痛があるから成長できる。.md",
-    "Notes/Inbox/妄想するなかれ。人生を楽しむコツは他人、世間と比較しないこと。不安は妄想。.md",
     "Extra/Pasted image 20240120171059.png",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
