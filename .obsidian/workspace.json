@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ブッダも欲をなくすことが幸福につながると説く。象と飼い慣らすには刺激しない、象使いを訓練、調教.md",
+                "file": "ドーパミンは短期的報酬型(ネット)を減らして長期的報酬型(勉強とか運動)を中心にする。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfb889e0fabbfe9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ストレスは筆記開示がおすすめ。ネガを包み隠さず書き殴る。２０分以上４日は続ける！.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ブッダも欲をなくすことが幸福につながると説く。象と飼い慣らすには刺激しない、象使いを訓練、調教.md",
+                "file": "ストレスは筆記開示がおすすめ。ネガを包み隠さず書き殴る。２０分以上４日は続ける！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ブッダも欲をなくすことが幸福につながると説く。象と飼い慣らすには刺激しない、象使いを訓練、調教.md",
+                "file": "ストレスは筆記開示がおすすめ。ネガを包み隠さず書き殴る。２０分以上４日は続ける！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ブッダも欲をなくすことが幸福につながると説く。象と飼い慣らすには刺激しない、象使いを訓練、調教.md"
+                "file": "ストレスは筆記開示がおすすめ。ネガを包み隠さず書き殴る。２０分以上４日は続ける！.md"
               }
             }
           },
@@ -217,15 +229,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "7a8a6c5492f8c0ff",
+  "active": "bfb889e0fabbfe9c",
   "lastOpenFiles": [
+    "ドーパミンは短期的報酬型(ネット)を減らして長期的報酬型(勉強とか運動)を中心にする。.md",
+    "ストレスは筆記開示がおすすめ。ネガを包み隠さず書き殴る。２０分以上４日は続ける！.md",
+    "Notes/Index/メンタルヘルス.md",
+    "Notes/Inbox/ブッダも欲をなくすことが幸福につながると説く。象と飼い慣らすには刺激しない、象使いを訓練、調教.md",
     "Notes/Inbox/意思力が強いとは要因の排除と未来の自分への明確な意識と客観的思考.md",
-    "ブッダも欲をなくすことが幸福につながると説く。象と飼い慣らすには刺激しない、象使いを訓練、調教.md",
     "Extra/Pasted image 20240125193012.png",
     "Extra/Pasted image 20240125192944.png",
     "Notes/Inbox/普段の小さな我慢が人生を左右する.md",
     "Notes/Inbox/目の前の誘惑はif thenと小さな意味のないルーチンをこなす.md",
-    "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/セルフコントロールは誘惑を排除した環境作りに使う。.md",
     "Notes/Inbox/良いプレゼントの贈り方。迷ったら現金。長く使える、実用的。前持って知らせる。価格は比例しない。.md",
     "Notes/Inbox/幸福度を上げるお金の使い方。経験、他人の為に使う、細かく使う、人気のあるものを買う、何かをするための買い物.md",
@@ -235,7 +249,6 @@
     "Notes/Inbox/小欲知足。あまり欲ばらないで、少し足らなくても満足し、感謝することを知る。.md",
     "Notes/Inbox/善行はこっそり行うべし。潜行密用は、愚のごとく魯のごとし。ただし自己犠牲ではない。自利自他が大事。.md",
     "Notes/Index/仏教/index.md",
-    "ドーパミンは短期的報酬型(ネット)を減らして長期的報酬型(勉強とか運動)を中心にする。.md",
     "Notes/Index/数学/index.md",
     "Notes/Index/資格.md",
     "Notes/Inbox/親切は大事だが見返りや「してあげた」は厳禁。上から目線がダメ。自己犠牲の親切もダメ。.md",
@@ -246,7 +259,6 @@
     "Notes/Inbox/資産運用に役立ちそうな知識が学べる資格とか.md",
     "Notes/Index/法律.md",
     "Notes/Inbox/超常刺激が自己管理を欠落させる。ドーパミンは快楽じゃなくて快楽を探す物質。ポルノネットジャンクフード.md",
-    "Notes/Inbox/感謝は積極的に伝えるだけでメリットたくさん。感謝は想像以上に相手は嬉しい。.md",
     "Extra/Pasted image 20240120171059.png",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
