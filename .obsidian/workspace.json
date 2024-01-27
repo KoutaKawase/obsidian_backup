@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/親切をされたした場合、謝礼はあげないほうがいい。受け取るのもよしたほうがいい.md",
+                "file": "Notes/Inbox/やる気を増やしもっとも良いドーパミンの出し方は親切である。物や食べ物やご褒美は間違い。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58716860d00f7b98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "最も良いアクティブラーニングの小テストはランダム化。こまめに小テストを挟むのがベスト。.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "やる気を増やしもっとも良いドーパミンの出し方は親切である。物や食べ物やご褒美は間違い。.md",
+                "file": "Notes/Inbox/やる気を増やしもっとも良いドーパミンの出し方は親切である。物や食べ物やご褒美は間違い。.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,13 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "「陰徳」を積むのがもっともよい善行。ただし「善い事をしたい」「善果がほしい」など不純が混じるのはよくない。陰徳あれば陽報あり.md",
+                "file": "Notes/Inbox/「陰徳」を積むのがもっともよい善行。ただし「善い事をしたい」「善果がほしい」など不純が混じるのはよくない。陰徳あれば陽報あり.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/親切をされたした場合、謝礼はあげないほうがいい。受け取るのもよしたほうがいい.md",
+                "file": "最も良いアクティブラーニングの小テストはランダム化。こまめに小テストを挟むのがベスト。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/親切をされたした場合、謝礼はあげないほうがいい。受け取るのもよしたほうがいい.md",
+                "file": "最も良いアクティブラーニングの小テストはランダム化。こまめに小テストを挟むのがベスト。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/親切をされたした場合、謝礼はあげないほうがいい。受け取るのもよしたほうがいい.md"
+                "file": "最も良いアクティブラーニングの小テストはランダム化。こまめに小テストを挟むのがベスト。.md"
               }
             }
           },
@@ -192,15 +205,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "796221c4b79f29c6",
+  "active": "58716860d00f7b98",
   "lastOpenFiles": [
+    "Notes/Inbox/やる気を増やしもっとも良いドーパミンの出し方は親切である。物や食べ物やご褒美は間違い。.md",
+    "最も良いアクティブラーニングの小テストはランダム化。こまめに小テストを挟むのがベスト。.md",
+    "Notes/Inbox/親切をされたした場合、謝礼はあげないほうがいい。受け取るのもよしたほうがいい.md",
     "Notes/Inbox/仕事は選べないかもしれないが、仕事への姿勢や生き方は自分で選べる.md",
     "Notes/Inbox/自分の強み(プログラミングや英語など)を活かして社会や人の役に立つ事が幸福につながる.md",
     "Notes/Index/メンタルヘルス.md",
-    "「陰徳」を積むのがもっともよい善行。ただし「善い事をしたい」「善果がほしい」など不純が混じるのはよくない。陰徳あれば陽報あり.md",
-    "やる気を増やしもっとも良いドーパミンの出し方は親切である。物や食べ物やご褒美は間違い。.md",
+    "Notes/Inbox/「陰徳」を積むのがもっともよい善行。ただし「善い事をしたい」「善果がほしい」など不純が混じるのはよくない。陰徳あれば陽報あり.md",
     "Notes/Inbox/職場を働きやすくするなら積極的に同僚に親切したほうがいい。嫌いな人でも。.md",
-    "Notes/Inbox/親切をされたした場合、謝礼はあげないほうがいい。受け取るのもよしたほうがいい.md",
     "Notes/Inbox/東洋軒の中村さんぐらいどんな仕事でも自分にできる事を不貞腐れず精一杯やってGiveもできるようになりたい。.md",
     "Notes/Inbox/ドーパミンは短期的報酬型(ネット)を減らして長期的報酬型(勉強とか運動)を中心にする。.md",
     "Notes/Inbox/砂糖の過剰摂取は鬱を悪化させる.md",
@@ -227,7 +241,6 @@
     "Extra/Pasted image 20240125193012.png",
     "Extra/Pasted image 20240125192944.png",
     "Notes/Inbox/目の前の誘惑はif thenと小さな意味のないルーチンをこなす.md",
-    "Notes/Inbox/セルフコントロールは誘惑を排除した環境作りに使う。.md",
     "Extra/Pasted image 20240120171059.png",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
