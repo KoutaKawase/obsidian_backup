@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "最も良いアクティブラーニングの小テストはランダム化。こまめに小テストを挟むのがベスト。問題撮影して隙間時間にランダムに想起.md",
+                "file": "Notes/Index/勉強/学習の作法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "660468f3a124f6a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/目の前の誘惑に負けそうな時や習慣化したい行動の前に無意味な儀式を挟むと成功しやすい。.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "最も良いアクティブラーニングの小テストはランダム化。こまめに小テストを挟むのがベスト。問題撮影して隙間時間にランダムに想起.md",
+                "file": "Notes/Inbox/目の前の誘惑に負けそうな時や習慣化したい行動の前に無意味な儀式を挟むと成功しやすい。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "最も良いアクティブラーニングの小テストはランダム化。こまめに小テストを挟むのがベスト。問題撮影して隙間時間にランダムに想起.md",
+                "file": "Notes/Inbox/目の前の誘惑に負けそうな時や習慣化したい行動の前に無意味な儀式を挟むと成功しやすい。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "最も良いアクティブラーニングの小テストはランダム化。こまめに小テストを挟むのがベスト。問題撮影して隙間時間にランダムに想起.md"
+                "file": "Notes/Inbox/目の前の誘惑に負けそうな時や習慣化したい行動の前に無意味な儀式を挟むと成功しやすい。.md"
               }
             }
           },
@@ -229,13 +241,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c25ab50ce109b6fe",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "目の前の誘惑に負けそうな時や習慣化したい行動の前に無意味な儀式を挟むと成功しやすい。.md",
+    "Notes/Inbox/アクティブラーニングに受動的学習(聴くだけとか)を併用すると効果が高まる。単語帳の音聞くだけでもOK.md",
+    "Notes/Index/勉強/学習の作法.md",
     "Notes/Index/英語.md",
+    "最も良いアクティブラーニングの小テストはランダム化。こまめに小テストを挟むのがベスト。問題撮影して隙間時間にランダムに想起.md",
+    "Notes/Inbox/目の前の誘惑に負けそうな時や習慣化したい行動の前に無意味な儀式を挟むと成功しやすい。.md",
     "無題のフォルダ",
     "Notes/Inbox/相手が理解できることばで話しかければ、それは相手の頭に届く。相手の母国語で話しかければ、それは相手の心に届く.md",
-    "最も良いアクティブラーニングの小テストはランダム化。こまめに小テストを挟むのがベスト。問題撮影して隙間時間にランダムに想起.md",
     "Notes/Index/数学/index.md",
     "Notes/Inbox/やる気を増やしもっとも良いドーパミンの出し方は親切である。物や食べ物やご褒美は間違い。.md",
     "Notes/Inbox/親切をされたした場合、謝礼はあげないほうがいい。受け取るのもよしたほうがいい.md",
@@ -260,8 +274,6 @@
     "Notes/Inbox/下方比較や上方比較を避けてドーパミンを出さない為にニュース、SNSはやめたほうがいい。優越感は良くない。マイペース。.md",
     "Notes/Inbox/セロトニンは日光有酸素栄養咀嚼笑顔、背筋！.md",
     "Notes/Inbox/姿勢は自尊心も高めポジティブな感情を生む。.md",
-    "Notes/Inbox/幸福とはセロトニンオキシトシンドーパミンのバランスが良い事。ドーパミン以外を追い求めるのが大事。ドーパミンを追い求めるな。.md",
-    "Notes/Inbox/意思力が強いとは要因の排除と未来の自分への明確な意識と客観的思考.md",
     "Extra/Pasted image 20240126104349.png",
     "Extra/Pasted image 20240126104108.png",
     "Extra/Pasted image 20240125193012.png",
