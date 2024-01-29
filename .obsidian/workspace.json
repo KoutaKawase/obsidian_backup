@@ -126,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea9ecb19855b5f82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADHDがすぐやれるようになるには定期的な有酸素運動が効果的.md",
+                "file": "無題のファイル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADHDがすぐやれるようになるには定期的な有酸素運動が効果的.md",
+                "file": "無題のファイル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADHDがすぐやれるようになるには定期的な有酸素運動が効果的.md"
+                "file": "無題のファイル.md"
               }
             }
           },
@@ -265,10 +277,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ad21f85156d266f0",
+  "active": "ea9ecb19855b5f82",
   "lastOpenFiles": [
-    "Notes/Inbox/最も良いアクティブラーニングの小テストはランダム化。こまめに小テストを挟むのがベスト。問題撮影して隙間時間にランダムに想起.md",
     "ADHDがすぐやれるようになるには定期的な有酸素運動が効果的.md",
+    "無題のファイル.md",
+    "Notes/Inbox/最も良いアクティブラーニングの小テストはランダム化。こまめに小テストを挟むのがベスト。問題撮影して隙間時間にランダムに想起.md",
     "Notes/Inbox/数学はとにかく手を動かせ。考える→書くじゃなくて書く→考えるが大事.md",
     "Notes/Inbox/やる気を増やしもっとも良いドーパミンの出し方は親切である。物や食べ物やご褒美は間違い。.md",
     "Notes/Inbox/アクティブラーニングに受動的学習(聴くだけとか)を併用すると効果が高まる。単語帳の音聞くだけでもOK.md",
@@ -297,7 +310,6 @@
     "Pasted image 20240126135252.png",
     "Notes/Inbox/マルチタスクはIQを大きく下げる。ながら作業しない。.md",
     "Extra/Pasted image 20240126135135.png",
-    "Notes/Inbox/下方比較や上方比較を避けてドーパミンを出さない為にニュース、SNSはやめたほうがいい。優越感は良くない。マイペース。.md",
     "Extra/Pasted image 20240126104349.png",
     "Extra/Pasted image 20240126104108.png",
     "Extra/Pasted image 20240125193012.png",
