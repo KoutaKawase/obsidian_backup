@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/油は依存性が特に強い。脳は油の限度を設定していない。.md",
+                "file": "Notes/Inbox/人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "英作文",
+                "query": "思い込み",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/油は依存性が特に強い。脳は油の限度を設定していない。.md",
+                "file": "Notes/Inbox/人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/油は依存性が特に強い。脳は油の限度を設定していない。.md",
+                "file": "Notes/Inbox/人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/油は依存性が特に強い。脳は油の限度を設定していない。.md"
+                "file": "Notes/Inbox/人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md"
               }
             }
           },
@@ -181,10 +182,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "cbaa337b6de152ee",
   "lastOpenFiles": [
-    "Notes/Index/メンタルヘルス.md",
+    "Notes/Index/数学/index.md",
     "Notes/Inbox/油は依存性が特に強い。脳は油の限度を設定していない。.md",
+    "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/英語は必要なところ以外口を動かさない。「動かさない」を基準に曖昧母音を駆使することで流暢に聞こえる.md",
     "Notes/Inbox/覚えたい事理解したい事(公式や用語)はリスト化してHowとWhyを繰り返して自己解説し分かったつもりをなくす.md",
     "Notes/Inbox/その日学んだことを暇な時に\"想起\"するのが効果的.md",
@@ -200,7 +202,6 @@
     "Notes/Inbox/アクティブラーニングに受動的学習(聴くだけとか)を併用すると効果が高まる。単語帳の音聞くだけでもOK.md",
     "無題のフォルダ",
     "Notes/Inbox/相手が理解できることばで話しかければ、それは相手の頭に届く。相手の母国語で話しかければ、それは相手の心に届く.md",
-    "Notes/Index/数学/index.md",
     "Notes/Inbox/親切をされたした場合、謝礼はあげないほうがいい。受け取るのもよしたほうがいい.md",
     "Notes/Inbox/仕事は選べないかもしれないが、仕事への姿勢や生き方は自分で選べる.md",
     "Notes/Inbox/自分の強み(プログラミングや英語など)を活かして社会や人の役に立つ事が幸福につながる.md",
