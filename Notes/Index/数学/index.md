@@ -11,7 +11,7 @@ TABLE FROM #数学への取り組み方
 ```dataview
 TABLE FROM #数学 AND #計算力 
 ```
-
+[基礎からのジャンプアップノート 数学 計算 演習ドリル | 嶋田 香 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E3%81%AE%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%8E%E3%83%BC%E3%83%88-%E6%95%B0%E5%AD%A6-%E8%A8%88%E7%AE%97-%E6%BC%94%E7%BF%92%E3%83%89%E3%83%AA%E3%83%AB-%E5%B6%8B%E7%94%B0/dp/4010345020/ref=sr_1_9?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E6%95%B0IA+%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF&qid=1706694148&s=books&sr=1-9)
 ## 参考書
 ```dataview
 TABLE FROM #数学 AND #参考書 
