@@ -6,7 +6,7 @@ tags:
 ```dataview
 TABLE FROM #数学への取り組み方 
 ```
-
+[いかにして問題をとくか | G. ポリア, Polya,G., 賢信, 柿内 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E3%81%84%E3%81%8B%E3%81%AB%E3%81%97%E3%81%A6%E5%95%8F%E9%A1%8C%E3%82%92%E3%81%A8%E3%81%8F%E3%81%8B-G-%E3%83%9D%E3%83%AA%E3%82%A2/dp/4621045938)
 ## 計算力
 ```dataview
 TABLE FROM #数学 AND #計算力 
