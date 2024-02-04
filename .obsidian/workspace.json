@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "導関数はある関数に従って変化する量のある点における一瞬の振る舞いを連続的に描いたもの。各点における微分係数を与える関数 ある点 -> 導関数 -> ある点の傾き.md",
+                "file": "Notes/Inbox/導関数はある関数に従って変化する量のある点における一瞬の振る舞いを連続的に描いたもの。各点における微分係数を与える関数 ある点 -> 導関数 -> ある点の傾き.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "750686698d62f76f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "物や散財では幸せになれない。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "導関数はある関数に従って変化する量のある点における一瞬の振る舞いを連続的に描いたもの。各点における微分係数を与える関数 ある点 -> 導関数 -> ある点の傾き.md",
+                "file": "物や散財では幸せになれない。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "導関数はある関数に従って変化する量のある点における一瞬の振る舞いを連続的に描いたもの。各点における微分係数を与える関数 ある点 -> 導関数 -> ある点の傾き.md",
+                "file": "物や散財では幸せになれない。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "導関数はある関数に従って変化する量のある点における一瞬の振る舞いを連続的に描いたもの。各点における微分係数を与える関数 ある点 -> 導関数 -> ある点の傾き.md"
+                "file": "物や散財では幸せになれない。.md"
               }
             }
           },
@@ -205,10 +217,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "614005a7879a94d0",
+  "active": "750686698d62f76f",
   "lastOpenFiles": [
+    "Notes/Inbox/導関数はある関数に従って変化する量のある点における一瞬の振る舞いを連続的に描いたもの。各点における微分係数を与える関数 ある点 -> 導関数 -> ある点の傾き.md",
+    "物や散財では幸せになれない。.md",
     "Notes/Index/数学/index.md",
-    "導関数はある関数に従って変化する量のある点における一瞬の振る舞いを連続的に描いたもの。各点における微分係数を与える関数 ある点 -> 導関数 -> ある点の傾き.md",
     "Notes/Inbox/学習や考え事は思考を声に出すと理解が深まる。実況 自己質問 要約が効果的。.md",
     "無題のフォルダ",
     "Notes/Inbox/物事は必ず音読すること。5感を使うことで効果があがる。運動+音読+感情。.md",
@@ -233,7 +246,6 @@
     "Notes/Inbox/職場を働きやすくするなら積極的に同僚に親切したほうがいい。嫌いな人でも。.md",
     "Notes/Inbox/目の前の誘惑に負けそうな時や習慣化したい行動の前に無意味な儀式を挟むと成功しやすい。.md",
     "Notes/Index/勉強/学習の作法.md",
-    "Notes/Index/英語.md",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
     "Pasted image 20240126135252.png",
