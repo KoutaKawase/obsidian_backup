@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a594d6fa819f9e1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/物事は必ず音読すること。5感を使うことで効果があがる。運動+音読+感情。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0de314a4e4bd2500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学習や考え事は思考を声に出すと理解が深まる。実況 自己質問 要約が効果的。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/褒められたら素直に感謝をすること。卑下しない。.md",
+                "file": "学習や考え事は思考を声に出すと理解が深まる。実況 自己質問 要約が効果的。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/褒められたら素直に感謝をすること。卑下しない。.md",
+                "file": "学習や考え事は思考を声に出すと理解が深まる。実況 自己質問 要約が効果的。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/褒められたら素直に感謝をすること。卑下しない。.md"
+                "file": "学習や考え事は思考を声に出すと理解が深まる。実況 自己質問 要約が効果的。.md"
               }
             }
           },
@@ -169,10 +193,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "0de314a4e4bd2500",
   "lastOpenFiles": [
-    "Notes/Inbox/自分を卑下する言い方は相手が困る。「下手なので」とか「ダメな人間なので」とかは禁止。「修行中です」とか前向きな言い換えにするべき。.md",
+    "Notes/Inbox/物事は必ず音読すること。5感を使うことで効果があがる。運動+音読+感情。.md",
+    "学習や考え事は思考を声に出すと理解が深まる。実況 自己質問 要約が効果的。.md",
+    "Notes/Inbox/自己参照効果を利用して暗記の効率を上げる。自分を中心として想像する。自分が覚えたいことを他人に解説するイメージ。.md",
     "Notes/Inbox/褒められたら素直に感謝をすること。卑下しない。.md",
+    "Notes/Inbox/自分を卑下する言い方は相手が困る。「下手なので」とか「ダメな人間なので」とかは禁止。「修行中です」とか前向きな言い換えにするべき。.md",
     "Notes/Inbox/Speakingはシャドーイングが最重要。歩きながら、背筋、大きな声でクリアに。細かいセッションに分け日に複数やる.md",
     "Notes/Inbox/BDNFは運動 瞑想 断食 太陽 脱砂糖脂肪.md",
     "Notes/Inbox/最もBDNFに良い運動は40分の有酸素(80%心拍数)が良い。座りすぎは15%BDNFが減少。筋トレ、有酸素、HIIT。ADHDにも効く.md",
@@ -194,10 +221,7 @@
     "Notes/Index/勉強/学習の作法.md",
     "Notes/Index/英語.md",
     "Notes/Inbox/数学はとにかく手を動かせ。考える→書くじゃなくて書く→考えるが大事.md",
-    "Notes/Inbox/アクティブラーニングに受動的学習(聴くだけとか)を併用すると効果が高まる。単語帳の音聞くだけでもOK.md",
     "無題のフォルダ",
-    "Notes/Inbox/相手が理解できることばで話しかければ、それは相手の頭に届く。相手の母国語で話しかければ、それは相手の心に届く.md",
-    "Notes/Inbox/親切をされたした場合、謝礼はあげないほうがいい。受け取るのもよしたほうがいい.md",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
     "Pasted image 20240126135252.png",
