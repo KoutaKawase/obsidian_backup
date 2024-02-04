@@ -8,91 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80ec19e560162e2a",
+            "id": "7567a2d023160b64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/覚えたい事理解したい事(公式や用語)はリスト化してHowとWhyを繰り返して自己解説し分かったつもりをなくす.md",
+                "file": "Notes/Inbox/自分を卑下する言い方は相手が困る。「下手なので」とか「ダメな人間なので」とかは禁止。「修行中です」とか前向きな言い換えにするべき。.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a214cd136e18dd32",
+            "id": "875b1681cedb872f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbaa337b6de152ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43672ebdbf0a80d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/数学/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db9d4d01ad907680",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/数学は間違えた問題のポイントをまとめた薄いノートを作る.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10f4e35ea2dc2505",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/最もBDNFに良い運動は40分の有酸素(80%心拍数)が良い。座りすぎは15%BDNFが減少。筋トレ、有酸素、HIIT。ADHDにも効く.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad8230cc1b24aada",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/BDNFは運動 瞑想 断食 太陽 脱砂糖脂肪.md",
+                "file": "Notes/Inbox/褒められたら素直に感謝をすること。卑下しない。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/BDNFは運動 瞑想 断食 太陽 脱砂糖脂肪.md",
+                "file": "Notes/Inbox/褒められたら素直に感謝をすること。卑下しない。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/BDNFは運動 瞑想 断食 太陽 脱砂糖脂肪.md",
+                "file": "Notes/Inbox/褒められたら素直に感謝をすること。卑下しない。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/BDNFは運動 瞑想 断食 太陽 脱砂糖脂肪.md"
+                "file": "Notes/Inbox/褒められたら素直に感謝をすること。卑下しない。.md"
               }
             }
           },
@@ -231,8 +171,11 @@
   },
   "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "Notes/Inbox/最もBDNFに良い運動は40分の有酸素(80%心拍数)が良い。座りすぎは15%BDNFが減少。筋トレ、有酸素、HIIT。ADHDにも効く.md",
+    "Notes/Inbox/自分を卑下する言い方は相手が困る。「下手なので」とか「ダメな人間なので」とかは禁止。「修行中です」とか前向きな言い換えにするべき。.md",
+    "Notes/Inbox/褒められたら素直に感謝をすること。卑下しない。.md",
+    "Notes/Inbox/Speakingはシャドーイングが最重要。歩きながら、背筋、大きな声でクリアに。細かいセッションに分け日に複数やる.md",
     "Notes/Inbox/BDNFは運動 瞑想 断食 太陽 脱砂糖脂肪.md",
+    "Notes/Inbox/最もBDNFに良い運動は40分の有酸素(80%心拍数)が良い。座りすぎは15%BDNFが減少。筋トレ、有酸素、HIIT。ADHDにも効く.md",
     "Notes/Inbox/数学は間違えた問題のポイントをまとめた薄いノートを作る.md",
     "Notes/Index/数学/index.md",
     "Notes/Inbox/仕事が退屈かどうかは自分次第。なくてはならない人間になれ。自分の幸福について心配するのを止めろ.md",
@@ -255,9 +198,6 @@
     "無題のフォルダ",
     "Notes/Inbox/相手が理解できることばで話しかければ、それは相手の頭に届く。相手の母国語で話しかければ、それは相手の心に届く.md",
     "Notes/Inbox/親切をされたした場合、謝礼はあげないほうがいい。受け取るのもよしたほうがいい.md",
-    "Notes/Inbox/仕事は選べないかもしれないが、仕事への姿勢や生き方は自分で選べる.md",
-    "Notes/Inbox/自分の強み(プログラミングや英語など)を活かして社会や人の役に立つ事が幸福につながる.md",
-    "Notes/Inbox/東洋軒の中村さんぐらいどんな仕事でも自分にできる事を不貞腐れず精一杯やってGiveもできるようになりたい。.md",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
     "Pasted image 20240126135252.png",
