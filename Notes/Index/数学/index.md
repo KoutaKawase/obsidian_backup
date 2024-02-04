@@ -29,6 +29,9 @@ TABLE FROM #三角関数
 大事なのは手を動かす事
 
 ## 微積
+```dataview
+TABLE FROM #微積 
+```
 [微積分／導関数１回目　瞬間に速さはあるのか？　平均変化率と瞬間変化率 - YouTube](https://www.youtube.com/watch?v=WVDva5fjadg&list=PLaUN0MH8gzXMm2UGIL-lR7R3_BHoY5zWQ)
 
 - [小学生がたった1日で19×19までかんぺきに暗算できる本 | 小杉拓也 |本 | 通販 | Amazon](https://www.amazon.co.jp/o/ASIN/4478116563/diamondinc-22/)
