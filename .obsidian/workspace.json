@@ -4,95 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "e6eb60c9a720cc89",
+        "id": "f4ccb5b1ab3a38db",
         "type": "tabs",
         "children": [
           {
-            "id": "7567a2d023160b64",
+            "id": "862f83fcaafe8b3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/自分を卑下する言い方は相手が困る。「下手なので」とか「ダメな人間なので」とかは禁止。「修行中です」とか前向きな言い換えにするべき。.md",
+                "file": "Notes/Inbox/どんな人でも多くのことを同時に抱えると疲弊する。まず一つのことをきちんとすべき。ユダヤの格言.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "875b1681cedb872f",
+            "id": "1d08db43f09c842b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/褒められたら素直に感謝をすること。卑下しない。.md",
+                "file": "Notes/Inbox/完璧(発音文法)を求めない。動き等丸々真似る。観察。好きな分野の語彙を覚える。母国語を使わない。体験とともに覚える。英語で生活する。.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a594d6fa819f9e1a",
+            "id": "14c367e1c05a1e07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/物事は必ず音読すること。5感を使うことで効果があがる。運動+音読+感情。.md",
+                "file": "Notes/Inbox/多言語は言語ごとに妥協を意識する。好きになる努力、言語への愛着が必要。好きな言語をすべき。.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0de314a4e4bd2500",
+            "id": "ff09eaf90a100897",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/学習や考え事は思考を声に出すと理解が深まる。実況 自己質問 要約が効果的。.md",
+                "file": "Notes/Inbox/言語学習者の9割は辞める。下手でもいいので継続するだけで勝てるのが語学。.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "614005a7879a94d0",
+            "id": "bef776ff2f4b89a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/導関数はある関数に従って変化する量のある点における一瞬の振る舞いを連続的に描いたもの。各点における微分係数を与える関数 ある点 -> 導関数 -> ある点の傾き.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "750686698d62f76f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/物や散財では幸せになれない。擬似的なリッチ生活を意識。お金があってもする事の比率を増やす。運動 勉強 親切.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e13f5ba66684fcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/性格は変えられないが行動は変えられる。人前では別人格をスイッチする。家出る前に演じるイメージ。親切　笑顔.md",
+                "file": "英会話は5文型が大事。SVOOは与える型。SVOCはO=Cになる。これらを駆使して話すのがSpeaking.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/自分を卑下する言い方は相手が困る。「下手なので」とか「ダメな人間なので」とかは禁止。「修行中です」とか前向きな言い換えにするべき。.md",
+                "file": "英会話は5文型が大事。SVOOは与える型。SVOCはO=Cになる。これらを駆使して話すのがSpeaking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/自分を卑下する言い方は相手が困る。「下手なので」とか「ダメな人間なので」とかは禁止。「修行中です」とか前向きな言い換えにするべき。.md",
+                "file": "英会話は5文型が大事。SVOOは与える型。SVOCはO=Cになる。これらを駆使して話すのがSpeaking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/自分を卑下する言い方は相手が困る。「下手なので」とか「ダメな人間なので」とかは禁止。「修行中です」とか前向きな言い換えにするべき。.md"
+                "file": "英会話は5文型が大事。SVOOは与える型。SVOCはO=Cになる。これらを駆使して話すのがSpeaking.md"
               }
             }
           },
@@ -229,18 +205,25 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "bef776ff2f4b89a2",
   "lastOpenFiles": [
-    "Notes/Inbox/物や散財では幸せになれない。擬似的なリッチ生活を意識。お金があってもする事の比率を増やす。運動 勉強 親切.md",
+    "Notes/Inbox/言語学習者の9割は辞める。下手でもいいので継続するだけで勝てるのが語学。.md",
+    "英会話は5文型が大事。SVOOは与える型。SVOCはO=Cになる。これらを駆使して話すのがSpeaking.md",
+    "Notes/Inbox/多言語は言語ごとに妥協を意識する。好きになる努力、言語への愛着が必要。好きな言語をすべき。.md",
+    "Notes/Inbox/完璧(発音文法)を求めない。動き等丸々真似る。観察。好きな分野の語彙を覚える。母国語を使わない。体験とともに覚える。英語で生活する。.md",
+    "Notes/Inbox/どんな人でも多くのことを同時に抱えると疲弊する。まず一つのことをきちんとすべき。ユダヤの格言.md",
+    "Notes/Index/英語.md",
     "Notes/Inbox/性格は変えられないが行動は変えられる。人前では別人格をスイッチする。家出る前に演じるイメージ。親切　笑顔.md",
+    "Notes/Inbox/物や散財では幸せになれない。擬似的なリッチ生活を意識。お金があってもする事の比率を増やす。運動 勉強 親切.md",
     "Notes/Inbox/導関数はある関数に従って変化する量のある点における一瞬の振る舞いを連続的に描いたもの。各点における微分係数を与える関数 ある点 -> 導関数 -> ある点の傾き.md",
-    "Notes/Index/数学/index.md",
     "Notes/Inbox/学習や考え事は思考を声に出すと理解が深まる。実況 自己質問 要約が効果的。.md",
+    "Notes/Index/数学/index.md",
+    "Notes/Index/金融.md",
+    "Notes/Inbox/自分を卑下する言い方は相手が困る。「下手なので」とか「ダメな人間なので」とかは禁止。「修行中です」とか前向きな言い換えにするべき。.md",
     "無題のフォルダ",
     "Notes/Inbox/物事は必ず音読すること。5感を使うことで効果があがる。運動+音読+感情。.md",
     "Notes/Inbox/自己参照効果を利用して暗記の効率を上げる。自分を中心として想像する。自分が覚えたいことを他人に解説するイメージ。.md",
     "Notes/Inbox/褒められたら素直に感謝をすること。卑下しない。.md",
-    "Notes/Inbox/自分を卑下する言い方は相手が困る。「下手なので」とか「ダメな人間なので」とかは禁止。「修行中です」とか前向きな言い換えにするべき。.md",
     "Notes/Inbox/Speakingはシャドーイングが最重要。歩きながら、背筋、大きな声でクリアに。細かいセッションに分け日に複数やる.md",
     "Notes/Inbox/BDNFは運動 瞑想 断食 太陽 脱砂糖脂肪.md",
     "Notes/Inbox/最もBDNFに良い運動は40分の有酸素(80%心拍数)が良い。座りすぎは15%BDNFが減少。筋トレ、有酸素、HIIT。ADHDにも効く.md",
@@ -251,13 +234,6 @@
     "Notes/Inbox/油は依存性が特に強い。脳は油の限度を設定していない。.md",
     "Notes/Inbox/英語は必要なところ以外口を動かさない。「動かさない」を基準に曖昧母音を駆使することで流暢に聞こえる.md",
     "Notes/Inbox/覚えたい事理解したい事(公式や用語)はリスト化してHowとWhyを繰り返して自己解説し分かったつもりをなくす.md",
-    "Notes/Inbox/その日学んだことを暇な時に\"想起\"するのが効果的.md",
-    "Notes/Inbox/ADHDがすぐやれるようになるには定期的な有酸素運動が効果的.md",
-    "Notes/Inbox/最も良いアクティブラーニングの小テストはランダム化。こまめに小テストを挟むのがベスト。問題撮影して隙間時間にランダムに想起.md",
-    "Notes/Inbox/「陰徳」を積むのがもっともよい善行。ただし「善い事をしたい」「善果がほしい」など不純が混じるのはよくない。陰徳あれば陽報あり.md",
-    "Notes/Inbox/やる気を増やしもっとも良いドーパミンの出し方は親切である。物や食べ物やご褒美は間違い。.md",
-    "Notes/Inbox/職場を働きやすくするなら積極的に同僚に親切したほうがいい。嫌いな人でも。.md",
-    "Notes/Inbox/目の前の誘惑に負けそうな時や習慣化したい行動の前に無意味な儀式を挟むと成功しやすい。.md",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
     "Pasted image 20240126135252.png",
