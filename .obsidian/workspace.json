@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6eb6b0377bdd685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/資格.md",
+                "file": "無題のファイル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/資格.md",
+                "file": "無題のファイル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/資格.md"
+                "file": "無題のファイル.md"
               }
             }
           },
@@ -205,8 +217,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bef776ff2f4b89a2",
+  "active": "c6eb6b0377bdd685",
   "lastOpenFiles": [
+    "Notes/Index/資格.md",
+    "無題のファイル.md",
     "Notes/Inbox/英会話は5文型が大事。SVOOは与える型。SVOCはO=Cになる。これらを駆使して話すのがSpeaking.md",
     "Notes/Inbox/言語学習者の9割は辞める。下手でもいいので継続するだけで勝てるのが語学。.md",
     "Notes/Inbox/多言語は言語ごとに妥協を意識する。好きになる努力、言語への愛着が必要。好きな言語をすべき。.md",
@@ -232,8 +246,6 @@
     "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md",
     "Notes/Inbox/油は依存性が特に強い。脳は油の限度を設定していない。.md",
-    "Notes/Inbox/英語は必要なところ以外口を動かさない。「動かさない」を基準に曖昧母音を駆使することで流暢に聞こえる.md",
-    "Notes/Inbox/覚えたい事理解したい事(公式や用語)はリスト化してHowとWhyを繰り返して自己解説し分かったつもりをなくす.md",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
     "Pasted image 20240126135252.png",
