@@ -85,14 +85,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "機嫌が悪いからといって怒りに変換して人に当たらない。怒りは表に出してはいけないのだ。.md",
+                "file": "Notes/Index/資格.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52c3e3de5bc5266b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "機嫌が悪いからといって怒りに変換して人に当たらない。怒りは表に出してはいけないのだ。.md",
+                "file": "無題のファイル 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "機嫌が悪いからといって怒りに変換して人に当たらない。怒りは表に出してはいけないのだ。.md",
+                "file": "無題のファイル 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "機嫌が悪いからといって怒りに変換して人に当たらない。怒りは表に出してはいけないのだ。.md"
+                "file": "無題のファイル 1.md"
               }
             }
           },
@@ -229,11 +241,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "da4f62ce87bd2a39",
+  "active": "52c3e3de5bc5266b",
   "lastOpenFiles": [
-    "無題のファイル.md",
-    "機嫌が悪いからといって怒りに変換して人に当たらない。怒りは表に出してはいけないのだ。.md",
     "Notes/Index/資格.md",
+    "無題のファイル 1.md",
+    "Notes/Inbox/機嫌が悪いからといって怒りに変換して人に当たらない。怒りは表に出してはいけないのだ。.md",
+    "無題のファイル.md",
     "Notes/Inbox/英会話は5文型が大事。SVOOは与える型。SVOCはO=Cになる。これらを駆使して話すのがSpeaking.md",
     "Notes/Inbox/言語学習者の9割は辞める。下手でもいいので継続するだけで勝てるのが語学。.md",
     "Notes/Inbox/多言語は言語ごとに妥協を意識する。好きになる努力、言語への愛着が必要。好きな言語をすべき。.md",
@@ -257,7 +270,6 @@
     "Notes/Inbox/数学は間違えた問題のポイントをまとめた薄いノートを作る.md",
     "Notes/Inbox/仕事が退屈かどうかは自分次第。なくてはならない人間になれ。自分の幸福について心配するのを止めろ.md",
     "Notes/Index/メンタルヘルス.md",
-    "Notes/Inbox/人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。.md",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
     "Pasted image 20240126135252.png",
