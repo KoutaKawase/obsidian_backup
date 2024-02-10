@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "勉強とか読書で理解できない所や難しい場所は音読しながら写経するといい。.md",
+                "file": "Notes/Inbox/勉強とか読書で理解できない所や難しい場所は音読しながら写経するといい。.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "勉強とか読書で理解できない所や難しい場所は音読しながら写経するといい。.md",
+                "file": "Notes/Inbox/勉強とか読書で理解できない所や難しい場所は音読しながら写経するといい。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "勉強とか読書で理解できない所や難しい場所は音読しながら写経するといい。.md",
+                "file": "Notes/Inbox/勉強とか読書で理解できない所や難しい場所は音読しながら写経するといい。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "勉強とか読書で理解できない所や難しい場所は音読しながら写経するといい。.md"
+                "file": "Notes/Inbox/勉強とか読書で理解できない所や難しい場所は音読しながら写経するといい。.md"
               }
             }
           },
@@ -193,10 +193,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bcaf52ab96be4a21",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
     "Notes/Inbox/良いと思ったら素直に良かったと伝えよう。コメントとか。.md",
-    "勉強とか読書で理解できない所や難しい場所は音読しながら写経するといい。.md",
+    "Notes/Inbox/勉強とか読書で理解できない所や難しい場所は音読しながら写経するといい。.md",
     "Notes/Index/アイデア帳.md",
     "Notes/Inbox/理想の人物像は安全意識 明るく元気 挨拶 前向き 挑戦 自分で考える 準備しっかり 即レス 自責.md",
     "Notes/Index/プログラミング/Laravel.md",
