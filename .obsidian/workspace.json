@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "理想の人物像は安全意識 明るく元気 挨拶 前向き 挑戦 自分で考える 準備しっかり 即レス 自責.md",
+                "file": "Notes/Inbox/理想の人物像は安全意識 明るく元気 挨拶 前向き 挑戦 自分で考える 準備しっかり 即レス 自責.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56e1cf88df441ef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "良いと思ったら素直に良かったと伝えよう。コメントとか。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "理想の人物像は安全意識 明るく元気 挨拶 前向き 挑戦 自分で考える 準備しっかり 即レス 自責.md",
+                "file": "良いと思ったら素直に良かったと伝えよう。コメントとか。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "理想の人物像は安全意識 明るく元気 挨拶 前向き 挑戦 自分で考える 準備しっかり 即レス 自責.md",
+                "file": "良いと思ったら素直に良かったと伝えよう。コメントとか。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "理想の人物像は安全意識 明るく元気 挨拶 前向き 挑戦 自分で考える 準備しっかり 即レス 自責.md"
+                "file": "良いと思ったら素直に良かったと伝えよう。コメントとか。.md"
               }
             }
           },
@@ -169,10 +181,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a55d2ad0b69454df",
+  "active": "56e1cf88df441ef1",
   "lastOpenFiles": [
+    "Notes/Inbox/理想の人物像は安全意識 明るく元気 挨拶 前向き 挑戦 自分で考える 準備しっかり 即レス 自責.md",
+    "良いと思ったら素直に良かったと伝えよう。コメントとか。.md",
     "Notes/Index/プログラミング/Laravel.md",
-    "理想の人物像は安全意識 明るく元気 挨拶 前向き 挑戦 自分で考える 準備しっかり 即レス 自責.md",
     "Notes/Inbox/LaravelのModelは直接Viewから扱わない。Entityに詰め替える。N+1を防げる.md",
     "Notes/Inbox/MPAの大まかな責務はリクエスト検証 バリデーション CRUD操作 APIアクセス View(レスポンス)整形 各処理順序の調整.md",
     "Notes/Index/資格.md",
@@ -197,7 +210,6 @@
     "Notes/Inbox/褒められたら素直に感謝をすること。卑下しない。.md",
     "Notes/Inbox/Speakingはシャドーイングが最重要。歩きながら、背筋、大きな声でクリアに。細かいセッションに分け日に複数やる.md",
     "Notes/Inbox/BDNFは運動 瞑想 断食 太陽 脱砂糖脂肪.md",
-    "Notes/Inbox/最もBDNFに良い運動は40分の有酸素(80%心拍数)が良い。座りすぎは15%BDNFが減少。筋トレ、有酸素、HIIT。ADHDにも効く.md",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
     "Pasted image 20240126135252.png",
