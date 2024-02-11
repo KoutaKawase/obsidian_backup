@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/SpeakingのだいたいのことはOXFORD3000の単語で置き換えできる.md",
+                "file": "Notes/Index/プログラミング/Laravel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/SpeakingのだいたいのことはOXFORD3000の単語で置き換えできる.md",
+                "file": "Notes/Index/プログラミング/Laravel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/SpeakingのだいたいのことはOXFORD3000の単語で置き換えできる.md"
+                "file": "Notes/Index/プログラミング/Laravel.md"
               }
             }
           },
