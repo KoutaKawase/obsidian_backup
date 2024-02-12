@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba6c7524507d6993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -162,8 +174,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/プログラミング/Laravel.md",
+                "file": "無題のファイル 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/プログラミング/Laravel.md",
+                "file": "無題のファイル 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/プログラミング/Laravel.md"
+                "file": "無題のファイル 1.md"
               }
             }
           },
@@ -254,10 +265,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e802643ddfeb5eab",
+  "active": "ba6c7524507d6993",
   "lastOpenFiles": [
-    "Notes/Index/金融.md",
     "Notes/Index/プログラミング/Laravel.md",
+    "無題のファイル 1.md",
+    "Notes/Index/金融.md",
     "無題のファイル.md",
     "Notes/Inbox/SpeakingのだいたいのことはOXFORD3000の単語で置き換えできる.md",
     "Notes/Inbox/ネガティブな言葉や行動はやめよう。実はブッダの言葉。言葉は人格修正パッチ.md",
@@ -281,7 +293,6 @@
     "Notes/Index/英語.md",
     "Notes/Inbox/性格は変えられないが行動は変えられる。人前では別人格をスイッチする。家出る前に演じるイメージ。親切　笑顔.md",
     "Notes/Inbox/物や散財では幸せになれない。擬似的なリッチ生活を意識。お金があってもする事の比率を増やす。運動 勉強 親切.md",
-    "Notes/Inbox/導関数はある関数に従って変化する量のある点における一瞬の振る舞いを連続的に描いたもの。各点における微分係数を与える関数 ある点 -> 導関数 -> ある点の傾き.md",
     "無題のフォルダ",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
