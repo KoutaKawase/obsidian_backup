@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/SpeakingのだいたいのことはOXFORD3000の単語で置き換えできる.md",
+                "file": "Notes/Index/英語.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "比較",
+                "query": "英作文",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +162,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -253,21 +254,21 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "e802643ddfeb5eab",
   "lastOpenFiles": [
+    "Notes/Index/金融.md",
+    "Notes/Index/プログラミング/Laravel.md",
     "無題のファイル.md",
     "Notes/Inbox/SpeakingのだいたいのことはOXFORD3000の単語で置き換えできる.md",
     "Notes/Inbox/ネガティブな言葉や行動はやめよう。実はブッダの言葉。言葉は人格修正パッチ.md",
     "Notes/Inbox/SpeakingはVoAぐらい遅くてもいいからしっかりはっきり丁寧に話す。.md",
     "Notes/Inbox/なぜ導関数を求めるのか。複雑な関数は導関数を求めないとグラフが分からないから。導関数は傾きの関数だから元の関数がどう変化するか予測できる。.md",
-    "Notes/Index/金融.md",
     "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/行動前に悩む 悪口を言う 嫌いな人を考える 比べて落ち込む 過去を悔やむ 不安で怯える 救われるのを待つ受け身 これらは辞めろ。.md",
     "Notes/Inbox/勉強とか読書で理解できない所や難しい場所は音読しながら写経するといい。.md",
     "Notes/Inbox/良いと思ったら素直に良かったと伝えよう。コメントとか。.md",
     "Notes/Index/アイデア帳.md",
     "Notes/Inbox/理想の人物像は安全意識 明るく元気 挨拶 前向き 挑戦 自分で考える 準備しっかり 即レス 自責.md",
-    "Notes/Index/プログラミング/Laravel.md",
     "Notes/Inbox/LaravelのModelは直接Viewから扱わない。Entityに詰め替える。N+1を防げる.md",
     "Notes/Inbox/MPAの大まかな責務はリクエスト検証 バリデーション CRUD操作 APIアクセス View(レスポンス)整形 各処理順序の調整.md",
     "Notes/Index/資格.md",
