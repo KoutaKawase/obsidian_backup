@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Notes/Inbox/電気工事は切り傷が出来やすいので医療用のテープなど持っておくといい.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ffffa00195780ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "無題のファイル 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,8 +169,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a6143bdad3976899",
+  "active": "5ffffa00195780ea",
   "lastOpenFiles": [
+    "Notes/Inbox/電気工事は切り傷が出来やすいので医療用のテープなど持っておくといい.md",
     "無題のファイル 1.md",
     "Notes/Inbox/Primary Keyに安易にUUIDを使わない。内部的にauto incrementして見せるようは一意のカラムを別で用意する。.md",
     "Notes/Index/プログラミング/データベース.md",
@@ -183,7 +197,6 @@
     "Notes/Inbox/機嫌が悪いからといって怒りに変換して人に当たらない。怒りは表に出してはいけないのだ。.md",
     "Notes/Inbox/英会話は5文型が大事。SVOOは与える型。SVOCはO=Cになる。これらを駆使して話すのがSpeaking.md",
     "Notes/Inbox/言語学習者の9割は辞める。下手でもいいので継続するだけで勝てるのが語学。.md",
-    "Notes/Inbox/多言語は言語ごとに妥協を意識する。好きになる努力、言語への愛着が必要。好きな言語をすべき。.md",
     "無題のフォルダ",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
