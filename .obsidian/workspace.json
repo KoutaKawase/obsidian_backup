@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cbe5ad4a656cc621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/メンタルヘルス.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/電気工事は切り傷が出来やすいので医療用のテープなど持っておくといい.md",
+                "file": "Notes/Index/メンタルヘルス.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/電気工事は切り傷が出来やすいので医療用のテープなど持っておくといい.md",
+                "file": "Notes/Index/メンタルヘルス.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/電気工事は切り傷が出来やすいので医療用のテープなど持っておくといい.md"
+                "file": "Notes/Index/メンタルヘルス.md"
               }
             }
           },
@@ -181,8 +193,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "cbe5ad4a656cc621",
   "lastOpenFiles": [
+    "Notes/Inbox/Comparison is the thief of joy. セオドアルーズベルト。比較は喜びを盗む者。自分なりに小さな幸せを大事にする.md",
     "Notes/Inbox/電気工事は切り傷が出来やすいので医療用のテープなど持っておくといい.md",
     "Notes/Inbox/議論や話し合いは勝ち負けではない。お互いの見識を深めるため。お互い完璧ではない。相手への敬意を持つ。汚い言葉は御法度.md",
     "Notes/Inbox/ファビング(コミュニケーション中にデジタルデバイスを触る)は人間関係を破壊する.md",
@@ -208,7 +221,6 @@
     "Notes/Inbox/MPAの大まかな責務はリクエスト検証 バリデーション CRUD操作 APIアクセス View(レスポンス)整形 各処理順序の調整.md",
     "Notes/Index/資格.md",
     "Notes/Inbox/機嫌が悪いからといって怒りに変換して人に当たらない。怒りは表に出してはいけないのだ。.md",
-    "Notes/Inbox/英会話は5文型が大事。SVOOは与える型。SVOCはO=Cになる。これらを駆使して話すのがSpeaking.md",
     "無題のフォルダ",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
