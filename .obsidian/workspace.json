@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のファイル 1.md",
+                "file": "Notes/Inbox/議論や話し合いは勝ち負けではない。お互いの見識を深めるため。お互い完璧ではない。相手への敬意を持つ。汚い言葉は御法度.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "無題のファイル 1.md",
+                "file": "Notes/Inbox/電気工事は切り傷が出来やすいので医療用のテープなど持っておくといい.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "無題のファイル 1.md",
+                "file": "Notes/Inbox/電気工事は切り傷が出来やすいので医療用のテープなど持っておくといい.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "無題のファイル 1.md"
+                "file": "Notes/Inbox/電気工事は切り傷が出来やすいので医療用のテープなど持っておくといい.md"
               }
             }
           },
@@ -181,10 +181,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "76940c391567c670",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
     "Notes/Inbox/電気工事は切り傷が出来やすいので医療用のテープなど持っておくといい.md",
-    "無題のファイル 1.md",
+    "Notes/Inbox/議論や話し合いは勝ち負けではない。お互いの見識を深めるため。お互い完璧ではない。相手への敬意を持つ。汚い言葉は御法度.md",
     "Notes/Inbox/ファビング(コミュニケーション中にデジタルデバイスを触る)は人間関係を破壊する.md",
     "Notes/Inbox/Primary Keyに安易にUUIDを使わない。内部的にauto incrementして見せるようは一意のカラムを別で用意する。.md",
     "Notes/Index/プログラミング/データベース.md",
