@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f33e117f6a0897e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "筆記開示は寝る前などにやるといい。朝ネガはIQ下がる。ただし愚痴後悔怒りは厳禁。不安や悩み、したいこと、楽しかった事、感謝。８分でもOK。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/ルーティン化には「理想(完璧)の流れ」と「最低限これだけはやる」というものを決めておく。完璧にできなくても最低ラインを越せれば誉めるのが大事。.md",
+                "file": "筆記開示は寝る前などにやるといい。朝ネガはIQ下がる。ただし愚痴後悔怒りは厳禁。不安や悩み、したいこと、楽しかった事、感謝。８分でもOK。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/ルーティン化には「理想(完璧)の流れ」と「最低限これだけはやる」というものを決めておく。完璧にできなくても最低ラインを越せれば誉めるのが大事。.md",
+                "file": "筆記開示は寝る前などにやるといい。朝ネガはIQ下がる。ただし愚痴後悔怒りは厳禁。不安や悩み、したいこと、楽しかった事、感謝。８分でもOK。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/ルーティン化には「理想(完璧)の流れ」と「最低限これだけはやる」というものを決めておく。完璧にできなくても最低ラインを越せれば誉めるのが大事。.md"
+                "file": "筆記開示は寝る前などにやるといい。朝ネガはIQ下がる。ただし愚痴後悔怒りは厳禁。不安や悩み、したいこと、楽しかった事、感謝。８分でもOK。.md"
               }
             }
           },
@@ -169,13 +181,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "f33e117f6a0897e6",
   "lastOpenFiles": [
+    "Notes/Inbox/ルーティン化には「理想(完璧)の流れ」と「最低限これだけはやる」というものを決めておく。完璧にできなくても最低ラインを越せれば誉めるのが大事。.md",
+    "筆記開示は寝る前などにやるといい。朝ネガはIQ下がる。ただし愚痴後悔怒りは厳禁。不安や悩み、したいこと、楽しかった事、感謝。８分でもOK。.md",
     "Notes/Inbox/マインドフルな時間を日常で増やす。瞑想だけでなく、食事 ドライヤー お風呂 歩行など。シングルタスクが大事.md",
     "Notes/Index/メンタルヘルス.md",
     "Notes/Index/勉強/学習の作法.md",
     "Notes/Inbox/思考と距離を取る。俯瞰する。行動と分離する。(最重要).md",
-    "Notes/Inbox/ルーティン化には「理想(完璧)の流れ」と「最低限これだけはやる」というものを決めておく。完璧にできなくても最低ラインを越せれば誉めるのが大事。.md",
     "Notes/Inbox/幸せかどうかは自分次第。幸せを自分ではなく他人の評価に決めさせない。自己評価なき他者評価は終わりがない。自分を評価してあげる。.md",
     "Notes/Inbox/メンタルを強くしたいのならば目標とする人物像を持つ。実績ではなく振る舞いやマインドを真似る事。思い込みが大事。自分ならRyuさん.md",
     "Notes/Index/仕事.md",
@@ -197,7 +210,6 @@
     "Notes/Index/プログラミング/データベース.md",
     "Notes/Index/プログラミング/Laravel.md",
     "Notes/Index/金融.md",
-    "Notes/Inbox/上がってる時に買わない下がってる時に買わない。無能の自負があるなら個別銘柄はやめろ。インデックスのみ。.md",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
     "Pasted image 20240126135252.png",
