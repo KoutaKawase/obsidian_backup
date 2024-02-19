@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/人格と意見をイコールにしない。自分の意見が否定されても人格が否定されたわけではない。感情と事実も分けて考える。.md",
+                "file": "Notes/Index/仕事.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/人格と意見をイコールにしない。自分の意見が否定されても人格が否定されたわけではない。感情と事実も分けて考える。.md",
+                "file": "Notes/Index/仕事.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/人格と意見をイコールにしない。自分の意見が否定されても人格が否定されたわけではない。感情と事実も分けて考える。.md",
+                "file": "Notes/Index/仕事.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/人格と意見をイコールにしない。自分の意見が否定されても人格が否定されたわけではない。感情と事実も分けて考える。.md"
+                "file": "Notes/Index/仕事.md"
               }
             }
           },
@@ -219,8 +219,8 @@
   },
   "active": "658c2b86febc21dc",
   "lastOpenFiles": [
-    "Notes/Index/仕事.md",
     "Notes/Inbox/人格と意見をイコールにしない。自分の意見が否定されても人格が否定されたわけではない。感情と事実も分けて考える。.md",
+    "Notes/Index/仕事.md",
     "Notes/Inbox/議論や話し合いは勝ち負けではない。お互いの見識を深めるため。お互い完璧ではない。相手への敬意を持つ。汚い言葉は御法度.md",
     "Notes/Inbox/話し合い、議論は心理的安全性が大事。「相手の意見を受け止めること」。笑顔も大事。異なる意見を否定しない。褒める。.md",
     "Notes/Inbox/人にはお願いの仕方がある。ただ独善的に主張するのではなく丁寧に。向こうを嫌な気分にさせたら損するだけ。相手の感情を害さない.md",
