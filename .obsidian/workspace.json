@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52a7ea5656426c6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/人にはお願いの仕方がある。ただ独善的に主張するのではなく丁寧に。向こうを嫌な気分にさせたら損するだけ。相手の感情を害さない.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/仕事.md",
+                "file": "Notes/Inbox/人にはお願いの仕方がある。ただ独善的に主張するのではなく丁寧に。向こうを嫌な気分にさせたら損するだけ。相手の感情を害さない.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/仕事.md",
+                "file": "Notes/Inbox/人にはお願いの仕方がある。ただ独善的に主張するのではなく丁寧に。向こうを嫌な気分にさせたら損するだけ。相手の感情を害さない.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/仕事.md"
+                "file": "Notes/Inbox/人にはお願いの仕方がある。ただ独善的に主張するのではなく丁寧に。向こうを嫌な気分にさせたら損するだけ。相手の感情を害さない.md"
               }
             }
           },
@@ -181,10 +193,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a1a2f0972715096e",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "Notes/Index/メンタルヘルス.md",
     "Notes/Index/仕事.md",
+    "Notes/Inbox/人にはお願いの仕方がある。ただ独善的に主張するのではなく丁寧に。向こうを嫌な気分にさせたら損するだけ。相手の感情を害さない.md",
+    "Notes/Index/メンタルヘルス.md",
     "Notes/Index/英語.md",
     "Notes/Inbox/承認欲求が欲しいならインターネットやSNSではなく善行をする.md",
     "Notes/Scraps/Twitterのリスト.md",
@@ -209,7 +222,6 @@
     "Notes/Inbox/なぜ導関数を求めるのか。複雑な関数は導関数を求めないとグラフが分からないから。導関数は傾きの関数だから元の関数がどう変化するか予測できる。.md",
     "Notes/Inbox/行動前に悩む 悪口を言う 嫌いな人を考える 比べて落ち込む 過去を悔やむ 不安で怯える 救われるのを待つ受け身 これらは辞めろ。.md",
     "Notes/Inbox/勉強とか読書で理解できない所や難しい場所は音読しながら写経するといい。.md",
-    "Notes/Inbox/良いと思ったら素直に良かったと伝えよう。コメントとか。.md",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
     "Pasted image 20240126135252.png",
