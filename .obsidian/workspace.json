@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面接では鬱などの精神的な問題を言わない。飛躍しすぎない程度の嘘ならOK。.md",
+                "file": "Notes/Inbox/面接では鬱などの精神的な問題を言わない。飛躍しすぎない程度の嘘ならOK。持病でとかなんとか言えば良い。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d818c6a36b15a62c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面接では鬱などの精神的な問題を言わない。飛躍しすぎない程度の嘘ならOK。.md",
+                "file": "無題のファイル 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面接では鬱などの精神的な問題を言わない。飛躍しすぎない程度の嘘ならOK。.md",
+                "file": "無題のファイル 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面接では鬱などの精神的な問題を言わない。飛躍しすぎない程度の嘘ならOK。.md"
+                "file": "無題のファイル 1.md"
               }
             }
           },
@@ -217,13 +229,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8b460fd1905a20da",
+  "active": "d818c6a36b15a62c",
   "lastOpenFiles": [
-    "Notes/Index/仕事.md",
-    "面接では鬱などの精神的な問題を言わない。飛躍しすぎない程度の嘘ならOK。.md",
-    "Notes/Inbox/健康の基本は運動 日光 ビタミンD 水分 瞑想.md",
-    "Notes/Index/英語.md",
+    "リスニングとは耳で行うリーディングと言える。従って意味を考えてしまうと自分が読める速さより速い物は聞き取れない。.md",
     "無題のファイル.md",
+    "Notes/Index/英語.md",
+    "無題のファイル 1.md",
+    "Notes/Inbox/面接では鬱などの精神的な問題を言わない。飛躍しすぎない程度の嘘ならOK。持病でとかなんとか言えば良い。.md",
+    "Notes/Index/仕事.md",
+    "Notes/Inbox/健康の基本は運動 日光 ビタミンD 水分 瞑想.md",
     "Notes/Inbox/筆記開示は寝る前などにやるといい。朝ネガはIQ下がる。ただし愚痴後悔怒りは厳禁。不安や悩み、したいこと、楽しかった事、感謝。８分でもOK。.md",
     "Notes/Inbox/ルーティン化には「理想(完璧)の流れ」と「最低限これだけはやる」というものを決めておく。完璧にできなくても最低ラインを越せれば誉めるのが大事。.md",
     "Notes/Inbox/マインドフルな時間を日常で増やす。瞑想だけでなく、食事 ドライヤー お風呂 歩行など。シングルタスクが大事.md",
@@ -244,8 +258,6 @@
     "Notes/Index/資格.md",
     "Notes/Inbox/Comparison is the thief of joy. セオドアルーズベルト。比較は喜びを盗む者。自分なりに小さな幸せを大事にする.md",
     "Notes/Inbox/電気工事は切り傷が出来やすいので医療用のテープなど持っておくといい.md",
-    "Notes/Inbox/ファビング(コミュニケーション中にデジタルデバイスを触る)は人間関係を破壊する.md",
-    "Notes/Inbox/Primary Keyに安易にUUIDを使わない。内部的にauto incrementして見せるようは一意のカラムを別で用意する。.md",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
     "Pasted image 20240126135252.png",
