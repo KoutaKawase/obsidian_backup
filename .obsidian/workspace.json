@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/筆記開示は寝る前などにやるといい。朝ネガはIQ下がる。ただし愚痴後悔怒りは厳禁。不安や悩み、したいこと、楽しかった事、感謝。８分でもOK。.md",
+                "file": "Notes/Index/英語.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b821c4d44799cae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/筆記開示は寝る前などにやるといい。朝ネガはIQ下がる。ただし愚痴後悔怒りは厳禁。不安や悩み、したいこと、楽しかった事、感謝。８分でもOK。.md",
+                "file": "無題のファイル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/筆記開示は寝る前などにやるといい。朝ネガはIQ下がる。ただし愚痴後悔怒りは厳禁。不安や悩み、したいこと、楽しかった事、感謝。８分でもOK。.md",
+                "file": "無題のファイル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/筆記開示は寝る前などにやるといい。朝ネガはIQ下がる。ただし愚痴後悔怒りは厳禁。不安や悩み、したいこと、楽しかった事、感謝。８分でもOK。.md"
+                "file": "無題のファイル.md"
               }
             }
           },
@@ -181,10 +193,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "1b821c4d44799cae",
   "lastOpenFiles": [
-    "Notes/Inbox/ルーティン化には「理想(完璧)の流れ」と「最低限これだけはやる」というものを決めておく。完璧にできなくても最低ラインを越せれば誉めるのが大事。.md",
+    "Notes/Index/英語.md",
+    "無題のファイル.md",
     "Notes/Inbox/筆記開示は寝る前などにやるといい。朝ネガはIQ下がる。ただし愚痴後悔怒りは厳禁。不安や悩み、したいこと、楽しかった事、感謝。８分でもOK。.md",
+    "Notes/Inbox/ルーティン化には「理想(完璧)の流れ」と「最低限これだけはやる」というものを決めておく。完璧にできなくても最低ラインを越せれば誉めるのが大事。.md",
     "Notes/Inbox/マインドフルな時間を日常で増やす。瞑想だけでなく、食事 ドライヤー お風呂 歩行など。シングルタスクが大事.md",
     "Notes/Index/メンタルヘルス.md",
     "Notes/Index/勉強/学習の作法.md",
@@ -196,7 +210,6 @@
     "Notes/Inbox/議論や話し合いは勝ち負けではない。お互いの見識を深めるため。お互い完璧ではない。相手への敬意を持つ。汚い言葉は御法度.md",
     "Notes/Inbox/話し合い、議論は心理的安全性が大事。「相手の意見を受け止めること」。笑顔も大事。異なる意見を否定しない。褒める。.md",
     "Notes/Inbox/人にはお願いの仕方がある。ただ独善的に主張するのではなく丁寧に。向こうを嫌な気分にさせたら損するだけ。相手の感情を害さない.md",
-    "Notes/Index/英語.md",
     "Notes/Inbox/承認欲求が欲しいならインターネットやSNSではなく善行をする.md",
     "Notes/Scraps/Twitterのリスト.md",
     "Notes/Inbox/言い方一つで印象は大きく変わる。ネガティブだったり否定的な物は肯定的に置き換えて良い所を見つける。.md",
@@ -209,7 +222,6 @@
     "Notes/Inbox/Primary Keyに安易にUUIDを使わない。内部的にauto incrementして見せるようは一意のカラムを別で用意する。.md",
     "Notes/Index/プログラミング/データベース.md",
     "Notes/Index/プログラミング/Laravel.md",
-    "Notes/Index/金融.md",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
     "Pasted image 20240126135252.png",
