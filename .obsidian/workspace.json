@@ -90,9 +90,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3db74423cc983bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/リスニングは意味は置いといてとにかく英語としての音に集中。絶対に意味を考えない。再生速度を落としてもいい.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6010b6f51a95462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "会話を聞けるようになるにはやっぱり口語表現を学ぶ必要がある。ニュースだけでなくアニメなど。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -158,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/英語.md",
+                "file": "会話を聞けるようになるにはやっぱり口語表現を学ぶ必要がある。ニュースだけでなくアニメなど。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/英語.md",
+                "file": "会話を聞けるようになるにはやっぱり口語表現を学ぶ必要がある。ニュースだけでなくアニメなど。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/英語.md"
+                "file": "会話を聞けるようになるにはやっぱり口語表現を学ぶ必要がある。ニュースだけでなくアニメなど。.md"
               }
             }
           },
@@ -229,12 +253,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d818c6a36b15a62c",
+  "active": "b6010b6f51a95462",
   "lastOpenFiles": [
+    "Notes/Inbox/リスニングは意味は置いといてとにかく英語としての音に集中。絶対に意味を考えない。再生速度を落としてもいい.md",
+    "会話を聞けるようになるにはやっぱり口語表現を学ぶ必要がある。ニュースだけでなくアニメなど。.md",
+    "Notes/Index/英語.md",
     "Notes/Inbox/リスニングの練習は長いものを使わなくてもいい。20sから30s程度の短いフレーズで練習になる。.md",
     "Notes/Inbox/意味を考えながらのリスニングはNG。意味ではなく音に集中する。音と意味を分ける。意味はリーディング。.md",
     "Notes/Inbox/リスニングとは耳で行うリーディングと言える。従って意味を考えてしまうと自分が読める速さより速い物は聞き取れない。.md",
-    "Notes/Index/英語.md",
     "Notes/Inbox/面接では鬱などの精神的な問題を言わない。飛躍しすぎない程度の嘘ならOK。持病でとかなんとか言えば良い。.md",
     "Notes/Index/仕事.md",
     "Notes/Inbox/健康の基本は運動 日光 ビタミンD 水分 瞑想.md",
@@ -256,8 +282,6 @@
     "Notes/Scraps",
     "Notes/Inbox/義憤と正義に駆られない。正義と義憤は負のドーパミンが出るので避けるべき。.md",
     "Notes/Index/資格.md",
-    "Notes/Inbox/Comparison is the thief of joy. セオドアルーズベルト。比較は喜びを盗む者。自分なりに小さな幸せを大事にする.md",
-    "Notes/Inbox/電気工事は切り傷が出来やすいので医療用のテープなど持っておくといい.md",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
     "Pasted image 20240126135252.png",
