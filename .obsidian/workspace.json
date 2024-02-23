@@ -4,167 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "741b1f5abae77581",
+        "id": "81ca81a5f914c1e2",
         "type": "tabs",
         "children": [
           {
-            "id": "20008b95aa05296d",
+            "id": "1b7dcaaa00f8c7d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cadefa0539a14d58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/ルーティン化には「理想(完璧)の流れ」と「最低限これだけはやる」というものを決めておく。完璧にできなくても最低ラインを越せれば誉めるのが大事。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f33e117f6a0897e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/英語.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b821c4d44799cae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/英語.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf76e9b6df1fec1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/仕事.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b460fd1905a20da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/面接では鬱などの精神的な問題を言わない。飛躍しすぎない程度の嘘ならOK。持病でとかなんとか言えば良い。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d818c6a36b15a62c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/英語.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3db74423cc983bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/リスニングは意味は置いといてとにかく英語としての音に集中。絶対に意味を考えない。再生速度を落としてもいい.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6010b6f51a95462",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/会話を聞けるようになるにはやっぱり口語表現を学ぶ必要がある。ニュースだけでなくアニメなど。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b50496298cf6c5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/プログラミング/プログラミング.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d553318ba963caf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "コードリーディングは細部を読まない。クラスやパターン、インターフェイスから役割を理解する。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "288460d615ea15dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "コードリーディングは細部を読まない。クラスやパターン、インターフェイスから役割を理解する。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ea70b7ab61d1527",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "自分の知らないコードベースの場合、コピペして改造するのが大事。色々いじって出力変化を見る。.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自分の知らないコードベースの場合、コピペして改造するのが大事。色々いじって出力変化を見る。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "自分の知らないコードベースの場合、コピペして改造するのが大事。色々いじって出力変化を見る。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "自分の知らないコードベースの場合、コピペして改造するのが大事。色々いじって出力変化を見る。.md"
-              }
+              "state": {}
             }
           },
           {
@@ -301,20 +148,20 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4ea70b7ab61d1527",
+  "active": "1b7dcaaa00f8c7d5",
   "lastOpenFiles": [
-    "コードリーディングは細部を読まない。クラスやパターン、インターフェイスから役割を理解する。.md",
     "自分の知らないコードベースの場合、コピペして改造するのが大事。色々いじって出力変化を見る。.md",
-    "無題のファイル.md",
+    "コードリーディングは細部を読まない。クラスやパターン、インターフェイスから役割を理解する。.md",
     "Notes/Index/プログラミング/プログラミング.md",
     "Notes/Inbox/会話を聞けるようになるにはやっぱり口語表現を学ぶ必要がある。ニュースだけでなくアニメなど。.md",
     "Notes/Inbox/リスニングは意味は置いといてとにかく英語としての音に集中。絶対に意味を考えない。再生速度を落としてもいい.md",
     "Notes/Index/英語.md",
+    "Notes/Inbox/面接では鬱などの精神的な問題を言わない。飛躍しすぎない程度の嘘ならOK。持病でとかなんとか言えば良い。.md",
+    "Notes/Index/仕事.md",
+    "無題のファイル.md",
     "Notes/Inbox/リスニングの練習は長いものを使わなくてもいい。20sから30s程度の短いフレーズで練習になる。.md",
     "Notes/Inbox/意味を考えながらのリスニングはNG。意味ではなく音に集中する。音と意味を分ける。意味はリーディング。.md",
     "Notes/Inbox/リスニングとは耳で行うリーディングと言える。従って意味を考えてしまうと自分が読める速さより速い物は聞き取れない。.md",
-    "Notes/Inbox/面接では鬱などの精神的な問題を言わない。飛躍しすぎない程度の嘘ならOK。持病でとかなんとか言えば良い。.md",
-    "Notes/Index/仕事.md",
     "Notes/Inbox/健康の基本は運動 日光 ビタミンD 水分 瞑想.md",
     "Notes/Inbox/筆記開示は寝る前などにやるといい。朝ネガはIQ下がる。ただし愚痴後悔怒りは厳禁。不安や悩み、したいこと、楽しかった事、感謝。８分でもOK。.md",
     "Notes/Inbox/ルーティン化には「理想(完璧)の流れ」と「最低限これだけはやる」というものを決めておく。完璧にできなくても最低ラインを越せれば誉めるのが大事。.md",
