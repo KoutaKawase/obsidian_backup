@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71f5e8a02a6ddf09",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +167,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1b7dcaaa00f8c7d5",
+  "active": "71f5e8a02a6ddf09",
   "lastOpenFiles": [
     "Notes/Index/英語.md",
     "Notes/Index/資格.md",
