@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "見た韓国コンテンツ.md",
+                "file": "Notes/Scraps/見た韓国コンテンツ.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "見た韓国コンテンツ.md",
+                "file": "Notes/Scraps/見た韓国コンテンツ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "見た韓国コンテンツ.md",
+                "file": "Notes/Scraps/見た韓国コンテンツ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "見た韓国コンテンツ.md"
+                "file": "Notes/Scraps/見た韓国コンテンツ.md"
               }
             }
           },
@@ -193,10 +193,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4e18223b580d2018",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
     "Notes/Inbox/興味のあるオープンソースを再構築する。単純化.md",
-    "見た韓国コンテンツ.md",
+    "Notes/Scraps/見た韓国コンテンツ.md",
     "Notes/Index/仏教/index.md",
     "Notes/Inbox/コードリーディングは細部を読まない。クラスやパターン、インターフェイスから役割を理解する。.md",
     "Notes/Index/メンタルヘルス.md",
