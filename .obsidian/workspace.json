@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/仏教/読むべき本.md",
+                "file": "Notes/Index/仏教/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/仏教/読むべき本.md",
+                "file": "Notes/Index/仏教/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/仏教/読むべき本.md",
+                "file": "Notes/Index/仏教/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/仏教/読むべき本.md"
+                "file": "Notes/Index/仏教/index.md"
               }
             }
           },
@@ -171,11 +171,13 @@
   },
   "active": "71f5e8a02a6ddf09",
   "lastOpenFiles": [
+    "Notes/Inbox/コードリーディングは細部を読まない。クラスやパターン、インターフェイスから役割を理解する。.md",
+    "Notes/Index/メンタルヘルス.md",
+    "Notes/Index/仏教/読むべき本.md",
     "Notes/Index/仏教/index.md",
     "Notes/Index/英語.md",
     "Notes/Index/資格.md",
-    "自分の知らないコードベースの場合、コピペして改造するのが大事。色々いじって出力変化を見る。.md",
-    "コードリーディングは細部を読まない。クラスやパターン、インターフェイスから役割を理解する。.md",
+    "Notes/Inbox/自分の知らないコードベースの場合、コピペして改造するのが大事。色々いじって出力変化を見る。.md",
     "Notes/Index/プログラミング/プログラミング.md",
     "Notes/Inbox/会話を聞けるようになるにはやっぱり口語表現を学ぶ必要がある。ニュースだけでなくアニメなど。.md",
     "Notes/Inbox/リスニングは意味は置いといてとにかく英語としての音に集中。絶対に意味を考えない。再生速度を落としてもいい.md",
@@ -189,14 +191,12 @@
     "Notes/Inbox/筆記開示は寝る前などにやるといい。朝ネガはIQ下がる。ただし愚痴後悔怒りは厳禁。不安や悩み、したいこと、楽しかった事、感謝。８分でもOK。.md",
     "Notes/Inbox/ルーティン化には「理想(完璧)の流れ」と「最低限これだけはやる」というものを決めておく。完璧にできなくても最低ラインを越せれば誉めるのが大事。.md",
     "Notes/Inbox/マインドフルな時間を日常で増やす。瞑想だけでなく、食事 ドライヤー お風呂 歩行など。シングルタスクが大事.md",
-    "Notes/Index/メンタルヘルス.md",
     "Notes/Index/勉強/学習の作法.md",
     "Notes/Inbox/思考と距離を取る。俯瞰する。行動と分離する。(最重要).md",
     "Notes/Inbox/幸せかどうかは自分次第。幸せを自分ではなく他人の評価に決めさせない。自己評価なき他者評価は終わりがない。自分を評価してあげる。.md",
     "Notes/Inbox/メンタルを強くしたいのならば目標とする人物像を持つ。実績ではなく振る舞いやマインドを真似る事。思い込みが大事。自分ならRyuさん.md",
     "Notes/Inbox/人格と意見をイコールにしない。自分の意見が否定されても人格が否定されたわけではない。感情と事実も分けて考える。.md",
     "Notes/Inbox/議論や話し合いは勝ち負けではない。お互いの見識を深めるため。お互い完璧ではない。相手への敬意を持つ。汚い言葉は御法度.md",
-    "Notes/Inbox/話し合い、議論は心理的安全性が大事。「相手の意見を受け止めること」。笑顔も大事。異なる意見を否定しない。褒める。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
