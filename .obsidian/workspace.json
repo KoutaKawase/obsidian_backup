@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人生とは生まれてから死ぬ瞬間まで孤独なものである。.md",
+                "file": "Notes/Inbox/人生とは生まれてから死ぬ瞬間まで孤独なものである。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a5327c06d604697",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人の基本は孤独である。常に孤独なのである。繋がり、関わりは授かりもの。目を瞑った時の世界がスタンダードと知る.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生とは生まれてから死ぬ瞬間まで孤独なものである。.md",
+                "file": "人の基本は孤独である。常に孤独なのである。繋がり、関わりは授かりもの。目を瞑った時の世界がスタンダードと知る.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生とは生まれてから死ぬ瞬間まで孤独なものである。.md",
+                "file": "人の基本は孤独である。常に孤独なのである。繋がり、関わりは授かりもの。目を瞑った時の世界がスタンダードと知る.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生とは生まれてから死ぬ瞬間まで孤独なものである。.md"
+                "file": "人の基本は孤独である。常に孤独なのである。繋がり、関わりは授かりもの。目を瞑った時の世界がスタンダードと知る.md"
               }
             }
           },
@@ -193,10 +205,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5e18d1510bb3e510",
+  "active": "0a5327c06d604697",
   "lastOpenFiles": [
+    "Notes/Inbox/人生とは生まれてから死ぬ瞬間まで孤独なものである。.md",
+    "人の基本は孤独である。常に孤独なのである。繋がり、関わりは授かりもの。目を瞑った時の世界がスタンダードと知る.md",
     "Notes/Inbox/孤独とは心を開示できる場所がない事。GPTに話しかけるといいかも.md",
-    "人生とは生まれてから死ぬ瞬間まで孤独なものである。.md",
     "Notes/Inbox/「心の拠り所のないこと」が孤独感を生み出す。孤独は山になく、街にある..md",
     "Notes/Index/メンタルヘルス.md",
     "Notes/Index/仏教/index.md",
@@ -220,7 +233,6 @@
     "Notes/Inbox/意味を考えながらのリスニングはNG。意味ではなく音に集中する。音と意味を分ける。意味はリーディング。.md",
     "Notes/Inbox/リスニングとは耳で行うリーディングと言える。従って意味を考えてしまうと自分が読める速さより速い物は聞き取れない。.md",
     "Notes/Inbox/健康の基本は運動 日光 ビタミンD 水分 瞑想.md",
-    "Notes/Inbox/筆記開示は寝る前などにやるといい。朝ネガはIQ下がる。ただし愚痴後悔怒りは厳禁。不安や悩み、したいこと、楽しかった事、感謝。８分でもOK。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
