@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75d99218d540dd5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "若い人は老いぼれより偉い。新しい価値を作り批判の最前線にいるのは若者.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/仕事.md",
+                "file": "若い人は老いぼれより偉い。新しい価値を作り批判の最前線にいるのは若者.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/仕事.md",
+                "file": "若い人は老いぼれより偉い。新しい価値を作り批判の最前線にいるのは若者.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/仕事.md"
+                "file": "若い人は老いぼれより偉い。新しい価値を作り批判の最前線にいるのは若者.md"
               }
             }
           },
@@ -205,10 +217,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "918eb532a5322501",
+  "active": "75d99218d540dd5f",
   "lastOpenFiles": [
+    "Notes/Index/仕事.md",
     "Notes/Index/メンタルヘルス.md",
-    "絶竜詩メモ.md",
+    "若い人は老いぼれより偉い。新しい価値を作り批判の最前線にいるのは若者.md",
+    "Notes/Scraps/絶竜詩メモ.md",
     "Notes/Inbox/リスニングはディクテーションが効果的.md",
     "Notes/Scraps/見た韓国コンテンツ.md",
     "Notes/Inbox/興味のあるオープンソースを再構築する。単純化.md",
@@ -222,7 +236,6 @@
     "Notes/Inbox/会話を聞けるようになるにはやっぱり口語表現を学ぶ必要がある。ニュースだけでなくアニメなど。.md",
     "Notes/Inbox/リスニングは意味は置いといてとにかく英語としての音に集中。絶対に意味を考えない。再生速度を落としてもいい.md",
     "Notes/Inbox/面接では鬱などの精神的な問題を言わない。飛躍しすぎない程度の嘘ならOK。持病でとかなんとか言えば良い。.md",
-    "Notes/Index/仕事.md",
     "Notes/Inbox/リスニングの練習は長いものを使わなくてもいい。20sから30s程度の短いフレーズで練習になる。.md",
     "Notes/Inbox/意味を考えながらのリスニングはNG。意味ではなく音に集中する。音と意味を分ける。意味はリーディング。.md",
     "Notes/Inbox/リスニングとは耳で行うリーディングと言える。従って意味を考えてしまうと自分が読める速さより速い物は聞き取れない。.md",
@@ -232,7 +245,6 @@
     "Notes/Inbox/マインドフルな時間を日常で増やす。瞑想だけでなく、食事 ドライヤー お風呂 歩行など。シングルタスクが大事.md",
     "Notes/Index/勉強/学習の作法.md",
     "Notes/Inbox/思考と距離を取る。俯瞰する。行動と分離する。(最重要).md",
-    "Notes/Inbox/幸せかどうかは自分次第。幸せを自分ではなく他人の評価に決めさせない。自己評価なき他者評価は終わりがない。自分を評価してあげる。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
