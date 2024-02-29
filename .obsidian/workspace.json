@@ -11,11 +11,52 @@
             "id": "0a725f41c3482e46",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/メンタルヘルス.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "124adf810429f7d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/「心の拠り所のないこと」が孤独感を生み出す。孤独は山になく、街にある..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "370c50815dc9a4ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/孤独とは心を開示できる場所がない事。GPTに話しかけるといいかも.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e18d1510bb3e510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人生とは生まれてから死ぬ瞬間まで孤独なものである。.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/人に信用してもらう、好いて貰うには嫌な事を率先してやらなきゃいかん。宗一郎はそうしていた。.md",
+                "file": "人生とは生まれてから死ぬ瞬間まで孤独なものである。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/人に信用してもらう、好いて貰うには嫌な事を率先してやらなきゃいかん。宗一郎はそうしていた。.md",
+                "file": "人生とは生まれてから死ぬ瞬間まで孤独なものである。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/人に信用してもらう、好いて貰うには嫌な事を率先してやらなきゃいかん。宗一郎はそうしていた。.md"
+                "file": "人生とは生まれてから死ぬ瞬間まで孤独なものである。.md"
               }
             }
           },
@@ -152,17 +193,20 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "5e18d1510bb3e510",
   "lastOpenFiles": [
-    "Notes/Inbox/若い人は老いぼれより偉い。新しい価値を作り批判の最前線にいるのは若者.md",
-    "Notes/Inbox/人に信用してもらう、好いて貰うには嫌な事を率先してやらなきゃいかん。宗一郎はそうしていた。.md",
-    "Notes/Index/仕事.md",
+    "Notes/Inbox/孤独とは心を開示できる場所がない事。GPTに話しかけるといいかも.md",
+    "人生とは生まれてから死ぬ瞬間まで孤独なものである。.md",
+    "Notes/Inbox/「心の拠り所のないこと」が孤独感を生み出す。孤独は山になく、街にある..md",
     "Notes/Index/メンタルヘルス.md",
+    "Notes/Index/仏教/index.md",
+    "Notes/Inbox/人に信用してもらう、好いて貰うには嫌な事を率先してやらなきゃいかん。宗一郎はそうしていた。.md",
+    "Notes/Inbox/若い人は老いぼれより偉い。新しい価値を作り批判の最前線にいるのは若者.md",
+    "Notes/Index/仕事.md",
     "Notes/Scraps/絶竜詩メモ.md",
     "Notes/Inbox/リスニングはディクテーションが効果的.md",
     "Notes/Scraps/見た韓国コンテンツ.md",
     "Notes/Inbox/興味のあるオープンソースを再構築する。単純化.md",
-    "Notes/Index/仏教/index.md",
     "Notes/Inbox/コードリーディングは細部を読まない。クラスやパターン、インターフェイスから役割を理解する。.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Index/英語.md",
@@ -177,9 +221,6 @@
     "Notes/Inbox/リスニングとは耳で行うリーディングと言える。従って意味を考えてしまうと自分が読める速さより速い物は聞き取れない。.md",
     "Notes/Inbox/健康の基本は運動 日光 ビタミンD 水分 瞑想.md",
     "Notes/Inbox/筆記開示は寝る前などにやるといい。朝ネガはIQ下がる。ただし愚痴後悔怒りは厳禁。不安や悩み、したいこと、楽しかった事、感謝。８分でもOK。.md",
-    "Notes/Inbox/ルーティン化には「理想(完璧)の流れ」と「最低限これだけはやる」というものを決めておく。完璧にできなくても最低ラインを越せれば誉めるのが大事。.md",
-    "Notes/Inbox/マインドフルな時間を日常で増やす。瞑想だけでなく、食事 ドライヤー お風呂 歩行など。シングルタスクが大事.md",
-    "Notes/Index/勉強/学習の作法.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
