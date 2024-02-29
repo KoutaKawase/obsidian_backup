@@ -4,83 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "81ca81a5f914c1e2",
+        "id": "356470191ff6dd4a",
         "type": "tabs",
         "children": [
           {
-            "id": "1b7dcaaa00f8c7d5",
+            "id": "0a725f41c3482e46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/英語は大袈裟なぐらい丁寧英語でいい。直接的表現は禁止。受動態を効果的に使う。事前に失礼かもと言っておく。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71f5e8a02a6ddf09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/仏教/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e90d21cd08723498",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/興味のあるオープンソースを再構築する。単純化.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e18223b580d2018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/リスニングはディクテーションが効果的.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "918eb532a5322501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/仕事.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75d99218d540dd5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "若い人は老いぼれより偉い。新しい価値を作り批判の最前線にいるのは若者.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "若い人は老いぼれより偉い。新しい価値を作り批判の最前線にいるのは若者.md",
+                "file": "Notes/Inbox/人に信用してもらう、好いて貰うには嫌な事を率先してやらなきゃいかん。宗一郎はそうしていた。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "若い人は老いぼれより偉い。新しい価値を作り批判の最前線にいるのは若者.md",
+                "file": "Notes/Inbox/人に信用してもらう、好いて貰うには嫌な事を率先してやらなきゃいかん。宗一郎はそうしていた。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "若い人は老いぼれより偉い。新しい価値を作り批判の最前線にいるのは若者.md"
+                "file": "Notes/Inbox/人に信用してもらう、好いて貰うには嫌な事を率先してやらなきゃいかん。宗一郎はそうしていた。.md"
               }
             }
           },
@@ -217,11 +152,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "75d99218d540dd5f",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
+    "Notes/Inbox/若い人は老いぼれより偉い。新しい価値を作り批判の最前線にいるのは若者.md",
+    "Notes/Inbox/人に信用してもらう、好いて貰うには嫌な事を率先してやらなきゃいかん。宗一郎はそうしていた。.md",
     "Notes/Index/仕事.md",
     "Notes/Index/メンタルヘルス.md",
-    "若い人は老いぼれより偉い。新しい価値を作り批判の最前線にいるのは若者.md",
     "Notes/Scraps/絶竜詩メモ.md",
     "Notes/Inbox/リスニングはディクテーションが効果的.md",
     "Notes/Scraps/見た韓国コンテンツ.md",
@@ -244,7 +180,6 @@
     "Notes/Inbox/ルーティン化には「理想(完璧)の流れ」と「最低限これだけはやる」というものを決めておく。完璧にできなくても最低ラインを越せれば誉めるのが大事。.md",
     "Notes/Inbox/マインドフルな時間を日常で増やす。瞑想だけでなく、食事 ドライヤー お風呂 歩行など。シングルタスクが大事.md",
     "Notes/Index/勉強/学習の作法.md",
-    "Notes/Inbox/思考と距離を取る。俯瞰する。行動と分離する。(最重要).md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
