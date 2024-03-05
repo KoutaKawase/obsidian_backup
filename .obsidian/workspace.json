@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/仕事.md",
+                "file": "Notes/Index/メンタルヘルス.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c394257821b2047",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "自分は「べき思考」が強すぎて人間関係が苦手。こうあるべき、すべき、こだわりに気づくところから。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag: 仕事",
+                "query": "べき思考から柔軟な思考の具体例",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/仕事.md",
+                "file": "自分は「べき思考」が強すぎて人間関係が苦手。こうあるべき、すべき、こだわりに気づくところから。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/仕事.md",
+                "file": "自分は「べき思考」が強すぎて人間関係が苦手。こうあるべき、すべき、こだわりに気づくところから。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/仕事.md"
+                "file": "自分は「べき思考」が強すぎて人間関係が苦手。こうあるべき、すべき、こだわりに気づくところから。.md"
               }
             }
           },
@@ -181,16 +193,18 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8275e8d5ce42b95e",
+  "active": "6c394257821b2047",
   "lastOpenFiles": [
+    "べき思考から柔軟な思考の具体例.md",
+    "Notes/Index/メンタルヘルス.md",
+    "自分は「べき思考」が強すぎて人間関係が苦手。こうあるべき、すべき、こだわりに気づくところから。.md",
+    "Notes/Index/仕事.md",
     "Notes/Inbox/挨拶は気分でしないとかはNG。必ず元気にいついかなる時でもすること。空間に対してする。.md",
     "Notes/Inbox/職場の心理的安全性を担保するには挨拶と雑談の頻度が大事。どの職場でも元気よく挨拶と雑談をして自分の居場所にするのがコツ.md",
-    "Notes/Index/仕事.md",
     "Notes/Inbox/仕事が退屈かどうかは自分次第。なくてはならない人間になれ。自分の幸福について心配するのを止めろ.md",
     "Notes/Inbox/チームメイトが忙しそうな時は暇なら「手伝おうか？」と声をかけた方が良い.md",
     "Notes/Inbox/良い人生には多様な人間関係が大事。いろんな価値観、いろんな人種、いろんなコミュニティの人とのつきあいがある人.md",
     "Notes/Inbox/メンタルに効く運動はジョギングヨガ筋トレ有酸素.md",
-    "Notes/Index/メンタルヘルス.md",
     "Notes/Scraps/ニーズの注意メモ.md",
     "Notes/Inbox/人の基本は孤独である。常に孤独なのである。繋がり、関わりは授かりもの。目を瞑った時の世界がスタンダードと知る.md",
     "Notes/Inbox/人生とは生まれてから死ぬ瞬間まで孤独なものである。.md",
@@ -207,8 +221,6 @@
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Index/英語.md",
     "Notes/Index/資格.md",
-    "Notes/Inbox/自分の知らないコードベースの場合、コピペして改造するのが大事。色々いじって出力変化を見る。.md",
-    "Notes/Index/プログラミング/プログラミング.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
