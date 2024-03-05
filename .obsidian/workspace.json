@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/良い人生には多様な人間関係が大事。いろんな価値観、いろんな人種、いろんなコミュニティの人とのつきあいがある人.md",
+                "file": "Notes/Index/仕事.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag: 仕事",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/良い人生には多様な人間関係が大事。いろんな価値観、いろんな人種、いろんなコミュニティの人とのつきあいがある人.md",
+                "file": "Notes/Index/仕事.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/良い人生には多様な人間関係が大事。いろんな価値観、いろんな人種、いろんなコミュニティの人とのつきあいがある人.md",
+                "file": "Notes/Index/仕事.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/良い人生には多様な人間関係が大事。いろんな価値観、いろんな人種、いろんなコミュニティの人とのつきあいがある人.md"
+                "file": "Notes/Index/仕事.md"
               }
             }
           },
@@ -156,12 +156,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "928d135c5e6b1256",
   "lastOpenFiles": [
-    "Notes/Inbox/メンタルに効く運動はジョギングヨガ筋トレ有酸素.md",
-    "Notes/Inbox/良い人生には多様な人間関係が大事。いろんな価値観、いろんな人種、いろんなコミュニティの人とのつきあいがある人.md",
-    "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/チームメイトが忙しそうな時は暇なら「手伝おうか？」と声をかけた方が良い.md",
+    "Notes/Inbox/仕事が退屈かどうかは自分次第。なくてはならない人間になれ。自分の幸福について心配するのを止めろ.md",
+    "Notes/Index/仕事.md",
+    "Notes/Inbox/良い人生には多様な人間関係が大事。いろんな価値観、いろんな人種、いろんなコミュニティの人とのつきあいがある人.md",
+    "Notes/Inbox/メンタルに効く運動はジョギングヨガ筋トレ有酸素.md",
+    "Notes/Index/メンタルヘルス.md",
     "Notes/Scraps/ニーズの注意メモ.md",
     "Notes/Inbox/人の基本は孤独である。常に孤独なのである。繋がり、関わりは授かりもの。目を瞑った時の世界がスタンダードと知る.md",
     "Notes/Inbox/人生とは生まれてから死ぬ瞬間まで孤独なものである。.md",
@@ -170,7 +172,6 @@
     "Notes/Index/仏教/index.md",
     "Notes/Inbox/人に信用してもらう、好いて貰うには嫌な事を率先してやらなきゃいかん。宗一郎はそうしていた。.md",
     "Notes/Inbox/若い人は老いぼれより偉い。新しい価値を作り批判の最前線にいるのは若者.md",
-    "Notes/Index/仕事.md",
     "Notes/Scraps/絶竜詩メモ.md",
     "Notes/Inbox/リスニングはディクテーションが効果的.md",
     "Notes/Scraps/見た韓国コンテンツ.md",
@@ -183,7 +184,6 @@
     "Notes/Index/プログラミング/プログラミング.md",
     "Notes/Inbox/会話を聞けるようになるにはやっぱり口語表現を学ぶ必要がある。ニュースだけでなくアニメなど。.md",
     "Notes/Inbox/リスニングは意味は置いといてとにかく英語としての音に集中。絶対に意味を考えない。再生速度を落としてもいい.md",
-    "Notes/Inbox/面接では鬱などの精神的な問題を言わない。飛躍しすぎない程度の嘘ならOK。持病でとかなんとか言えば良い。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
