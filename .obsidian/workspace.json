@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/ビタミンDは3000ぐらいが目安.md",
+                "file": "Notes/Index/仕事.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/ビタミンDは3000ぐらいが目安.md",
+                "file": "Notes/Index/仕事.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/ビタミンDは3000ぐらいが目安.md"
+                "file": "Notes/Index/仕事.md"
               }
             }
           },
