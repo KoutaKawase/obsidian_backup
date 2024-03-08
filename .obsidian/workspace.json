@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa7c25270a9e97ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "やってみせ、言って聞かせて、させてみせ、ほめてやらねば、人は動かじ。実践->説明->やらせる->褒める.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/仕事.md",
+                "file": "やってみせ、言って聞かせて、させてみせ、ほめてやらねば、人は動かじ。実践->説明->やらせる->褒める.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/仕事.md",
+                "file": "やってみせ、言って聞かせて、させてみせ、ほめてやらねば、人は動かじ。実践->説明->やらせる->褒める.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/仕事.md"
+                "file": "やってみせ、言って聞かせて、させてみせ、ほめてやらねば、人は動かじ。実践->説明->やらせる->褒める.md"
               }
             }
           },
@@ -205,8 +217,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "aa7c25270a9e97ad",
   "lastOpenFiles": [
+    "Notes/Index/仕事.md",
+    "やってみせ、言って聞かせて、させてみせ、ほめてやらねば、人は動かじ。実践->説明->やらせる->褒める.md",
     "Notes/Inbox/ビタミンDを取らないと3倍も記憶力が悪くなり自己管理能力が損なわれる。.md",
     "Notes/Inbox/ビタミンDは3000ぐらいが目安.md",
     "Notes/Index/勉強/学習の作法.md",
@@ -214,7 +228,6 @@
     "Notes/Index/金融.md",
     "自分は「べき思考」が強すぎて人間関係が苦手。こうあるべき、すべき、こだわりに気づくところから。.md",
     "べき思考から柔軟な思考の具体例.md",
-    "Notes/Index/仕事.md",
     "Notes/Inbox/挨拶は気分でしないとかはNG。必ず元気にいついかなる時でもすること。空間に対してする。.md",
     "Notes/Inbox/職場の心理的安全性を担保するには挨拶と雑談の頻度が大事。どの職場でも元気よく挨拶と雑談をして自分の居場所にするのがコツ.md",
     "Notes/Inbox/仕事が退屈かどうかは自分次第。なくてはならない人間になれ。自分の幸福について心配するのを止めろ.md",
@@ -232,7 +245,6 @@
     "Notes/Scraps/絶竜詩メモ.md",
     "Notes/Inbox/リスニングはディクテーションが効果的.md",
     "Notes/Scraps/見た韓国コンテンツ.md",
-    "Notes/Inbox/興味のあるオープンソースを再構築する。単純化.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
