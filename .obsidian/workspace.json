@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Scraps/好きなことわざ.md",
+                "file": "Notes/Index/仕事.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d97208c564da487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "会話中のうなずきは好感度をあげる.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Scraps/好きなことわざ.md",
+                "file": "会話中のうなずきは好感度をあげる.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Scraps/好きなことわざ.md",
+                "file": "会話中のうなずきは好感度をあげる.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Scraps/好きなことわざ.md"
+                "file": "会話中のうなずきは好感度をあげる.md"
               }
             }
           },
@@ -205,16 +217,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4941da313e38fdc2",
+  "active": "1d97208c564da487",
   "lastOpenFiles": [
-    "Notes/Inbox/良い挨拶は先手必勝 高めの声と笑顔　姿勢。挨拶はやり得。人間関係はデフォで敵.md",
+    "Notes/Index/仕事.md",
+    "会話中のうなずきは好感度をあげる.md",
     "Notes/Index/メンタルヘルス.md",
     "Notes/Scraps/好きなことわざ.md",
+    "Notes/Inbox/良い挨拶は先手必勝 高めの声と笑顔　姿勢。挨拶はやり得。人間関係はデフォで敵.md",
     "Notes/Index/資格.md",
     "Notes/Inbox/新入りは頑張る気概、元気な挨拶、気配り(率先して雑用や嫌なこと、荷物持ちゴミ片付け)、先輩の作業を見る.md",
     "Notes/Inbox/面接の決め手は入室と人事初対面時の元気な挨拶！.md",
     "Notes/Inbox/新人は元気な挨拶 30分前出勤 即レス 雑用と幹事を率先してやる.md",
-    "Notes/Index/仕事.md",
     "Notes/Inbox/職場の心理的安全性を担保するには挨拶と雑談の頻度が大事。どの職場でも元気よく挨拶と雑談をして自分の居場所にするのがコツ.md",
     "Notes/Index/勉強/学習の作法.md",
     "Notes/Inbox/ビタミンDは3000ぐらいが目安.md",
@@ -232,7 +245,6 @@
     "Notes/Inbox/人の基本は孤独である。常に孤独なのである。繋がり、関わりは授かりもの。目を瞑った時の世界がスタンダードと知る.md",
     "Notes/Inbox/人生とは生まれてから死ぬ瞬間まで孤独なものである。.md",
     "Notes/Inbox/孤独とは心を開示できる場所がない事。GPTに話しかけるといいかも.md",
-    "Notes/Inbox/「心の拠り所のないこと」が孤独感を生み出す。孤独は山になく、街にある..md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
