@@ -4,83 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ef8622267e183bd4",
+        "id": "8ca8f895fdda6f20",
         "type": "tabs",
         "children": [
           {
-            "id": "03ee776233f96b4d",
+            "id": "b9321ccbb0d9a529",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/良い挨拶は先手必勝 高めの声と笑顔　姿勢。挨拶はやり得。人間関係はデフォで敵.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3223d7ae8e0e98d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/新人は元気な挨拶 30分前出勤 即レス 雑用と幹事を率先してやる.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffe34914ff0c11c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/資格.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7dc672c6932d5a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4941da313e38fdc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/仕事.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d97208c564da487",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "会話中のうなずきは好感度をあげる.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "会話中のうなずきは好感度をあげる.md",
+                "file": "Notes/Inbox/集中力は吐く時間を長くするといい.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "会話中のうなずきは好感度をあげる.md",
+                "file": "Notes/Inbox/集中力は吐く時間を長くするといい.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "会話中のうなずきは好感度をあげる.md"
+                "file": "Notes/Inbox/集中力は吐く時間を長くするといい.md"
               }
             }
           },
@@ -217,11 +152,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1d97208c564da487",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "Notes/Index/仕事.md",
-    "会話中のうなずきは好感度をあげる.md",
+    "べき思考から柔軟な思考の具体例.md",
+    "Notes/Index/勉強/学習の作法.md",
+    "Notes/Inbox/集中力は吐く時間を長くするといい.md",
+    "Notes/Inbox/セロトニンが不足するとやる気がなくなる。運動　日光　食事　ヨガ.md",
     "Notes/Index/メンタルヘルス.md",
+    "Notes/Inbox/会話中のうなずきは好感度をあげる.md",
+    "Notes/Index/仕事.md",
     "Notes/Scraps/好きなことわざ.md",
     "Notes/Inbox/良い挨拶は先手必勝 高めの声と笑顔　姿勢。挨拶はやり得。人間関係はデフォで敵.md",
     "Notes/Index/資格.md",
@@ -229,13 +168,11 @@
     "Notes/Inbox/面接の決め手は入室と人事初対面時の元気な挨拶！.md",
     "Notes/Inbox/新人は元気な挨拶 30分前出勤 即レス 雑用と幹事を率先してやる.md",
     "Notes/Inbox/職場の心理的安全性を担保するには挨拶と雑談の頻度が大事。どの職場でも元気よく挨拶と雑談をして自分の居場所にするのがコツ.md",
-    "Notes/Index/勉強/学習の作法.md",
     "Notes/Inbox/ビタミンDは3000ぐらいが目安.md",
     "Notes/Inbox/やってみせ、言って聞かせて、させてみせ、ほめてやらねば、人は動かじ。実践->説明->やらせる->褒める.md",
     "Notes/Inbox/ビタミンDを取らないと3倍も記憶力が悪くなり自己管理能力が損なわれる。.md",
     "Notes/Index/金融.md",
     "自分は「べき思考」が強すぎて人間関係が苦手。こうあるべき、すべき、こだわりに気づくところから。.md",
-    "べき思考から柔軟な思考の具体例.md",
     "Notes/Inbox/挨拶は気分でしないとかはNG。必ず元気にいついかなる時でもすること。空間に対してする。.md",
     "Notes/Inbox/仕事が退屈かどうかは自分次第。なくてはならない人間になれ。自分の幸福について心配するのを止めろ.md",
     "Notes/Inbox/チームメイトが忙しそうな時は暇なら「手伝おうか？」と声をかけた方が良い.md",
@@ -243,8 +180,6 @@
     "Notes/Inbox/メンタルに効く運動はジョギングヨガ筋トレ有酸素.md",
     "Notes/Scraps/ニーズの注意メモ.md",
     "Notes/Inbox/人の基本は孤独である。常に孤独なのである。繋がり、関わりは授かりもの。目を瞑った時の世界がスタンダードと知る.md",
-    "Notes/Inbox/人生とは生まれてから死ぬ瞬間まで孤独なものである。.md",
-    "Notes/Inbox/孤独とは心を開示できる場所がない事。GPTに話しかけるといいかも.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
