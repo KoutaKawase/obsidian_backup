@@ -11,8 +11,12 @@
             "id": "b9321ccbb0d9a529",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "期待するだけ無駄だし落差でイライラするだけ自分のやることだけ淡々とやってんのが一番.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/集中力は吐く時間を長くするといい.md",
+                "file": "期待するだけ無駄だし落差でイライラするだけ自分のやることだけ淡々とやってんのが一番.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/集中力は吐く時間を長くするといい.md",
+                "file": "期待するだけ無駄だし落差でイライラするだけ自分のやることだけ淡々とやってんのが一番.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/集中力は吐く時間を長くするといい.md"
+                "file": "期待するだけ無駄だし落差でイライラするだけ自分のやることだけ淡々とやってんのが一番.md"
               }
             }
           },
@@ -152,11 +156,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "b9321ccbb0d9a529",
   "lastOpenFiles": [
+    "Notes/Inbox/集中力は吐く時間を長くするといい.md",
+    "期待するだけ無駄だし落差でイライラするだけ自分のやることだけ淡々とやってんのが一番.md",
     "べき思考から柔軟な思考の具体例.md",
     "Notes/Index/勉強/学習の作法.md",
-    "Notes/Inbox/集中力は吐く時間を長くするといい.md",
     "Notes/Inbox/セロトニンが不足するとやる気がなくなる。運動　日光　食事　ヨガ.md",
     "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/会話中のうなずきは好感度をあげる.md",
@@ -179,7 +184,6 @@
     "Notes/Inbox/良い人生には多様な人間関係が大事。いろんな価値観、いろんな人種、いろんなコミュニティの人とのつきあいがある人.md",
     "Notes/Inbox/メンタルに効く運動はジョギングヨガ筋トレ有酸素.md",
     "Notes/Scraps/ニーズの注意メモ.md",
-    "Notes/Inbox/人の基本は孤独である。常に孤独なのである。繋がり、関わりは授かりもの。目を瞑った時の世界がスタンダードと知る.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
