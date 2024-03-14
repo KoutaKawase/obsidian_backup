@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "期待するだけ無駄だし落差でイライラするだけ自分のやることだけ淡々とやってんのが一番.md",
+                "file": "Notes/Scraps/期待するだけ無駄だし落差でイライラするだけ自分のやることだけ淡々とやってんのが一番.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26a5c2909e8d0e61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/主観で話さず相手の主観に寄り添う。不快や要望は「お願い」で伝える。自分ができても他の人ができるとは限らない。焦らず待つ。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "期待するだけ無駄だし落差でイライラするだけ自分のやることだけ淡々とやってんのが一番.md",
+                "file": "Notes/Inbox/主観で話さず相手の主観に寄り添う。不快や要望は「お願い」で伝える。自分ができても他の人ができるとは限らない。焦らず待つ。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "期待するだけ無駄だし落差でイライラするだけ自分のやることだけ淡々とやってんのが一番.md",
+                "file": "Notes/Inbox/主観で話さず相手の主観に寄り添う。不快や要望は「お願い」で伝える。自分ができても他の人ができるとは限らない。焦らず待つ。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "期待するだけ無駄だし落差でイライラするだけ自分のやることだけ淡々とやってんのが一番.md"
+                "file": "Notes/Inbox/主観で話さず相手の主観に寄り添う。不快や要望は「お願い」で伝える。自分ができても他の人ができるとは限らない。焦らず待つ。.md"
               }
             }
           },
@@ -156,16 +169,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b9321ccbb0d9a529",
+  "active": "26a5c2909e8d0e61",
   "lastOpenFiles": [
+    "Notes/Index/仕事.md",
+    "Notes/Index/メンタルヘルス.md",
+    "Notes/Inbox/主観で話さず相手の主観に寄り添う。不快や要望は「お願い」で伝える。自分ができても他の人ができるとは限らない。焦らず待つ。.md",
+    "Notes/Scraps/期待するだけ無駄だし落差でイライラするだけ自分のやることだけ淡々とやってんのが一番.md",
     "Notes/Inbox/集中力は吐く時間を長くするといい.md",
-    "期待するだけ無駄だし落差でイライラするだけ自分のやることだけ淡々とやってんのが一番.md",
     "べき思考から柔軟な思考の具体例.md",
     "Notes/Index/勉強/学習の作法.md",
     "Notes/Inbox/セロトニンが不足するとやる気がなくなる。運動　日光　食事　ヨガ.md",
-    "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/会話中のうなずきは好感度をあげる.md",
-    "Notes/Index/仕事.md",
     "Notes/Scraps/好きなことわざ.md",
     "Notes/Inbox/良い挨拶は先手必勝 高めの声と笑顔　姿勢。挨拶はやり得。人間関係はデフォで敵.md",
     "Notes/Index/資格.md",
@@ -183,7 +197,6 @@
     "Notes/Inbox/チームメイトが忙しそうな時は暇なら「手伝おうか？」と声をかけた方が良い.md",
     "Notes/Inbox/良い人生には多様な人間関係が大事。いろんな価値観、いろんな人種、いろんなコミュニティの人とのつきあいがある人.md",
     "Notes/Inbox/メンタルに効く運動はジョギングヨガ筋トレ有酸素.md",
-    "Notes/Scraps/ニーズの注意メモ.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
