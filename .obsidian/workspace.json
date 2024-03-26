@@ -85,14 +85,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英語の発音は小さな声で話す方が練習になる。喉だけの音量で話すとおのずと弱い発音がベースになる。.md",
+                "file": "Notes/Index/英語.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5461887b5e774864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/インターネットの使用時間が長い程成績に悪影響。脳にも影響がある。Webから離れる。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英語の発音は小さな声で話す方が練習になる。喉だけの音量で話すとおのずと弱い発音がベースになる。.md",
+                "file": "Notes/Inbox/インターネットの使用時間が長い程成績に悪影響。脳にも影響がある。Webから離れる。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英語の発音は小さな声で話す方が練習になる。喉だけの音量で話すとおのずと弱い発音がベースになる。.md",
+                "file": "Notes/Inbox/インターネットの使用時間が長い程成績に悪影響。脳にも影響がある。Webから離れる。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英語の発音は小さな声で話す方が練習になる。喉だけの音量で話すとおのずと弱い発音がベースになる。.md"
+                "file": "Notes/Inbox/インターネットの使用時間が長い程成績に悪影響。脳にも影響がある。Webから離れる。.md"
               }
             }
           },
@@ -229,11 +241,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b768c7d9863b2896",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "英語の発音記号は口を開けるのではなく口内(喉)を開けるイメージ。口は無駄に動かさず喉を意識し大きい声を出さない.md",
-    "英語の発音は小さな声で話す方が練習になる。喉だけの音量で話すとおのずと弱い発音がベースになる。.md",
+    "Notes/Index/勉強/学習の作法.md",
+    "Notes/Inbox/インターネットの使用時間が長い程成績に悪影響。脳にも影響がある。Webから離れる。.md",
     "Notes/Index/英語.md",
+    "Notes/Inbox/英語の発音は意味のある単語だけアクセントを乗せるイメージ.md",
+    "Notes/Inbox/英語の発音は小さな声で話す方が練習になる。喉だけの音量で話すとおのずと弱い発音がベースになる。.md",
+    "Notes/Inbox/英語の発音記号は口を開けるのではなく口内(喉)を開けるイメージ。口は無駄に動かさず喉を意識し大きい声を出さない.md",
     "Notes/Inbox/幸せになるのを妨げるのは自分。見返りを求めず施しをする。死ぬ時は一人であり墓の大きさは同じ。謙虚に生きる.md",
     "Notes/Index/メンタルヘルス.md",
     "Notes/Index/仏教/index.md",
@@ -254,9 +269,6 @@
     "Notes/Inbox/超加工食品、高脂肪、高塩分の食事は鬱、不安や脳機能、成績に悪影響。ドーパミンが出過ぎる。.md",
     "Notes/Inbox/スマホやネットを触らない事で起こる空虚な時間こそが真の自分の人生なのである。.md",
     "Notes/Inbox/人間の問題は部屋で1人静かに座っていられないことに由来する。孤独で何もしない事を訓練する。空虚なのが本当の自分の人生。.md",
-    "Notes/Inbox/安く早く簡単に手に入る物は幸福や充足感に繋がらない。価値ある人生とは努力と人間関係。.md",
-    "Notes/Inbox/フォーマルな英語は遠回し。受け身を使い人称代名詞を避ける。.md",
-    "Notes/Inbox/主観で話さず相手の主観に寄り添う。不快や要望は「お願い」で伝える。自分ができても他の人ができるとは限らない。焦らず待つ。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
