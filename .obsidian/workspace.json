@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/仏教/index.md",
+                "file": "Notes/Index/メンタルヘルス.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9c175f9b03c8c66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人生の流れに身を委ねる。人生はこういうものだと降伏するのが大事。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/仏教/index.md",
+                "file": "人生の流れに身を委ねる。人生はこういうものだと降伏するのが大事。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/仏教/index.md",
+                "file": "人生の流れに身を委ねる。人生はこういうものだと降伏するのが大事。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/仏教/index.md"
+                "file": "人生の流れに身を委ねる。人生はこういうものだと降伏するのが大事。.md"
               }
             }
           },
@@ -169,11 +181,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "87cc4fd353b9db67",
+  "active": "f9c175f9b03c8c66",
   "lastOpenFiles": [
-    "幸福は外からではなく内から来る。自分の心次第。感謝すべき事に感謝する。.md",
-    "Notes/Inbox/貧しい人とは物が少ない人ではなくもっと欲しがる人である。.md",
+    "Notes/Inbox/幸福は外からではなく内から来る。自分の心次第。感謝すべき事に感謝する。.md",
+    "人生の流れに身を委ねる。人生はこういうものだと降伏するのが大事。.md",
     "Notes/Index/メンタルヘルス.md",
+    "Notes/Index/仏教/index.md",
+    "Notes/Inbox/貧しい人とは物が少ない人ではなくもっと欲しがる人である。.md",
     "Notes/Inbox/人に優しくするには日記をつける。嬉しかったこと楽しかったこと感謝と一緒に優しくできたことを書く。.md",
     "Notes/Inbox/日々の小さな楽しみに気づき感謝する。運動と睡眠。他人にお金を使う。ネガティブな人や集まりを避ける。ポジティブで感謝する。利他的行動。成長マインド。.md",
     "Notes/Inbox/何かをするのにモチベややる気を動力源にしない。ルーチン。まずは0.1mmでも作業を進める。何もしない時よりも進歩が出る。最終結果について考えない。完璧さよりも進歩。.md",
@@ -186,7 +200,6 @@
     "Notes/Inbox/英語の発音は小さな声で話す方が練習になる。喉だけの音量で話すとおのずと弱い発音がベースになる。.md",
     "Notes/Inbox/英語の発音記号は口を開けるのではなく口内(喉)を開けるイメージ。口は無駄に動かさず喉を意識し大きい声を出さない.md",
     "Notes/Inbox/幸せになるのを妨げるのは自分。見返りを求めず施しをする。死ぬ時は一人であり墓の大きさは同じ。謙虚に生きる.md",
-    "Notes/Index/仏教/index.md",
     "Notes/Inbox/全ての苦しみは煩悩と執着によるもの。性欲は苦しみをうむ。.md",
     "Notes/Inbox/人間関係の大原則は他人に期待しないこと。期待するから怒る。人を信用しない。.md",
     "Notes/Index/仕事.md",
@@ -196,7 +209,6 @@
     "Notes/Inbox/趣味に金銭などの実益を求めるのは間違い。自分が楽しいかどうか。.md",
     "Notes/Inbox/創造的活動は幸福度を上げる。過度な消費(surf)は不幸を産む。人生の目的とは幸福ではなく役に立つ事。.md",
     "Notes/Inbox/毎日を刈り取った収穫物で判断するのではなく、自分が蒔いた種で判断する。毎日を消費ではなく何を生産したかで判断する。.md",
-    "Notes/Inbox/何かを過剰に消費することは現実逃避に繋がり生産的であると錯覚させる。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
