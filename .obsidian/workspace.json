@@ -78,9 +78,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "511bfc081af4e7bf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -217,7 +227,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a754cb65c77575dc",
+  "active": "511bfc081af4e7bf",
   "lastOpenFiles": [
     "Notes/Inbox/他者承認欲求が捨てるべきもの。趣味は自己承認欲求が大事。凄いと思われたいのはダメ。自分が満足していない限り満たされない。.md",
     "Notes/Index/メンタルヘルス.md",
