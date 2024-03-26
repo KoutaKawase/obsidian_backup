@@ -49,14 +49,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/人間関係の大原則は他人に期待しないこと。期待するから怒る。人を信用しない。.md",
+                "file": "Notes/Index/仏教/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "112a71e83ea83287",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/メンタルヘルス.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "058f00b049539984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/幸せになるのを妨げるのは自分。見返りを求めず施しをする。死ぬ時は一人であり墓の大きさは同じ。謙虚に生きる.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b768c7d9863b2896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英語の発音は小さな声で話す方が練習になる。喉だけの音量で話すとおのずと弱い発音がベースになる。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -122,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/人間関係の大原則は他人に期待しないこと。期待するから怒る。人を信用しない。.md",
+                "file": "英語の発音は小さな声で話す方が練習になる。喉だけの音量で話すとおのずと弱い発音がベースになる。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/人間関係の大原則は他人に期待しないこと。期待するから怒る。人を信用しない。.md",
+                "file": "英語の発音は小さな声で話す方が練習になる。喉だけの音量で話すとおのずと弱い発音がベースになる。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/人間関係の大原則は他人に期待しないこと。期待するから怒る。人を信用しない。.md"
+                "file": "英語の発音は小さな声で話す方が練習になる。喉だけの音量で話すとおのずと弱い発音がベースになる。.md"
               }
             }
           },
@@ -193,14 +229,20 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d9922ea910f8a0c8",
+  "active": "b768c7d9863b2896",
   "lastOpenFiles": [
+    "英語の発音記号は口を開けるのではなく口内(喉)を開けるイメージ。口は無駄に動かさず喉を意識し大きい声を出さない.md",
+    "英語の発音は小さな声で話す方が練習になる。喉だけの音量で話すとおのずと弱い発音がベースになる。.md",
+    "Notes/Index/英語.md",
+    "Notes/Inbox/幸せになるのを妨げるのは自分。見返りを求めず施しをする。死ぬ時は一人であり墓の大きさは同じ。謙虚に生きる.md",
+    "Notes/Index/メンタルヘルス.md",
+    "Notes/Index/仏教/index.md",
+    "Notes/Inbox/全ての苦しみは煩悩と執着によるもの。性欲は苦しみをうむ。.md",
+    "Notes/Inbox/人間関係の大原則は他人に期待しないこと。期待するから怒る。人を信用しない。.md",
     "Notes/Index/仕事.md",
     "Notes/Inbox/何者にもなれなくて言動と承認欲求が不安定な人は自分に見切りをつけるのが早くコツコツ学べない。.md",
-    "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/「一歩一歩、何かをできるようになってきている自分」に気づいた時の喜びは、名誉欲を時に大きく上回る。比較せず楽しむ。.md",
     "Notes/Inbox/「分かって欲しい」が生きづらくする。他人に期待しない。.md",
-    "Notes/Inbox/人間関係の大原則は他人に期待しないこと。期待するから怒る。人を信用しない。.md",
     "Notes/Inbox/趣味に金銭などの実益を求めるのは間違い。自分が楽しいかどうか。.md",
     "Notes/Inbox/創造的活動は幸福度を上げる。過度な消費(surf)は不幸を産む。人生の目的とは幸福ではなく役に立つ事。.md",
     "Notes/Inbox/毎日を刈り取った収穫物で判断するのではなく、自分が蒔いた種で判断する。毎日を消費ではなく何を生産したかで判断する。.md",
@@ -214,13 +256,7 @@
     "Notes/Inbox/人間の問題は部屋で1人静かに座っていられないことに由来する。孤独で何もしない事を訓練する。空虚なのが本当の自分の人生。.md",
     "Notes/Inbox/安く早く簡単に手に入る物は幸福や充足感に繋がらない。価値ある人生とは努力と人間関係。.md",
     "Notes/Inbox/フォーマルな英語は遠回し。受け身を使い人称代名詞を避ける。.md",
-    "Notes/Index/英語.md",
     "Notes/Inbox/主観で話さず相手の主観に寄り添う。不快や要望は「お願い」で伝える。自分ができても他の人ができるとは限らない。焦らず待つ。.md",
-    "Notes/Scraps/期待するだけ無駄だし落差でイライラするだけ自分のやることだけ淡々とやってんのが一番.md",
-    "Notes/Inbox/集中力は吐く時間を長くするといい.md",
-    "べき思考から柔軟な思考の具体例.md",
-    "Notes/Index/勉強/学習の作法.md",
-    "Notes/Inbox/セロトニンが不足するとやる気がなくなる。運動　日光　食事　ヨガ.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
