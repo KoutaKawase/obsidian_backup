@@ -8,67 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e975a6aa17838fc",
+            "id": "9ca06bb51866c030",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/褒める時は\"ヒト\"を主語、指摘は\"モノ\"を主語にする。指摘や注意はその人を攻撃しないことを強調する.md",
+                "file": "Notes/Inbox/人間関係の大原則は他人に期待しないこと。期待するから怒る。人を信用しない。.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "014b35bc95f6a544",
+            "id": "ccbd0ddcdd2b6fe9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/創造的活動は幸福度を上げる。過度な消費(surf)は不幸を産む。人生の目的とは幸福ではなく役に立つ事。.md",
+                "file": "Notes/Inbox/「分かって欲しい」が生きづらくする。他人に期待しない。.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7aa2dcb90f462aeb",
+            "id": "5d3deda0b0480347",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/創造的活動は幸福度を上げる。過度な消費(surf)は不幸を産む。人生の目的とは幸福ではなく役に立つ事。.md",
+                "file": "Notes/Inbox/何者にもなれなくて言動と承認欲求が不安定な人は自分に見切りをつけるのが早くコツコツ学べない。.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4b7d3d5fd1eee984",
+            "id": "d9922ea910f8a0c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/創造的活動は幸福度を上げる。過度な消費(surf)は不幸を産む。人生の目的とは幸福ではなく役に立つ事。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c68564fe01ec90be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/趣味に金銭などの実益を求めるのは間違い。自分が楽しいかどうか。.md",
+                "file": "Notes/Inbox/人間関係の大原則は他人に期待しないこと。期待するから怒る。人を信用しない。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/趣味に金銭などの実益を求めるのは間違い。自分が楽しいかどうか。.md",
+                "file": "Notes/Inbox/人間関係の大原則は他人に期待しないこと。期待するから怒る。人を信用しない。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/趣味に金銭などの実益を求めるのは間違い。自分が楽しいかどうか。.md",
+                "file": "Notes/Inbox/人間関係の大原則は他人に期待しないこと。期待するから怒る。人を信用しない。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/趣味に金銭などの実益を求めるのは間違い。自分が楽しいかどうか。.md"
+                "file": "Notes/Inbox/人間関係の大原則は他人に期待しないこと。期待するから怒る。人を信用しない。.md"
               }
             }
           },
@@ -205,15 +193,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "d9922ea910f8a0c8",
   "lastOpenFiles": [
-    "Notes/Inbox/創造的活動は幸福度を上げる。過度な消費(surf)は不幸を産む。人生の目的とは幸福ではなく役に立つ事。.md",
+    "Notes/Index/仕事.md",
+    "Notes/Inbox/何者にもなれなくて言動と承認欲求が不安定な人は自分に見切りをつけるのが早くコツコツ学べない。.md",
+    "Notes/Index/メンタルヘルス.md",
+    "Notes/Inbox/「一歩一歩、何かをできるようになってきている自分」に気づいた時の喜びは、名誉欲を時に大きく上回る。比較せず楽しむ。.md",
+    "Notes/Inbox/「分かって欲しい」が生きづらくする。他人に期待しない。.md",
+    "Notes/Inbox/人間関係の大原則は他人に期待しないこと。期待するから怒る。人を信用しない。.md",
     "Notes/Inbox/趣味に金銭などの実益を求めるのは間違い。自分が楽しいかどうか。.md",
+    "Notes/Inbox/創造的活動は幸福度を上げる。過度な消費(surf)は不幸を産む。人生の目的とは幸福ではなく役に立つ事。.md",
     "Notes/Inbox/毎日を刈り取った収穫物で判断するのではなく、自分が蒔いた種で判断する。毎日を消費ではなく何を生産したかで判断する。.md",
     "Notes/Inbox/何かを過剰に消費することは現実逃避に繋がり生産的であると錯覚させる。.md",
-    "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/褒める時は\"ヒト\"を主語、指摘は\"モノ\"を主語にする。指摘や注意はその人を攻撃しないことを強調する.md",
-    "Notes/Index/仕事.md",
     "Notes/Inbox/一つに固執して情熱を求めるのではなく日々の小さな幸せに生きがいを見つける。壮大な夢ではなく朝起きたいという欲求に合わせて最適化.md",
     "Notes/Inbox/他者承認欲求が捨てるべきもの。趣味は自己承認欲求が大事。凄いと思われたいのはダメ。自分が満足していない限り満たされない。.md",
     "Notes/Inbox/他人の喜びを一緒に喜び祝えるように。感謝リスト(3行日記)。親切な行為を増やす。内省(瞑想)。.md",
@@ -229,10 +221,6 @@
     "べき思考から柔軟な思考の具体例.md",
     "Notes/Index/勉強/学習の作法.md",
     "Notes/Inbox/セロトニンが不足するとやる気がなくなる。運動　日光　食事　ヨガ.md",
-    "Notes/Inbox/会話中のうなずきは好感度をあげる.md",
-    "Notes/Scraps/好きなことわざ.md",
-    "Notes/Inbox/良い挨拶は先手必勝 高めの声と笑顔　姿勢。挨拶はやり得。人間関係はデフォで敵.md",
-    "Notes/Index/資格.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
