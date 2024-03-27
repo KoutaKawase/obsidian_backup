@@ -2,7 +2,7 @@
 tags:
   - index
 ---
-## ブッダ
+## ブッダ 教え
 ```dataview
 TABLE FROM #ブッダ 
 ```
