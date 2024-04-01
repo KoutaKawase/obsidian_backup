@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "Notes/Index/仏教/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4de3e225e650c15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/他者のための良い行いは、自分の幸せを犠牲にすることを意味しない。結果は正反対.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "Notes/Inbox/他者のための良い行いは、自分の幸せを犠牲にすることを意味しない。結果は正反対.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "Notes/Inbox/他者のための良い行いは、自分の幸せを犠牲にすることを意味しない。結果は正反対.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "無題のファイル.md"
+                "file": "Notes/Inbox/他者のための良い行いは、自分の幸せを犠牲にすることを意味しない。結果は正反対.md"
               }
             }
           },
@@ -181,14 +193,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ddfde53e844504ea",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
+    "Notes/Index/仏教/index.md",
+    "Notes/Inbox/他者のための良い行いは、自分の幸せを犠牲にすることを意味しない。結果は正反対.md",
+    "褒めるのは素直に思ったことをフィルターに通して言えば良い。お世辞を言うから苦労する。あとは会話の早い段階で褒める。.md",
     "自分は「べき思考」が強すぎて人間関係が苦手。こうあるべき、すべき、こだわりに気づくところから。.md",
-    "無題のファイル.md",
     "Notes/Inbox/人は口に斧を生やしている。愚かな人は悪口や愚痴を言い相手も自分も傷つけている。愚痴、悪口、不平不満は言わない.md",
     "Notes/Scraps/風槍&死刻メモ.md",
     "Notes/Inbox/行為に見返りを求めない。期待しない。ありたい自分でいられたなら相手の反応がなくても良いのだ。一切皆苦..md",
-    "Notes/Index/仏教/index.md",
     "Notes/Inbox/人生の流れに身を委ねる。人生はこういうものだと降伏するのが大事。.md",
     "Notes/Inbox/幸福は外からではなく内から来る。自分の心次第。感謝すべき事に感謝する。.md",
     "Notes/Index/メンタルヘルス.md",
@@ -208,7 +221,6 @@
     "Notes/Inbox/全ての苦しみは煩悩と執着によるもの。性欲は苦しみをうむ。.md",
     "Notes/Inbox/人間関係の大原則は他人に期待しないこと。期待するから怒る。人を信用しない。.md",
     "Notes/Index/仕事.md",
-    "Notes/Inbox/何者にもなれなくて言動と承認欲求が不安定な人は自分に見切りをつけるのが早くコツコツ学べない。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
