@@ -90,9 +90,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5be00bdd0e85d297",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -229,7 +239,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d112dad6a5e35c23",
+  "active": "5be00bdd0e85d297",
   "lastOpenFiles": [
     "べき思考から柔軟な思考の具体例.md",
     "自分は「べき思考」が強すぎて人間関係が苦手。こうあるべき、すべき、こだわりに気づくところから。.md",
