@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d134abb6e9650d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/youtube, SNSから離れスマホを部屋から追い出し自分の不安やストレスを回避するのではなく向き合う。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d664d14ab5a6dfa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "承認欲求や褒められたいを動機にしない。自分の成長を軸にする。他者評価に依存しない。自己評価で楽しむ。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Scraps/風槍&死刻メモ.md",
+                "file": "承認欲求や褒められたいを動機にしない。自分の成長を軸にする。他者評価に依存しない。自己評価で楽しむ。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Scraps/風槍&死刻メモ.md",
+                "file": "承認欲求や褒められたいを動機にしない。自分の成長を軸にする。他者評価に依存しない。自己評価で楽しむ。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Scraps/風槍&死刻メモ.md"
+                "file": "承認欲求や褒められたいを動機にしない。自分の成長を軸にする。他者評価に依存しない。自己評価で楽しむ。.md"
               }
             }
           },
@@ -156,8 +181,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "0c784e05a4f8ea62",
+  "active": "d664d14ab5a6dfa7",
   "lastOpenFiles": [
+    "Notes/Inbox/youtube, SNSから離れスマホを部屋から追い出し自分の不安やストレスを回避するのではなく向き合う。.md",
+    "承認欲求や褒められたいを動機にしない。自分の成長を軸にする。他者評価に依存しない。自己評価で楽しむ。.md",
+    "Notes/Scraps/風槍&死刻メモ.md",
     "Notes/Inbox/聞かれてもないのにアドバイスしない。.md",
     "べき思考から柔軟な思考の具体例.md",
     "自分は「べき思考」が強すぎて人間関係が苦手。こうあるべき、すべき、こだわりに気づくところから。.md",
@@ -169,7 +197,6 @@
     "Notes/Index/仏教/index.md",
     "Notes/Inbox/褒めるのは素直に思ったことをフィルターに通して言えば良い。お世辞を言うから苦労する。あとは会話の早い段階で褒める。.md",
     "Notes/Inbox/人は口に斧を生やしている。愚かな人は悪口や愚痴を言い相手も自分も傷つけている。愚痴、悪口、不平不満は言わない.md",
-    "Notes/Scraps/風槍&死刻メモ.md",
     "Notes/Inbox/行為に見返りを求めない。期待しない。ありたい自分でいられたなら相手の反応がなくても良いのだ。一切皆苦..md",
     "Notes/Inbox/人生の流れに身を委ねる。人生はこういうものだと降伏するのが大事。.md",
     "Notes/Inbox/幸福は外からではなく内から来る。自分の心次第。感謝すべき事に感謝する。.md",
@@ -182,8 +209,6 @@
     "Notes/Inbox/他人の動向を極力追いかけない。自分のことに集中する。ニュースやSNSはなるべく見ない。.md",
     "Notes/Inbox/インターネットの使用時間が長い程成績に悪影響。脳にも影響がある。Webから離れる。.md",
     "Notes/Index/勉強/学習の作法.md",
-    "Notes/Inbox/英語の発音は意味のある単語だけアクセントを乗せるイメージ.md",
-    "Notes/Inbox/英語の発音は小さな声で話す方が練習になる。喉だけの音量で話すとおのずと弱い発音がベースになる。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
