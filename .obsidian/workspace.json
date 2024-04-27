@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hacker news",
+                "query": "https://togetter.com/li/1320164",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "承認欲求や褒められたいを動機にしない。自分の成長を軸にする。他者評価に依存しない。自己評価で楽しむ。.md",
+                "file": "Notes/Scraps/風槍&死刻メモ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "承認欲求や褒められたいを動機にしない。自分の成長を軸にする。他者評価に依存しない。自己評価で楽しむ。.md",
+                "file": "Notes/Scraps/風槍&死刻メモ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "承認欲求や褒められたいを動機にしない。自分の成長を軸にする。他者評価に依存しない。自己評価で楽しむ。.md"
+                "file": "Notes/Scraps/風槍&死刻メモ.md"
               }
             }
           },
@@ -181,7 +182,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d664d14ab5a6dfa7",
+  "active": "e802643ddfeb5eab",
   "lastOpenFiles": [
     "Notes/Inbox/youtube, SNSから離れスマホを部屋から追い出し自分の不安やストレスを回避するのではなく向き合う。.md",
     "承認欲求や褒められたいを動機にしない。自分の成長を軸にする。他者評価に依存しない。自己評価で楽しむ。.md",
