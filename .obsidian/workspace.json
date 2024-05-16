@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
+                "file": "Notes/Index/仏教/読むべき本.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
+                "file": "Notes/Index/仏教/読むべき本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
+                "file": "Notes/Index/仏教/読むべき本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/メンタルヘルス.md"
+                "file": "Notes/Index/仏教/読むべき本.md"
               }
             }
           },
@@ -195,9 +195,9 @@
   },
   "active": "1a6d5413d68d6617",
   "lastOpenFiles": [
+    "Notes/Index/メンタルヘルス.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Index/仕事.md",
-    "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/価値観の押し付けをしない。アドバイスは求められてないのに言わない。沈黙は金。価値観はせめて相手を肯定してから.md",
     "Notes/Scraps/絶竜詩メモ.md",
     "Notes/Scraps/風槍&死刻メモ.md",
