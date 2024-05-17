@@ -78,9 +78,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ee9a83b16221477",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/「キジも鳴かずば撃たれまい」 余計なことを言わなければ問題は起きない。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff406b766442347c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/いいことをすれば帰ってくる。情けは人の為ならず。自分より他人を幸せにすることが大事。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b840c04ff8b18f9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/笑顔に勝る化粧なし。人間関係はネガティブを顔や態度に出さないこと。笑顔が大事。演技でもいい。人気のある人は笑顔のあるひと.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4564865b5b17b8bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "嫌いな人こそ親切にすべき。相手を考え.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -146,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/初心者は最初の15分ほどサマタで集中し最後にヴィパッサナーや慈悲の瞑想を組み込むのがイイ。.md",
+                "file": "嫌いな人こそ親切にすべき。相手を考え.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/初心者は最初の15分ほどサマタで集中し最後にヴィパッサナーや慈悲の瞑想を組み込むのがイイ。.md",
+                "file": "嫌いな人こそ親切にすべき。相手を考え.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/初心者は最初の15分ほどサマタで集中し最後にヴィパッサナーや慈悲の瞑想を組み込むのがイイ。.md"
+                "file": "嫌いな人こそ親切にすべき。相手を考え.md"
               }
             }
           },
@@ -217,17 +265,21 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "4564865b5b17b8bf",
   "lastOpenFiles": [
-    "Notes/Index/仏教/index.md",
+    "Notes/Inbox/笑顔に勝る化粧なし。人間関係はネガティブを顔や態度に出さないこと。笑顔が大事。演技でもいい。人気のある人は笑顔のあるひと.md",
+    "嫌いな人こそ親切にすべき。相手を考え.md",
+    "Notes/Inbox/いいことをすれば帰ってくる。情けは人の為ならず。自分より他人を幸せにすることが大事。.md",
+    "Notes/Index/メンタルヘルス.md",
+    "Notes/Inbox/「キジも鳴かずば撃たれまい」 余計なことを言わなければ問題は起きない。.md",
     "Notes/Inbox/初心者は最初の15分ほどサマタで集中し最後にヴィパッサナーや慈悲の瞑想を組み込むのがイイ。.md",
+    "Notes/Index/仏教/index.md",
     "Notes/Inbox/コミュ障とは余計なことを言わずにいられない人。ネガティブを態度や顔で表に出してしまう人。大事なのは笑顔でいること.md",
     "職場など人間関係最大のコツは「余計なことを言わない」「自分を開示しない」こと。.md",
     "Notes/Index/仕事.md",
     "Notes/Inbox/1日を大事にできない人は何も達成できない。1日を0.1でも積み重ねれば複利で伸びる.md",
     "Notes/Index/勉強/学習の作法.md",
     "Notes/Index/英語.md",
-    "Notes/Index/メンタルヘルス.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Inbox/価値観の押し付けをしない。アドバイスは求められてないのに言わない。沈黙は金。価値観はせめて相手を肯定してから.md",
     "Notes/Scraps/絶竜詩メモ.md",
@@ -241,10 +293,6 @@
     "完璧主義とは「すべき」「してはならない」と考え、この基準に合わない人に怒ったりイライラすること。.md",
     "Notes/Inbox/wの発音は口を窄めない。強調箇所以外は軽く。ただしw uはすぼめる。.md",
     "Notes/Inbox/他者のための良い行いは、自分の幸せを犠牲にすることを意味しない。結果は正反対.md",
-    "Notes/Inbox/褒めるのは素直に思ったことをフィルターに通して言えば良い。お世辞を言うから苦労する。あとは会話の早い段階で褒める。.md",
-    "Notes/Inbox/人は口に斧を生やしている。愚かな人は悪口や愚痴を言い相手も自分も傷つけている。愚痴、悪口、不平不満は言わない.md",
-    "Notes/Inbox/行為に見返りを求めない。期待しない。ありたい自分でいられたなら相手の反応がなくても良いのだ。一切皆苦..md",
-    "Notes/Inbox/人生の流れに身を委ねる。人生はこういうものだと降伏するのが大事。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
