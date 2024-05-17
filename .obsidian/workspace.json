@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c784e05a4f8ea62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Scraps/風槍&死刻メモ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d134abb6e9650d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/youtube, SNSから離れスマホを部屋から追い出し自分の不安やストレスを回避するのではなく向き合う。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1a6d5413d68d6617",
             "type": "leaf",
             "state": {
@@ -121,7 +97,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "嫌いな人こそ親切にすべき。相手を考え.md",
+                "file": "Notes/Blog/嫌いな人こそ親切にすべき。相手を考え怒り不幸なのは自分が原因。感情は置き行動として親切にする。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd32b41f6e336ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/メンタルヘルス.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47ffc82c46a6280f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "怒りに対して運動は逆効果。瞑想、ヨガ、シャワーが良い。.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嫌いな人こそ親切にすべき。相手を考え.md",
+                "file": "怒りに対して運動は逆効果。瞑想、ヨガ、シャワーが良い。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嫌いな人こそ親切にすべき。相手を考え.md",
+                "file": "怒りに対して運動は逆効果。瞑想、ヨガ、シャワーが良い。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嫌いな人こそ親切にすべき。相手を考え.md"
+                "file": "怒りに対して運動は逆効果。瞑想、ヨガ、シャワーが良い。.md"
               }
             }
           },
@@ -265,18 +265,21 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4564865b5b17b8bf",
+  "active": "47ffc82c46a6280f",
   "lastOpenFiles": [
-    "Notes/Inbox/笑顔に勝る化粧なし。人間関係はネガティブを顔や態度に出さないこと。笑顔が大事。演技でもいい。人気のある人は笑顔のあるひと.md",
-    "嫌いな人こそ親切にすべき。相手を考え.md",
-    "Notes/Inbox/いいことをすれば帰ってくる。情けは人の為ならず。自分より他人を幸せにすることが大事。.md",
     "Notes/Index/メンタルヘルス.md",
+    "怒りに対して運動は逆効果。瞑想、ヨガ、シャワーが良い。.md",
+    "Notes/Index/仕事.md",
+    "Notes/Inbox/嫌いな人に「嫌いだ」と表面的に出すのは自分も怒り不幸になる。嫌いでも行動では親切しておくほうが得。.md",
+    "Notes/Blog/嫌いな人こそ親切にすべき。相手を考え怒り不幸なのは自分が原因。感情は置き行動として親切にする。.md",
+    "Notes/Inbox/利己的な感情より会社への貢献を意識する。.md",
+    "Notes/Inbox/笑顔に勝る化粧なし。人間関係はネガティブを顔や態度に出さないこと。笑顔が大事。演技でもいい。人気のある人は笑顔のあるひと.md",
+    "Notes/Inbox/いいことをすれば帰ってくる。情けは人の為ならず。自分より他人を幸せにすることが大事。.md",
     "Notes/Inbox/「キジも鳴かずば撃たれまい」 余計なことを言わなければ問題は起きない。.md",
     "Notes/Inbox/初心者は最初の15分ほどサマタで集中し最後にヴィパッサナーや慈悲の瞑想を組み込むのがイイ。.md",
     "Notes/Index/仏教/index.md",
     "Notes/Inbox/コミュ障とは余計なことを言わずにいられない人。ネガティブを態度や顔で表に出してしまう人。大事なのは笑顔でいること.md",
     "職場など人間関係最大のコツは「余計なことを言わない」「自分を開示しない」こと。.md",
-    "Notes/Index/仕事.md",
     "Notes/Inbox/1日を大事にできない人は何も達成できない。1日を0.1でも積み重ねれば複利で伸びる.md",
     "Notes/Index/勉強/学習の作法.md",
     "Notes/Index/英語.md",
@@ -290,9 +293,6 @@
     "べき思考から柔軟な思考の具体例.md",
     "自分は「べき思考」が強すぎて人間関係が苦手。こうあるべき、すべき、こだわりに気づくところから。.md",
     "Notes/Inbox/倦怠感は人生の意義をなくすもの。心理的幸福と社会的幸福が必要。.md",
-    "完璧主義とは「すべき」「してはならない」と考え、この基準に合わない人に怒ったりイライラすること。.md",
-    "Notes/Inbox/wの発音は口を窄めない。強調箇所以外は軽く。ただしw uはすぼめる。.md",
-    "Notes/Inbox/他者のための良い行いは、自分の幸せを犠牲にすることを意味しない。結果は正反対.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
