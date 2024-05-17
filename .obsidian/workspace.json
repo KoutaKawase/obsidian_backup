@@ -8,103 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a6d5413d68d6617",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/勉強/学習の作法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f78dcc0f9769b6a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/1日を大事にできない人は何も達成できない。1日を0.1でも積み重ねれば複利で伸びる.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99a6df927437ba03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/仏教/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f94e3c98955ad692",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/初心者は最初の15分ほどサマタで集中し最後にヴィパッサナーや慈悲の瞑想を組み込むのがイイ。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ee9a83b16221477",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/「キジも鳴かずば撃たれまい」 余計なことを言わなければ問題は起きない。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff406b766442347c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/いいことをすれば帰ってくる。情けは人の為ならず。自分より他人を幸せにすることが大事。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b840c04ff8b18f9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/笑顔に勝る化粧なし。人間関係はネガティブを顔や態度に出さないこと。笑顔が大事。演技でもいい。人気のある人は笑顔のあるひと.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4564865b5b17b8bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Blog/嫌いな人こそ親切にすべき。相手を考え怒り不幸なのは自分が原因。感情は置き行動として親切にする。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd32b41f6e336ab5",
+            "id": "d85d88834d8e46c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -114,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "47ffc82c46a6280f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/脳にとってはHIITよりジョギングがベスト。ストレスはHIITがいい。筋トレはニューロンを強くするが増やさない。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00861508f989b3d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/HIITはやりすぎると脳へのメリットが損なわれる.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bd47de23eba534e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/脳にとってはHIITよりジョギングがベスト。ストレスはHIITがいい。筋トレはニューロンを強くするが増やさない。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d85d88834d8e46c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "現実逃避は苦しみを生むだけ。解決するには現実と向き合い一歩踏み出すだけ。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "https://togetter.com/li/1320164",
+                "query": "完璧主義",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "現実逃避は苦しみを生むだけ。解決するには現実と向き合い一歩踏み出すだけ。.md",
+                "file": "Notes/Index/メンタルヘルス.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "現実逃避は苦しみを生むだけ。解決するには現実と向き合い一歩踏み出すだけ。.md",
+                "file": "Notes/Index/メンタルヘルス.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "現実逃避は苦しみを生むだけ。解決するには現実と向き合い一歩踏み出すだけ。.md"
+                "file": "Notes/Index/メンタルヘルス.md"
               }
             }
           },
@@ -303,13 +158,17 @@
   },
   "active": "d85d88834d8e46c8",
   "lastOpenFiles": [
+    "Notes/Inbox/現実逃避は苦しみを生むだけ。解決するには現実と向き合い一歩踏み出すだけ。.md",
+    "べき思考から柔軟な思考の具体例.md",
+    "自分は「べき思考」が強すぎて人間関係が苦手。こうあるべき、すべき、こだわりに気づくところから。.md",
+    "Notes/Index/メンタルヘルス.md",
+    "Notes/Inbox/悪習慣の効果は遅れてやってくる。だから今日はいいかと甘えるのが危険。.md",
+    "完璧主義とは「すべき」「してはならない」と考え、この基準に合わない人に怒ったりイライラすること。.md",
     "Notes/Inbox/脳にとってはHIITよりジョギングがベスト。ストレスはHIITがいい。筋トレはニューロンを強くするが増やさない。.md",
-    "現実逃避は苦しみを生むだけ。解決するには現実と向き合い一歩踏み出すだけ。.md",
     "Notes/Inbox/筋トレは有益だがBDNFには大して関与しない。ジョギングなどがベスト.md",
     "Notes/Inbox/HIITはやりすぎると脳へのメリットが損なわれる.md",
     "Notes/Inbox/怒りに対して運動は逆効果。瞑想、ヨガ、シャワーが良い。.md",
     "Notes/Index/勉強/学習の作法.md",
-    "Notes/Index/メンタルヘルス.md",
     "Notes/Index/仕事.md",
     "Notes/Inbox/嫌いな人に「嫌いだ」と表面的に出すのは自分も怒り不幸になる。嫌いでも行動では親切しておくほうが得。.md",
     "Notes/Blog/嫌いな人こそ親切にすべき。相手を考え怒り不幸なのは自分が原因。感情は置き行動として親切にする。.md",
@@ -325,10 +184,6 @@
     "Notes/Index/英語.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Inbox/価値観の押し付けをしない。アドバイスは求められてないのに言わない。沈黙は金。価値観はせめて相手を肯定してから.md",
-    "Notes/Scraps/絶竜詩メモ.md",
-    "Notes/Scraps/風槍&死刻メモ.md",
-    "Notes/Inbox/youtube, SNSから離れスマホを部屋から追い出し自分の不安やストレスを回避するのではなく向き合う。.md",
-    "Notes/Inbox/承認欲求や褒められたいを動機にしない。自分の成長を軸にする。他者評価に依存しない。自己評価で楽しむ。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
