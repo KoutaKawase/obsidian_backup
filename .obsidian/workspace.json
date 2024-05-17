@@ -150,9 +150,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d85d88834d8e46c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "現実逃避は苦しみを生むだけ。解決するには現実と向き合い一歩踏み出すだけ。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/脳にとってはHIITよりジョギングがベスト。ストレスはHIITがいい。筋トレはニューロンを強くするが増やさない。.md",
+                "file": "現実逃避は苦しみを生むだけ。解決するには現実と向き合い一歩踏み出すだけ。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/脳にとってはHIITよりジョギングがベスト。ストレスはHIITがいい。筋トレはニューロンを強くするが増やさない。.md",
+                "file": "現実逃避は苦しみを生むだけ。解決するには現実と向き合い一歩踏み出すだけ。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/脳にとってはHIITよりジョギングがベスト。ストレスはHIITがいい。筋トレはニューロンを強くするが増やさない。.md"
+                "file": "現実逃避は苦しみを生むだけ。解決するには現実と向き合い一歩踏み出すだけ。.md"
               }
             }
           },
@@ -289,11 +301,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "d85d88834d8e46c8",
   "lastOpenFiles": [
+    "Notes/Inbox/脳にとってはHIITよりジョギングがベスト。ストレスはHIITがいい。筋トレはニューロンを強くするが増やさない。.md",
+    "現実逃避は苦しみを生むだけ。解決するには現実と向き合い一歩踏み出すだけ。.md",
     "Notes/Inbox/筋トレは有益だがBDNFには大して関与しない。ジョギングなどがベスト.md",
     "Notes/Inbox/HIITはやりすぎると脳へのメリットが損なわれる.md",
-    "Notes/Inbox/脳にとってはHIITよりジョギングがベスト。ストレスはHIITがいい。筋トレはニューロンを強くするが増やさない。.md",
     "Notes/Inbox/怒りに対して運動は逆効果。瞑想、ヨガ、シャワーが良い。.md",
     "Notes/Index/勉強/学習の作法.md",
     "Notes/Index/メンタルヘルス.md",
@@ -316,7 +329,6 @@
     "Notes/Scraps/風槍&死刻メモ.md",
     "Notes/Inbox/youtube, SNSから離れスマホを部屋から追い出し自分の不安やストレスを回避するのではなく向き合う。.md",
     "Notes/Inbox/承認欲求や褒められたいを動機にしない。自分の成長を軸にする。他者評価に依存しない。自己評価で楽しむ。.md",
-    "Notes/Inbox/聞かれてもないのにアドバイスしない。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
