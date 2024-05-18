@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/痛みは必須だが苦しみは必須ではない。2本の矢を受けない。1本目以外は妄想。観察すること.md",
+                "file": "Notes/Index/仏教/読むべき本.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/痛みは必須だが苦しみは必須ではない。2本の矢を受けない。1本目以外は妄想。観察すること.md",
+                "file": "Notes/Index/仏教/読むべき本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/痛みは必須だが苦しみは必須ではない。2本の矢を受けない。1本目以外は妄想。観察すること.md",
+                "file": "Notes/Index/仏教/読むべき本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/痛みは必須だが苦しみは必須ではない。2本の矢を受けない。1本目以外は妄想。観察すること.md"
+                "file": "Notes/Index/仏教/読むべき本.md"
               }
             }
           },
@@ -217,10 +217,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "e158a3eeb52de21c",
   "lastOpenFiles": [
-    "Notes/Index/メンタルヘルス.md",
+    "Notes/Index/仏教/index.md",
     "Notes/Inbox/痛みは必須だが苦しみは必須ではない。2本の矢を受けない。1本目以外は妄想。観察すること.md",
+    "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/感謝は具体的に。マンネリ化しやすいので具体的な小さなことに目を向ける意識を。大きな目立つことより小さい事を意識。.md",
     "Notes/Inbox/漸進主義であれ。70点主義が大事。べき思考を捨てる。途中で投げ出しがち。慎重すぎて始動が遅い.md",
     "べき思考から柔軟な思考の具体例.md",
@@ -243,7 +244,6 @@
     "Notes/Inbox/いいことをすれば帰ってくる。情けは人の為ならず。自分より他人を幸せにすることが大事。.md",
     "Notes/Inbox/「キジも鳴かずば撃たれまい」 余計なことを言わなければ問題は起きない。.md",
     "Notes/Inbox/初心者は最初の15分ほどサマタで集中し最後にヴィパッサナーや慈悲の瞑想を組み込むのがイイ。.md",
-    "Notes/Index/仏教/index.md",
     "Notes/Inbox/コミュ障とは余計なことを言わずにいられない人。ネガティブを態度や顔で表に出してしまう人。大事なのは笑顔でいること.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
