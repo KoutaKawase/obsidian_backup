@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0d355fb8841bcc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/瞑想の基本は「実況中継」「ラベリング」。ただし「私」はないものである。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/瞑想は心の筋トレであり心地よさや不安やストレスの解消のためにしてはいけない。.md",
+                "file": "Notes/Inbox/瞑想の基本は「実況中継」「ラベリング」。ただし「私」はないものである。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/瞑想は心の筋トレであり心地よさや不安やストレスの解消のためにしてはいけない。.md",
+                "file": "Notes/Inbox/瞑想の基本は「実況中継」「ラベリング」。ただし「私」はないものである。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/瞑想は心の筋トレであり心地よさや不安やストレスの解消のためにしてはいけない。.md"
+                "file": "Notes/Inbox/瞑想の基本は「実況中継」「ラベリング」。ただし「私」はないものである。.md"
               }
             }
           },
@@ -243,8 +255,9 @@
   },
   "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "Notes/Inbox/衝動はマインドバステクニックがよさそう.md",
     "Notes/Inbox/瞑想は心の筋トレであり心地よさや不安やストレスの解消のためにしてはいけない。.md",
+    "Notes/Inbox/瞑想の基本は「実況中継」「ラベリング」。ただし「私」はないものである。.md",
+    "Notes/Inbox/衝動はマインドバステクニックがよさそう.md",
     "Notes/Index/メンタルヘルス.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Index/仏教/index.md",
@@ -268,7 +281,6 @@
     "Notes/Blog/嫌いな人こそ親切にすべき。相手を考え怒り不幸なのは自分が原因。感情は置き行動として親切にする。.md",
     "Notes/Inbox/利己的な感情より会社への貢献を意識する。.md",
     "Notes/Inbox/笑顔に勝る化粧なし。人間関係はネガティブを顔や態度に出さないこと。笑顔が大事。演技でもいい。人気のある人は笑顔のあるひと.md",
-    "Notes/Inbox/いいことをすれば帰ってくる。情けは人の為ならず。自分より他人を幸せにすることが大事。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
