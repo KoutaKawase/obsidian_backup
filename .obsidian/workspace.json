@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3b7efd8fa75d451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "気づきの瞑想とはサマタの事。十分なサマタなくしてヴィパッサナーはありえない。凡夫→サマタ→ヴィパ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/空腹具合を1-10だとしたら3で食べて5-7でやめておけば勝手に痩せる。食べながら常に自分が空腹か問いかける.md",
+                "file": "気づきの瞑想とはサマタの事。十分なサマタなくしてヴィパッサナーはありえない。凡夫→サマタ→ヴィパ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/空腹具合を1-10だとしたら3で食べて5-7でやめておけば勝手に痩せる。食べながら常に自分が空腹か問いかける.md",
+                "file": "気づきの瞑想とはサマタの事。十分なサマタなくしてヴィパッサナーはありえない。凡夫→サマタ→ヴィパ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/空腹具合を1-10だとしたら3で食べて5-7でやめておけば勝手に痩せる。食べながら常に自分が空腹か問いかける.md"
+                "file": "気づきの瞑想とはサマタの事。十分なサマタなくしてヴィパッサナーはありえない。凡夫→サマタ→ヴィパ.md"
               }
             }
           },
@@ -169,10 +181,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "367f2724878ef403",
+  "active": "e3b7efd8fa75d451",
   "lastOpenFiles": [
-    "Notes/Inbox/怒りやストレスはRAINで気づきと観察。まず認知し、感情を受け入れ、自分を観察し、流れるものだと理解する。.md",
     "Notes/Inbox/空腹具合を1-10だとしたら3で食べて5-7でやめておけば勝手に痩せる。食べながら常に自分が空腹か問いかける.md",
+    "気づきの瞑想とはサマタの事。十分なサマタなくしてヴィパッサナーはありえない。凡夫→サマタ→ヴィパ.md",
+    "Notes/Inbox/怒りやストレスはRAINで気づきと観察。まず認知し、感情を受け入れ、自分を観察し、流れるものだと理解する。.md",
     "日々の「良さ」を噛み締めること。瞑想的に観察しポジティブな体験を意識することが大事。.md",
     "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/瞑想の基本は「実況中継」「ラベリング」。ただし「私」はないものである。.md",
@@ -196,7 +209,6 @@
     "Notes/Inbox/HIITはやりすぎると脳へのメリットが損なわれる.md",
     "Notes/Inbox/怒りに対して運動は逆効果。瞑想、ヨガ、シャワーが良い。.md",
     "Notes/Index/勉強/学習の作法.md",
-    "Notes/Index/仕事.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
