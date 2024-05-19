@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "367f2724878ef403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/空腹具合を1-10だとしたら3で食べて5-7でやめておけば勝手に痩せる。食べながら常に自分が空腹か問いかける.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/怒りやストレスはRAINで気づきと観察。まず認知し、感情を受け入れ、自分を観察し、流れるものだと理解する。.md",
+                "file": "Notes/Inbox/空腹具合を1-10だとしたら3で食べて5-7でやめておけば勝手に痩せる。食べながら常に自分が空腹か問いかける.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/怒りやストレスはRAINで気づきと観察。まず認知し、感情を受け入れ、自分を観察し、流れるものだと理解する。.md",
+                "file": "Notes/Inbox/空腹具合を1-10だとしたら3で食べて5-7でやめておけば勝手に痩せる。食べながら常に自分が空腹か問いかける.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/怒りやストレスはRAINで気づきと観察。まず認知し、感情を受け入れ、自分を観察し、流れるものだと理解する。.md"
+                "file": "Notes/Inbox/空腹具合を1-10だとしたら3で食べて5-7でやめておけば勝手に痩せる。食べながら常に自分が空腹か問いかける.md"
               }
             }
           },
@@ -156,8 +169,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "367f2724878ef403",
   "lastOpenFiles": [
+    "Notes/Inbox/怒りやストレスはRAINで気づきと観察。まず認知し、感情を受け入れ、自分を観察し、流れるものだと理解する。.md",
+    "Notes/Inbox/空腹具合を1-10だとしたら3で食べて5-7でやめておけば勝手に痩せる。食べながら常に自分が空腹か問いかける.md",
     "日々の「良さ」を噛み締めること。瞑想的に観察しポジティブな体験を意識することが大事。.md",
     "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/瞑想の基本は「実況中継」「ラベリング」。ただし「私」はないものである。.md",
@@ -166,7 +181,6 @@
     "Notes/Inbox/感謝は具体的に。マンネリ化しやすいので具体的な小さなことに目を向ける意識を。大きな目立つことより小さい事を意識。.md",
     "Notes/Inbox/完璧主義が身を滅ぼす。歳をとるほど危ない。セルフコンパッションが大事。他人の期待に応えるのはやばい。.md",
     "Notes/Inbox/失敗はまず事実を受け入れる。そして俯瞰する。2本目の矢。感情と事実を分ける。責めない、認めない、慰め、逃避、放置はしてはいけない。.md",
-    "Notes/Inbox/怒りやストレスはRAINで気づきと観察。まず認知し、感情を受け入れ、自分を観察し、流れるものだと理解する。.md",
     "Notes/Inbox/ネガティブである時ほど感謝を意識するのが大事。.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Index/仏教/index.md",
@@ -183,7 +197,6 @@
     "Notes/Inbox/怒りに対して運動は逆効果。瞑想、ヨガ、シャワーが良い。.md",
     "Notes/Index/勉強/学習の作法.md",
     "Notes/Index/仕事.md",
-    "Notes/Inbox/嫌いな人に「嫌いだ」と表面的に出すのは自分も怒り不幸になる。嫌いでも行動では親切しておくほうが得。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
