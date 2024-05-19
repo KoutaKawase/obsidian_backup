@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8ca8f895fdda6f20",
+        "id": "93f1f3f545a9aa0c",
         "type": "tabs",
         "children": [
           {
-            "id": "3b84f17b5acd3ecd",
+            "id": "8b637b55e548bb72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/怒りやストレスはRAINで気づきと観察。まず認知し、感情を受け入れ、自分を観察し、流れるものだと理解する。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "367f2724878ef403",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/空腹具合を1-10だとしたら3で食べて5-7でやめておけば勝手に痩せる。食べながら常に自分が空腹か問いかける.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3b7efd8fa75d451",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "十分なサマタなくしてヴィパッサナーはありえない。凡夫→サマタ→ヴィパ.md",
+                "file": "手動瞑想は何が起きてもOK。反応せず対応する。１回１回.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "十分なサマタなくしてヴィパッサナーはありえない。凡夫→サマタ→ヴィパ.md",
+                "file": "手動瞑想は何が起きてもOK。反応せず対応する。１回１回.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "十分なサマタなくしてヴィパッサナーはありえない。凡夫→サマタ→ヴィパ.md",
+                "file": "手動瞑想は何が起きてもOK。反応せず対応する。１回１回.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "十分なサマタなくしてヴィパッサナーはありえない。凡夫→サマタ→ヴィパ.md"
+                "file": "手動瞑想は何が起きてもOK。反応せず対応する。１回１回.md"
               }
             }
           },
@@ -181,10 +156,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e3b7efd8fa75d451",
+  "active": "8b637b55e548bb72",
   "lastOpenFiles": [
+    "手動瞑想は何が起きてもOK。反応せず対応する。１回１回.md",
+    "Notes/Inbox/肉体労働と2本の矢。1本目の肉体的苦痛は避けられないが2本目の精神的苦痛はコントロールできるはず。.md",
+    "Notes/Index/仕事.md",
+    "Notes/Inbox/十分なサマタなくしてヴィパッサナーはありえない。凡夫→サマタ→ヴィパ.md",
     "Notes/Inbox/空腹具合を1-10だとしたら3で食べて5-7でやめておけば勝手に痩せる。食べながら常に自分が空腹か問いかける.md",
-    "十分なサマタなくしてヴィパッサナーはありえない。凡夫→サマタ→ヴィパ.md",
     "Notes/Inbox/怒りやストレスはRAINで気づきと観察。まず認知し、感情を受け入れ、自分を観察し、流れるものだと理解する。.md",
     "日々の「良さ」を噛み締めること。瞑想的に観察しポジティブな体験を意識することが大事。.md",
     "Notes/Index/メンタルヘルス.md",
@@ -206,9 +184,6 @@
     "完璧主義とは「すべき」「してはならない」と考え、この基準に合わない人に怒ったりイライラすること。.md",
     "Notes/Inbox/脳にとってはHIITよりジョギングがベスト。ストレスはHIITがいい。筋トレはニューロンを強くするが増やさない。.md",
     "Notes/Inbox/筋トレは有益だがBDNFには大して関与しない。ジョギングなどがベスト.md",
-    "Notes/Inbox/HIITはやりすぎると脳へのメリットが損なわれる.md",
-    "Notes/Inbox/怒りに対して運動は逆効果。瞑想、ヨガ、シャワーが良い。.md",
-    "Notes/Index/勉強/学習の作法.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
