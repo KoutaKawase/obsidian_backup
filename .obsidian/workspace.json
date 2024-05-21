@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4133c5619ac29d56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "手動瞑想は何が起きてもOK。反応せず対応する。１回１回手を意識。ラベリングは不要。別のことが浮かんでもそのままに。.md",
+                "file": "無題のファイル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "手動瞑想は何が起きてもOK。反応せず対応する。１回１回手を意識。ラベリングは不要。別のことが浮かんでもそのままに。.md",
+                "file": "無題のファイル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "手動瞑想は何が起きてもOK。反応せず対応する。１回１回手を意識。ラベリングは不要。別のことが浮かんでもそのままに。.md"
+                "file": "無題のファイル.md"
               }
             }
           },
@@ -156,9 +169,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8b637b55e548bb72",
+  "active": "4133c5619ac29d56",
   "lastOpenFiles": [
     "手動瞑想は何が起きてもOK。反応せず対応する。１回１回手を意識。ラベリングは不要。別のことが浮かんでもそのままに。.md",
+    "無題のファイル.md",
     "Notes/Inbox/肉体労働と2本の矢。1本目の肉体的苦痛は避けられないが2本目の精神的苦痛はコントロールできるはず。.md",
     "Notes/Index/仕事.md",
     "Notes/Inbox/十分なサマタなくしてヴィパッサナーはありえない。凡夫→サマタ→ヴィパ.md",
@@ -183,7 +197,6 @@
     "Notes/Inbox/悪習慣の効果は遅れてやってくる。だから今日はいいかと甘えるのが危険。.md",
     "完璧主義とは「すべき」「してはならない」と考え、この基準に合わない人に怒ったりイライラすること。.md",
     "Notes/Inbox/脳にとってはHIITよりジョギングがベスト。ストレスはHIITがいい。筋トレはニューロンを強くするが増やさない。.md",
-    "Notes/Inbox/筋トレは有益だがBDNFには大して関与しない。ジョギングなどがベスト.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
