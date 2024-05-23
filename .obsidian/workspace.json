@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "93f1f3f545a9aa0c",
+        "id": "aabd130dae88838d",
         "type": "tabs",
         "children": [
           {
-            "id": "fc2afaebaef827ac",
+            "id": "5c4972b9a6dddb02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/失敗はまず事実を受け入れる。そして俯瞰する。2本目の矢。感情と事実を分ける。責めない、認めない、慰め、逃避、放置はしてはいけない。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "545a817f4828628b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/アイデンティティの確立は持続可能性が大事。現実的な小さい目標を積み上げ証拠を集める。モチベがある時の低すぎる目標は逆効果。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ab1ec9b57754d01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/お腹と相談する。減ってなければ食べない。空腹がひとまず消えたら離れてみる。1食を軽食にする。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3c822eea6871dc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "聞き取りはディクテーション(書き取り)が有効。何度も聞き書きとる練習をする。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4668b93a629e5cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/ドラマや映画で英語を学ぶコツは色々みるより日常会話が多く飽きないものを一つやりこむ。音声化して隙間時間に聴く.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d4fc05019378c0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英語に限らず語学は理解->反復->継続。特に継続が大事。理解したものを繰り返し読み上げる事。焦らず積み上げれば必ず出来る。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33937a7d85ac6ccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "無題のファイル.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b20ec7d4d6ea4384",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
+                "file": "嫌な気持ちや失敗の引きずり、ネガティブは「ストーリーテリング」も良い。言語化->ユーモア->再評価。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "嫌な気持ちや失敗の引きずり、ネガティブは「ストーリーテリング」も良い。言語化->ユーモア->再評価。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "嫌な気持ちや失敗の引きずり、ネガティブは「ストーリーテリング」も良い。言語化->ユーモア->再評価。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "無題のファイル.md"
+                "file": "嫌な気持ちや失敗の引きずり、ネガティブは「ストーリーテリング」も良い。言語化->ユーモア->再評価。.md"
               }
             }
           },
@@ -241,12 +156,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "33937a7d85ac6ccf",
+  "active": "5c4972b9a6dddb02",
   "lastOpenFiles": [
+    "Notes/Inbox/なにかを記憶したいときはとりあえず「絵」を書くといい.md",
+    "嫌な気持ちや失敗の引きずり、ネガティブは「ストーリーテリング」も良い。言語化->ユーモア->再評価。.md",
     "英語に限らず語学は理解->反復->継続。特に継続が大事。理解したものを繰り返し読み上げる事。焦らず積み上げれば必ず出来る。.md",
-    "無題のファイル.md",
     "Notes/Inbox/ドラマや映画で英語を学ぶコツは色々みるより日常会話が多く飽きないものを一つやりこむ。音声化して隙間時間に聴く.md",
-    "聞き取りはディクテーション(書き取り)が有効。何度も聞き書きとる練習をする。.md",
+    "Notes/Inbox/聞き取りはディクテーション(書き取り)が有効。何度も聞き書きとる練習をする。.md",
     "Notes/Inbox/お腹と相談する。減ってなければ食べない。空腹がひとまず消えたら離れてみる。1食を軽食にする。.md",
     "Notes/Inbox/アイデンティティの確立は持続可能性が大事。現実的な小さい目標を積み上げ証拠を集める。モチベがある時の低すぎる目標は逆効果。.md",
     "Notes/Inbox/コントロール出来るのは自分だけ。自分のアイデンティティに集中し行動する。他者に期待せずコントロールできないものと理解する。.md",
@@ -268,7 +184,6 @@
     "Notes/Inbox/怒りやストレスはRAINで気づきと観察。まず認知し、感情を受け入れ、自分を観察し、流れるものだと理解する。.md",
     "Notes/Inbox/日々の「良さ」を噛み締めること。瞑想的に観察しポジティブな体験を意識することが大事。.md",
     "Notes/Inbox/瞑想の基本は「実況中継」「ラベリング」。ただし「私」はないものである。.md",
-    "Notes/Inbox/瞑想は心の筋トレであり心地よさや不安やストレスの解消のためにしてはいけない。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
