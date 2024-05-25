@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "幸せかどうかは結局心次第。瞑想で感情をコントロールする。.md",
+                "file": "Notes/Inbox/幸せかどうかは結局心次第。瞑想で感情をコントロールする。.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,14 +97,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Satiは普段から実践し「からだ」と「こころ」で気づく。苦しみはSatiを実践していない隙間に現れる。.md",
+                "file": "Notes/Inbox/Satiは普段から実践し「からだ」と「こころ」で気づく。苦しみはSatiを実践していない隙間に現れる。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d51f0769ad9ff9e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "気づきを高めるには手動瞑想と睡眠時間以外のすべての時間、あらゆる動作に絶えず気づきを働かせる。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Satiは普段から実践し「からだ」と「こころ」で気づく。苦しみはSatiを実践していない隙間に現れる。.md",
+                "file": "気づきを高めるには手動瞑想と睡眠時間以外のすべての時間、あらゆる動作に絶えず気づきを働かせる。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Satiは普段から実践し「からだ」と「こころ」で気づく。苦しみはSatiを実践していない隙間に現れる。.md",
+                "file": "気づきを高めるには手動瞑想と睡眠時間以外のすべての時間、あらゆる動作に絶えず気づきを働かせる。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Satiは普段から実践し「からだ」と「こころ」で気づく。苦しみはSatiを実践していない隙間に現れる。.md"
+                "file": "気づきを高めるには手動瞑想と睡眠時間以外のすべての時間、あらゆる動作に絶えず気づきを働かせる。.md"
               }
             }
           },
@@ -241,10 +253,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "9ac8fc3fbda533e3",
+  "active": "d51f0769ad9ff9e4",
   "lastOpenFiles": [
-    "幸せかどうかは結局心次第。瞑想で感情をコントロールする。.md",
-    "Satiは普段から実践し「からだ」と「こころ」で気づく。苦しみはSatiを実践していない隙間に現れる。.md",
+    "Notes/Inbox/Satiは普段から実践し「からだ」と「こころ」で気づく。苦しみはSatiを実践していない隙間に現れる。.md",
+    "気づきを高めるには手動瞑想と睡眠時間以外のすべての時間、あらゆる動作に絶えず気づきを働かせる。.md",
+    "Notes/Inbox/幸せかどうかは結局心次第。瞑想で感情をコントロールする。.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Inbox/チャルーンサティで大事なのは身構えず「いま・ここ」に起こる現象に全てOKと接する。あるがままの事実を受け入れる.md",
     "Notes/Inbox/ミャンマーとタイは瞑想による悟りの捉え方が違う。自分はタイが好き.md",
@@ -268,7 +281,6 @@
     "Notes/Inbox/挨拶は自分を助ける投資。元気に挨拶するだけで職場の居心地を変えられる。また先輩にも気に入られる。.md",
     "Notes/Inbox/挨拶に限らず見返りを求めない。自分が正しいと思う事を貫くのに相手の反応は関係ない。自分がそうありたいと願いそうあれたならそれでいい。.md",
     "Notes/Inbox/手動瞑想は何が起きてもOK。反応せず対応する。１回１回手を意識。ラベリングは不要。別のことが浮かんでもそのままに。.md",
-    "Notes/Inbox/挨拶は先にしないと負けぐらい大事なもの。先にされて返すのはただの返事。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
