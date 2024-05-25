@@ -73,14 +73,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "チャルーンサティで大事なのは身構えず「いま・ここ」に起こる現象に全てOKと接する。あるがままの事実を受け入れる.md",
+                "file": "Notes/Index/仏教/読むべき本.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0185ca59e7b5ff02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "幸せかどうかは結局心次第。瞑想で感情をコントロールする。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ac8fc3fbda533e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Satiは普段から実践し「からだ」と「こころ」で気づく。苦しみはSatiを実践していない隙間に現れる。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "チャルーンサティで大事なのは身構えず「いま・ここ」に起こる現象に全てOKと接する。あるがままの事実を受け入れる.md",
+                "file": "Satiは普段から実践し「からだ」と「こころ」で気づく。苦しみはSatiを実践していない隙間に現れる。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "チャルーンサティで大事なのは身構えず「いま・ここ」に起こる現象に全てOKと接する。あるがままの事実を受け入れる.md",
+                "file": "Satiは普段から実践し「からだ」と「こころ」で気づく。苦しみはSatiを実践していない隙間に現れる。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "チャルーンサティで大事なのは身構えず「いま・ここ」に起こる現象に全てOKと接する。あるがままの事実を受け入れる.md"
+                "file": "Satiは普段から実践し「からだ」と「こころ」で気づく。苦しみはSatiを実践していない隙間に現れる。.md"
               }
             }
           },
@@ -217,11 +241,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "84ca1debb1dd95ca",
+  "active": "9ac8fc3fbda533e3",
   "lastOpenFiles": [
-    "Notes/Inbox/ミャンマーとタイは瞑想による悟りの捉え方が違う。自分はタイが好き.md",
-    "チャルーンサティで大事なのは身構えず「いま・ここ」に起こる現象に全てOKと接する。あるがままの事実を受け入れる.md",
+    "幸せかどうかは結局心次第。瞑想で感情をコントロールする。.md",
+    "Satiは普段から実践し「からだ」と「こころ」で気づく。苦しみはSatiを実践していない隙間に現れる。.md",
     "Notes/Index/仏教/読むべき本.md",
+    "Notes/Inbox/チャルーンサティで大事なのは身構えず「いま・ここ」に起こる現象に全てOKと接する。あるがままの事実を受け入れる.md",
+    "Notes/Inbox/ミャンマーとタイは瞑想による悟りの捉え方が違う。自分はタイが好き.md",
     "Notes/Inbox/ラベリングのコツは言葉そのものに心を寄せない。あくまで対象の感覚に心を向ける.md",
     "Notes/Inbox/嫌な気持ちや失敗の引きずり、ネガティブは「ストーリーテリング」も良い。言語化->ユーモア->再評価。.md",
     "Notes/Inbox/手動瞑想のような１動作１動作に意識を向けるのは日常生活でも出来る。吊り革を握る時、ドアを開ける時、キーボードを撃つ時。続けるのが大事.md",
@@ -243,8 +269,6 @@
     "Notes/Inbox/挨拶に限らず見返りを求めない。自分が正しいと思う事を貫くのに相手の反応は関係ない。自分がそうありたいと願いそうあれたならそれでいい。.md",
     "Notes/Inbox/手動瞑想は何が起きてもOK。反応せず対応する。１回１回手を意識。ラベリングは不要。別のことが浮かんでもそのままに。.md",
     "Notes/Inbox/挨拶は先にしないと負けぐらい大事なもの。先にされて返すのはただの返事。.md",
-    "Notes/Inbox/ネガティブの基本は「受け止める、気づく」。抑圧しない。瞑想で気づき受け止め洞察を鍛える。.md",
-    "Notes/Index/仕事.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
