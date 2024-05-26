@@ -8,115 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c4972b9a6dddb02",
+            "id": "291badc9013d2a64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/嫌な気持ちや失敗の引きずり、ネガティブは「ストーリーテリング」も良い。言語化->ユーモア->再評価。.md",
+                "file": "Notes/Inbox/嫉妬や怒りなど無駄な妄想に陥った時は「今できること」に向きを変える。反応を用意しておく。捉え方次第だと.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3ef265cd88a197da",
+            "id": "9e6f29735d524296",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/不安や緊張に使える呼吸。鼻でゆっくり吸って、一旦おいてからもっかい鼻で吸う。そのあと肺が空になるまで口から吐く.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d82fa94edc59cc6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/手動瞑想のような１動作１動作に意識を向けるのは日常生活でも出来る。吊り革を握る時、ドアを開ける時、キーボードを撃つ時。続けるのが大事.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bb0d0bc3d379b14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/仏教/読むべき本.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3060ea6ca38bd281",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/ミャンマーとタイは瞑想による悟りの捉え方が違う。自分はタイが好き.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84ca1debb1dd95ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/仏教/読むべき本.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0185ca59e7b5ff02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/幸せかどうかは結局心次第。瞑想で感情をコントロールする。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ac8fc3fbda533e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/Satiは普段から実践し「からだ」と「こころ」で気づく。苦しみはSatiを実践していない隙間に現れる。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d51f0769ad9ff9e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "気づきを高めるには手動瞑想と睡眠時間以外のすべての時間、あらゆる動作に絶えず気づきを働かせる。.md",
+                "file": "Notes/Inbox/無駄な妄想は「気づく」のが大事。頭の中で言語化された場合「言葉抜き」して思考を無心に戻す.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "気づきを高めるには手動瞑想と睡眠時間以外のすべての時間、あらゆる動作に絶えず気づきを働かせる。.md",
+                "file": "Notes/Inbox/嫉妬や怒りなど無駄な妄想に陥った時は「今できること」に向きを変える。反応を用意しておく。捉え方次第だと.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "気づきを高めるには手動瞑想と睡眠時間以外のすべての時間、あらゆる動作に絶えず気づきを働かせる。.md",
+                "file": "Notes/Inbox/嫉妬や怒りなど無駄な妄想に陥った時は「今できること」に向きを変える。反応を用意しておく。捉え方次第だと.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "気づきを高めるには手動瞑想と睡眠時間以外のすべての時間、あらゆる動作に絶えず気づきを働かせる。.md"
+                "file": "Notes/Inbox/嫉妬や怒りなど無駄な妄想に陥った時は「今できること」に向きを変える。反応を用意しておく。捉え方次第だと.md"
               }
             }
           },
@@ -253,10 +168,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d51f0769ad9ff9e4",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
+    "Notes/Inbox/無駄な妄想は「気づく」のが大事。頭の中で言語化された場合「言葉抜き」して思考を無心に戻す.md",
+    "Notes/Inbox/嫉妬や怒りなど無駄な妄想に陥った時は「今できること」に向きを変える。反応を用意しておく。捉え方次第だと.md",
+    "Notes/Inbox/気づきを高めるには手動瞑想と睡眠時間以外のすべての時間、あらゆる動作に絶えず気づきを働かせる。.md",
     "Notes/Inbox/Satiは普段から実践し「からだ」と「こころ」で気づく。苦しみはSatiを実践していない隙間に現れる。.md",
-    "気づきを高めるには手動瞑想と睡眠時間以外のすべての時間、あらゆる動作に絶えず気づきを働かせる。.md",
     "Notes/Inbox/幸せかどうかは結局心次第。瞑想で感情をコントロールする。.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Inbox/チャルーンサティで大事なのは身構えず「いま・ここ」に起こる現象に全てOKと接する。あるがままの事実を受け入れる.md",
@@ -266,7 +183,7 @@
     "Notes/Inbox/手動瞑想のような１動作１動作に意識を向けるのは日常生活でも出来る。吊り革を握る時、ドアを開ける時、キーボードを撃つ時。続けるのが大事.md",
     "Notes/Inbox/不安や緊張に使える呼吸。鼻でゆっくり吸って、一旦おいてからもっかい鼻で吸う。そのあと肺が空になるまで口から吐く.md",
     "Notes/Inbox/なにかを記憶したいときはとりあえず「絵」を書くといい.md",
-    "英語に限らず語学は理解->反復->継続。特に継続が大事。理解したものを繰り返し読み上げる事。焦らず積み上げれば必ず出来る。.md",
+    "Notes/Inbox/英語に限らず語学は理解->反復->継続。特に継続が大事。理解したものを繰り返し読み上げる事。焦らず積み上げれば必ず出来る。.md",
     "Notes/Inbox/ドラマや映画で英語を学ぶコツは色々みるより日常会話が多く飽きないものを一つやりこむ。音声化して隙間時間に聴く.md",
     "Notes/Inbox/聞き取りはディクテーション(書き取り)が有効。何度も聞き書きとる練習をする。.md",
     "Notes/Inbox/お腹と相談する。減ってなければ食べない。空腹がひとまず消えたら離れてみる。1食を軽食にする。.md",
@@ -279,8 +196,6 @@
     "Notes/Inbox/挨拶は誰にでも笑顔で元気に丁寧にできる人間であれ。挨拶を元気よくするのは無料でできる最強の武器。後輩先輩関係ない。自分が好きでやるだけ.md",
     "Notes/Inbox/挨拶は気分でしないとかはNG。必ず元気にいついかなる時でもすること。空間に対してする。.md",
     "Notes/Inbox/挨拶は自分を助ける投資。元気に挨拶するだけで職場の居心地を変えられる。また先輩にも気に入られる。.md",
-    "Notes/Inbox/挨拶に限らず見返りを求めない。自分が正しいと思う事を貫くのに相手の反応は関係ない。自分がそうありたいと願いそうあれたならそれでいい。.md",
-    "Notes/Inbox/手動瞑想は何が起きてもOK。反応せず対応する。１回１回手を意識。ラベリングは不要。別のことが浮かんでもそのままに。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
