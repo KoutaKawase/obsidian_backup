@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35b18e56307fb8a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人は「考える」から苦しむ。ヴィパッサナーの本質は浮かんだ思考をそこで止め観察することにある。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/僧侶も孤独を感じる。大事なのは孤独をなくそうとするのではなく共にする。.md",
+                "file": "人は「考える」から苦しむ。ヴィパッサナーの本質は浮かんだ思考をそこで止め観察することにある。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/僧侶も孤独を感じる。大事なのは孤独をなくそうとするのではなく共にする。.md",
+                "file": "人は「考える」から苦しむ。ヴィパッサナーの本質は浮かんだ思考をそこで止め観察することにある。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/僧侶も孤独を感じる。大事なのは孤独をなくそうとするのではなく共にする。.md"
+                "file": "人は「考える」から苦しむ。ヴィパッサナーの本質は浮かんだ思考をそこで止め観察することにある。.md"
               }
             }
           },
@@ -229,10 +241,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "35b18e56307fb8a7",
   "lastOpenFiles": [
-    "Notes/Inbox/「我」が現れる時はこう思われたい扱われたいと思う時。地位や肩書きがあると「欲」が出る。この執着から離れる必要がある。.md",
     "Notes/Inbox/僧侶も孤独を感じる。大事なのは孤独をなくそうとするのではなく共にする。.md",
+    "人は「考える」から苦しむ。ヴィパッサナーの本質は浮かんだ思考をそこで止め観察することにある。.md",
+    "Notes/Inbox/「我」が現れる時はこう思われたい扱われたいと思う時。地位や肩書きがあると「欲」が出る。この執着から離れる必要がある。.md",
     "Notes/Inbox/良い歩き方は「早足」「姿勢」「瞑想」。.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Inbox/現在の動作以外の妄想は基本ラベリングせず放っておく。現在の動作から気が逸れるような妄想だけ意識する。.md",
@@ -256,7 +269,6 @@
     "Notes/Inbox/チャルーンサティで大事なのは身構えず「いま・ここ」に起こる現象に全てOKと接する。あるがままの事実を受け入れる.md",
     "Notes/Inbox/ミャンマーとタイは瞑想による悟りの捉え方が違う。自分はタイが好き.md",
     "Notes/Inbox/ラベリングのコツは言葉そのものに心を寄せない。あくまで対象の感覚に心を向ける.md",
-    "Notes/Inbox/嫌な気持ちや失敗の引きずり、ネガティブは「ストーリーテリング」も良い。言語化->ユーモア->再評価。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
