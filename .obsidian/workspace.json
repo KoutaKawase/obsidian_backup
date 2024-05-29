@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "怒る時は必ず「我」がある。「自我」の希望がなければ怒らない。他人は思い通りにできない。自我は必ず失敗する。.md",
+                "file": "Notes/Inbox/怒る時は必ず「我」がある。「自我」の希望がなければ怒らない。他人は思い通りにできない。自我は必ず失敗する。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93c59e883bac6126",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "瞑想.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "怒る時は必ず「我」がある。「自我」の希望がなければ怒らない。他人は思い通りにできない。自我は必ず失敗する。.md",
+                "file": "瞑想.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "怒る時は必ず「我」がある。「自我」の希望がなければ怒らない。他人は思い通りにできない。自我は必ず失敗する。.md",
+                "file": "瞑想.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "怒る時は必ず「我」がある。「自我」の希望がなければ怒らない。他人は思い通りにできない。自我は必ず失敗する。.md"
+                "file": "瞑想.md"
               }
             }
           },
@@ -181,10 +193,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "93c59e883bac6126",
   "lastOpenFiles": [
+    "Notes/Inbox/怒る時は必ず「我」がある。「自我」の希望がなければ怒らない。他人は思い通りにできない。自我は必ず失敗する。.md",
+    "瞑想.md",
     "Notes/Inbox/「我」を持つから苦悩する。「私」を認識し区別することで「孤独」を感じる。だから味方を作るろうとして苦悩する。.md",
-    "怒る時は必ず「我」がある。「自我」の希望がなければ怒らない。他人は思い通りにできない。自我は必ず失敗する。.md",
     "Notes/Inbox/「我」を持つから孤独を感じる。生命は互いに支え合って生きている。無縁はありえない。常在菌しかり.md",
     "Notes/Inbox/人は「考える」から苦しむ。ヴィパッサナーの本質は浮かんだ思考をそこで止め観察することにある。.md",
     "Notes/Inbox/僧侶も孤独を感じる。大事なのは孤独をなくそうとするのではなく共にする。.md",
@@ -208,7 +221,6 @@
     "Notes/Inbox/無駄な妄想は「気づく」のが大事。頭の中で言語化された場合「言葉抜き」して思考を無心に戻す.md",
     "Notes/Inbox/気づきを高めるには手動瞑想と睡眠時間以外のすべての時間、あらゆる動作に絶えず気づきを働かせる。.md",
     "Notes/Inbox/Satiは普段から実践し「からだ」と「こころ」で気づく。苦しみはSatiを実践していない隙間に現れる。.md",
-    "Notes/Inbox/幸せかどうかは結局心次第。瞑想で感情をコントロールする。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
