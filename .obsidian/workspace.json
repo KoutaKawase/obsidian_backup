@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人の脳は正しいことを拒み、邪なことに流れる。苦しみを乗り越えるには忍耐辛抱精進が不可欠。.md",
+                "file": "苦しむ人は「今」を離れている。過去を悔やみ将来を悩む人はゾンビと同じ。「今」に集中するべき。妄想に惑わされない。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6a1ecba13a4f865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大事なのは「今」に集中して瞬間瞬間、未来に最適の結果を出す「因（原因）」を作ること。未来は考えない。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "341b6d89a0085e6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/仕事.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人の脳は正しいことを拒み、邪なことに流れる。苦しみを乗り越えるには忍耐辛抱精進が不可欠。.md",
+                "file": "大事なのは「今」に集中して瞬間瞬間、未来に最適の結果を出す「因（原因）」を作ること。未来は考えない。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人の脳は正しいことを拒み、邪なことに流れる。苦しみを乗り越えるには忍耐辛抱精進が不可欠。.md",
+                "file": "大事なのは「今」に集中して瞬間瞬間、未来に最適の結果を出す「因（原因）」を作ること。未来は考えない。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人の脳は正しいことを拒み、邪なことに流れる。苦しみを乗り越えるには忍耐辛抱精進が不可欠。.md"
+                "file": "大事なのは「今」に集中して瞬間瞬間、未来に最適の結果を出す「因（原因）」を作ること。未来は考えない。.md"
               }
             }
           },
@@ -169,10 +193,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ccd92a6e0eabaed3",
+  "active": "b6a1ecba13a4f865",
   "lastOpenFiles": [
+    "苦しむ人は「今」を離れている。過去を悔やみ将来を悩む人はゾンビと同じ。「今」に集中するべき。妄想に惑わされない。.md",
+    "大事なのは「今」に集中して瞬間瞬間、未来に最適の結果を出す「因（原因）」を作ること。未来は考えない。.md",
+    "Notes/Inbox/人の脳は正しいことを拒み、邪なことに流れる。苦しみを乗り越えるには忍耐辛抱精進が不可欠。.md",
+    "Notes/Index/仕事.md",
     "Notes/Inbox/他人ためになすことが肝心というのが仏教。慈悲喜捨の心が大事。他人を慈しみ、苦を救済し、妬まず共に喜び、恨まず平等に与える.md",
-    "人の脳は正しいことを拒み、邪なことに流れる。苦しみを乗り越えるには忍耐辛抱精進が不可欠。.md",
     "Notes/Index/仏教/index.md",
     "Notes/Inbox/言語学習は最重要の単語と文法を学び、聞く読むと話す書くを分け簡単な物から練習する。.md",
     "Notes/Index/英語.md",
@@ -194,9 +221,6 @@
     "Notes/Inbox/日常生活のラベリングは速くてできない場合明確な気づきが連続しているのがはっきり観察できているかどうか.md",
     "Notes/Inbox/瞑想の基本はラベリングと感覚の割合は1対9。あくまで観察　感覚　経験を重要視して言葉は薄く。.md",
     "Notes/Inbox/初心者こそ丁寧にラベリング。慣れたら「膨らみ」->「ふ」などにしてもいい。動作が乱れたらラベリングの巻き戻しはしない。.md",
-    "Notes/Inbox/ラベリングは情報や対象の中には入り込まない。抽象的にすることで判断を避ける.md",
-    "Notes/Inbox/まだ来ぬ未来を思い煩うことなく、今ここでなすべきことを熱心にせよ.md",
-    "Notes/Inbox/呼吸瞑想は目を瞑る。呼吸は自然に。ただ出て入るに気づく。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
