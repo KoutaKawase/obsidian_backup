@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "883e49789296e1c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/人は思考するから苦しむ。人の発言というのは結局はただの音であり、脳が考えて解釈するから苦しむ。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47b23ad7305297b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/強い感情(怒りなど)を観察するコツはその瞬間の体の感覚を見ること。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/割り算の重要な意味の一つに１あたりの値を求めること。分数で割るというのも１あたりの値を求めるのをイメージ.md",
+                "file": "Notes/Inbox/強い感情(怒りなど)を観察するコツはその瞬間の体の感覚を見ること。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/割り算の重要な意味の一つに１あたりの値を求めること。分数で割るというのも１あたりの値を求めるのをイメージ.md",
+                "file": "Notes/Inbox/強い感情(怒りなど)を観察するコツはその瞬間の体の感覚を見ること。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/割り算の重要な意味の一つに１あたりの値を求めること。分数で割るというのも１あたりの値を求めるのをイメージ.md"
+                "file": "Notes/Inbox/強い感情(怒りなど)を観察するコツはその瞬間の体の感覚を見ること。.md"
               }
             }
           },
@@ -193,10 +217,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8010ac67b99c15de",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "Notes/Inbox/仏教の教えの一つに無瞋恚(怒らない)がある。うまくいかない時でも落ち込まず明るくいようというのがブッダの教え。.md",
+    "Notes/Inbox/人は思考するから苦しむ。人の発言というのは結局はただの音であり、脳が考えて解釈するから苦しむ。.md",
+    "Notes/Inbox/強い感情(怒りなど)を観察するコツはその瞬間の体の感覚を見ること。.md",
     "Notes/Inbox/割り算の重要な意味の一つに１あたりの値を求めること。分数で割るというのも１あたりの値を求めるのをイメージ.md",
+    "Notes/Inbox/仏教の教えの一つに無瞋恚(怒らない)がある。うまくいかない時でも落ち込まず明るくいようというのがブッダの教え。.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Index/数学/index.md",
     "Notes/Index/仏教/index.md",
@@ -219,8 +245,6 @@
     "Notes/Inbox/僧侶も孤独を感じる。大事なのは孤独をなくそうとするのではなく共にする。.md",
     "Notes/Inbox/「我」が現れる時はこう思われたい扱われたいと思う時。地位や肩書きがあると「欲」が出る。この執着から離れる必要がある。.md",
     "Notes/Inbox/良い歩き方は「早足」「姿勢」「瞑想」。.md",
-    "Notes/Inbox/現在の動作以外の妄想は基本ラベリングせず放っておく。現在の動作から気が逸れるような妄想だけ意識する。.md",
-    "Notes/Inbox/ラベリングの基本は客観視。「と思った」など。言葉なら「妄想」、映像で浮かんだなら「妄像」。言葉はなんでもいい。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
