@@ -49,38 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/仏教の教えの一つに無瞋恚(怒らない)がある。うまくいかない時でも落ち込まず明るくいようというのがブッダの教え。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87e7df8cd0b72d58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/仏教/読むべき本.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "341b6d89a0085e6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/仕事.md",
+                "file": "Notes/Inbox/割り算の重要な意味の一つに１あたりの値を求めること。分数で割るというのも１あたりの値を求めるのをイメージ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/仏教/読むべき本.md",
+                "file": "Notes/Inbox/割り算の重要な意味の一つに１あたりの値を求めること。分数で割るというのも１あたりの値を求めるのをイメージ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/仏教/読むべき本.md",
+                "file": "Notes/Inbox/割り算の重要な意味の一つに１あたりの値を求めること。分数で割るというのも１あたりの値を求めるのをイメージ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/仏教/読むべき本.md"
+                "file": "Notes/Inbox/割り算の重要な意味の一つに１あたりの値を求めること。分数で割るというのも１あたりの値を求めるのをイメージ.md"
               }
             }
           },
@@ -217,12 +193,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "87e7df8cd0b72d58",
+  "active": "8010ac67b99c15de",
   "lastOpenFiles": [
+    "Notes/Inbox/仏教の教えの一つに無瞋恚(怒らない)がある。うまくいかない時でも落ち込まず明るくいようというのがブッダの教え。.md",
+    "Notes/Inbox/割り算の重要な意味の一つに１あたりの値を求めること。分数で割るというのも１あたりの値を求めるのをイメージ.md",
+    "Notes/Index/仏教/読むべき本.md",
+    "Notes/Index/数学/index.md",
     "Notes/Index/仏教/index.md",
     "Notes/Index/仕事.md",
     "Notes/Inbox/嫌なことをする相手に怒らないで対応するかどうかは自分の問題。害する相手を許す、逆に助けてあげるのが仏教。.md",
-    "Notes/Inbox/仏教の教えの一つに無瞋恚(怒らない)がある。うまくいかない時でも落ち込まず明るくいようというのがブッダの教え。.md",
     "Notes/Inbox/大事なのは「今」に集中して瞬間瞬間、未来に最適の結果を出す「因（原因）」を作ること。未来は考えない。.md",
     "苦しむ人は「今」を離れている。過去を悔やみ将来を悩む人はゾンビと同じ。「今」に集中するべき。妄想に惑わされない。.md",
     "Notes/Inbox/人の脳は正しいことを拒み、邪なことに流れる。苦しみを乗り越えるには忍耐辛抱精進が不可欠。.md",
@@ -240,11 +219,8 @@
     "Notes/Inbox/僧侶も孤独を感じる。大事なのは孤独をなくそうとするのではなく共にする。.md",
     "Notes/Inbox/「我」が現れる時はこう思われたい扱われたいと思う時。地位や肩書きがあると「欲」が出る。この執着から離れる必要がある。.md",
     "Notes/Inbox/良い歩き方は「早足」「姿勢」「瞑想」。.md",
-    "Notes/Index/仏教/読むべき本.md",
     "Notes/Inbox/現在の動作以外の妄想は基本ラベリングせず放っておく。現在の動作から気が逸れるような妄想だけ意識する。.md",
     "Notes/Inbox/ラベリングの基本は客観視。「と思った」など。言葉なら「妄想」、映像で浮かんだなら「妄像」。言葉はなんでもいい。.md",
-    "戻りたいと思ったなら「戻りたいと思った」「戻ります」.md",
-    "Notes/Inbox/日常生活のラベリングは速くてできない場合明確な気づきが連続しているのがはっきり観察できているかどうか.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
