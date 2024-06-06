@@ -42,9 +42,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f72d652b917de118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/怒りはよい結果を生まない。原因が無常なら怒りも無常であり永遠ではない。永遠たらしめてるのは自分。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e966c7096530a9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/貧乏というのはお金がないことではなく「欲」を捨てられない事。勝手な理想を持ちそれを比較してしまう事が貧乏人。余計な事を考えずその時やるべきことをしろ。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc8e1caddc671923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -73,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "手動瞑想",
+                "query": "足るを",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/欲がいかに苦しみを生み出すか分かる若者の話。楽しみや希望、欲に依存すると危険。「好き」は自分を苦しめる.md",
+                "file": "無題のファイル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/欲がいかに苦しみを生み出すか分かる若者の話。楽しみや希望、欲に依存すると危険。「好き」は自分を苦しめる.md",
+                "file": "無題のファイル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/欲がいかに苦しみを生み出すか分かる若者の話。楽しみや希望、欲に依存すると危険。「好き」は自分を苦しめる.md"
+                "file": "無題のファイル.md"
               }
             }
           },
@@ -181,10 +217,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "fc8e1caddc671923",
   "lastOpenFiles": [
-    "Notes/Inbox/怒り等は不善心をまず認めそのあとどうするかが仏教。悪を避け善をなすように変える。「自分が」正しいと思う時に人は一番怒る。.md",
+    "Notes/Inbox/貧乏というのはお金がないことではなく「欲」を捨てられない事。勝手な理想を持ちそれを比較してしまう事が貧乏人。余計な事を考えずその時やるべきことをしろ。.md",
+    "無題のファイル.md",
+    "Notes/Inbox/怒りはよい結果を生まない。原因が無常なら怒りも無常であり永遠ではない。永遠たらしめてるのは自分。.md",
     "Notes/Inbox/欲がいかに苦しみを生み出すか分かる若者の話。楽しみや希望、欲に依存すると危険。「好き」は自分を苦しめる.md",
+    "Notes/Inbox/怒り等は不善心をまず認めそのあとどうするかが仏教。悪を避け善をなすように変える。「自分が」正しいと思う時に人は一番怒る。.md",
     "Notes/Inbox/どんな仕事も人の役に立っている。不貞腐れず今やるべきことをやればそれでいい。.md",
     "Notes/Index/仕事.md",
     "Notes/Index/メンタルヘルス.md",
@@ -206,9 +245,6 @@
     "Notes/Inbox/嫌なことをする相手に怒らないで対応するかどうかは自分の問題。害する相手を許す、逆に助けてあげるのが仏教。.md",
     "Notes/Inbox/人の脳は正しいことを拒み、邪なことに流れる。苦しみを乗り越えるには忍耐辛抱精進が不可欠。.md",
     "Notes/Inbox/他人ためになすことが肝心というのが仏教。慈悲喜捨の心が大事。他人を慈しみ、苦を救済し、妬まず共に喜び、恨まず平等に与える.md",
-    "Notes/Inbox/言語学習は最重要の単語と文法を学び、聞く読むと話す書くを分け簡単な物から練習する。.md",
-    "Notes/Index/英語.md",
-    "Notes/Index/勉強/学習の作法.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
