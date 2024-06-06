@@ -8,115 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81642af0d51c6f5b",
+            "id": "2d96ae19e3fac760",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/どんな仕事も人の役に立っている。不貞腐れず今やるべきことをやればそれでいい。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d463a0dd3a4d224d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/怒り等は不善心をまず認めそのあとどうするかが仏教。悪を避け善をなすように変える。「自分が」正しいと思う時に人は一番怒る。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "004c6ff10931cafa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/欲がいかに苦しみを生み出すか分かる若者の話。楽しみや希望、欲に依存すると危険。「好き」は自分を苦しめる.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f72d652b917de118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/怒りはよい結果を生まない。原因が無常なら怒りも無常であり永遠ではない。永遠たらしめてるのは自分。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e966c7096530a9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/貧乏というのはお金がないことではなく「欲」を捨てられない事。勝手な理想を持ちそれを比較してしまう事が貧乏人。余計な事を考えずその時やるべきことをしろ。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc8e1caddc671923",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/メンタルヘルス.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "505b9c1bab75dbd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/世の中のあらゆる煩悩は「気づき」で対処する。怒りや欲を感じたら「気づき」をして第二の矢を受けない.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68eb2ac104e7ed67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "怒ってはいけないと片付けない。大事なのは怒りを自覚し愚痴や嫌悪、嫉妬恨みに浪費せず問題を分析し対策を冷静に練ること.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ffcdeebce0a0a87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/少し言い方が悪かったと思ったら自己嫌悪せず素直に聞いてみる。.md",
+                "file": "Notes/Inbox/気づきを絶やさず思考をしなければ脳は綺麗なまま。思考するならするで怒らず落ち込まず暗い考えを持つな。頭の中ぐらい花園を作れ。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "足るを",
+                "query": "落ち込",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/少し言い方が悪かったと思ったら自己嫌悪せず素直に聞いてみる。.md",
+                "file": "Notes/Inbox/気づきを絶やさず思考をしなければ脳は綺麗なまま。思考するならするで怒らず落ち込まず暗い考えを持つな。頭の中ぐらい花園を作れ。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/少し言い方が悪かったと思ったら自己嫌悪せず素直に聞いてみる。.md",
+                "file": "Notes/Inbox/気づきを絶やさず思考をしなければ脳は綺麗なまま。思考するならするで怒らず落ち込まず暗い考えを持つな。頭の中ぐらい花園を作れ。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/少し言い方が悪かったと思ったら自己嫌悪せず素直に聞いてみる。.md"
+                "file": "Notes/Inbox/気づきを絶やさず思考をしなければ脳は綺麗なまま。思考するならするで怒らず落ち込まず暗い考えを持つな。頭の中ぐらい花園を作れ。.md"
               }
             }
           },
@@ -255,21 +158,24 @@
   },
   "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
+    "Notes/Inbox/仏教が目指す捨てるもの->怒り 憎しみ 嫉妬 落ち込み 不安 自我。逆に目指すもの->平和 人を労る 慈しみ 他人の成功を願う。頭の中ぐらいは花園を作る。.md",
     "怒ってはいけないと片付けない。大事なのは怒りを自覚し愚痴や嫌悪、嫉妬恨みに浪費せず問題を分析し対策を冷静に練ること.md",
-    "Notes/Inbox/少し言い方が悪かったと思ったら自己嫌悪せず素直に聞いてみる。.md",
     "Notes/Inbox/世の中のあらゆる煩悩は「気づき」で対処する。怒りや欲を感じたら「気づき」をして第二の矢を受けない.md",
     "Notes/Index/メンタルヘルス.md",
-    "Notes/Inbox/怒りのほとんどは「こうあるべき」と決めつけているから。自我を持っている。森羅万象は思い通りにいかない。怒りを感じたら「こうあるべき」が何かを探す。.md",
     "Notes/Inbox/貧乏というのはお金がないことではなく「欲」を捨てられない事。勝手な理想を持ちそれを比較してしまう事が貧乏人。余計な事を考えずその時やるべきことをしろ。.md",
     "Notes/Inbox/怒りはよい結果を生まない。原因が無常なら怒りも無常であり永遠ではない。永遠たらしめてるのは自分。.md",
     "Notes/Inbox/欲がいかに苦しみを生み出すか分かる若者の話。楽しみや希望、欲に依存すると危険。「好き」は自分を苦しめる.md",
     "Notes/Inbox/怒り等は不善心をまず認めそのあとどうするかが仏教。悪を避け善をなすように変える。「自分が」正しいと思う時に人は一番怒る。.md",
+    "Notes/Inbox/気づきを絶やさず思考をしなければ脳は綺麗なまま。思考するならするで怒らず落ち込まず暗い考えを持つな。頭の中ぐらい花園を作れ。.md",
+    "Notes/Inbox/仏教の教えの一つに無瞋恚(怒らない)がある。うまくいかない時でも落ち込まず明るくいようというのがブッダの教え。.md",
+    "Notes/Index/仏教/index.md",
+    "Notes/Inbox/少し言い方が悪かったと思ったら自己嫌悪せず素直に聞いてみる。.md",
+    "Notes/Inbox/怒りのほとんどは「こうあるべき」と決めつけているから。自我を持っている。森羅万象は思い通りにいかない。怒りを感じたら「こうあるべき」が何かを探す。.md",
     "Notes/Inbox/どんな仕事も人の役に立っている。不貞腐れず今やるべきことをやればそれでいい。.md",
     "Notes/Index/仕事.md",
     "苦しみの多くが「無名」「渇愛」「執着」から来る。間接要因(人間関係、お金等)に対して「無名渇愛執着」などで捉えるのが根本原因。.md",
     "Notes/Inbox/大事なのは「苦しみがある」とありのままに認めることであって「苦しみにハマる」ことは別物。八生道を実践する。.md",
     "Notes/Inbox/大事なのは「どんな現象もありのままに意識してすぐ対象に戻す」。基本はしっかり気づきしっかり戻す。.md",
-    "Notes/Index/仏教/index.md",
     "Notes/Inbox/心の癖というものは「理想」や「こうあるべき」を無意識に作ってしまう。その無根拠の理想に向かって努力し失望し苦しむ。.md",
     "Notes/Inbox/心を育てておけば変化に柔軟に対応できる。心の悪癖は無知高慢自我怒り、欲、執着から来るのでこれをなくすのが目標。.md",
     "Notes/Inbox/怒りや悩みの原因としてあるのは「自我」があるから。「自分の思い通りにいかない」から怒ったり悩む。つまり原因は自分中心。.md",
@@ -278,9 +184,6 @@
     "Notes/Inbox/割り算の重要な意味の一つに１あたりの値を求めること。分数で割るというのも１あたりの値を求めるのをイメージ.md",
     "Notes/Inbox/大事なのは「今」に集中して瞬間瞬間、未来に最適の結果を出す「因（原因）」を作ること。未来は考えない。.md",
     "Notes/Inbox/苦しむ人は「今」を離れている。過去を悔やみ将来を悩む人はゾンビと同じ。「今」に集中するべき。妄想に惑わされない。.md",
-    "Notes/Inbox/仏教の教えの一つに無瞋恚(怒らない)がある。うまくいかない時でも落ち込まず明るくいようというのがブッダの教え。.md",
-    "Notes/Index/仏教/読むべき本.md",
-    "Notes/Index/数学/index.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
