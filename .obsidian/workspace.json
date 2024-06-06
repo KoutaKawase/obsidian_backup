@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d463a0dd3a4d224d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/怒り等は不善心をまず認めそのあとどうするかが仏教。悪を避け善をなすように変える。「自分が」正しいと思う時に人は一番怒る。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/どんな仕事も人の役に立っている。不貞腐れず今やるべきことをやればそれでいい。.md",
+                "file": "Notes/Inbox/怒り等は不善心をまず認めそのあとどうするかが仏教。悪を避け善をなすように変える。「自分が」正しいと思う時に人は一番怒る。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/どんな仕事も人の役に立っている。不貞腐れず今やるべきことをやればそれでいい。.md",
+                "file": "Notes/Inbox/怒り等は不善心をまず認めそのあとどうするかが仏教。悪を避け善をなすように変える。「自分が」正しいと思う時に人は一番怒る。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/どんな仕事も人の役に立っている。不貞腐れず今やるべきことをやればそれでいい。.md"
+                "file": "Notes/Inbox/怒り等は不善心をまず認めそのあとどうするかが仏教。悪を避け善をなすように変える。「自分が」正しいと思う時に人は一番怒る。.md"
               }
             }
           },
@@ -158,8 +171,9 @@
   },
   "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "Notes/Index/仕事.md",
     "Notes/Inbox/どんな仕事も人の役に立っている。不貞腐れず今やるべきことをやればそれでいい。.md",
+    "Notes/Inbox/怒り等は不善心をまず認めそのあとどうするかが仏教。悪を避け善をなすように変える。「自分が」正しいと思う時に人は一番怒る。.md",
+    "Notes/Index/仕事.md",
     "Notes/Index/メンタルヘルス.md",
     "苦しみの多くが「無名」「渇愛」「執着」から来る。間接要因(人間関係、お金等)に対して「無名渇愛執着」などで捉えるのが根本原因。.md",
     "Notes/Inbox/大事なのは「苦しみがある」とありのままに認めることであって「苦しみにハマる」ことは別物。八生道を実践する。.md",
@@ -183,7 +197,6 @@
     "Notes/Index/英語.md",
     "Notes/Index/勉強/学習の作法.md",
     "Notes/Inbox/「我」を持つから孤独を感じる。生命は互いに支え合って生きている。無縁はありえない。常在菌しかり.md",
-    "Notes/Inbox/仏教が目指す捨てるもの->怒り 憎しみ 嫉妬 落ち込み 不安 自我。逆に目指すもの->平和 人を労る 慈しみ 他人の成功を願う。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
