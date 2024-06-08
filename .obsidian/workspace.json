@@ -90,9 +90,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9c7442bab0c85ae",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -230,7 +240,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c7d09e6110e7325c",
+  "active": "f9c7442bab0c85ae",
   "lastOpenFiles": [
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Inbox/悩み苦しみの全ては14の不善心所が原因。これらをなくすように努める。.md",
