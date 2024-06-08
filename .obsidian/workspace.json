@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6572164723a44a84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/集中において大事なのは思考と目の前の作業を一致させること。シングルタスクが望ましい.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不安にかられないためには1日ひとつ強くなる。0に1を足し続ける。手を動かす事。.md",
+                "file": "Notes/Inbox/集中において大事なのは思考と目の前の作業を一致させること。シングルタスクが望ましい.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "不安にかられないためには1日ひとつ強くなる。0に1を足し続ける。手を動かす事。.md",
+                "file": "Notes/Inbox/集中において大事なのは思考と目の前の作業を一致させること。シングルタスクが望ましい.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不安にかられないためには1日ひとつ強くなる。0に1を足し続ける。手を動かす事。.md"
+                "file": "Notes/Inbox/集中において大事なのは思考と目の前の作業を一致させること。シングルタスクが望ましい.md"
               }
             }
           },
@@ -205,10 +217,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5413f03fe481af8d",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "Notes/Index/勉強/学習の作法.md",
     "不安にかられないためには1日ひとつ強くなる。0に1を足し続ける。手を動かす事。.md",
+    "Notes/Inbox/集中において大事なのは思考と目の前の作業を一致させること。シングルタスクが望ましい.md",
+    "Notes/Index/勉強/学習の作法.md",
     "メンタルが強い人は「今ここ」を全力で生きている。サティを抜かない事。.md",
     "Notes/Inbox/たとえ「喋り」であっても気づきを忘れない。なぜなら言葉は時に自分を苦しめるから。よく考えて話すために意識して話す。.md",
     "ストレスというものは出来事や現象から生ずるのではなく出来事や現象に対して反応するから起こる。仕事や娯楽もマインドフルにすることで生産性も上がる。.md",
@@ -232,7 +245,6 @@
     "Notes/Inbox/仏教の教えの一つに無瞋恚(怒らない)がある。うまくいかない時でも落ち込まず明るくいようというのがブッダの教え。.md",
     "Notes/Index/仏教/index.md",
     "Notes/Inbox/少し言い方が悪かったと思ったら自己嫌悪せず素直に聞いてみる。.md",
-    "Notes/Inbox/怒りのほとんどは「こうあるべき」と決めつけているから。自我を持っている。森羅万象は思い通りにいかない。怒りを感じたら「こうあるべき」が何かを探す。.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
