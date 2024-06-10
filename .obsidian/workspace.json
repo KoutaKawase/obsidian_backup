@@ -30,9 +30,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "abff326f7acc1e67",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
+            "id": "a73bb39b89bf1d1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/性欲など感情は妄想を生む。感情が思考させる。性欲も気づいて妄想を広げないのが大事。「思考を極力控える」のが大事。存在に対する執着は危険.md",
+                "file": "無題のファイル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/性欲など感情は妄想を生む。感情が思考させる。性欲も気づいて妄想を広げないのが大事。「思考を極力控える」のが大事。存在に対する執着は危険.md",
+                "file": "無題のファイル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/性欲など感情は妄想を生む。感情が思考させる。性欲も気づいて妄想を広げないのが大事。「思考を極力控える」のが大事。存在に対する執着は危険.md"
+                "file": "無題のファイル.md"
               }
             }
           },
@@ -169,8 +191,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "a73bb39b89bf1d1f",
   "lastOpenFiles": [
+    "無題のファイル.md",
     "Notes/Inbox/不善心のときは煩悩に焼き尽くされ生活が乱れたり悪循環に陥る。切り替えモードが大事.md",
     "ブッダは悪思考もやめよと教えた。愛欲思考, 攻撃思考 怒り思考これらはやめなさい。無執着、憐れみ、慈悲を代わりに思考する。.md",
     "Notes/Index/仏教/index.md",
@@ -199,7 +222,6 @@
     "Notes/Inbox/失敗した時大事なのは妄想にとらわれず切り替え自分が変えられる事、今に集中すること。.md",
     "Notes/Inbox/嫉妬は気づいてそこで終わり。その後に自己嫌悪や不安など無駄なエネルギーを使わない。他人が幸福でも自分の幸福が減るわけではない。ともに喜べるのが仏教.md",
     "Extra/Pasted image 20240609092458.png",
-    "Notes/Inbox/瞑想は快不快をなくすためのものではない。大事なのは受け入れ認識し価値判断しないこと。妄想に主役の座を譲らない.md",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
     "Extra/Pasted image 20240126135400.png",
