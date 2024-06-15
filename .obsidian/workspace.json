@@ -88,9 +88,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f348bbece6f04485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/中国語.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/仕事.md",
+                "file": "Notes/Inbox/瞑想をやりたくない、不善モードの時こそ瞑想をせねばならない。不善心の時無理やりする瞑想は無駄。切り替えのために冷水や運動　音楽 お釈迦さまの言葉など煩悩を飛ばす用意をする.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/仕事.md",
+                "file": "Notes/Inbox/瞑想をやりたくない、不善モードの時こそ瞑想をせねばならない。不善心の時無理やりする瞑想は無駄。切り替えのために冷水や運動　音楽 お釈迦さまの言葉など煩悩を飛ばす用意をする.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/仕事.md"
+                "file": "Notes/Inbox/瞑想をやりたくない、不善モードの時こそ瞑想をせねばならない。不善心の時無理やりする瞑想は無駄。切り替えのために冷水や運動　音楽 お釈迦さまの言葉など煩悩を飛ばす用意をする.md"
               }
             }
           },
@@ -227,8 +239,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "32e9e6bdafae3a29",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
+    "Notes/Index/仕事.md",
+    "Notes/Index/中国語.md",
     "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/瞑想は「捨」を育てる。「捨」は無関心ではなく無執着。無関心や無感覚を目指さない。心の現象にしっかり向き合い快不快の感覚、形成プロセスや法則をありのままに理解するのが瞑想.md",
     "Notes/Inbox/瞑想をやりたくない、不善モードの時こそ瞑想をせねばならない。不善心の時無理やりする瞑想は無駄。切り替えのために冷水や運動　音楽 お釈迦さまの言葉など煩悩を飛ばす用意をする.md",
@@ -253,8 +267,6 @@
     "Notes/Inbox/「現在」といものも実態がなく一時的なもの。無常。過去に引きずられず未来に期待しない。過去はすでに終わり未来は未だ現れず。今の瞬間も過去や未来と同様に、すぐに消え去る煙のようなもの.md",
     "Notes/Inbox/人間は体が何をしていようと心は妄想で遊んでいる。仕事や勉強がおろそかなのも「今」ではなく妄想しているから。集中とは妄想しないこと。.md",
     "Notes/Inbox/善行は大事だがGiverの餌食にならないこと。結果的に心が汚れる善行(またか等)は望ましくない。大事なのは心からやってあげたいか。相手を思いやる動機。.md",
-    "Notes/Inbox/勉強をするときも先の試験などは考えず「今」やっている勉強に集中する。先のことは妄想。妄想に気づき今に戻る。そうすればうまくいく。.md",
-    "Notes/Inbox/人はサティを入れ続けないから疲弊する。なぜなら人が疲れるのは「嫌だ　苦しい　やめたい」など不善心が出る時。サティを入れ続ければ余計な妄想はでない。ただし休息は不可欠。.md",
     "無題のフォルダ 1",
     "無題のフォルダ",
     "Extra/Pasted image 20240609092458.png",
