@@ -100,9 +100,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0da9d79fd4fa26a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/仕事.md",
+                "file": "無題のファイル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/仕事.md",
+                "file": "無題のファイル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/仕事.md"
+                "file": "無題のファイル.md"
               }
             }
           },
@@ -239,12 +251,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f348bbece6f04485",
+  "active": "0da9d79fd4fa26a9",
   "lastOpenFiles": [
+    "Notes/Index/仕事.md",
+    "無題のファイル.md",
     "Notes/Inbox/人を貶す言葉はやめろ。言われた人はきっと言い返し怒りを含んだ言葉は己を傷つける。代償を払うのは自分だ。.md",
     "Notes/Index/仏教/index.md",
     "Notes/Inbox/瞑想をやりたくない、不善モードの時こそ瞑想をせねばならない。不善心の時無理やりする瞑想は無駄。切り替えのために冷水や運動　音楽 お釈迦さまの言葉など煩悩を飛ばす用意をする.md",
-    "Notes/Index/仕事.md",
     "Notes/Index/中国語.md",
     "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/瞑想は「捨」を育てる。「捨」は無関心ではなく無執着。無関心や無感覚を目指さない。心の現象にしっかり向き合い快不快の感覚、形成プロセスや法則をありのままに理解するのが瞑想.md",
@@ -266,7 +279,6 @@
     "Notes/Inbox/読書や勉強中もサティを入れるべき。.md",
     "Notes/Inbox/「現在」といものも実態がなく一時的なもの。無常。過去に引きずられず未来に期待しない。過去はすでに終わり未来は未だ現れず。今の瞬間も過去や未来と同様に、すぐに消え去る煙のようなもの.md",
     "Notes/Inbox/人間は体が何をしていようと心は妄想で遊んでいる。仕事や勉強がおろそかなのも「今」ではなく妄想しているから。集中とは妄想しないこと。.md",
-    "Notes/Inbox/善行は大事だがGiverの餌食にならないこと。結果的に心が汚れる善行(またか等)は望ましくない。大事なのは心からやってあげたいか。相手を思いやる動機。.md",
     "無題のフォルダ 1",
     "無題のフォルダ",
     "Extra/Pasted image 20240609092458.png",
