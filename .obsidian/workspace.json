@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/怒りやストレスは相手や自分の「自分が正しい(傲慢)」さからくる。相手の問題は変えられないのに変えようとするから怒る。.md",
+                "file": "Notes/Inbox/幸せかどうかは結局心次第。瞑想で感情をコントロールする。.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "妄想",
+                "query": "すべては心",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/苦しみや怒りは「耐え忍ぶ」。辛く苦しい事を我慢するのではなく「自己の感情に振り回されずありのままに見て凌ぐ」こと。.md",
+                "file": "Notes/Inbox/幸せかどうかは結局心次第。瞑想で感情をコントロールする。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/苦しみや怒りは「耐え忍ぶ」。辛く苦しい事を我慢するのではなく「自己の感情に振り回されずありのままに見て凌ぐ」こと。.md",
+                "file": "Notes/Inbox/幸せかどうかは結局心次第。瞑想で感情をコントロールする。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/苦しみや怒りは「耐え忍ぶ」。辛く苦しい事を我慢するのではなく「自己の感情に振り回されずありのままに見て凌ぐ」こと。.md"
+                "file": "Notes/Inbox/幸せかどうかは結局心次第。瞑想で感情をコントロールする。.md"
               }
             }
           },
@@ -205,14 +206,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "bbab086abfbd6877",
   "lastOpenFiles": [
+    "Notes/Inbox/苦しみや怒りは「耐え忍ぶ」。辛く苦しい事を我慢するのではなく「自己の感情に振り回されずありのままに見て凌ぐ」こと。.md",
     "Notes/Index/メンタルヘルス.md",
     "Notes/Inbox/怒りやストレスは相手や自分の「自分が正しい(傲慢)」さからくる。相手の問題は変えられないのに変えようとするから怒る。.md",
     "Notes/Inbox/怒りは気づく。「相手が何を言おうが怒りは自分にとって良くない。」そう言い聞かすことが大事。.md",
     "苦しみは「現実」と「自分の思い込み(自我)」のギャップにより生まれる。苦しみの源は思い通りにいかないと考える自分。人は苦しみの原因は他に求める。.md",
     "悪口は「我慢」ではなく「耐え忍ぶ」。自分の感情に振り回されずありのままに見る。結局ただの音であり無常に消え去るもの。.md",
-    "Notes/Inbox/苦しみや怒りは「耐え忍ぶ」。辛く苦しい事を我慢するのではなく「自己の感情に振り回されずありのままに見て凌ぐ」こと。.md",
     "Notes/Index/勉強/学習の作法.md",
     "Notes/Inbox/ストレスや学習後の休憩はヨガニドラ(NSDR)が有効。.md",
     "Notes/Inbox/数学は「それっぽい答え」、つまり概算が大事。やる前に大まかに概算する。グラフはどう見えるかなど。概念などは図や動画を見てみる.md",
