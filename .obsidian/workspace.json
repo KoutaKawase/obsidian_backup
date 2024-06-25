@@ -66,9 +66,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7be1438b1a730a87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/メンタルヘルス.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f1557aa67ae458a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "怒りは「自分の思い通りにならない」「期待していた」、つまり欲の心を妨げられた時に起こる。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -114,8 +138,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/幸せかどうかは結局心次第。瞑想で感情をコントロールする。.md",
+                "file": "怒りは「自分の思い通りにならない」「期待していた」、つまり欲の心を妨げられた時に起こる。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/幸せかどうかは結局心次第。瞑想で感情をコントロールする。.md",
+                "file": "怒りは「自分の思い通りにならない」「期待していた」、つまり欲の心を妨げられた時に起こる。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/幸せかどうかは結局心次第。瞑想で感情をコントロールする。.md"
+                "file": "怒りは「自分の思い通りにならない」「期待していた」、つまり欲の心を妨げられた時に起こる。.md"
               }
             }
           },
@@ -206,10 +229,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bbab086abfbd6877",
+  "active": "8f1557aa67ae458a",
   "lastOpenFiles": [
-    "Notes/Inbox/苦しみや怒りは「耐え忍ぶ」。辛く苦しい事を我慢するのではなく「自己の感情に振り回されずありのままに見て凌ぐ」こと。.md",
     "Notes/Index/メンタルヘルス.md",
+    "怒りは「自分の思い通りにならない」「期待していた」、つまり欲の心を妨げられた時に起こる。.md",
+    "Notes/Inbox/「怒り」は気づいたら「必ず良い結果を生まず後悔する」と思い出す。怒りは無謀に始まり、後悔に終わる。怒りは無自覚に始まり己を焼き尽くす。.md",
+    "Notes/Inbox/幸せかどうかは結局心次第。瞑想で感情をコントロールする。.md",
+    "Notes/Inbox/苦しみや怒りは「耐え忍ぶ」。辛く苦しい事を我慢するのではなく「自己の感情に振り回されずありのままに見て凌ぐ」こと。.md",
     "Notes/Inbox/怒りやストレスは相手や自分の「自分が正しい(傲慢)」さからくる。相手の問題は変えられないのに変えようとするから怒る。.md",
     "Notes/Inbox/怒りは気づく。「相手が何を言おうが怒りは自分にとって良くない。」そう言い聞かすことが大事。.md",
     "苦しみは「現実」と「自分の思い込み(自我)」のギャップにより生まれる。苦しみの源は思い通りにいかないと考える自分。人は苦しみの原因は他に求める。.md",
@@ -231,9 +257,6 @@
     "Notes/Inbox/人を貶す言葉はやめろ。言われた人はきっと言い返し怒りを含んだ言葉は己を傷つける。代償を払うのは自分だ。.md",
     "Notes/Index/仏教/index.md",
     "Notes/Inbox/瞑想をやりたくない、不善モードの時こそ瞑想をせねばならない。不善心の時無理やりする瞑想は無駄。切り替えのために冷水や運動　音楽 お釈迦さまの言葉など煩悩を飛ばす用意をする.md",
-    "Notes/Index/中国語.md",
-    "Notes/Inbox/瞑想は「捨」を育てる。「捨」は無関心ではなく無執着。無関心や無感覚を目指さない。心の現象にしっかり向き合い快不快の感覚、形成プロセスや法則をありのままに理解するのが瞑想.md",
-    "Notes/Inbox/不善心のときは煩悩に焼き尽くされ生活が乱れたり悪循環に陥る。切り替えモードが大事.md",
     "無題のフォルダ 1",
     "無題のフォルダ",
     "Extra/Pasted image 20240609092458.png",
