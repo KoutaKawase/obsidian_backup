@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/仕事.md",
+                "file": "Notes/Index/仕事/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb619b8fcff97fe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/礼節、礼儀、謙虚さは身を助ける投資。周りがクソでも変えられない。でも自分は変われる。礼儀と謙虚を忘れなければ人間関係に良い作用をもたらす。そこに居ない人の悪口を言わない.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/仕事.md",
+                "file": "Notes/Inbox/礼節、礼儀、謙虚さは身を助ける投資。周りがクソでも変えられない。でも自分は変われる。礼儀と謙虚を忘れなければ人間関係に良い作用をもたらす。そこに居ない人の悪口を言わない.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/仕事.md",
+                "file": "Notes/Inbox/礼節、礼儀、謙虚さは身を助ける投資。周りがクソでも変えられない。でも自分は変われる。礼儀と謙虚を忘れなければ人間関係に良い作用をもたらす。そこに居ない人の悪口を言わない.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/仕事.md"
+                "file": "Notes/Inbox/礼節、礼儀、謙虚さは身を助ける投資。周りがクソでも変えられない。でも自分は変われる。礼儀と謙虚を忘れなければ人間関係に良い作用をもたらす。そこに居ない人の悪口を言わない.md"
               }
             }
           },
@@ -217,10 +229,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "fb619b8fcff97fe2",
   "lastOpenFiles": [
+    "Notes/Index/仕事/index.md",
+    "Notes/Index/仕事/読みたい本.md",
+    "Notes/Index/仕事",
+    "Notes/Inbox/礼節、礼儀、謙虚さは身を助ける投資。周りがクソでも変えられない。でも自分は変われる。礼儀と謙虚を忘れなければ人間関係に良い作用をもたらす。そこに居ない人の悪口を言わない.md",
     "Notes/Index/メンタルヘルス.md",
-    "Notes/Index/仕事.md",
     "Notes/Inbox/人間関係において「謙虚さ」が最も大事。自分の悪いところ、至らなさを素直に認める事が大事。.md",
     "Notes/Inbox/職場や人間関係でうまくいくのは「謙虚」さを持つ人。相手を尊重し、驕らず過信せず他者の意見を受け入れ協力的。謙虚さは能力不足を補う。能力がないなら人柄が大事。.md",
     "孤独感の軽減は「感謝」が効果的。小さなことに感謝する習慣をつけるのが大事.md",
@@ -243,10 +258,7 @@
     "Notes/Inbox/反芻思考は「なぜこんなことに」や「なぜ自分が」と考えるのではなく「どのようにすれば解決するか」「どのように不安を消すか」など「解決」モードにするのが大事.md",
     "Notes/Inbox/怒りや悩みは自分が生み出す。イライラする自分が生まれてからイライラする人が現れる。怒りや悩みはサティを入れて見届ける。.md",
     "Notes/Inbox/「不安」とは妄想であり、大事なのはやってみることだとブッダは説く.md",
-    "Notes/Inbox/喜びやワクワク、美しい、おいしいというポジティブな感情まで否定しない。そういう感情を育てて徐々に繊細にしていく。.md",
-    "Notes/Inbox/瞑想を日常の逃避にしない。あくまで訓練である。瞑想者であることを特別に思わない。目的は苦しみからの解放。瞑想は練習で実生活が試合。.md",
     "無題のフォルダ 1",
-    "無題のフォルダ",
     "Extra/Pasted image 20240609092458.png",
     "Notes/Scraps",
     "Pasted image 20240126135401.png",
