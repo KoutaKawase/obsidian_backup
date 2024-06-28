@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "00f6e0403cb73830",
+            "id": "a5cd45494ff5486a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/シングルタスクが集中力の鍵。ヴィパッサナーを日常に取り入れる。食事なら食事だけ、映画なら映画だけ、勉強なら勉強だけとマルチタスクをやめる。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e0fec46a7b2d4e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/プログラミング/プログラミング.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2737b85b06dff03f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/プログラマとして力をつけるなら時間がかかってもいいのでドキュメントを見ながら自力で書く。ブログコピペは力がつかない.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d291fc046023ee87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/仏教/読むべき本.md",
+                "file": "幸福の鍵は「無我」。物質や快楽などは自己へのこだわりであり苦しみの元。自分にこだわるとNG。つまり内面に平和を求める。外部からの刺激の幸せに依存しない。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/仏教/読むべき本.md",
+                "file": "幸福の鍵は「無我」。物質や快楽などは自己へのこだわりであり苦しみの元。自分にこだわるとNG。つまり内面に平和を求める。外部からの刺激の幸せに依存しない。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/仏教/読むべき本.md",
+                "file": "幸福の鍵は「無我」。物質や快楽などは自己へのこだわりであり苦しみの元。自分にこだわるとNG。つまり内面に平和を求める。外部からの刺激の幸せに依存しない。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/仏教/読むべき本.md"
+                "file": "幸福の鍵は「無我」。物質や快楽などは自己へのこだわりであり苦しみの元。自分にこだわるとNG。つまり内面に平和を求める。外部からの刺激の幸せに依存しない。.md"
               }
             }
           },
@@ -193,12 +156,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d291fc046023ee87",
+  "active": "a5cd45494ff5486a",
   "lastOpenFiles": [
-    "Notes/Index/メンタルヘルス/本.md",
+    "Notes/Index/仏教/読むべき本.md",
+    "幸福の鍵は「無我」。物質や快楽などは自己へのこだわりであり苦しみの元。自分にこだわるとNG。つまり内面に平和を求める。外部からの刺激の幸せに依存しない。.md",
     "Notes/Inbox/プログラマとして力をつけるなら時間がかかってもいいのでドキュメントを見ながら自力で書く。ブログコピペは力がつかない.md",
-    "Notes/Index/メンタルヘルス",
     "Notes/Index/プログラミング/プログラミング.md",
+    "Notes/Index/メンタルヘルス/本.md",
+    "Notes/Index/メンタルヘルス",
     "Notes/Inbox/ストレスというものは出来事や現象から生ずるのではなく出来事や現象に対して反応するから起こる。仕事や娯楽もマインドフルにすることで生産性も上がる。.md",
     "神経科学的には脳は大きな二つの事を同時に処理できない。スイッチングは大きなストレスになる。ドーパミンも産み脳に良くない。.md",
     "Notes/Inbox/シングルタスクが集中力の鍵。ヴィパッサナーを日常に取り入れる。食事なら食事だけ、映画なら映画だけ、勉強なら勉強だけとマルチタスクをやめる。.md",
@@ -220,9 +185,7 @@
     "怒りは「自分の思い通りにならない」「期待していた」「自分が正しい」、つまり欲の心を妨げられた時に起こる。自分以外は思い通りになることはない。.md",
     "怒りという第一の矢を受けた時三種類いる。岩に刻んだような人、砂に書いたような人、水に書いたような人。水は難しくても砂のように怒りに飲み込まれず前向きにいたい。.md",
     "Notes/Inbox/礼節、礼儀、謙虚さは身を助ける投資。周りがクソでも変えられない。でも自分は変われる。礼儀と謙虚を忘れなければ人間関係に良い作用をもたらす。そこに居ない人の悪口を言わない.md",
-    "Notes/Index/仕事/読みたい本.md",
     "Notes/Index/仕事",
-    "Notes/Inbox/「怒り」は気づいたら「必ず良い結果を生まず後悔する」と思い出す。怒りは無謀に始まり、後悔に終わる。怒りは無自覚に始まり己を焼き尽くす。.md",
     "無題のフォルダ 1",
     "Extra/Pasted image 20240609092458.png",
     "Notes/Scraps",
