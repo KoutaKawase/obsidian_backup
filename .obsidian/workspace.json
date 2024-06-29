@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "966d88f69362746c",
+        "id": "0c21b592957f643e",
         "type": "tabs",
         "children": [
           {
-            "id": "6999668243e65798",
+            "id": "84a82b86d5e3eaf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/とにかく愚か者にならないために自己主張はしない。我を出さない。等身大以上の力を出そうとせず見栄を張らず自分にできる事だけに集中して真面目にやる。固定で学んだ事。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf40ae6d7f5cdb26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/眼耳鼻舌身意を刺激して得る楽しみは依存してしまう。そこから離れて瞑想など欲から離れた楽しみを味わう。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7205aad2b4cb2689",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/仏教において比較する事は慢が生まれ苦しみの元。上だと判断するのは怒りや嫉妬、下は高慢や驕りに繋がる。大事なのは主観的な比較ではなく客観的な比較。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9aee8d8506be221",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/全ては心次第。清らかな心なら幸福でいられる。汚れた心は不幸の元。感情だけは瞑想を通してコントロールできる。.md",
+                "file": "Notes/Inbox/失敗は成功の元というのは嘘であり、失敗から成功できるのは一握り。人は過大評価し、再び失敗する可能性を過小評価する。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/全ては心次第。清らかな心なら幸福でいられる。汚れた心は不幸の元。感情だけは瞑想を通してコントロールできる。.md",
+                "file": "Notes/Inbox/失敗は成功の元というのは嘘であり、失敗から成功できるのは一握り。人は過大評価し、再び失敗する可能性を過小評価する。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/全ては心次第。清らかな心なら幸福でいられる。汚れた心は不幸の元。感情だけは瞑想を通してコントロールできる。.md",
+                "file": "Notes/Inbox/失敗は成功の元というのは嘘であり、失敗から成功できるのは一握り。人は過大評価し、再び失敗する可能性を過小評価する。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/全ては心次第。清らかな心なら幸福でいられる。汚れた心は不幸の元。感情だけは瞑想を通してコントロールできる。.md"
+                "file": "Notes/Inbox/失敗は成功の元というのは嘘であり、失敗から成功できるのは一握り。人は過大評価し、再び失敗する可能性を過小評価する。.md"
               }
             }
           },
@@ -195,8 +158,9 @@
   },
   "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "Notes/Inbox/仏教において比較する事は慢が生まれ苦しみの元。上だと判断するのは怒りや嫉妬、下は高慢や驕りに繋がる。大事なのは主観的な比較ではなく客観的な比較。.md",
     "Notes/Inbox/全ては心次第。清らかな心なら幸福でいられる。汚れた心は不幸の元。感情だけは瞑想を通してコントロールできる。.md",
+    "Notes/Inbox/失敗は成功の元というのは嘘であり、失敗から成功できるのは一握り。人は過大評価し、再び失敗する可能性を過小評価する。.md",
+    "Notes/Inbox/仏教において比較する事は慢が生まれ苦しみの元。上だと判断するのは怒りや嫉妬、下は高慢や驕りに繋がる。大事なのは主観的な比較ではなく客観的な比較。.md",
     "Notes/Inbox/眼耳鼻舌身意を刺激して得る楽しみは依存してしまう。そこから離れて瞑想など欲から離れた楽しみを味わう。.md",
     "Notes/Inbox/人間に趣味や楽しみや食事は必要だけど「あと少し」や必要な最低限の量だけで止めるのが大事。仏教は少しで満足しなさいということ。.md",
     "Notes/Index/仏教/index.md",
@@ -221,7 +185,6 @@
     "Notes/Inbox/神経科学的には脳は大きな二つの事を同時に処理できない。スイッチングは大きなストレスになる。ドーパミンも産み脳に良くない。.md",
     "Notes/Inbox/シングルタスクが集中力の鍵。ヴィパッサナーを日常に取り入れる。食事なら食事だけ、映画なら映画だけ、勉強なら勉強だけとマルチタスクをやめる。.md",
     "Notes/Inbox/忙しいと感じる原因は「マルチタスク」。ながら見やながら作業をやめ、シングルタスク、つまりマインドフルに生きる事の実践が大事.md",
-    "Notes/Index/メンタルヘルス/メンタルヘルス.md",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
     "Extra/Pasted image 20240609092458.png",
