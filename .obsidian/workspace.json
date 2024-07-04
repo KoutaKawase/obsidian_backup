@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "映画",
+                "query": "tag: #人間関係",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 429.50312423706055
+    "width": 556.5041847229004
   },
   "right": {
     "id": "84812f26217cccba",
