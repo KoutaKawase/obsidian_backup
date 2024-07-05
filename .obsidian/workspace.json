@@ -11,11 +11,28 @@
             "id": "1dc0029bd94658c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/偽の幸福感は物や肩書きや個人主義。幸せとは誰かに親切にすること。自分の能力を誰かのために使うこと。自分一人では何もできないという事実を理解すること。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13dcf8cffb1f582c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "tag:#無我",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "無題のファイル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "無題のファイル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "無題のファイル.md"
+              }
             }
           }
         ],
@@ -142,12 +163,14 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "1dc0029bd94658c3",
+  "active": "13dcf8cffb1f582c",
   "lastOpenFiles": [
+    "Notes/Inbox/偽の幸福感は物や肩書きや個人主義。幸せとは誰かに親切にすること。自分の能力を誰かのために使うこと。自分一人では何もできないという事実を理解すること。.md",
+    "無題のファイル.md",
+    "Notes/Index/メンタルヘルス/メンタルヘルス.md",
     "Notes/Inbox/日々のストレスの原因は余計な「妄想」をしているから。日々の行動自体はシンプル。行動するのに最低限の感情だけを使えばストレスは減る。そのためのサティ.md",
     "Notes/Inbox/安易な語呂合わせや暗記術は危険。概念は周辺にある知識と結びつけて覚える。.md",
     "Notes/Index/Obsidian.md",
-    "Notes/Index/メンタルヘルス/メンタルヘルス.md",
     "他人の幸福を自分の幸福として喜び嫉妬しない。嫌いな人にも慈悲を持つ事を目指すのが仏教、目指すべき人格。世間が何と言おうと自分は人に優しくしろという覚悟。嫌いな物を攻撃するのは動物。.md",
     "Notes/Inbox/人生でストレスに打ち勝つ生き方は衝動や目的を「慈しみ」にする。慈悲を目的に生きる。人に親切にすることが大事。.md",
     "Notes/Inbox/仕事でも何でも大事なのは「余計なことを考えずに瞬間瞬間集中して生きる」。こうすればストレスはたまらない。ようするに妄想を控えて今を味わう。.md",
@@ -168,8 +191,6 @@
     "Notes/Inbox/他人に対して性格がいいとか悪いとかすぐに決めつけない。性格も人格も無常。今はそうでも未来は変わるかもしれない。性格や人格というのは一概に決まらないというほうが精神的に楽。.md",
     "Notes/Inbox/無我と無常は繋がっている。私gaあるなら思い通りになるはず。実際は無常。肉体も自分のものではなく自然が支配している。無我。色々な物が肉体を形作っているだけで「私」は妄想であり自立していない。.md",
     "Notes/Inbox/まずは三相など仏教の基本を学ぶのが悩みへの対策になる。ストレスは実体がないはずの自己への防御であり無我ではないことに気づく。自己の意識が苦しみの元.md",
-    "Notes/Inbox/幸福の鍵は「無我」。物質や快楽などは自己へのこだわりであり苦しみの元。自分にこだわるとNG。つまり内面に平和を求める。外部からの刺激の幸せに依存しない。.md",
-    "Notes/Index/仏教/読むべき本.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
