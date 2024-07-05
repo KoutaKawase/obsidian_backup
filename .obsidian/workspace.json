@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c7c34814b97a28e9",
+        "id": "16d55185f03be75b",
         "type": "tabs",
         "children": [
           {
-            "id": "1dc0029bd94658c3",
+            "id": "cc1f189df1e11fd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/偽の幸福感は物や肩書きや個人主義。幸せとは誰かに親切にすること。自分の能力を誰かのために使うこと。自分一人では何もできないという事実を理解すること。.md",
+                "file": "怒りや嫉妬、自信の喪失、不安、全ては「考える」から起こる。無知。ヴィパッサナーは「思考」を止めて「観察」に切り替える。.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "13dcf8cffb1f582c",
+            "id": "5fddc3f198703236",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "瞑想における実況や感じる事は「思考.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#無我",
+                "query": "tag:瞑想/ヴィパッサナー",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "瞑想における実況や感じる事は「思考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "瞑想における実況や感じる事は「思考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "無題のファイル.md"
+                "file": "瞑想における実況や感じる事は「思考.md"
               }
             }
           }
@@ -163,10 +163,12 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "13dcf8cffb1f582c",
+  "active": "5fddc3f198703236",
   "lastOpenFiles": [
+    "怒りや嫉妬、自信の喪失、不安、全ては「考える」から起こる。無知。ヴィパッサナーは「思考」を止めて「観察」に切り替える。.md",
+    "瞑想における実況や感じる事は「思考.md",
+    "Notes/Inbox/頭の中で考えている事の大半は答えが出ない妄想。大事なのは考えるのではなく「観察」する。何も判断せずありのままに。言葉もただの音。.md",
     "Notes/Inbox/偽の幸福感は物や肩書きや個人主義。幸せとは誰かに親切にすること。自分の能力を誰かのために使うこと。自分一人では何もできないという事実を理解すること。.md",
-    "無題のファイル.md",
     "Notes/Index/メンタルヘルス/メンタルヘルス.md",
     "Notes/Inbox/日々のストレスの原因は余計な「妄想」をしているから。日々の行動自体はシンプル。行動するのに最低限の感情だけを使えばストレスは減る。そのためのサティ.md",
     "Notes/Inbox/安易な語呂合わせや暗記術は危険。概念は周辺にある知識と結びつけて覚える。.md",
@@ -189,8 +191,6 @@
     "Notes/Inbox/人間は誰でも愚か者、無知であり、人生は幸福で誰でも努力すればもっと幸福になると言い聞かし愚か者で居続ける。人生は苦しみの連続である。それを理解しないのが無知.md",
     "Notes/Inbox/自らの過ちを指摘してくれる人間は大事にしないといけない。気を悪くするのではない。十分に感謝し治し悪友を避け善人と付き合う。.md",
     "Notes/Inbox/他人に対して性格がいいとか悪いとかすぐに決めつけない。性格も人格も無常。今はそうでも未来は変わるかもしれない。性格や人格というのは一概に決まらないというほうが精神的に楽。.md",
-    "Notes/Inbox/無我と無常は繋がっている。私gaあるなら思い通りになるはず。実際は無常。肉体も自分のものではなく自然が支配している。無我。色々な物が肉体を形作っているだけで「私」は妄想であり自立していない。.md",
-    "Notes/Inbox/まずは三相など仏教の基本を学ぶのが悩みへの対策になる。ストレスは実体がないはずの自己への防御であり無我ではないことに気づく。自己の意識が苦しみの元.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
