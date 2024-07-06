@@ -19,7 +19,7 @@ TABLE FROM #数学 AND #参考書
 [ほぼ計算不要の思考力・判断力・表現力トレーニング 数学1A | 吉田 信夫 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E3%81%BB%E3%81%BC%E8%A8%88%E7%AE%97%E4%B8%8D%E8%A6%81%E3%81%AE%E6%80%9D%E8%80%83%E5%8A%9B%E3%83%BB%E5%88%A4%E6%96%AD%E5%8A%9B%E3%83%BB%E8%A1%A8%E7%8F%BE%E5%8A%9B%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0-%E6%95%B0%E5%AD%A61A-%E5%90%89%E7%94%B0-%E4%BF%A1%E5%A4%AB/dp/4887422393/ref=sr_1_4?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=YE8DXI0RYS9I&keywords=%E6%95%B0IA+%E8%A8%88%E7%AE%97&qid=1706010376&sprefix=%E6%95%B0ia+%E8%A8%88%E7%AE%97%2Caps%2C214&sr=8-4)
 ## 大学数学
 ```dataview
-TABLE FROM #大学数学 
+TABLE FROM #数学/大学数学  
 ```
 
 ## 三角関数
