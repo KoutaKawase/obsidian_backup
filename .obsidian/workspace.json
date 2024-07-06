@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/勉強/学習の作法.md",
+                "file": "Notes/Inbox/長時間勉强において一番大事なのは休憩。瞑想 運動 癒やし 昼寝 ぼーっとする.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/勉強/学習の作法.md",
+                "file": "Notes/Inbox/長時間勉强において一番大事なのは休憩。瞑想 運動 癒やし 昼寝 ぼーっとする.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/勉強/学習の作法.md",
+                "file": "Notes/Inbox/長時間勉强において一番大事なのは休憩。瞑想 運動 癒やし 昼寝 ぼーっとする.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/勉強/学習の作法.md"
+                "file": "Notes/Inbox/長時間勉强において一番大事なのは休憩。瞑想 運動 癒やし 昼寝 ぼーっとする.md"
               }
             }
           }
@@ -149,32 +150,32 @@
   },
   "active": "1baf17acadab7525",
   "lastOpenFiles": [
-    "Notes/Inbox/1ページ読んだら本を閉じて思い出して見る。.md",
-    "Notes/Index/勉強/数学/index.md",
-    "Notes/Index/勉強/学習の作法.md",
-    "Notes/Inbox/勉強中はテストの様に厳密に時間を区切る。.md",
-    "Notes/Inbox/勉強をするときも先の試験などは考えず「今」やっている勉強に集中する。先のことは妄想。妄想に気づき今に戻る。そうすればうまくいく。.md",
-    "Notes/Inbox/勉強がわからなくて不快な時、それは成長している証拠。苦痛があるから成長できる。.md",
-    "Notes/Inbox/不安にかられないためには1日ひとつ強くなる。0に1を足し続ける。手を動かす事。.md",
-    "Notes/Inbox/脳にとってはHIITよりジョギングがベスト。ストレスはHIITがいい。筋トレはニューロンを強くするが増やさない。.md",
-    "Notes/Inbox/読書や勉強中もサティを入れるべき。.md",
-    "Notes/Inbox/長時間勉强において一番大事なのは休憩。瞑想 運動 癒やし 昼寝 ぼーっとする.md",
     "Notes/Inbox/戦略的に午後だけたまに休むのを取り入れる.md",
-    "Notes/Inbox/人間は体が何をしていようと心は妄想で遊んでいる。仕事や勉強がおろそかなのも「今」ではなく妄想しているから。集中とは妄想しないこと。.md",
+    "Notes/Inbox/人形に話しかけてアウトプットする.md",
     "Notes/Inbox/人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。自分は数学ができる.md",
-    "Notes/Inbox/集中において大事なのは思考と目の前の作業を一致させること。シングルタスクが望ましい.md",
-    "Notes/Inbox/筋トレは有益だがBDNFには大して関与しない。ジョギングなどがベスト.md",
+    "Notes/Inbox/自分なりにクイズの要素を取り入れて想起してみる.md",
+    "Notes/Inbox/思考と距離を取る。俯瞰する。行動と分離する。(最重要).md",
+    "Notes/Inbox/思考との距離を取る練習には感情の実況中継.md",
+    "Notes/Inbox/攻めの計画は理想 守りの計画は最低限.md",
+    "Notes/Inbox/検索学習は同じ順序で何度もやらない.md",
+    "Notes/Inbox/教科書のある章や段落、ページや覚えたい箇所を読み終えたら紙に書くか録音.md",
+    "Notes/Index/勉強/学習の作法.md",
+    "Notes/Inbox/学習段階は答えと解説をすぐ見てプロセスを学ぶ。.md",
+    "Notes/Inbox/覚えたい内容が来たら数十秒大仏のようにぼーっとする.md",
     "Notes/Inbox/運動をしながら勉强する(歩きながらでもいい).md",
-    "Notes/Inbox/運動で脳を良くするには心拍数80%目安に30-60分を週3,4.md",
-    "Notes/Inbox/悪習慣は5分先延ばしと瞑想が鍵.md",
-    "Notes/Inbox/悪習慣の効果は遅れてやってくる。だから今日はいいかと甘えるのが危険。.md",
+    "Notes/Inbox/悪習慣の効果は遅れてやってくる。だから今日はいいかと甘えるのが危険。勉強でもなんでも1日ひとつ積み上げる.md",
+    "Notes/Inbox/やる気の維持はスケジュールが大事。目標->行動計画->記録.md",
     "Notes/Inbox/やる気が落ちても継続する環境作りが大事。環境 ライン 習慣化 感謝.md",
-    "Notes/Inbox/マルチタスクはIQを大きく下げる。ながら作業しない。.md",
+    "Notes/Inbox/ブツブツ独り言をして論点や(英)単語を説明するのが効果的.md",
     "Notes/Inbox/ファーストステップをとにかく小さくする.md",
+    "Notes/Inbox/どうしても覚えたい物は問題形式で3回ずつ読んで録音し寝る前翌朝週末に.md",
     "Notes/Inbox/テキストや参考書は1周目に時間をかけすぎない。後戻りと完璧禁止。まずは全体像の把握。.md",
-    "Notes/Inbox/ストレスや学習後の休憩はヨガニドラ(NSDR)が有効。.md",
-    "Notes/Inbox/インターネットの使用時間が長い程成績に悪影響。脳にも影響がある。Webから離れる。.md",
-    "Notes/Inbox/HIITはやりすぎると脳へのメリットが損なわれる.md",
+    "Notes/Inbox/シャドウティーチングしたものをスキマ時間に聞く.md",
+    "Notes/Inbox/クイズ化は最初は部分ごとに個数を絞る。メンタルマップを作る。.md",
+    "Notes/Inbox/クイズやテストの要素を取り入れた要約が効果的.md",
+    "Notes/Inbox/ガムを噛みながら勉强するのも効果的.md",
+    "Notes/Inbox/インターリーブは積極的に使う。学ぶジャンルを細分化して振り分ける。.md",
+    "Notes/Inbox/1ページ読んだら本を閉じて思い出して見る。.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
