@@ -1,6 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": "Everforest Enchanted",
+  "accentColor": "#ffffff",
+  "cssTheme": "",
   "interfaceFontFamily": "Fira Code",
   "baseFontSize": 18,
   "translucency": false,
