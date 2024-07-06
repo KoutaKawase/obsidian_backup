@@ -11,8 +11,12 @@
             "id": "2e8c1f1ff4b9ebd6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/勉強/学習の作法.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#index",
+                "query": "tag:#勉強/アクティブラーニング",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/瞑想の基本はラベリングと感覚の割合は1対9。あくまで観察　感覚　経験を重要視して言葉は薄く。.md",
+                "file": "Notes/Index/勉強/学習の作法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/瞑想の基本はラベリングと感覚の割合は1対9。あくまで観察　感覚　経験を重要視して言葉は薄く。.md",
+                "file": "Notes/Index/勉強/学習の作法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/瞑想の基本はラベリングと感覚の割合は1対9。あくまで観察　感覚　経験を重要視して言葉は薄く。.md"
+                "file": "Notes/Index/勉強/学習の作法.md"
               }
             }
           }
@@ -143,8 +148,15 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "9e82cd93c4058a57",
+  "active": "e802643ddfeb5eab",
   "lastOpenFiles": [
+    "Notes/Inbox/自分なりにクイズの要素を取り入れて想起してみる.md",
+    "Notes/Index/勉強/学習の作法.md",
+    "Notes/Inbox/物事は必ず音読すること。5感を使うことで効果があがる。運動+音読+感情。.md",
+    "Notes/Inbox/クイズ化は最初は部分ごとに個数を絞る。メンタルマップを作る。.md",
+    "Notes/Inbox/どうしても覚えたい物は問題形式で3回ずつ読んで録音し寝る前翌朝週末に.md",
+    "Notes/Inbox/1ページ読んだら本を閉じて思い出して見る。.md",
+    "Notes/Inbox/瞑想の基本はラベリングと感覚の割合は1対9。あくまで観察　感覚　経験を重要視して言葉は薄く。.md",
     "Notes/Inbox/欲を出さず執着しないで今あるもの眼の前のものを有り難く受け取る。足りない物ばかりに目を向けない。.md",
     "Notes/Inbox/日常生活のラベリングは速くてできない場合明確な気づきが連続しているのがはっきり観察できているかどうか.md",
     "Notes/Inbox/人は「考える」から苦しむ。ヴィパッサナーの本質は浮かんだ思考をそこで止め観察することにある。.md",
@@ -164,13 +176,6 @@
     "Notes/Inbox/英会話は5文型が大事。SVOOは与える型。SVOCはO=Cになる。これらを駆使して話すのがSpeaking.md",
     "Notes/Inbox/フォーマルな英語は遠回し。受け身を使い人称代名詞を避ける。.md",
     "Notes/Inbox/Speakingはシャドーイングが最重要。歩きながら、背筋、大きな声でクリアに。細かいセッションに分け日に複数やる.md",
-    "Notes/Inbox/SpeakingはVoAぐらい遅くてもいいからしっかりはっきり丁寧に話す。.md",
-    "Notes/Inbox/SpeakingのだいたいのことはOXFORD3000の単語で置き換えできる.md",
-    "Notes/Index/勉強/英語.md",
-    "Notes/Inbox/不安にかられないためには1日ひとつ強くなる。0に1を足し続ける。手を動かす事。.md",
-    "Notes/Inbox/成功するまでやるやつが成功する.md",
-    "Notes/Inbox/人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。自分は数学ができる.md",
-    "Notes/Inbox/思考との距離を取る練習には感情の実況中継.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
