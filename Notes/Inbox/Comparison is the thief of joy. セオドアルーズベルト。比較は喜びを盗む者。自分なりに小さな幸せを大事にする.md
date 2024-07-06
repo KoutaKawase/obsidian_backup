@@ -1,6 +1,6 @@
 ---
 tags:
-  - 幸福度
+  - 健康/幸福
 ---
 [How To Finally Stop Comparing Yourself With Others (Guide) : r/selfimprovement](https://www.reddit.com/r/selfimprovement/comments/ksik1k/how_to_finally_stop_comparing_yourself_with/)
 

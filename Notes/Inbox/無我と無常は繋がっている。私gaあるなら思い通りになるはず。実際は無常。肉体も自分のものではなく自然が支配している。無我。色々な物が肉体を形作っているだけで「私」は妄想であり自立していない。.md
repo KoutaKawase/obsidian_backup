@@ -1,6 +1,6 @@
 ---
 tags:
-  - ブッダ
+  - 仏教/法話
 ---
 [「無我」を語る幼稚園児の説法 - 日本テーラワーダ仏教協会](http://j-theravada.com/dhamma/oriori/sachi_samidu_01/)
 

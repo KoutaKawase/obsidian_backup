@@ -1,7 +1,7 @@
 ---
 tags:
   - 人間関係
-  - ブッダ
+  - 仏教/法話
   - 仕事
 ---
 [日常の場面で　（１）](https://www.satisati.jp/category13/category17/entry110.html)

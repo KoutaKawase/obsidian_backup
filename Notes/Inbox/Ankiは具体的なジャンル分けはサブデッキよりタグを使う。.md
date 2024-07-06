@@ -1,7 +1,6 @@
 ---
 tags:
   - Anki/デッキ
-  - inbox/ベストプラクティス
 ---
 
 [Anki Flashcard 13 Best Practices | How to Create Good Cards](https://medschoolinsiders.com/medical-student/anki-flashcard-best-practices-how-to-create-good-cards/)

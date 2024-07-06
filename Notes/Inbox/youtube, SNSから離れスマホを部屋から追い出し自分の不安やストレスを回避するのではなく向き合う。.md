@@ -1,6 +1,6 @@
 ---
 tags:
-  - ストレス
+  - 健康/ストレス
 ---
 [Is social media behind an epidemic of teenage mental illness? | Hacker News](https://news.ycombinator.com/item?id=39888213)
 

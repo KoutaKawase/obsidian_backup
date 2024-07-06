@@ -1,6 +1,6 @@
 ---
 tags:
-  - 幸福度
+  - 健康/幸福
   - 感情/孤独
 ---
 [Create More Than You Consume if You Want to Worry Less and Feel More Fulfilled — OMAR ITANI](https://www.omaritani.com/blog/create-more-consume-less)

@@ -2,15 +2,11 @@
 tags:
   - index
 ---
-## ブッダ 教え
+## 法話
 ```dataview
-TABLE FROM #ブッダ 
+TABLE FROM #仏教/法話
 ```
 
-## 三毒
-```dataview
-TABLE FROM #仏教 AND #三毒 
-```
 
 ## 瞑想
 ```dataview

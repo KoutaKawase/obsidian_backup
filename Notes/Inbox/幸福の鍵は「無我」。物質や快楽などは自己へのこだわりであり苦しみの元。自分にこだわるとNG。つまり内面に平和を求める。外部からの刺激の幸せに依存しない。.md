@@ -1,7 +1,7 @@
 ---
 tags:
-  - ストレス
-  - 幸福度
+  - 健康/ストレス
+  - 健康/幸福
 ---
 [無（最高の状態） | 鈴木 祐 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E7%84%A1-%E6%9C%80%E9%AB%98%E3%81%AE%E7%8A%B6%E6%85%8B-%E9%88%B4%E6%9C%A8-%E7%A5%90/dp/4295405809?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=J1PXADX82UJ1&dchild=1&keywords=%E7%84%A1&qid=1635583142&sprefix=%E7%84%A1,aps,196&sr=8-1&linkCode=sl1&tag=yuchrszk-22&linkId=ff73f9f1b58472e644ca4dceac7b9ece&language=ja_JP&ref_=as_li_ss_tl)
 [「無」が最高の状態だってのはやっぱ正しそうだよなー、という実験の話 | パレオな男](https://yuchrszk.blogspot.com/2021/11/blog-post_12.html)
