@@ -1,5 +1,7 @@
 ---
-tags: JavaScript TypeScript フロントエンド Canvas
+tags:
+  - プログラミング/フロントエンド
+  - プログラミング/Canvas
 ---
 ### canvas.setTransformはなにをしてるか
 [CanvasRenderingContext2D: setTransform() method - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/setTransform)

@@ -1,5 +1,8 @@
 ---
-tags: PHP 設計 DI
+tags:
+  - プログラミング/PHP
+  - プログラミング/設計
+  - プログラミング/DI
 ---
 
 [作って理解するWebフレームワーク - きしだのHatena](https://nowokay.hatenablog.com/entry/20160419/1461032474)

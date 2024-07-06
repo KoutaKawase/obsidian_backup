@@ -1,5 +1,7 @@
 ---
-tags: Laravel フロントエンド tailwind
+tags:
+  - Laravel/フロントエンド
+  - プログラミング/tailwindcss
 ---
 
 ### [[Laravel]]とTailwindの注意点は？

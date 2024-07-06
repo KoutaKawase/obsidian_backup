@@ -1,5 +1,8 @@
 ---
-tags: Next.js Remix フロントエンド BFF 設計 CORS
+tags:
+  - プログラミング/BFF
+  - プログラミング/フロントエンド
+  - プログラミング/CORS
 ---
 ### Next.jsやRemix.runのAPI機能はBFFとして使える
 [How Remix scales : r/reactjs](https://www.reddit.com/r/reactjs/comments/14m5fju/how_remix_scales/)

@@ -1,5 +1,8 @@
 ---
-tags: アンチパターン Laravel 設計 Repository DDD
+tags:
+  - Laravel/アンチパターン
+  - Laravel/設計
+  - プログラミング/DDD
 ---
 
 - [[Laravel]]で安易に[[Repository]]パターンを使うのは避けるべき
