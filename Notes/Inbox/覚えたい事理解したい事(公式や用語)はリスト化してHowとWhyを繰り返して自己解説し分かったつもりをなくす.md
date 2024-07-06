@@ -1,7 +1,7 @@
 ---
 tags:
   - 勉強/アクティブラーニング
-  - 数学への取り組み方
+  - 数学/学び方
 ---
 [勉強が大変優秀な韓国の一般の学生たちが東京大学理科三類を受けたらやはり余裕で受かりますか？ - Quora](https://jp.quora.com/benkyou-ga-taihen-yuushuu-na-kankoku-no-ippan-no-gakusei-tachi-ga-toukyou-daigaku-rika-san-rui-wo-uke-tara-yahari-yoyuu-de-ju-ka-ri-masu-ka)
 

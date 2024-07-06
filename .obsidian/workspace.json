@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#勉強習慣",
+                "query": "tag:#学習法",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,6 +149,9 @@
   },
   "active": "1baf17acadab7525",
   "lastOpenFiles": [
+    "Notes/Inbox/1ページ読んだら本を閉じて思い出して見る。.md",
+    "Notes/Index/勉強/数学/index.md",
+    "Notes/Index/勉強/学習の作法.md",
     "Notes/Inbox/勉強中はテストの様に厳密に時間を区切る。.md",
     "Notes/Inbox/勉強をするときも先の試験などは考えず「今」やっている勉強に集中する。先のことは妄想。妄想に気づき今に戻る。そうすればうまくいく。.md",
     "Notes/Inbox/勉強がわからなくて不快な時、それは成長している証拠。苦痛があるから成長できる。.md",
@@ -170,11 +173,8 @@
     "Notes/Inbox/ファーストステップをとにかく小さくする.md",
     "Notes/Inbox/テキストや参考書は1周目に時間をかけすぎない。後戻りと完璧禁止。まずは全体像の把握。.md",
     "Notes/Inbox/ストレスや学習後の休憩はヨガニドラ(NSDR)が有効。.md",
-    "Notes/Index/勉強/学習の作法.md",
     "Notes/Inbox/インターネットの使用時間が長い程成績に悪影響。脳にも影響がある。Webから離れる。.md",
     "Notes/Inbox/HIITはやりすぎると脳へのメリットが損なわれる.md",
-    "Notes/Inbox/BDNFは砂糖と飽和脂肪が悪影響.md",
-    "Notes/Index/勉強/Anki.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
@@ -192,7 +192,7 @@
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
-    "Notes/Index/数学",
+    "Notes/Index/勉強/数学",
     "Notes/Index/仏教",
     "Notes/Index/瞑想(マインドフルネス)"
   ]
