@@ -1,7 +1,7 @@
 ---
 tags:
   - 運動
-  - HIIT
+  - 運動/HIIT
 ---
 [【DaiGo ダイエット】僕がノルウェー式HIITを習慣化できたのはあれをしたからです！ - YouTube](https://www.youtube.com/watch?v=aELqc0HwFm0)
 ### HIITはキツくないと意味がない

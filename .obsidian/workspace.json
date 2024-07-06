@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "61e862999f241003",
+        "id": "64c91bf9e3fd85a6",
         "type": "tabs",
         "children": [
           {
-            "id": "2ba8d2a809c4ec06",
+            "id": "fbe44d70cb3c9cb9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/三毒はなくすのではなく抑える.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#教え",
+                "query": "tag:#デッキ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/三毒はなくすのではなく抑える.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/三毒はなくすのではなく抑える.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Inbox/三毒はなくすのではなく抑える.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,34 +140,34 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "2ba8d2a809c4ec06",
+  "active": "fbe44d70cb3c9cb9",
   "lastOpenFiles": [
-    "Notes/Inbox/三毒・貪瞋痴(とんじんち).md",
-    "Notes/Inbox/過去も未来も現在の観点から「実在しない」妄想。仏教は「今」にたいして真剣になれということ。悩みが尽きないのは幻が相手だから.md",
-    "Notes/Inbox/やる気の維持はスケジュールが大事。目標->行動計画->記録.md",
-    "Notes/Index/数学/index.md",
-    "Notes/Inbox/三角比は必ず単位円で覚える。たとえ数Iでも。.md",
-    "Notes/Inbox/三角関数はライトと単位円で公式を理解する.md",
-    "Notes/Inbox/ラジアンは脳死で180分のπをかけると覚えない。原理を覚えること。.md",
+    "Notes/Inbox/可能な限り最小限のデッキを使用する。ただし試験や資格単位で分けるのもあり.md",
+    "Notes/Inbox/デッキは一つのマスターデッキで管理し復習を一括でする.md",
+    "Notes/Index/勉強/Anki.md",
+    "Notes/Index/金融.md",
+    "Notes/Inbox/カードはなるべく大きい単位のデッキで保持して細かいジャンル分けはタグで管理する.md",
+    "Notes/Index/Obsidian.md",
+    "Notes/Inbox/Ankiは具体的なジャンル分けはサブデッキよりタグを使う。.md",
+    "Notes/Inbox/Ankiのデッキは安易に細分化しない。試験用や資格用に一つのデッキ等大きく保つ.md",
+    "Notes/Inbox/テキストを何度も読み込まない。受け身の勉强は裏切る。.md",
     "Notes/Inbox/蛇がFoodを食べた時本体を増やすロジック.md",
+    "Notes/Inbox/スネークゲームの実装メモ.md",
     "Notes/Inbox/WASDのいずれかを押した時蛇の移動を処理するロジック.md",
     "Notes/Inbox/Foodのランダム配置アルゴリズムについて.md",
-    "Notes/Inbox/手動瞑想はあくまで「観察」。手の位置確認程度で感覚や動きにフォーカスしない。１コマ１コマ位置確認する程度.md",
-    "Notes/Inbox/手動瞑想のような１動作１動作に意識を向けるのは日常生活でも出来る。吊り革を握る時、ドアを開ける時、キーボードを撃つ時。続けるのが大事.md",
-    "Notes/Inbox/チャルーンサティで大事なのは身構えず「いま・ここ」に起こる現象に全てOKと接する。あるがままの事実を受け入れる.md",
-    "Notes/Inbox/他人の幸福を自分の幸福として喜び嫉妬しない。嫌いな人にも慈悲を持つ事を目指すのが仏教、目指すべき人格。世間が何と言おうと自分は人に優しくしろという覚悟。嫌いな物を攻撃するのは動物。.md",
-    "Notes/Inbox/人生でストレスに打ち勝つ生き方は衝動や目的を「慈しみ」にする。慈悲を目的に生きる。人に親切にすることが大事。.md",
-    "Notes/Inbox/偽の幸福感は物や肩書きや個人主義。幸せとは誰かに親切にすること。自分の能力を誰かのために使うこと。自分一人では何もできないという事実を理解すること。.md",
-    "Notes/Inbox/MPAの大まかな責務はリクエスト検証 バリデーション CRUD操作 APIアクセス View(レスポンス)整形 各処理順序の調整.md",
-    "Notes/Inbox/LaravelのModelは直接Viewから扱わない。Entityに詰め替える。N+1を防げる.md",
-    "Notes/Index/プログラミング/Laravel.md",
-    "Notes/Inbox/Laravelで安易にRepositoryを使うべきではない.md",
-    "Notes/Inbox/僧侶も孤独を感じる。大事なのは孤独をなくそうとするのではなく共にする。.md",
-    "Notes/Inbox/「我」が現れる時はこう思われたい扱われたいと思う時。地位や肩書きがあると「欲」が出る。この執着から離れる必要がある。.md",
-    "Notes/Inbox/主観的に問題を見るから解決しない。自分でも他人の問題でも客観的に見て良し悪しを判断しない。怒りなどは解決するのに不必要.md",
-    "Notes/Inbox/「なぜ」を使わずに「4W1H」を駆使して無生物主語にする。.md",
-    "Notes/Inbox/日々のストレスの原因は余計な「妄想」をしているから。日々の行動自体はシンプル。行動するのに最低限の感情だけを使えばストレスは減る。そのためのサティ.md",
-    "Notes/Inbox/仕事でも何でも大事なのは「余計なことを考えずに瞬間瞬間集中して生きる」。こうすればストレスはたまらない。ようするに妄想を控えて今を味わう。.md",
+    "Notes/Inbox/自分の知らないコードベースの場合、コピペして改造するのが大事。色々いじって出力変化を見る。.md",
+    "Notes/Inbox/興味のあるオープンソースを再構築する。単純化.md",
+    "Notes/Index/プログラミング/プログラミング.md",
+    "Notes/Inbox/プログラマとして力をつけるなら時間がかかってもいいのでドキュメントを見ながら自力で書く。ブログコピペは力がつかない.md",
+    "Notes/Inbox/コードリーディングは細部を読まない。クラスやパターン、インターフェイスから役割を理解する。.md",
+    "Notes/Inbox/他人と比較しない。物欲より知識欲を持つ。.md",
+    "Notes/Inbox/自我を持つから仕事や人間関係がつらくなる。無我が大事.md",
+    "Notes/Inbox/何かを手に入れる幸せは持続性がない。大事なのは意義を感じる善を行う事。.md",
+    "Notes/Inbox/ポジティブを感じたらメモを取るとトレーニングになる.md",
+    "Notes/Inbox/理想の人物像は安全意識 明るく元気 挨拶 前向き 挑戦 自分で考える 準備しっかり 即レス 自責.md",
+    "Notes/Inbox/電気工事は切り傷が出来やすいので医療用のテープなど持っておくといい.md",
+    "Notes/Inbox/新入りは頑張る気概、元気な挨拶、気配り(率先して雑用や嫌なこと、荷物持ちゴミ片付け)、先輩の作業を見る.md",
+    "Notes/Inbox/ナヨナヨすんな！大きな声ですみません気をつけますでいい。ボソボソと良い加減な返事はしない。.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",

@@ -10,6 +10,6 @@ TABLE FROm #Anki AND #カード
 
 ## デッキ
 ```dataview
-TABLE FROM #Anki AND #デッキ 
+TABLE FROM #Anki/デッキ 
 ```
 
