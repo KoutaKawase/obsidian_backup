@@ -11,8 +11,12 @@
             "id": "09551b150e9ae364",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/瞑想の基本はラベリングと感覚の割合は1対9。あくまで観察　感覚　経験を重要視して言葉は薄く。.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#マルチタスク",
+                "query": "tag:#index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Inbox/瞑想の基本はラベリングと感覚の割合は1対9。あくまで観察　感覚　経験を重要視して言葉は薄く。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Inbox/瞑想の基本はラベリングと感覚の割合は1対9。あくまで観察　感覚　経験を重要視して言葉は薄く。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Inbox/瞑想の基本はラベリングと感覚の割合は1対9。あくまで観察　感覚　経験を重要視して言葉は薄く。.md"
+              }
             }
           }
         ],
@@ -140,34 +147,34 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "e802643ddfeb5eab",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "Notes/Inbox/夜暗記をして布団にダイブして朝にまた復習すると効果的.md",
-    "Notes/Inbox/理解は集中的に。暗記は分散的にする。理解が一番重要。.md",
-    "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
-    "Notes/Inbox/集中力は吐く時間を長くするといい.md",
-    "Notes/Inbox/自己参照効果を利用して暗記の効率を上げる。自分を中心として想像する。自分が覚えたいことを他人に解説するイメージ。.md",
-    "Notes/Inbox/覚えたい内容が来たら数十秒大仏のようにぼーっとする.md",
-    "Notes/Inbox/ビタミンDを取らないと3倍も記憶力が悪くなり自己管理能力が損なわれる。.md",
-    "Notes/Inbox/なにかを記憶したいときはとりあえず「絵」を書くといい.md",
-    "Notes/Inbox/シャドウティーチングしたものをスキマ時間に聞く.md",
-    "Notes/Index/勉強/学習の作法.md",
-    "Notes/Inbox/ガムを噛みながら勉强するのも効果的.md",
-    "Notes/Index/メンタルヘルス/メンタルヘルス.md",
-    "Notes/Inbox/油は依存性が特に強い。脳は油の限度を設定していない。.md",
-    "Notes/Inbox/超加工食品、高脂肪、高塩分の食事は鬱、不安や脳機能、成績に悪影響。ドーパミンが出過ぎる。.md",
-    "Notes/Inbox/人間に趣味や楽しみや食事は必要だけど「あと少し」や必要な最低限の量だけで止めるのが大事。仏教は少しで満足しなさいということ。.md",
-    "Notes/Inbox/衝動はマインドバステクニックがよさそう.md",
-    "Notes/Inbox/空腹具合を1-10だとしたら3で食べて5-7でやめておけば勝手に痩せる。食べながら常に自分が空腹か問いかける.md",
-    "Notes/Inbox/ビタミンDは3000ぐらいが目安.md",
-    "Notes/Inbox/お腹と相談する。減ってなければ食べない。空腹がひとまず消えたら離れてみる。1食を軽食にする。.md",
-    "Notes/Inbox/16時間断食は毎日でなくても効果はある。プロテインを17時ぐらいに取ってトレの日もOK.md",
-    "Notes/Inbox/16時間断食とバルクアップは向かない。懸垂とかHIITぐらいで留めておく。.md",
-    "Notes/Inbox/BFFはいつ使用すべきか.md",
-    "Notes/Inbox/Laravelで安易にRepositoryを使うべきではない.md",
-    "Notes/Index/プログラミング/Laravel.md",
-    "Notes/Inbox/LaravelとTailwindの注意点は？.md",
-    "Notes/Inbox/聞き取りはディクテーション(書き取り)が有効。何度も聞き書きとる練習をする。.md",
+    "Notes/Inbox/欲を出さず執着しないで今あるもの眼の前のものを有り難く受け取る。足りない物ばかりに目を向けない。.md",
+    "Notes/Inbox/日常生活のラベリングは速くてできない場合明確な気づきが連続しているのがはっきり観察できているかどうか.md",
+    "Notes/Inbox/人は「考える」から苦しむ。ヴィパッサナーの本質は浮かんだ思考をそこで止め観察することにある。.md",
+    "Notes/Inbox/初心者こそ丁寧にラベリング。慣れたら「膨らみ」->「ふ」などにしてもいい。動作が乱れたらラベリングの巻き戻しはしない。.md",
+    "Notes/Inbox/手動瞑想は何が起きてもOK。反応せず対応する。１回１回手を意識。ラベリングは不要。別のことが浮かんでもそのままに。.md",
+    "Notes/Inbox/現在の動作以外の妄想は基本ラベリングせず放っておく。現在の動作から気が逸れるような妄想だけ意識する。.md",
+    "Notes/Inbox/ラベリングは情報や対象の中には入り込まない。抽象的にすることで判断を避ける.md",
+    "Notes/Inbox/ラベリングの基本は客観視。「と思った」など。言葉なら「妄想」、映像で浮かんだなら「妄像」。言葉はなんでもいい。.md",
+    "Notes/Inbox/ラベリングのコツは言葉そのものに心を寄せない。あくまで対象の感覚に心を向ける.md",
+    "Notes/Inbox/ヴィパッサナー瞑想の注意点と意識するポイント.md",
+    "Notes/Inbox/ヴィパッサナー瞑想の基本は動詞と実況中継.md",
+    "Notes/Inbox/相手が理解できることばで話しかければ、それは相手の頭に届く。相手の母国語で話しかければ、それは相手の心に届く.md",
+    "Notes/Inbox/英語は必要なところ以外口を動かさない。「動かさない」を基準に曖昧母音を駆使することで流暢に聞こえる.md",
+    "Notes/Inbox/英語は大袈裟なぐらい丁寧英語でいい。直接的表現は禁止。受動態を効果的に使う。事前に失礼かもと言っておく。.md",
+    "Notes/Inbox/英語は結論→理由と論理的に話すことがとても大事.md",
+    "Notes/Inbox/英語で伝えるには和文和訳で簡単な英語を意識する.md",
+    "Notes/Inbox/英会話は5文型が大事。SVOOは与える型。SVOCはO=Cになる。これらを駆使して話すのがSpeaking.md",
+    "Notes/Inbox/フォーマルな英語は遠回し。受け身を使い人称代名詞を避ける。.md",
+    "Notes/Inbox/Speakingはシャドーイングが最重要。歩きながら、背筋、大きな声でクリアに。細かいセッションに分け日に複数やる.md",
+    "Notes/Inbox/SpeakingはVoAぐらい遅くてもいいからしっかりはっきり丁寧に話す。.md",
+    "Notes/Inbox/SpeakingのだいたいのことはOXFORD3000の単語で置き換えできる.md",
+    "Notes/Index/勉強/英語.md",
+    "Notes/Inbox/不安にかられないためには1日ひとつ強くなる。0に1を足し続ける。手を動かす事。.md",
+    "Notes/Inbox/成功するまでやるやつが成功する.md",
+    "Notes/Inbox/人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。自分は数学ができる.md",
+    "Notes/Inbox/思考との距離を取る練習には感情の実況中継.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",

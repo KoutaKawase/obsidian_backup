@@ -1,6 +1,7 @@
 ---
 tags:
-  - speaking
+  - 英語
+  - 語学/スピーキング
 ---
 ## Speakingは5文型が大事
 

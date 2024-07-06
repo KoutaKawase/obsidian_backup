@@ -1,6 +1,7 @@
 ---
 tags:
-  - speaking
+  - 英語
+  - 語学/スピーキング
 ---
 [Fetching Title#tjz5](https://www.youtube.com/watch?list=PL8A833CC4FBBB182F&v=ok31W8ue1F4&embeds_referring_euri=https%3A%2F%2Fwww.multilingirl.com%2F2016%2F03%2Fvoa-special-english.html&source_ve_path=Mjg2NjMsMjM4NTE&feature=emb_title)
 

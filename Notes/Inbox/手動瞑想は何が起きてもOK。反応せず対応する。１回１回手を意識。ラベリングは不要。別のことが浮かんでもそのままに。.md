@@ -1,7 +1,7 @@
 ---
 tags:
   - 瞑想
-  - ヴィパッサナー瞑想
+  - 瞑想/ヴィパッサナー
 ---
 [プラユキ師の気づきの瞑想実践会７ - 瞑想以前。](http://meisouizenn.blog.fc2.com/blog-entry-2644.html)
 [プラユキ師の気づきの瞑想実践会８ - 瞑想以前。](http://meisouizenn.blog.fc2.com/blog-entry-2645.html)
