@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "64c91bf9e3fd85a6",
+        "id": "1d38b1e41171add1",
         "type": "tabs",
         "children": [
           {
-            "id": "fbe44d70cb3c9cb9",
+            "id": "7261cc9b2e06023f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/お腹と相談する。減ってなければ食べない。空腹がひとまず消えたら離れてみる。1食を軽食にする。.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#デッキ",
+                "query": "tag:#食事",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Inbox/お腹と相談する。減ってなければ食べない。空腹がひとまず消えたら離れてみる。1食を軽食にする。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Inbox/お腹と相談する。減ってなければ食べない。空腹がひとまず消えたら離れてみる。1食を軽食にする。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Inbox/お腹と相談する。減ってなければ食べない。空腹がひとまず消えたら離れてみる。1食を軽食にする。.md"
+              }
             }
           }
         ],
@@ -140,34 +148,34 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "fbe44d70cb3c9cb9",
+  "active": "7261cc9b2e06023f",
   "lastOpenFiles": [
-    "Notes/Inbox/可能な限り最小限のデッキを使用する。ただし試験や資格単位で分けるのもあり.md",
-    "Notes/Inbox/デッキは一つのマスターデッキで管理し復習を一括でする.md",
-    "Notes/Index/勉強/Anki.md",
-    "Notes/Index/金融.md",
-    "Notes/Inbox/カードはなるべく大きい単位のデッキで保持して細かいジャンル分けはタグで管理する.md",
-    "Notes/Index/Obsidian.md",
-    "Notes/Inbox/Ankiは具体的なジャンル分けはサブデッキよりタグを使う。.md",
-    "Notes/Inbox/Ankiのデッキは安易に細分化しない。試験用や資格用に一つのデッキ等大きく保つ.md",
-    "Notes/Inbox/テキストを何度も読み込まない。受け身の勉强は裏切る。.md",
-    "Notes/Inbox/蛇がFoodを食べた時本体を増やすロジック.md",
-    "Notes/Inbox/スネークゲームの実装メモ.md",
-    "Notes/Inbox/WASDのいずれかを押した時蛇の移動を処理するロジック.md",
-    "Notes/Inbox/Foodのランダム配置アルゴリズムについて.md",
-    "Notes/Inbox/自分の知らないコードベースの場合、コピペして改造するのが大事。色々いじって出力変化を見る。.md",
-    "Notes/Inbox/興味のあるオープンソースを再構築する。単純化.md",
-    "Notes/Index/プログラミング/プログラミング.md",
-    "Notes/Inbox/プログラマとして力をつけるなら時間がかかってもいいのでドキュメントを見ながら自力で書く。ブログコピペは力がつかない.md",
-    "Notes/Inbox/コードリーディングは細部を読まない。クラスやパターン、インターフェイスから役割を理解する。.md",
-    "Notes/Inbox/他人と比較しない。物欲より知識欲を持つ。.md",
-    "Notes/Inbox/自我を持つから仕事や人間関係がつらくなる。無我が大事.md",
-    "Notes/Inbox/何かを手に入れる幸せは持続性がない。大事なのは意義を感じる善を行う事。.md",
-    "Notes/Inbox/ポジティブを感じたらメモを取るとトレーニングになる.md",
-    "Notes/Inbox/理想の人物像は安全意識 明るく元気 挨拶 前向き 挑戦 自分で考える 準備しっかり 即レス 自責.md",
-    "Notes/Inbox/電気工事は切り傷が出来やすいので医療用のテープなど持っておくといい.md",
-    "Notes/Inbox/新入りは頑張る気概、元気な挨拶、気配り(率先して雑用や嫌なこと、荷物持ちゴミ片付け)、先輩の作業を見る.md",
-    "Notes/Inbox/ナヨナヨすんな！大きな声ですみません気をつけますでいい。ボソボソと良い加減な返事はしない。.md",
+    "Notes/Inbox/16時間断食は毎日でなくても効果はある。プロテインを17時ぐらいに取ってトレの日もOK.md",
+    "Notes/Inbox/16時間断食とバルクアップは向かない。懸垂とかHIITぐらいで留めておく。.md",
+    "Notes/Inbox/BFFはいつ使用すべきか.md",
+    "Notes/Inbox/Laravelで安易にRepositoryを使うべきではない.md",
+    "Notes/Index/プログラミング/Laravel.md",
+    "Notes/Inbox/LaravelとTailwindの注意点は？.md",
+    "Notes/Inbox/聞き取りはディクテーション(書き取り)が有効。何度も聞き書きとる練習をする。.md",
+    "Notes/Inbox/会話を聞けるようになるにはやっぱり口語表現を学ぶ必要がある。ニュースだけでなくアニメなど。.md",
+    "Notes/Inbox/意味を考えながらのリスニングはNG。意味ではなく音に集中する。音と意味を分ける。意味はリーディング。.md",
+    "Notes/Inbox/リスニングは意味は置いといてとにかく英語としての音に集中。絶対に意味を考えない。再生速度を落としてもいい.md",
+    "Notes/Inbox/リスニングはディクテーションが効果的.md",
+    "Notes/Inbox/リスニングの練習は長いものを使わなくてもいい。20sから30s程度の短いフレーズで練習になる。.md",
+    "Notes/Inbox/リスニングとは耳で行うリーディングと言える。従って意味を考えてしまうと自分が読める速さより速い物は聞き取れない。.md",
+    "Notes/Index/勉強/英語.md",
+    "Notes/Inbox/ドラマや映画で英語を学ぶコツは色々みるより日常会話が多く飽きないものを一つやりこむ。音声化して隙間時間に聴く.md",
+    "Notes/Inbox/多言語は言語ごとに妥協を意識する。好きになる努力、言語への愛着が必要。好きな言語をすべき。.md",
+    "Notes/Inbox/言語学習者の9割は辞める。下手でもいいので継続するだけで勝てるのが語学。.md",
+    "Notes/Inbox/言語学習は最重要の単語と文法を学び、聞く読むと話す書くを分け簡単な物から練習する。.md",
+    "Notes/Inbox/英語の発音記号は口を開けるのではなく口内(喉)を開けるイメージ。口は無駄に動かさず喉を意識し大きい声を出さない.md",
+    "Notes/Inbox/完璧(発音文法)を求めない。動き等丸々真似る。観察。好きな分野の語彙を覚える。母国語を使わない。体験とともに覚える。英語で生活する。.md",
+    "Notes/Inbox/どんな人でも多くのことを同時に抱えると疲弊する。まず一つのことをきちんとすべき。ユダヤの格言.md",
+    "Notes/Inbox/英語に限らず語学は理解->反復->継続。特に継続が大事。理解したものを繰り返し読み上げる事。焦らず積み上げれば必ず出来る。.md",
+    "Notes/Inbox/1日を大事にできない人は何も達成できない。1日を0.1でも積み重ねれば複利で伸びる.md",
+    "Notes/Inbox/べき思考から柔軟な思考の具体例.md",
+    "Notes/Inbox/努力するのは良い事。でも高慢や欲、見栄名誉権力社会の自己の立場の確立のためにしてはいけない。それは愚かさを無視しており我が出ている。実際凄いと思われたいという生き方は辛い。.md",
+    "Notes/Inbox/小欲知足。あまり欲ばらないで、少し足らなくても満足し、感謝することを知る。.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",

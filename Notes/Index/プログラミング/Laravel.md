@@ -11,15 +11,10 @@ TABLE FROM #プログラミング/Laravel AND #プログラミング/設計
 TABLE FROM #プログラミング/アーキテクチャ  
 ```
 
-## アンチパターン
-```dataview
-TABLE FROM #Laravel/アンチパターン
-```
-
 ## フロントエンド
 
 ```dataview
-TABLE FROM #Laravel/フロントエンド 
+TABLE FROM #プログラミング/Laravel AND #プログラミング/フロントエンド 
 ```
 
 ## 認証

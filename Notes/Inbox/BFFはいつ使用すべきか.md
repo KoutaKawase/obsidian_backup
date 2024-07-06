@@ -1,9 +1,7 @@
 ---
 tags:
-  - Laravel
   - プログラミング/アーキテクチャ
   - プログラミング/BFF
-  - プログラミング/Laravel
 ---
 ### BFFはいつ使用すべきか
 [Sam Newman - Backends For Frontends](https://samnewman.io/patterns/architectural/bff/#when)
