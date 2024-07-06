@@ -1,6 +1,7 @@
 ---
 tags:
-  - 勉強習慣
+  - 健康/脳
+  - 健康/BDNF
 ---
 [頭が良くなる物質「BDNF」を運動以外で増やす方法４選 | パレオな男](https://yuchrszk.blogspot.com/2017/07/bdnf.html)
 

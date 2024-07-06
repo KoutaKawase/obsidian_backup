@@ -2,6 +2,8 @@
 tags:
   - 勉強習慣
   - ストレス
+  - 勉強/休憩
+  - 勉強/学び方
 ---
 [【質問】NSDRが最強のストレス解消法だって本当ですか？ | パレオな男](https://yuchrszk.blogspot.com/2024/06/nsdr.html)
 

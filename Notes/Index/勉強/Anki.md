@@ -5,7 +5,7 @@ tags:
 
 ## カード
 ```dataview
-TABLE FROm #Anki AND #カード 
+TABLE FROm #Anki/カード 
 ```
 
 ## デッキ

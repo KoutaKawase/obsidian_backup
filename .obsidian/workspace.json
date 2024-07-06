@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#勉強/アクティブラーニング",
+                "query": "tag:#勉強習慣",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,10 +147,16 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "e802643ddfeb5eab",
+  "active": "2e8c1f1ff4b9ebd6",
   "lastOpenFiles": [
-    "Notes/Inbox/自分なりにクイズの要素を取り入れて想起してみる.md",
+    "Notes/Inbox/ストレスや学習後の休憩はヨガニドラ(NSDR)が有効。.md",
+    "Notes/Inbox/テキストや参考書は1周目に時間をかけすぎない。後戻りと完璧禁止。まずは全体像の把握。.md",
+    "Notes/Inbox/インターネットの使用時間が長い程成績に悪影響。脳にも影響がある。Webから離れる。.md",
+    "Notes/Inbox/HIITはやりすぎると脳へのメリットが損なわれる.md",
+    "Notes/Inbox/BDNFは砂糖と飽和脂肪が悪影響.md",
+    "Notes/Index/勉強/Anki.md",
     "Notes/Index/勉強/学習の作法.md",
+    "Notes/Inbox/自分なりにクイズの要素を取り入れて想起してみる.md",
     "Notes/Inbox/物事は必ず音読すること。5感を使うことで効果があがる。運動+音読+感情。.md",
     "Notes/Inbox/クイズ化は最初は部分ごとに個数を絞る。メンタルマップを作る。.md",
     "Notes/Inbox/どうしても覚えたい物は問題形式で3回ずつ読んで録音し寝る前翌朝週末に.md",
@@ -170,12 +175,6 @@
     "Notes/Inbox/ヴィパッサナー瞑想の基本は動詞と実況中継.md",
     "Notes/Inbox/相手が理解できることばで話しかければ、それは相手の頭に届く。相手の母国語で話しかければ、それは相手の心に届く.md",
     "Notes/Inbox/英語は必要なところ以外口を動かさない。「動かさない」を基準に曖昧母音を駆使することで流暢に聞こえる.md",
-    "Notes/Inbox/英語は大袈裟なぐらい丁寧英語でいい。直接的表現は禁止。受動態を効果的に使う。事前に失礼かもと言っておく。.md",
-    "Notes/Inbox/英語は結論→理由と論理的に話すことがとても大事.md",
-    "Notes/Inbox/英語で伝えるには和文和訳で簡単な英語を意識する.md",
-    "Notes/Inbox/英会話は5文型が大事。SVOOは与える型。SVOCはO=Cになる。これらを駆使して話すのがSpeaking.md",
-    "Notes/Inbox/フォーマルな英語は遠回し。受け身を使い人称代名詞を避ける。.md",
-    "Notes/Inbox/Speakingはシャドーイングが最重要。歩きながら、背筋、大きな声でクリアに。細かいセッションに分け日に複数やる.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
