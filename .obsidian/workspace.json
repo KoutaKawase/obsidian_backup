@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d0c544ac1359d9a6",
+        "id": "66396ed79473007d",
         "type": "tabs",
         "children": [
           {
-            "id": "473153a96dffe1de",
+            "id": "5265b06fe109870d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/面接の決め手は入室と人事初対面時の元気な挨拶！.md",
+                "file": "Notes/Inbox/チャルーンサティで大事なのは身構えず「いま・ここ」に起こる現象に全てOKと接する。あるがままの事実を受け入れる.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#面接",
+                "query": "tag:#手動瞑想",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/面接の決め手は入室と人事初対面時の元気な挨拶！.md",
+                "file": "Notes/Inbox/チャルーンサティで大事なのは身構えず「いま・ここ」に起こる現象に全てOKと接する。あるがままの事実を受け入れる.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/面接の決め手は入室と人事初対面時の元気な挨拶！.md",
+                "file": "Notes/Inbox/チャルーンサティで大事なのは身構えず「いま・ここ」に起こる現象に全てOKと接する。あるがままの事実を受け入れる.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/面接の決め手は入室と人事初対面時の元気な挨拶！.md"
+                "file": "Notes/Inbox/チャルーンサティで大事なのは身構えず「いま・ここ」に起こる現象に全てOKと接する。あるがままの事実を受け入れる.md"
               }
             }
           }
@@ -148,34 +148,34 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "473153a96dffe1de",
+  "active": "5265b06fe109870d",
   "lastOpenFiles": [
-    "Notes/Inbox/面接では鬱などの精神的な問題を言わない。飛躍しすぎない程度の嘘ならOK。持病でとかなんとか言えば良い。.md",
-    "Notes/Index/仕事/index.md",
+    "Notes/Inbox/他人の幸福を自分の幸福として喜び嫉妬しない。嫌いな人にも慈悲を持つ事を目指すのが仏教、目指すべき人格。世間が何と言おうと自分は人に優しくしろという覚悟。嫌いな物を攻撃するのは動物。.md",
+    "Notes/Inbox/人生でストレスに打ち勝つ生き方は衝動や目的を「慈しみ」にする。慈悲を目的に生きる。人に親切にすることが大事。.md",
+    "Notes/Inbox/偽の幸福感は物や肩書きや個人主義。幸せとは誰かに親切にすること。自分の能力を誰かのために使うこと。自分一人では何もできないという事実を理解すること。.md",
+    "Notes/Inbox/MPAの大まかな責務はリクエスト検証 バリデーション CRUD操作 APIアクセス View(レスポンス)整形 各処理順序の調整.md",
+    "Notes/Inbox/LaravelのModelは直接Viewから扱わない。Entityに詰め替える。N+1を防げる.md",
     "Notes/Index/プログラミング/Laravel.md",
-    "Notes/Inbox/OGPはSummaryを使う.md",
-    "Notes/Inbox/ElementalRefはuseRefで便利な話.md",
-    "Notes/Inbox/ページ遷移ライブラリは何がある？(主に非SPA).md",
-    "Notes/Index/プログラミング/React.md",
-    "Notes/Inbox/いい感じのReactライブラリ.md",
-    "Notes/Inbox/BDNFは運動 瞑想 断食 太陽 脱砂糖脂肪.md",
-    "Notes/Inbox/ADHDがすぐやれるようになるには定期的な有酸素運動が効果的.md",
-    "Notes/Inbox/canvas.setTransformはなにをしてるか.md",
-    "Notes/Inbox/RDBのテーブル名は単数形に統一するとよい.md",
-    "Notes/Inbox/Primary Keyに安易にUUIDを使わない。内部的にauto incrementして見せるようは一意のカラムを別で用意する。.md",
-    "Notes/Index/プログラミング/データベース.md",
-    "Notes/Inbox/PHPはなるべく作るならDIを使う.md",
-    "Notes/Inbox/開発環境でもDockerは使うべきなのか.md",
-    "Notes/Index/プログラミング/PHP.md",
-    "Notes/Index/プログラミング/BFF.md",
-    "Notes/Index/プログラミング/CORS.md",
-    "Notes/Index/プログラミング/Docker.md",
-    "Notes/Inbox/Next.jsやRemix.runのAPI機能はBFFとして使うといい.md",
     "Notes/Inbox/Laravelで安易にRepositoryを使うべきではない.md",
-    "Notes/Inbox/SPAではCORSよりプロキシを検討する.md",
-    "Notes/Inbox/LaravelとTailwindの注意点は？.md",
-    "Notes/Inbox/アーナパーナサティ瞑想のやり方。.md",
-    "Notes/Inbox/良い歩き方は「早足」「姿勢」「瞑想」。.md",
+    "Notes/Inbox/僧侶も孤独を感じる。大事なのは孤独をなくそうとするのではなく共にする。.md",
+    "Notes/Inbox/「我」が現れる時はこう思われたい扱われたいと思う時。地位や肩書きがあると「欲」が出る。この執着から離れる必要がある。.md",
+    "Notes/Inbox/主観的に問題を見るから解決しない。自分でも他人の問題でも客観的に見て良し悪しを判断しない。怒りなどは解決するのに不必要.md",
+    "Notes/Inbox/「なぜ」を使わずに「4W1H」を駆使して無生物主語にする。.md",
+    "Notes/Inbox/日々のストレスの原因は余計な「妄想」をしているから。日々の行動自体はシンプル。行動するのに最低限の感情だけを使えばストレスは減る。そのためのサティ.md",
+    "Notes/Inbox/仕事でも何でも大事なのは「余計なことを考えずに瞬間瞬間集中して生きる」。こうすればストレスはたまらない。ようするに妄想を控えて今を味わう。.md",
+    "Notes/Inbox/タイムゾーン関係はハマりやすい！.md",
+    "Notes/Inbox/Laravelで作りがちな脆弱性.md",
+    "Notes/Inbox/超加工食品、高脂肪、高塩分の食事は鬱、不安や脳機能、成績に悪影響。ドーパミンが出過ぎる。.md",
+    "Notes/Inbox/ストレス解消の食事、過度のネット・ゲーム、ギャンブルや買い物、ポルノと自慰、スリルや目新しい行為はドーパミンのために断つ。.md",
+    "Notes/Inbox/ADHDがすぐやれるようになるには定期的な有酸素運動が効果的.md",
+    "Notes/Inbox/Obsidianの初歩的な活用法.md",
+    "Notes/Inbox/ビタミンDは3000ぐらいが目安.md",
+    "Notes/Inbox/ビタミンDを取らないと3倍も記憶力が悪くなり自己管理能力が損なわれる。.md",
+    "Notes/Inbox/完璧主義とは「すべき」「してはならない」と考え、この基準に合わない人に怒ったりイライラすること。.md",
+    "Notes/Inbox/べき思考から柔軟な思考の具体例.md",
+    "Notes/Inbox/挨拶は自分を助ける投資。元気に挨拶するだけで職場の居心地を変えられる。また先輩にも気に入られる。.md",
+    "Notes/Inbox/挨拶に限らず見返りを求めない。自分が正しいと思う事を貫くのに相手の反応は関係ない。自分がそうありたいと願いそうあれたならそれでいい。.md",
+    "Notes/Inbox/感謝は具体的に。マンネリ化しやすいので具体的な小さなことに目を向ける意識を。大きな目立つことより小さい事を意識。.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",

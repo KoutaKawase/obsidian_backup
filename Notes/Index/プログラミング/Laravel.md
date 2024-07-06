@@ -1,11 +1,11 @@
 ---
 tags: index 
 ---
-## 設計
+## 設kk計
 ```dataview
-TABLE FROM #Laravel/設計 
+TABLE FROM #プログラミング/Laravel AND #プログラミング/設計   
 ```
-[Laravelで❝サービスクラス❞を排除したクリーンな設計 #PHP - Qiita](https://qiita.com/yiwiy9/items/121fe0e73279687261b8)
+[Laravelで❝サービスクラス❞を排除したクリーンな設計 HP - Qiita](https://qiita.com/yiwiy9/items/121fe0e73279687261b8)
 ## アーキテクチャ
 ```dataview
 TABLE FROM #プログラミング/アーキテクチャ  
@@ -24,10 +24,10 @@ TABLE FROM #Laravel/フロントエンド
 
 ## 認証
 ```dataview
-TABLE FROM #Laravel/認証 
+TABLE FROM #プログラミング/Laravel AND #プログラミング/認証 
 ```
 
 ## セキュリティ
 ```dataview
-TABLE FROM #Laravel/セキュリティ 
+TABLE FROM #プログラミング/Laravel AND #プログラミング/セキュリティ 
 ```

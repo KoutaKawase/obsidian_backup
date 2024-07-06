@@ -9,12 +9,12 @@ TABLE FROM #数学への取り組み方
 [いかにして問題をとくか | G. ポリア, Polya,G., 賢信, 柿内 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E3%81%84%E3%81%8B%E3%81%AB%E3%81%97%E3%81%A6%E5%95%8F%E9%A1%8C%E3%82%92%E3%81%A8%E3%81%8F%E3%81%8B-G-%E3%83%9D%E3%83%AA%E3%82%A2/dp/4621045938)
 ## 計算力
 ```dataview
-TABLE FROM #数学 AND #計算力 
+TABLE FROM #数学/計算力 
 ```
 [基礎からのジャンプアップノート 数学 計算 演習ドリル | 嶋田 香 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E3%81%AE%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%83%8E%E3%83%BC%E3%83%88-%E6%95%B0%E5%AD%A6-%E8%A8%88%E7%AE%97-%E6%BC%94%E7%BF%92%E3%83%89%E3%83%AA%E3%83%AB-%E5%B6%8B%E7%94%B0/dp/4010345020/ref=sr_1_9?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E6%95%B0IA+%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF&qid=1706694148&s=books&sr=1-9)
 ## 参考書
 ```dataview
-TABLE FROM #数学 AND #参考書 
+TABLE FROM #数学 AND #本/参考書
 ```
 [ほぼ計算不要の思考力・判断力・表現力トレーニング 数学1A | 吉田 信夫 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E3%81%BB%E3%81%BC%E8%A8%88%E7%AE%97%E4%B8%8D%E8%A6%81%E3%81%AE%E6%80%9D%E8%80%83%E5%8A%9B%E3%83%BB%E5%88%A4%E6%96%AD%E5%8A%9B%E3%83%BB%E8%A1%A8%E7%8F%BE%E5%8A%9B%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0-%E6%95%B0%E5%AD%A61A-%E5%90%89%E7%94%B0-%E4%BF%A1%E5%A4%AB/dp/4887422393/ref=sr_1_4?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=YE8DXI0RYS9I&keywords=%E6%95%B0IA+%E8%A8%88%E7%AE%97&qid=1706010376&sprefix=%E6%95%B0ia+%E8%A8%88%E7%AE%97%2Caps%2C214&sr=8-4)
 ## 大学数学
@@ -30,7 +30,7 @@ TABLE FROM #三角関数
 
 ## 微積
 ```dataview
-TABLE FROM #微積 
+TABLE FROM #数学/微積
 ```
 [微積分／導関数１回目　瞬間に速さはあるのか？　平均変化率と瞬間変化率 - YouTube](https://www.youtube.com/watch?v=WVDva5fjadg&list=PLaUN0MH8gzXMm2UGIL-lR7R3_BHoY5zWQ)
 

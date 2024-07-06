@@ -1,7 +1,7 @@
 ---
 tags:
   - 運動
-  - ADHD
+  - 健康/ADHD
 ---
 	[The Benefits of Exercise for the ADHD Brain](https://www.additudemag.com/the-adhd-exercise-solution/)
 

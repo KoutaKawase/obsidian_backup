@@ -1,6 +1,7 @@
 ---
 tags:
-  - Laravel設計
+  - プログラミング/Laravel
+  - プログラミング/設計
 ---
 ## Viewから極力Modelを触らない
 ### なぜModelではダメなのか
