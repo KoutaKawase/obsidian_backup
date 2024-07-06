@@ -24,7 +24,7 @@ TABLE FROM #数学/大学数学
 
 ## 三角関数
 ```dataview
-TABLE FROM #三角関数
+TABLE FROM #数学/三角関数
 ```
 大事なのは手を動かす事
 

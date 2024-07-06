@@ -1,6 +1,6 @@
 ---
 tags:
-  - 三角関数
+  - 数学/三角関数
 ---
 [【絶対忘れない】三角比を一瞬で覚える方法！サイン コサイン タンジェント全て応用できます - YouTube](https://www.youtube.com/watch?v=m0ysAjWzH64)
 

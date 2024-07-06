@@ -1,5 +1,11 @@
 ---
-tags: JavaScript TypeScript スネークゲーム アルゴリズム コードリーディング 実装メモ
+tags:
+  - JavaScript
+  - TypeScript
+  - スネークゲーム
+  - アルゴリズム
+  - コードリーディング
+  - プログラミング/実装メモ
 ---
 ### Foodのランダム配置アルゴリズムについて
 ```typescript
