@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/目に入った人や通りすがりの人達の幸せを願う事は自分をいい気分にする。.md",
+                "file": "Notes/Inbox/世の人間はほとんど利得や名誉賞賛や楽に舞い上がり驕り、損失や不名誉非難や苦に打ちひしがれる。賢者はこれら八世間法に踊らされずありのままにいる。つまり浮き沈みに心を動かさない。.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#仏教/法話 ほとんど",
+                "query": "tag:#仏教/八世間法",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/目に入った人や通りすがりの人達の幸せを願う事は自分をいい気分にする。.md",
+                "file": "Notes/Inbox/世の人間はほとんど利得や名誉賞賛や楽に舞い上がり驕り、損失や不名誉非難や苦に打ちひしがれる。賢者はこれら八世間法に踊らされずありのままにいる。つまり浮き沈みに心を動かさない。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/目に入った人や通りすがりの人達の幸せを願う事は自分をいい気分にする。.md",
+                "file": "Notes/Inbox/世の人間はほとんど利得や名誉賞賛や楽に舞い上がり驕り、損失や不名誉非難や苦に打ちひしがれる。賢者はこれら八世間法に踊らされずありのままにいる。つまり浮き沈みに心を動かさない。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/目に入った人や通りすがりの人達の幸せを願う事は自分をいい気分にする。.md"
+                "file": "Notes/Inbox/世の人間はほとんど利得や名誉賞賛や楽に舞い上がり驕り、損失や不名誉非難や苦に打ちひしがれる。賢者はこれら八世間法に踊らされずありのままにいる。つまり浮き沈みに心を動かさない。.md"
               }
             }
           }
@@ -160,10 +161,10 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "5c9d8fd2bc5a2eb6",
   "lastOpenFiles": [
-    "Notes/Index/メンタルヘルス/メンタルヘルス.md",
     "Notes/Inbox/目に入った人や通りすがりの人達の幸せを願う事は自分をいい気分にする。.md",
+    "Notes/Index/メンタルヘルス/メンタルヘルス.md",
     "Notes/Index/プログラミング/Laravel.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Index/仏教/index.md",
