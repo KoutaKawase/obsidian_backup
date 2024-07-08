@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7db13082e910455c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/セルフハグはストレスを軽減できる。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "108b74aa8544c9c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/仏教/読むべき本.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#inbox",
+                "query": "tag:#仏教/法話 ほとんど",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/プログラミング/Laravel.md",
+                "file": "Notes/Index/仏教/読むべき本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/プログラミング/Laravel.md",
+                "file": "Notes/Index/仏教/読むべき本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/プログラミング/Laravel.md"
+                "file": "Notes/Index/仏教/読むべき本.md"
               }
             }
           }
@@ -147,13 +172,16 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "f30038abac081043",
+  "active": "108b74aa8544c9c3",
   "lastOpenFiles": [
+    "Notes/Index/仏教/index.md",
+    "Notes/Inbox/世の人間はほとんど利得や名誉賞賛や楽に舞い上がり驕り、損失や不名誉非難や苦に打ちひしがれる。賢者はこれら八世間法に踊らされずありのままにいる。つまり浮き沈みに心を動かさない。.md",
+    "Notes/Inbox/セルフハグはストレスを軽減できる。.md",
+    "Notes/Index/プログラミング/Laravel.md",
     "Notes/Inbox/Obsidianの初歩的な活用法.md",
     "Notes/Inbox/興味のあるオープンソースを再構築する。単純化.md",
     "Notes/Index/プログラミング/フロントエンド.md",
     "Notes/Index/プログラミング/プログラミング.md",
-    "Notes/Index/プログラミング/Laravel.md",
     "Notes/Index/プログラミング/データベース.md",
     "Notes/Inbox/ワンハンドローの正しいフォーム.md",
     "Notes/Index/メンタルヘルス/メンタルヘルス.md",
@@ -162,7 +190,6 @@
     "Notes/Inbox/カードはなるべく大きい単位のデッキで保持して細かいジャンル分けはタグで管理する.md",
     "Notes/Inbox/Ankiは具体的なジャンル分けはサブデッキよりタグを使う。.md",
     "ほげ.md",
-    "Notes/Index/仏教/index.md",
     "Notes/Inbox/録音勉强は自分で授業動画とか作るといい.md",
     "Notes/Inbox/理解は集中的に。暗記は分散的にする。理解が一番重要。.md",
     "Notes/Inbox/夜暗記をして布団にダイブして朝にまた復習すると効果的.md",
@@ -173,8 +200,6 @@
     "Notes/Inbox/人形に話しかけてアウトプットする.md",
     "Notes/Inbox/人は思い込みでパフォーマンスが代わる。ポジティブな口癖を癖付けネガティブは言ってはいけない。自分は数学ができる.md",
     "Notes/Inbox/自分なりにクイズの要素を取り入れて想起してみる.md",
-    "Notes/Inbox/思考と距離を取る。俯瞰する。行動と分離する。(最重要).md",
-    "Notes/Inbox/思考との距離を取る練習には感情の実況中継.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
