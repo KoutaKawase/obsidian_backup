@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7849f940a19921eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "規律ある生活を伴わねば瞑想をいくらしても智慧(ありのままの気づき)はつかない。五戒を護る。快楽に溺れない。嘘を言わない。道徳的に生きる。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/１部位2種目やると部位をしっかり追い込める.md",
+                "file": "規律ある生活を伴わねば瞑想をいくらしても智慧(ありのままの気づき)はつかない。五戒を護る。快楽に溺れない。嘘を言わない。道徳的に生きる。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/１部位2種目やると部位をしっかり追い込める.md",
+                "file": "規律ある生活を伴わねば瞑想をいくらしても智慧(ありのままの気づき)はつかない。五戒を護る。快楽に溺れない。嘘を言わない。道徳的に生きる。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/１部位2種目やると部位をしっかり追い込める.md"
+                "file": "規律ある生活を伴わねば瞑想をいくらしても智慧(ありのままの気づき)はつかない。五戒を護る。快楽に溺れない。嘘を言わない。道徳的に生きる。.md"
               }
             }
           }
@@ -184,10 +196,11 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "7849f940a19921eb",
   "lastOpenFiles": [
-    "Notes/Inbox/ヴィパッサナーというのは瞬間瞬間をしっかり気づき確認すること。それで妄想を止まらせない。.md",
     "Notes/Inbox/１部位2種目やると部位をしっかり追い込める.md",
+    "規律ある生活を伴わねば瞑想をいくらしても智慧(ありのままの気づき)はつかない。五戒を護る。快楽に溺れない。嘘を言わない。道徳的に生きる。.md",
+    "Notes/Inbox/ヴィパッサナーというのは瞬間瞬間をしっかり気づき確認すること。それで妄想を止まらせない。.md",
     "Notes/Inbox/食べ物が「美味しい」「まずい」というのは食べ物自体ではなく人の妄想。欲や怒り。.md",
     "Notes/Inbox/智慧とは考えず常に瞬間瞬間を観察すること。智慧は問題が起こっても感情に振り回されない。食べる時も「おいしい」など考えずよく味わい観察する。.md",
     "Notes/Inbox/世の人間はほとんど利得や名誉賞賛や楽に舞い上がり驕り、損失や不名誉非難や苦に打ちひしがれる。賢者はこれら八世間法に踊らされずありのままにいる。つまり浮き沈みに心を動かさない。.md",
@@ -211,7 +224,6 @@
     "Notes/Inbox/録音勉强は自分で授業動画とか作るといい.md",
     "Notes/Inbox/理解は集中的に。暗記は分散的にする。理解が一番重要。.md",
     "Notes/Inbox/夜暗記をして布団にダイブして朝にまた復習すると効果的.md",
-    "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
