@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "10107d55b6d5354b",
+        "id": "f4c0cba62a0f733a",
         "type": "tabs",
         "children": [
           {
-            "id": "6293dd906c7aab81",
+            "id": "48acc93a327d2fab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/智慧とは考えず常に瞬間瞬間を観察すること。智慧は問題が起こっても感情に振り回されない。食べる時も「おいしい」など考えずよく味わい観察する。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdb9015b5dfb4889",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/食べ物が「美味しい」「まずい」というのは食べ物自体ではなく人の妄想。欲や怒り。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99e24b8c5d585d3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/ヴィパッサナーというのは瞬間瞬間をしっかり気づき確認すること。それで妄想を止まらせない。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4671a9af05d48a6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/１部位2種目やると部位をしっかり追い込める.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7849f940a19921eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/規律ある生活を伴わねば瞑想をいくらしても智慧(ありのままの気づき)はつかない。五戒を護る。快楽に溺れない。嘘を言わない。道徳的に生きる。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16704701b57513ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/人間関係が苦しいのは皆道徳も戒律もないから。戒律があり性格が良い人と付き合いなさい。自分も道徳的でないと道徳的な人は寄ってこない。戒律を守ること。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3425b1ca25b0494",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/我慢は嫌なことを強引に押さえつけること。忍耐は幸福な時でも不幸な時でも心を振り回されず落ち着いて耐え抜くこと。お釈迦さまはこれが必要だと言っている。.md",
+                "file": "Notes/Index/仕事/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#仏教/八世間法",
+                "query": "tag:#仕事",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/我慢は嫌なことを強引に押さえつけること。忍耐は幸福な時でも不幸な時でも心を振り回されず落ち着いて耐え抜くこと。お釈迦さまはこれが必要だと言っている。.md",
+                "file": "Notes/Index/仕事/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/我慢は嫌なことを強引に押さえつけること。忍耐は幸福な時でも不幸な時でも心を振り回されず落ち着いて耐え抜くこと。お釈迦さまはこれが必要だと言っている。.md",
+                "file": "Notes/Index/仕事/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/我慢は嫌なことを強引に押さえつけること。忍耐は幸福な時でも不幸な時でも心を振り回されず落ち着いて耐え抜くこと。お釈迦さまはこれが必要だと言っている。.md"
+                "file": "Notes/Index/仕事/index.md"
               }
             }
           }
@@ -220,10 +147,20 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "48acc93a327d2fab",
   "lastOpenFiles": [
-    "Notes/Inbox/人間関係が苦しいのは皆道徳も戒律もないから。戒律があり性格が良い人と付き合いなさい。自分も道徳的でないと道徳的な人は寄ってこない。戒律を守ること。.md",
+    "Notes/Index/仏教/index.md",
+    "Notes/Inbox/仕事においても智慧は大事。私情の好き嫌い等を判断に使用しないのが智慧ある人。嫌いだからあの人に仕事を振ろうとかそういう道徳的でなく妄想に囚われた事をしない。最も会社にとって良い客観的な判断をする。.md",
+    "Notes/Inbox/利己的な感情より会社への貢献を意識する。自分の感情は置いておいて仕事に一番大事なことを淡々とやる。.md",
+    "Notes/Index/仕事/index.md",
+    "Notes/Index/メンタルヘルス/メンタルヘルス.md",
+    "Notes/Inbox/嫌いな人こそ親切にすべき。相手を考え怒り不幸なのは自分が原因。感情は置き行動として親切にする。.md",
+    "Notes/Inbox/良い挨拶は先手必勝 高めの声と笑顔　姿勢。挨拶はやり得。人間関係はデフォで敵.md",
+    "Notes/Inbox/嫌なことをする相手に怒らないで対応するかどうかは自分の問題。害する相手を許す、逆に助けてあげるのが仏教。.md",
+    "Notes/Inbox/嫌いな人に「嫌いだ」と表面的に出すのは自分も怒り不幸になる。嫌いでも行動では親切しておくほうが得。.md",
+    "Notes/Inbox/智慧ある生き方とは良い事悪い事に舞い上がらず落ち着き、今やるべき行動をし続ける事。うまくいかない、不幸でも落ち着いて忍耐する。.md",
     "Notes/Inbox/我慢は嫌なことを強引に押さえつけること。忍耐は幸福な時でも不幸な時でも心を振り回されず落ち着いて耐え抜くこと。お釈迦さまはこれが必要だと言っている。.md",
+    "Notes/Inbox/人間関係が苦しいのは皆道徳も戒律もないから。戒律があり性格が良い人と付き合いなさい。自分も道徳的でないと道徳的な人は寄ってこない。戒律を守ること。.md",
     "Notes/Inbox/規律ある生活を伴わねば瞑想をいくらしても智慧(ありのままの気づき)はつかない。五戒を護る。快楽に溺れない。嘘を言わない。道徳的に生きる。.md",
     "Notes/Inbox/１部位2種目やると部位をしっかり追い込める.md",
     "Notes/Inbox/ヴィパッサナーというのは瞬間瞬間をしっかり気づき確認すること。それで妄想を止まらせない。.md",
@@ -231,23 +168,13 @@
     "Notes/Inbox/智慧とは考えず常に瞬間瞬間を観察すること。智慧は問題が起こっても感情に振り回されない。食べる時も「おいしい」など考えずよく味わい観察する。.md",
     "Notes/Inbox/世の人間はほとんど利得や名誉賞賛や楽に舞い上がり驕り、損失や不名誉非難や苦に打ちひしがれる。賢者はこれら八世間法に踊らされずありのままにいる。つまり浮き沈みに心を動かさない。.md",
     "Notes/Inbox/目に入った人や通りすがりの人達の幸せを願う事は自分をいい気分にする。.md",
-    "Notes/Index/メンタルヘルス/メンタルヘルス.md",
     "Notes/Index/プログラミング/Laravel.md",
     "Notes/Index/仏教/読むべき本.md",
-    "Notes/Index/仏教/index.md",
     "Notes/Inbox/セルフハグはストレスを軽減できる。.md",
     "Notes/Inbox/Obsidianの初歩的な活用法.md",
     "Notes/Inbox/興味のあるオープンソースを再構築する。単純化.md",
     "Notes/Index/プログラミング/フロントエンド.md",
     "Notes/Index/プログラミング/プログラミング.md",
-    "Notes/Index/プログラミング/データベース.md",
-    "Notes/Inbox/ワンハンドローの正しいフォーム.md",
-    "Notes/Inbox/可能な限り最小限のデッキを使用する。ただし試験や資格単位で分けるのもあり.md",
-    "Notes/Inbox/デッキは一つのマスターデッキで管理し復習を一括でする.md",
-    "Notes/Inbox/カードはなるべく大きい単位のデッキで保持して細かいジャンル分けはタグで管理する.md",
-    "Notes/Inbox/Ankiは具体的なジャンル分けはサブデッキよりタグを使う。.md",
-    "ほげ.md",
-    "Notes/Inbox/録音勉强は自分で授業動画とか作るといい.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
