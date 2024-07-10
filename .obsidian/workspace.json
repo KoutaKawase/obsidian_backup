@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "853cf6bb1fd6a0ce",
+        "id": "10107d55b6d5354b",
         "type": "tabs",
         "children": [
           {
-            "id": "1bfc2a0d73ca7626",
+            "id": "6293dd906c7aab81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/メンタルヘルス/メンタルヘルス.md",
+                "file": "Notes/Inbox/智慧とは考えず常に瞬間瞬間を観察すること。智慧は問題が起こっても感情に振り回されない。食べる時も「おいしい」など考えずよく味わい観察する。.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5c9d8fd2bc5a2eb6",
+            "id": "bdb9015b5dfb4889",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/世の人間はほとんど利得や名誉賞賛や楽に舞い上がり驕り、損失や不名誉非難や苦に打ちひしがれる。賢者はこれら八世間法に踊らされずありのままにいる。つまり浮き沈みに心を動かさない。.md",
+                "file": "Notes/Inbox/食べ物が「美味しい」「まずい」というのは食べ物自体ではなく人の妄想。欲や怒り。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99e24b8c5d585d3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ヴィパッサナーというのは瞬間瞬間をしっかり気づき確認すること。それで妄想を止まらせない。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/世の人間はほとんど利得や名誉賞賛や楽に舞い上がり驕り、損失や不名誉非難や苦に打ちひしがれる。賢者はこれら八世間法に踊らされずありのままにいる。つまり浮き沈みに心を動かさない。.md",
+                "file": "ヴィパッサナーというのは瞬間瞬間をしっかり気づき確認すること。それで妄想を止まらせない。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/世の人間はほとんど利得や名誉賞賛や楽に舞い上がり驕り、損失や不名誉非難や苦に打ちひしがれる。賢者はこれら八世間法に踊らされずありのままにいる。つまり浮き沈みに心を動かさない。.md",
+                "file": "ヴィパッサナーというのは瞬間瞬間をしっかり気づき確認すること。それで妄想を止まらせない。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/世の人間はほとんど利得や名誉賞賛や楽に舞い上がり驕り、損失や不名誉非難や苦に打ちひしがれる。賢者はこれら八世間法に踊らされずありのままにいる。つまり浮き沈みに心を動かさない。.md"
+                "file": "ヴィパッサナーというのは瞬間瞬間をしっかり気づき確認すること。それで妄想を止まらせない。.md"
               }
             }
           }
@@ -161,14 +172,17 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "5c9d8fd2bc5a2eb6",
+  "active": "99e24b8c5d585d3e",
   "lastOpenFiles": [
+    "Notes/Inbox/食べ物が「美味しい」「まずい」というのは食べ物自体ではなく人の妄想。欲や怒り。.md",
+    "ヴィパッサナーというのは瞬間瞬間をしっかり気づき確認すること。それで妄想を止まらせない。.md",
+    "Notes/Inbox/智慧とは考えず常に瞬間瞬間を観察すること。智慧は問題が起こっても感情に振り回されない。食べる時も「おいしい」など考えずよく味わい観察する。.md",
+    "Notes/Inbox/世の人間はほとんど利得や名誉賞賛や楽に舞い上がり驕り、損失や不名誉非難や苦に打ちひしがれる。賢者はこれら八世間法に踊らされずありのままにいる。つまり浮き沈みに心を動かさない。.md",
     "Notes/Inbox/目に入った人や通りすがりの人達の幸せを願う事は自分をいい気分にする。.md",
     "Notes/Index/メンタルヘルス/メンタルヘルス.md",
     "Notes/Index/プログラミング/Laravel.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Index/仏教/index.md",
-    "Notes/Inbox/世の人間はほとんど利得や名誉賞賛や楽に舞い上がり驕り、損失や不名誉非難や苦に打ちひしがれる。賢者はこれら八世間法に踊らされずありのままにいる。つまり浮き沈みに心を動かさない。.md",
     "Notes/Inbox/セルフハグはストレスを軽減できる。.md",
     "Notes/Inbox/Obsidianの初歩的な活用法.md",
     "Notes/Inbox/興味のあるオープンソースを再構築する。単純化.md",
@@ -186,9 +200,6 @@
     "Notes/Inbox/夜暗記をして布団にダイブして朝にまた復習すると効果的.md",
     "Notes/Inbox/忘却曲線に沿った復習が一番大事。復習や記憶定着は頻度が大事。.md",
     "Notes/Inbox/勉強中はテストの様に厳密に時間を区切る。.md",
-    "Notes/Inbox/長時間勉强において一番大事なのは休憩。瞑想 運動 癒やし 昼寝 ぼーっとする.md",
-    "Notes/Inbox/戦略的に午後だけたまに休むのを取り入れる.md",
-    "Notes/Inbox/人形に話しかけてアウトプットする.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
