@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#運動/フォーム",
+                "query": "怒り",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +148,7 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "48acc93a327d2fab",
+  "active": "e802643ddfeb5eab",
   "lastOpenFiles": [
     "Notes/Index/メンタルヘルス/メンタルヘルス.md",
     "Notes/Index/プログラミング/Laravel.md",
