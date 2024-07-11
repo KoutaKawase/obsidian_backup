@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/仕事/index.md",
+                "file": "Notes/Inbox/ワンハンドローの正しいフォーム.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#仕事",
+                "query": "tag:#運動/フォーム",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/仕事/index.md",
+                "file": "Notes/Inbox/ワンハンドローの正しいフォーム.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/仕事/index.md",
+                "file": "Notes/Inbox/ワンハンドローの正しいフォーム.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/仕事/index.md"
+                "file": "Notes/Inbox/ワンハンドローの正しいフォーム.md"
               }
             }
           }
@@ -149,11 +150,12 @@
   },
   "active": "48acc93a327d2fab",
   "lastOpenFiles": [
+    "Notes/Index/メンタルヘルス/メンタルヘルス.md",
+    "Notes/Index/プログラミング/Laravel.md",
+    "Notes/Index/仕事/index.md",
     "Notes/Index/仏教/index.md",
     "Notes/Inbox/仕事においても智慧は大事。私情の好き嫌い等を判断に使用しないのが智慧ある人。嫌いだからあの人に仕事を振ろうとかそういう道徳的でなく妄想に囚われた事をしない。最も会社にとって良い客観的な判断をする。.md",
     "Notes/Inbox/利己的な感情より会社への貢献を意識する。自分の感情は置いておいて仕事に一番大事なことを淡々とやる。.md",
-    "Notes/Index/仕事/index.md",
-    "Notes/Index/メンタルヘルス/メンタルヘルス.md",
     "Notes/Inbox/嫌いな人こそ親切にすべき。相手を考え怒り不幸なのは自分が原因。感情は置き行動として親切にする。.md",
     "Notes/Inbox/良い挨拶は先手必勝 高めの声と笑顔　姿勢。挨拶はやり得。人間関係はデフォで敵.md",
     "Notes/Inbox/嫌なことをする相手に怒らないで対応するかどうかは自分の問題。害する相手を許す、逆に助けてあげるのが仏教。.md",
@@ -168,7 +170,6 @@
     "Notes/Inbox/智慧とは考えず常に瞬間瞬間を観察すること。智慧は問題が起こっても感情に振り回されない。食べる時も「おいしい」など考えずよく味わい観察する。.md",
     "Notes/Inbox/世の人間はほとんど利得や名誉賞賛や楽に舞い上がり驕り、損失や不名誉非難や苦に打ちひしがれる。賢者はこれら八世間法に踊らされずありのままにいる。つまり浮き沈みに心を動かさない。.md",
     "Notes/Inbox/目に入った人や通りすがりの人達の幸せを願う事は自分をいい気分にする。.md",
-    "Notes/Index/プログラミング/Laravel.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Inbox/セルフハグはストレスを軽減できる。.md",
     "Notes/Inbox/Obsidianの初歩的な活用法.md",
