@@ -11,11 +11,40 @@
             "id": "f8f9d3d9dca260b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/熱中症は食事(特に朝食)を抜くとリスクが上がりまくる。熱中症は一回なったら終わり。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71e4d276f0bdb9d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/熱中症は暑くて細胞が茹でられるという話ではなく、大量の汗で体内の塩分と水分のバランスが崩れる事。塩分糖分水分をとにかく摂る。でも頭も冷やす。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "676ada008f75000d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "仏教が目指す捨てるべき欲は五感の快楽、他者の期待、未来の結果や希望である。つまり苦しみを生み出すもの。あってもいいのは「意欲」。「欲」も溺れすぎずほどほどに楽しむ分にはわるくない.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 832.5041847229004
+    "width": 426.5041847229004
   },
   "right": {
     "id": "84812f26217cccba",
@@ -81,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/ワンハンドローの正しいフォーム.md",
+                "file": "仏教が目指す捨てるべき欲は五感の快楽、他者の期待、未来の結果や希望である。つまり苦しみを生み出すもの。あってもいいのは「意欲」。「欲」も溺れすぎずほどほどに楽しむ分にはわるくない.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/ワンハンドローの正しいフォーム.md",
+                "file": "仏教が目指す捨てるべき欲は五感の快楽、他者の期待、未来の結果や希望である。つまり苦しみを生み出すもの。あってもいいのは「意欲」。「欲」も溺れすぎずほどほどに楽しむ分にはわるくない.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/ワンハンドローの正しいフォーム.md"
+                "file": "仏教が目指す捨てるべき欲は五感の快楽、他者の期待、未来の結果や希望である。つまり苦しみを生み出すもの。あってもいいのは「意欲」。「欲」も溺れすぎずほどほどに楽しむ分にはわるくない.md"
               }
             }
           }
@@ -143,8 +172,12 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "676ada008f75000d",
   "lastOpenFiles": [
+    "Notes/Inbox/熱中症は暑くて細胞が茹でられるという話ではなく、大量の汗で体内の塩分と水分のバランスが崩れる事。塩分糖分水分をとにかく摂る。でも頭も冷やす。.md",
+    "仏教が目指す捨てるべき欲は五感の快楽、他者の期待、未来の結果や希望である。つまり苦しみを生み出すもの。あってもいいのは「意欲」。「欲」も溺れすぎずほどほどに楽しむ分にはわるくない.md",
+    "Notes/Inbox/熱中症は食事(特に朝食)を抜くとリスクが上がりまくる。熱中症は一回なったら終わり。.md",
+    "Notes/Inbox/ワンハンドローの正しいフォーム.md",
     "Notes/Index/メンタルヘルス/メンタルヘルス.md",
     "Notes/Index/プログラミング/Laravel.md",
     "Notes/Index/仕事/index.md",
@@ -167,10 +200,6 @@
     "Notes/Inbox/目に入った人や通りすがりの人達の幸せを願う事は自分をいい気分にする。.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Inbox/セルフハグはストレスを軽減できる。.md",
-    "Notes/Inbox/Obsidianの初歩的な活用法.md",
-    "Notes/Inbox/興味のあるオープンソースを再構築する。単純化.md",
-    "Notes/Index/プログラミング/フロントエンド.md",
-    "Notes/Index/プログラミング/プログラミング.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
