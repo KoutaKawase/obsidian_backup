@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "仏教が目指す捨てるべき欲は五感の快楽、他者の期待、未来の結果や希望である。つまり苦しみを生み出すもの。あってもいいのは「意欲」。「欲」も溺れすぎずほどほどに楽しむ分にはわるくない.md",
+                "file": "Notes/Index/仏教/読むべき本.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"怒り\"",
+                "query": "s",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "仏教が目指す捨てるべき欲は五感の快楽、他者の期待、未来の結果や希望である。つまり苦しみを生み出すもの。あってもいいのは「意欲」。「欲」も溺れすぎずほどほどに楽しむ分にはわるくない.md",
+                "file": "Notes/Index/仏教/読むべき本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "仏教が目指す捨てるべき欲は五感の快楽、他者の期待、未来の結果や希望である。つまり苦しみを生み出すもの。あってもいいのは「意欲」。「欲」も溺れすぎずほどほどに楽しむ分にはわるくない.md",
+                "file": "Notes/Index/仏教/読むべき本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "仏教が目指す捨てるべき欲は五感の快楽、他者の期待、未来の結果や希望である。つまり苦しみを生み出すもの。あってもいいのは「意欲」。「欲」も溺れすぎずほどほどに楽しむ分にはわるくない.md"
+                "file": "Notes/Index/仏教/読むべき本.md"
               }
             }
           }
@@ -172,10 +173,10 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "676ada008f75000d",
+  "active": "e802643ddfeb5eab",
   "lastOpenFiles": [
+    "Notes/Inbox/仏教が目指す捨てるべき欲は五感の快楽、他者の期待、未来の結果や希望である。つまり苦しみを生み出すもの。あってもいいのは「意欲」。「欲」も溺れすぎずほどほどに楽しむ分にはわるくない.md",
     "Notes/Inbox/熱中症は暑くて細胞が茹でられるという話ではなく、大量の汗で体内の塩分と水分のバランスが崩れる事。塩分糖分水分をとにかく摂る。でも頭も冷やす。.md",
-    "仏教が目指す捨てるべき欲は五感の快楽、他者の期待、未来の結果や希望である。つまり苦しみを生み出すもの。あってもいいのは「意欲」。「欲」も溺れすぎずほどほどに楽しむ分にはわるくない.md",
     "Notes/Inbox/熱中症は食事(特に朝食)を抜くとリスクが上がりまくる。熱中症は一回なったら終わり。.md",
     "Notes/Inbox/ワンハンドローの正しいフォーム.md",
     "Notes/Index/メンタルヘルス/メンタルヘルス.md",
