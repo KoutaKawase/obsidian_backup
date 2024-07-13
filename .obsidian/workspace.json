@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "68de87fd4871e504",
+        "id": "8764c9e2878fdea2",
         "type": "tabs",
         "children": [
           {
-            "id": "f8f9d3d9dca260b7",
+            "id": "5f91674a6140288e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/熱中症は食事(特に朝食)を抜くとリスクが上がりまくる。熱中症は一回なったら終わり。.md",
+                "file": "不平不満な性格は苦しみしか生まない。安月給や少ない食事でも自分は何もしてないのに多くを得ようとしない。必要最小限で満足すれば多くのことが有り難く感じる。.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "71e4d276f0bdb9d8",
+            "id": "7f8eb9278fda7210",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/熱中症は暑くて細胞が茹でられるという話ではなく、大量の汗で体内の塩分と水分のバランスが崩れる事。塩分糖分水分をとにかく摂る。でも頭も冷やす。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "676ada008f75000d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/仏教/読むべき本.md",
+                "file": "Notes/Index/メンタルヘルス/メンタルヘルス.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "k",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/仏教/読むべき本.md",
+                "file": "Notes/Index/メンタルヘルス/メンタルヘルス.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/仏教/読むべき本.md",
+                "file": "Notes/Index/メンタルヘルス/メンタルヘルス.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/仏教/読むべき本.md"
+                "file": "Notes/Index/メンタルヘルス/メンタルヘルス.md"
               }
             }
           }
@@ -173,13 +160,17 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "e802643ddfeb5eab",
+  "active": "7f8eb9278fda7210",
   "lastOpenFiles": [
+    "不平不満な性格は苦しみしか生まない。安月給や少ない食事でも自分は何もしてないのに多くを得ようとしない。必要最小限で満足すれば多くのことが有り難く感じる。.md",
+    "Notes/Index/メンタルヘルス/メンタルヘルス.md",
+    "幸福は「自分が何を与えらるか」が軸。何かをもらうことで幸せにはなれない。能力お金労力なんでもいい。誰でもではなく必要な人にがポイント。得るものは適量に。この逆、つまりtakeばかりすると幸せは遠ざかる。.md",
+    "仏教は「最大限与え、得るものは最低限で満足する」事を勧めている。足りを知る事が大事。得る物はいわゆる欲なので限度がない。ほしいものが得られないから苦しむ。最低限で生きていればオマケに喜びを感じられる。.md",
+    "Notes/Index/仏教/読むべき本.md",
     "Notes/Inbox/仏教が目指す捨てるべき欲は五感の快楽、他者の期待、未来の結果や希望である。つまり苦しみを生み出すもの。あってもいいのは「意欲」。「欲」も溺れすぎずほどほどに楽しむ分にはわるくない.md",
     "Notes/Inbox/熱中症は暑くて細胞が茹でられるという話ではなく、大量の汗で体内の塩分と水分のバランスが崩れる事。塩分糖分水分をとにかく摂る。でも頭も冷やす。.md",
     "Notes/Inbox/熱中症は食事(特に朝食)を抜くとリスクが上がりまくる。熱中症は一回なったら終わり。.md",
     "Notes/Inbox/ワンハンドローの正しいフォーム.md",
-    "Notes/Index/メンタルヘルス/メンタルヘルス.md",
     "Notes/Index/プログラミング/Laravel.md",
     "Notes/Index/仕事/index.md",
     "Notes/Index/仏教/index.md",
@@ -197,10 +188,6 @@
     "Notes/Inbox/ヴィパッサナーというのは瞬間瞬間をしっかり気づき確認すること。それで妄想を止まらせない。.md",
     "Notes/Inbox/食べ物が「美味しい」「まずい」というのは食べ物自体ではなく人の妄想。欲や怒り。.md",
     "Notes/Inbox/智慧とは考えず常に瞬間瞬間を観察すること。智慧は問題が起こっても感情に振り回されない。食べる時も「おいしい」など考えずよく味わい観察する。.md",
-    "Notes/Inbox/世の人間はほとんど利得や名誉賞賛や楽に舞い上がり驕り、損失や不名誉非難や苦に打ちひしがれる。賢者はこれら八世間法に踊らされずありのままにいる。つまり浮き沈みに心を動かさない。.md",
-    "Notes/Inbox/目に入った人や通りすがりの人達の幸せを願う事は自分をいい気分にする。.md",
-    "Notes/Index/仏教/読むべき本.md",
-    "Notes/Inbox/セルフハグはストレスを軽減できる。.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
