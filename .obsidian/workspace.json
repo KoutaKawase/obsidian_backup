@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/メンタルヘルス/メンタルヘルス.md",
+                "file": "Notes/Index/金融.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "054779b88c80c4d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/お金はクレカやPayサービスだと使いすぎてしまう傾向がある。現金がおすすめ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/メンタルヘルス/メンタルヘルス.md",
+                "file": "Notes/Inbox/お金はクレカやPayサービスだと使いすぎてしまう傾向がある。現金がおすすめ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/メンタルヘルス/メンタルヘルス.md",
+                "file": "Notes/Inbox/お金はクレカやPayサービスだと使いすぎてしまう傾向がある。現金がおすすめ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/メンタルヘルス/メンタルヘルス.md"
+                "file": "Notes/Inbox/お金はクレカやPayサービスだと使いすぎてしまう傾向がある。現金がおすすめ.md"
               }
             }
           }
@@ -160,10 +172,12 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "7f8eb9278fda7210",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "不平不満な性格は苦しみしか生まない。安月給や少ない食事でも自分は何もしてないのに多くを得ようとしない。必要最小限で満足すれば多くのことが有り難く感じる。.md",
+    "Notes/Index/金融.md",
+    "Notes/Inbox/お金はクレカやPayサービスだと使いすぎてしまう傾向がある。現金がおすすめ.md",
     "Notes/Index/メンタルヘルス/メンタルヘルス.md",
+    "不平不満な性格は苦しみしか生まない。安月給や少ない食事でも自分は何もしてないのに多くを得ようとしない。必要最小限で満足すれば多くのことが有り難く感じる。.md",
     "幸福は「自分が何を与えらるか」が軸。何かをもらうことで幸せにはなれない。能力お金労力なんでもいい。誰でもではなく必要な人にがポイント。得るものは適量に。この逆、つまりtakeばかりすると幸せは遠ざかる。.md",
     "仏教は「最大限与え、得るものは最低限で満足する」事を勧めている。足りを知る事が大事。得る物はいわゆる欲なので限度がない。ほしいものが得られないから苦しむ。最低限で生きていればオマケに喜びを感じられる。.md",
     "Notes/Index/仏教/読むべき本.md",
@@ -186,8 +200,6 @@
     "Notes/Inbox/規律ある生活を伴わねば瞑想をいくらしても智慧(ありのままの気づき)はつかない。五戒を護る。快楽に溺れない。嘘を言わない。道徳的に生きる。.md",
     "Notes/Inbox/１部位2種目やると部位をしっかり追い込める.md",
     "Notes/Inbox/ヴィパッサナーというのは瞬間瞬間をしっかり気づき確認すること。それで妄想を止まらせない。.md",
-    "Notes/Inbox/食べ物が「美味しい」「まずい」というのは食べ物自体ではなく人の妄想。欲や怒り。.md",
-    "Notes/Inbox/智慧とは考えず常に瞬間瞬間を観察すること。智慧は問題が起こっても感情に振り回されない。食べる時も「おいしい」など考えずよく味わい観察する。.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
