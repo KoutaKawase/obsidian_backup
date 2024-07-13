@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "34a989ae07576a28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/合わない人は無理に付き合う必要はない。態度を悪く接するのではなくあくまでフラットに。最低限でいい。嫌いでも親切はできる。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/お金はクレカやPayサービスだと使いすぎてしまう傾向がある。現金がおすすめ.md",
+                "file": "Notes/Inbox/合わない人は無理に付き合う必要はない。態度を悪く接するのではなくあくまでフラットに。最低限でいい。嫌いでも親切はできる。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/お金はクレカやPayサービスだと使いすぎてしまう傾向がある。現金がおすすめ.md",
+                "file": "Notes/Inbox/合わない人は無理に付き合う必要はない。態度を悪く接するのではなくあくまでフラットに。最低限でいい。嫌いでも親切はできる。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/お金はクレカやPayサービスだと使いすぎてしまう傾向がある。現金がおすすめ.md"
+                "file": "Notes/Inbox/合わない人は無理に付き合う必要はない。態度を悪く接するのではなくあくまでフラットに。最低限でいい。嫌いでも親切はできる。.md"
               }
             }
           }
@@ -174,8 +186,9 @@
   },
   "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "Notes/Index/金融.md",
     "Notes/Inbox/お金はクレカやPayサービスだと使いすぎてしまう傾向がある。現金がおすすめ.md",
+    "Notes/Inbox/合わない人は無理に付き合う必要はない。態度を悪く接するのではなくあくまでフラットに。最低限でいい。嫌いでも親切はできる。.md",
+    "Notes/Index/金融.md",
     "Notes/Index/メンタルヘルス/メンタルヘルス.md",
     "不平不満な性格は苦しみしか生まない。安月給や少ない食事でも自分は何もしてないのに多くを得ようとしない。必要最小限で満足すれば多くのことが有り難く感じる。.md",
     "幸福は「自分が何を与えらるか」が軸。何かをもらうことで幸せにはなれない。能力お金労力なんでもいい。誰でもではなく必要な人にがポイント。得るものは適量に。この逆、つまりtakeばかりすると幸せは遠ざかる。.md",
@@ -199,7 +212,6 @@
     "Notes/Inbox/人間関係が苦しいのは皆道徳も戒律もないから。戒律があり性格が良い人と付き合いなさい。自分も道徳的でないと道徳的な人は寄ってこない。戒律を守ること。.md",
     "Notes/Inbox/規律ある生活を伴わねば瞑想をいくらしても智慧(ありのままの気づき)はつかない。五戒を護る。快楽に溺れない。嘘を言わない。道徳的に生きる。.md",
     "Notes/Inbox/１部位2種目やると部位をしっかり追い込める.md",
-    "Notes/Inbox/ヴィパッサナーというのは瞬間瞬間をしっかり気づき確認すること。それで妄想を止まらせない。.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
