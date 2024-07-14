@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "04bbb82c6f114866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "腕立て伏せはトップで肩甲骨をしっかり開いて前鋸筋も鍛える。骨盤はしっかり後傾させ腹筋に力を入れる。.md",
+                "file": "無題のファイル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "腕立て伏せはトップで肩甲骨をしっかり開いて前鋸筋も鍛える。骨盤はしっかり後傾させ腹筋に力を入れる。.md",
+                "file": "無題のファイル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "腕立て伏せはトップで肩甲骨をしっかり開いて前鋸筋も鍛える。骨盤はしっかり後傾させ腹筋に力を入れる。.md"
+                "file": "無題のファイル.md"
               }
             }
           }
@@ -208,10 +220,11 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "c5b2b818d8906b16",
+  "active": "04bbb82c6f114866",
   "lastOpenFiles": [
-    "Notes/Index/運動.md",
     "腕立て伏せはトップで肩甲骨をしっかり開いて前鋸筋も鍛える。骨盤はしっかり後傾させ腹筋に力を入れる。.md",
+    "無題のファイル.md",
+    "Notes/Index/運動.md",
     "Notes/Inbox/合わない人は無理に付き合う必要はない。態度を悪く接するのではなくあくまでフラットに。最低限でいい。嫌いでも親切はできる。.md",
     "Notes/Inbox/お金はクレカやPayサービスだと使いすぎてしまう傾向がある。現金がおすすめ.md",
     "Notes/Index/金融.md",
@@ -235,7 +248,6 @@
     "Notes/Inbox/嫌いな人に「嫌いだ」と表面的に出すのは自分も怒り不幸になる。嫌いでも行動では親切しておくほうが得。.md",
     "Notes/Inbox/智慧ある生き方とは良い事悪い事に舞い上がらず落ち着き、今やるべき行動をし続ける事。うまくいかない、不幸でも落ち着いて忍耐する。.md",
     "Notes/Inbox/我慢は嫌なことを強引に押さえつけること。忍耐は幸福な時でも不幸な時でも心を振り回されず落ち着いて耐え抜くこと。お釈迦さまはこれが必要だと言っている。.md",
-    "Notes/Inbox/人間関係が苦しいのは皆道徳も戒律もないから。戒律があり性格が良い人と付き合いなさい。自分も道徳的でないと道徳的な人は寄ってこない。戒律を守ること。.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
