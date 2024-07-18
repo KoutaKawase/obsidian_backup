@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/怒る時は必ず「我」がある。「自我」の希望がなければ怒らない。他人は思い通りにできない。自我は必ず失敗する。.md",
+                "file": "Notes/Index/勉強/英語/本.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9dba1231ec71331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "コアイメージは役に立たない。あくまで感覚を身につける程度にとどめておく。実際の使用方法は1つ1つ経験して覚えていくしかない。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "思い通りにできな",
+                "query": "伝わる英語",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/怒る時は必ず「我」がある。「自我」の希望がなければ怒らない。他人は思い通りにできない。自我は必ず失敗する。.md",
+                "file": "コアイメージは役に立たない。あくまで感覚を身につける程度にとどめておく。実際の使用方法は1つ1つ経験して覚えていくしかない。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/怒る時は必ず「我」がある。「自我」の希望がなければ怒らない。他人は思い通りにできない。自我は必ず失敗する。.md",
+                "file": "コアイメージは役に立たない。あくまで感覚を身につける程度にとどめておく。実際の使用方法は1つ1つ経験して覚えていくしかない。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/怒る時は必ず「我」がある。「自我」の希望がなければ怒らない。他人は思い通りにできない。自我は必ず失敗する。.md"
+                "file": "コアイメージは役に立たない。あくまで感覚を身につける程度にとどめておく。実際の使用方法は1つ1つ経験して覚えていくしかない。.md"
               }
             }
           }
@@ -148,8 +160,15 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "982f37fcad8a2602",
+  "active": "d9dba1231ec71331",
   "lastOpenFiles": [
+    "Notes/Index/勉強/英語/本.md",
+    "コアイメージは役に立たない。あくまで感覚を身につける程度にとどめておく。実際の使用方法は1つ1つ経験して覚えていくしかない。.md",
+    "Notes/Index/勉強/英語/moc.md",
+    "Notes/Index/勉強/英語",
+    "Notes/Inbox/Speakingはシャドーイングが最重要。歩きながら、背筋、大きな声でクリアに。細かいセッションに分け日に複数やる.md",
+    "Notes/Inbox/英語で伝えるには和文和訳で簡単な英語を意識する.md",
+    "Notes/Inbox/怒る時は必ず「我」がある。「自我」の希望がなければ怒らない。他人は思い通りにできない。自我は必ず失敗する。.md",
     "Notes/Inbox/他人は思い通りにできない。他人のしたことしなかったことに目を向けず自分のなすべきことだけ集中する。課題の分離。自分が操作できないことは無駄な時間。他人は宇宙人。.md",
     "Notes/Inbox/幸せになるのを妨げるのは自分。見返りを求めず施しをする。死ぬ時は一人であり墓の大きさは同じ。謙虚に生きる.md",
     "不平不満な性格は苦しみしか生まない。安月給や少ない食事でも自分は何もしてないのに多くを得ようとしない。必要最小限で満足すれば多くのことが有り難く感じる。.md",
@@ -170,12 +189,6 @@
     "Notes/Index/プログラミング/Laravel.md",
     "Notes/Index/仕事/index.md",
     "Notes/Index/仏教/index.md",
-    "Notes/Inbox/仕事においても智慧は大事。私情の好き嫌い等を判断に使用しないのが智慧ある人。嫌いだからあの人に仕事を振ろうとかそういう道徳的でなく妄想に囚われた事をしない。最も会社にとって良い客観的な判断をする。.md",
-    "Notes/Inbox/利己的な感情より会社への貢献を意識する。自分の感情は置いておいて仕事に一番大事なことを淡々とやる。.md",
-    "Notes/Inbox/嫌いな人こそ親切にすべき。相手を考え怒り不幸なのは自分が原因。感情は置き行動として親切にする。.md",
-    "Notes/Inbox/良い挨拶は先手必勝 高めの声と笑顔　姿勢。挨拶はやり得。人間関係はデフォで敵.md",
-    "Notes/Inbox/嫌なことをする相手に怒らないで対応するかどうかは自分の問題。害する相手を許す、逆に助けてあげるのが仏教。.md",
-    "Notes/Inbox/嫌いな人に「嫌いだ」と表面的に出すのは自分も怒り不幸になる。嫌いでも行動では親切しておくほうが得。.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
@@ -194,7 +207,6 @@
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
     "Notes/Index/勉強/数学",
-    "Notes/Index/仏教",
-    "Notes/Index/瞑想(マインドフルネス)"
+    "Notes/Index/仏教"
   ]
 }
