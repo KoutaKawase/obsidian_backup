@@ -1,7 +1,7 @@
 ---
 tags:
   - 英語
-  - 語学/スピーキング
+  - 英語/スピーキング
   - 英語/英単語
 ---
 [世界では常識？日常英会話の90％以上は、OXFORD 3000単語だけで十分な理由 - MULTILINGIRL♫](https://www.multilingirl.com/2014/12/blog-post_75.html)

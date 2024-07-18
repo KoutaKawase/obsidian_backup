@@ -1,7 +1,7 @@
 ---
 tags:
   - 英語
-  - 語学/スピーキング
+  - 英語/スピーキング
   - 勉強/アクティブラーニング
 ---
 [Site Unreachable](https://yuchrszk.blogspot.com/2017/11/50.html)
