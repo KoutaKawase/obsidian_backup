@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8764c9e2878fdea2",
+        "id": "f690310f0866ce6e",
         "type": "tabs",
         "children": [
           {
-            "id": "5f91674a6140288e",
+            "id": "982f37fcad8a2602",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "不平不満な性格は苦しみしか生まない。安月給や少ない食事でも自分は何もしてないのに多くを得ようとしない。必要最小限で満足すれば多くのことが有り難く感じる。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f8eb9278fda7210",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/金融.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "054779b88c80c4d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/お金はクレカやPayサービスだと使いすぎてしまう傾向がある。現金がおすすめ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34a989ae07576a28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/合わない人は無理に付き合う必要はない。態度を悪く接するのではなくあくまでフラットに。最低限でいい。嫌いでも親切はできる。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5131d7793d0bdd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "腕立て伏せはトップで肩甲骨をしっかり開いて前鋸筋も鍛える。骨盤はしっかり後傾させ腹筋に力を入れる。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5b2b818d8906b16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "腕立て伏せはトップで肩甲骨をしっかり開いて前鋸筋も鍛える。骨盤はしっかり後傾させ腹筋に力を入れる。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04bbb82c6f114866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/幸せになるのを妨げるのは自分。見返りを求めず施しをする。死ぬ時は一人であり墓の大きさは同じ。謙虚に生きる.md",
+                "file": "Notes/Inbox/怒る時は必ず「我」がある。「自我」の希望がなければ怒らない。他人は思い通りにできない。自我は必ず失敗する。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "キアヌ",
+                "query": "思い通りにできな",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/幸せになるのを妨げるのは自分。見返りを求めず施しをする。死ぬ時は一人であり墓の大きさは同じ。謙虚に生きる.md",
+                "file": "Notes/Inbox/怒る時は必ず「我」がある。「自我」の希望がなければ怒らない。他人は思い通りにできない。自我は必ず失敗する。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/幸せになるのを妨げるのは自分。見返りを求めず施しをする。死ぬ時は一人であり墓の大きさは同じ。謙虚に生きる.md",
+                "file": "Notes/Inbox/怒る時は必ず「我」がある。「自我」の希望がなければ怒らない。他人は思い通りにできない。自我は必ず失敗する。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/幸せになるのを妨げるのは自分。見返りを求めず施しをする。死ぬ時は一人であり墓の大きさは同じ。謙虚に生きる.md"
+                "file": "Notes/Inbox/怒る時は必ず「我」がある。「自我」の希望がなければ怒らない。他人は思い通りにできない。自我は必ず失敗する。.md"
               }
             }
           }
@@ -221,8 +148,10 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "04bbb82c6f114866",
+  "active": "982f37fcad8a2602",
   "lastOpenFiles": [
+    "Notes/Inbox/他人は思い通りにできない。他人のしたことしなかったことに目を向けず自分のなすべきことだけ集中する。課題の分離。自分が操作できないことは無駄な時間。他人は宇宙人。.md",
+    "Notes/Inbox/幸せになるのを妨げるのは自分。見返りを求めず施しをする。死ぬ時は一人であり墓の大きさは同じ。謙虚に生きる.md",
     "不平不満な性格は苦しみしか生まない。安月給や少ない食事でも自分は何もしてないのに多くを得ようとしない。必要最小限で満足すれば多くのことが有り難く感じる。.md",
     "腕立て伏せはトップで肩甲骨をしっかり開いて前鋸筋も鍛える。骨盤はしっかり後傾させ腹筋に力を入れる。.md",
     "Notes/Inbox/幸福は物質的な所には存在しない。貧しい人は欲に限りがなく満足しない人。貪欲。少欲知足。足るを知る。.md",
@@ -231,7 +160,7 @@
     "Notes/Inbox/お金はクレカやPayサービスだと使いすぎてしまう傾向がある。現金がおすすめ.md",
     "Notes/Index/金融.md",
     "Notes/Index/メンタルヘルス/メンタルヘルス.md",
-    "幸福は「自分が何を与えらるか」が軸。何かをもらうことで幸せにはなれない。能力お金労力なんでもいい。誰でもではなく必要な人にがポイント。得るものは適量に。この逆、つまりtakeばかりすると幸せは遠ざかる。.md",
+    "Notes/Inbox/幸福は「自分が何を与えらるか」が軸。何かをもらうことで幸せにはなれない。能力お金労力なんでもいい。誰でもではなく必要な人にがポイント。得るものは適量に。この逆、つまりtakeばかりすると幸せは遠ざかる。.md",
     "仏教は「最大限与え、得るものは最低限で満足する」事を勧めている。足りを知る事が大事。得る物はいわゆる欲なので限度がない。ほしいものが得られないから苦しむ。最低限で生きていればオマケに喜びを感じられる。.md",
     "Notes/Index/仏教/読むべき本.md",
     "Notes/Inbox/仏教が目指す捨てるべき欲は五感の快楽、他者の期待、未来の結果や希望である。つまり苦しみを生み出すもの。あってもいいのは「意欲」。「欲」も溺れすぎずほどほどに楽しむ分にはわるくない.md",
@@ -247,8 +176,6 @@
     "Notes/Inbox/良い挨拶は先手必勝 高めの声と笑顔　姿勢。挨拶はやり得。人間関係はデフォで敵.md",
     "Notes/Inbox/嫌なことをする相手に怒らないで対応するかどうかは自分の問題。害する相手を許す、逆に助けてあげるのが仏教。.md",
     "Notes/Inbox/嫌いな人に「嫌いだ」と表面的に出すのは自分も怒り不幸になる。嫌いでも行動では親切しておくほうが得。.md",
-    "Notes/Inbox/智慧ある生き方とは良い事悪い事に舞い上がらず落ち着き、今やるべき行動をし続ける事。うまくいかない、不幸でも落ち着いて忍耐する。.md",
-    "Notes/Inbox/我慢は嫌なことを強引に押さえつけること。忍耐は幸福な時でも不幸な時でも心を振り回されず落ち着いて耐え抜くこと。お釈迦さまはこれが必要だと言っている。.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
