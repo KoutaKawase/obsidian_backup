@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "bbd907c03e305a57",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "727318d2d4fa5638",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,7 +182,7 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "1221140d242435a9",
+  "active": "bbd907c03e305a57",
   "lastOpenFiles": [
     "Notes/Index/勉強/英語/moc.md",
     "短い勉強時間でも質を高めるには中途半端、ミニテスト、二つ以上の動作、を取り入れる。.md",
