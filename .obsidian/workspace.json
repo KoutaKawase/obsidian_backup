@@ -42,6 +42,18 @@
             }
           },
           {
+            "id": "831601f7acde112a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/運動.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "727318d2d4fa5638",
             "type": "leaf",
             "state": {
@@ -54,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "短い勉強時間でも質を高めるには中途半端、ミニテスト、二つ以上の動作、を取り入れる。.md",
+                "file": "Notes/Index/運動.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "短い勉強時間でも質を高めるには中途半端、ミニテスト、二つ以上の動作、を取り入れる。.md",
+                "file": "Notes/Index/運動.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "短い勉強時間でも質を高めるには中途半端、ミニテスト、二つ以上の動作、を取り入れる。.md"
+                "file": "Notes/Index/運動.md"
               }
             }
           }
@@ -182,8 +194,9 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "bbd907c03e305a57",
+  "active": "831601f7acde112a",
   "lastOpenFiles": [
+    "Notes/Inbox/懸垂は広背筋以外に二頭筋や腹筋、脊柱起立筋の保持が大事。お腹と背中の安定を意識する。頭を少し後ろに引くと脊柱起立筋が意識しやすい。.md",
     "Notes/Index/勉強/英語/moc.md",
     "短い勉強時間でも質を高めるには中途半端、ミニテスト、二つ以上の動作、を取り入れる。.md",
     "日本人にとって学ぶべきは非ネイティブのシンプルな単語と文法に乗っ取った英語。発音を意識しすぎないこと。.md",
@@ -196,7 +209,7 @@
     "Notes/Inbox/他人は思い通りにできない。他人のしたことしなかったことに目を向けず自分のなすべきことだけ集中する。課題の分離。自分が操作できないことは無駄な時間。他人は宇宙人。.md",
     "Notes/Inbox/幸せになるのを妨げるのは自分。見返りを求めず施しをする。死ぬ時は一人であり墓の大きさは同じ。謙虚に生きる.md",
     "不平不満な性格は苦しみしか生まない。安月給や少ない食事でも自分は何もしてないのに多くを得ようとしない。必要最小限で満足すれば多くのことが有り難く感じる。.md",
-    "腕立て伏せはトップで肩甲骨をしっかり開いて前鋸筋も鍛える。骨盤はしっかり後傾させ腹筋に力を入れる。.md",
+    "Notes/Inbox/腕立て伏せはトップで肩甲骨をしっかり開いて前鋸筋も鍛える。骨盤はしっかり後傾させ腹筋に力を入れる。.md",
     "Notes/Inbox/幸福は物質的な所には存在しない。貧しい人は欲に限りがなく満足しない人。貪欲。少欲知足。足るを知る。.md",
     "Notes/Index/運動.md",
     "Notes/Inbox/合わない人は無理に付き合う必要はない。態度を悪く接するのではなくあくまでフラットに。最低限でいい。嫌いでも親切はできる。.md",
@@ -210,7 +223,6 @@
     "Notes/Inbox/熱中症は暑くて細胞が茹でられるという話ではなく、大量の汗で体内の塩分と水分のバランスが崩れる事。塩分糖分水分をとにかく摂る。でも頭も冷やす。.md",
     "Notes/Inbox/熱中症は食事(特に朝食)を抜くとリスクが上がりまくる。熱中症は一回なったら終わり。.md",
     "Notes/Inbox/ワンハンドローの正しいフォーム.md",
-    "Notes/Index/プログラミング/Laravel.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
