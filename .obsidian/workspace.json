@@ -78,6 +78,30 @@
             }
           },
           {
+            "id": "d592154dff59ac2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/運動.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03f26234ac1f22ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "腕立て伏せはちゃんと肩甲骨を開き切って支える位置まで意識する。肩で押し込んだ姿勢をスキャプラープッシュアップで練習.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "727318d2d4fa5638",
             "type": "leaf",
             "state": {
@@ -90,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -156,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/運動.md",
+                "file": "腕立て伏せはちゃんと肩甲骨を開き切って支える位置まで意識する。肩で押し込んだ姿勢をスキャプラープッシュアップで練習.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/運動.md",
+                "file": "腕立て伏せはちゃんと肩甲骨を開き切って支える位置まで意識する。肩で押し込んだ姿勢をスキャプラープッシュアップで練習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/運動.md"
+                "file": "腕立て伏せはちゃんと肩甲骨を開き切って支える位置まで意識する。肩で押し込んだ姿勢をスキャプラープッシュアップで練習.md"
               }
             }
           }
@@ -218,12 +242,14 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "3325a09006dc7d1c",
+  "active": "03f26234ac1f22ee",
   "lastOpenFiles": [
+    "Notes/Index/運動.md",
+    "腕立て伏せはちゃんと肩甲骨を開き切って支える位置まで意識する。肩で押し込んだ姿勢をスキャプラープッシュアップで練習.md",
+    "Notes/Inbox/スキャプラープルはしっかり肩を最大限下げられる位置まで負荷を下げる。そこから上げないと懸垂の効果が低い。.md",
     "Notes/Inbox/腕立て伏せは負荷に慣れて速くしがちだが、2.5secかけて上げ下げすると一番胸の活動が強くなる。.md",
     "スピーキングは5歳でもわかる日本語を意識して意味を変える。玉の輿にのる->お金持ちを結婚した。難しい表現を使おうとしない。.md",
     "Notes/Index/勉強/英語/本.md",
-    "Notes/Index/運動.md",
     "Notes/Inbox/懸垂は広背筋以外に二頭筋や腹筋、脊柱起立筋の保持が大事。お腹と背中の安定を意識する。頭を少し後ろに引くと脊柱起立筋が意識しやすい。.md",
     "Notes/Index/勉強/英語/moc.md",
     "短い勉強時間でも質を高めるには中途半端、ミニテスト、二つ以上の動作、を取り入れる。.md",
@@ -245,8 +271,6 @@
     "Notes/Inbox/幸福は「自分が何を与えらるか」が軸。何かをもらうことで幸せにはなれない。能力お金労力なんでもいい。誰でもではなく必要な人にがポイント。得るものは適量に。この逆、つまりtakeばかりすると幸せは遠ざかる。.md",
     "仏教は「最大限与え、得るものは最低限で満足する」事を勧めている。足りを知る事が大事。得る物はいわゆる欲なので限度がない。ほしいものが得られないから苦しむ。最低限で生きていればオマケに喜びを感じられる。.md",
     "Notes/Index/仏教/読むべき本.md",
-    "Notes/Inbox/仏教が目指す捨てるべき欲は五感の快楽、他者の期待、未来の結果や希望である。つまり苦しみを生み出すもの。あってもいいのは「意欲」。「欲」も溺れすぎずほどほどに楽しむ分にはわるくない.md",
-    "Notes/Inbox/熱中症は暑くて細胞が茹でられるという話ではなく、大量の汗で体内の塩分と水分のバランスが崩れる事。塩分糖分水分をとにかく摂る。でも頭も冷やす。.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
