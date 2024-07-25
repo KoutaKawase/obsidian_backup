@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ddd6af7f70ffd32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "勉強の効果をあげるには勉強を減らしてでも日々の運動を大事にする。筋トレとウォーキングがいい。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "懸垂は肩関節の内転の動きが大事。正しく内転できていればバーの下付近から肘は動かない。肘から上は固定されてるイメージ。.md",
+                "file": "勉強の効果をあげるには勉強を減らしてでも日々の運動を大事にする。筋トレとウォーキングがいい。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "懸垂は肩関節の内転の動きが大事。正しく内転できていればバーの下付近から肘は動かない。肘から上は固定されてるイメージ。.md",
+                "file": "勉強の効果をあげるには勉強を減らしてでも日々の運動を大事にする。筋トレとウォーキングがいい。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "懸垂は肩関節の内転の動きが大事。正しく内転できていればバーの下付近から肘は動かない。肘から上は固定されてるイメージ。.md"
+                "file": "勉強の効果をあげるには勉強を減らしてでも日々の運動を大事にする。筋トレとウォーキングがいい。.md"
               }
             }
           }
@@ -160,10 +172,10 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "4a672da0843ccebb",
+  "active": "9ddd6af7f70ffd32",
   "lastOpenFiles": [
-    "無題のファイル.md",
     "懸垂は肩関節の内転の動きが大事。正しく内転できていればバーの下付近から肘は動かない。肘から上は固定されてるイメージ。.md",
+    "勉強の効果をあげるには勉強を減らしてでも日々の運動を大事にする。筋トレとウォーキングがいい。.md",
     "懸垂の時は肩関節をしっかり後傾させ続ける。肘を絞るというより肩だけをしっかり後ろに引いて下げる(肩の外旋)。.md",
     "Notes/Index/勉強/英語/moc.md",
     "Notes/Inbox/腕立て伏せはちゃんと肩甲骨を開き切って支える位置まで意識する。肩で押し込んだ姿勢をスキャプラープッシュアップで練習.md",
