@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0895f48990c75204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "無題のファイル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "無題のファイル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "瞑想をよりよくするには、日常の中の瞑想を増やす、.md"
+                "file": "無題のファイル.md"
               }
             }
           }
@@ -170,13 +184,14 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "0895f48990c75204",
   "lastOpenFiles": [
+    "懸垂の時は肩関節をしっかり後傾させ続ける。肘を絞るというより肩だけをしっかり後ろに引いて下げる(肩の外旋)。.md",
+    "無題のファイル.md",
     "無題のファイル 1.md",
     "瞑想をよりよくするには、日常の中の瞑想を増やす、.md",
     "Notes/Inbox/勉強の効果をあげるには勉強を減らしてでも日々の運動を大事にする。筋トレとウォーキングがいい。.md",
     "懸垂は肩関節の内転の動きが大事。正しく内転できていればバーの下付近から肘は動かない。肘から上は固定されてるイメージ。.md",
-    "懸垂の時は肩関節をしっかり後傾させ続ける。肘を絞るというより肩だけをしっかり後ろに引いて下げる(肩の外旋)。.md",
     "Notes/Index/勉強/英語/moc.md",
     "Notes/Inbox/腕立て伏せはちゃんと肩甲骨を開き切って支える位置まで意識する。肩で押し込んだ姿勢をスキャプラープッシュアップで練習.md",
     "Notes/Index/運動.md",
@@ -198,7 +213,6 @@
     "Notes/Inbox/腕立て伏せはトップで肩甲骨をしっかり開いて前鋸筋も鍛える。骨盤はしっかり後傾させ腹筋に力を入れる。.md",
     "Notes/Inbox/幸福は物質的な所には存在しない。貧しい人は欲に限りがなく満足しない人。貪欲。少欲知足。足るを知る。.md",
     "Notes/Inbox/合わない人は無理に付き合う必要はない。態度を悪く接するのではなくあくまでフラットに。最低限でいい。嫌いでも親切はできる。.md",
-    "Notes/Inbox/お金はクレカやPayサービスだと使いすぎてしまう傾向がある。現金がおすすめ.md",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
     "無題のフォルダ 1",
