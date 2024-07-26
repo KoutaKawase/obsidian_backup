@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#健康",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,7 +197,7 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "934a9b84c7c4ea2e",
+  "active": "e802643ddfeb5eab",
   "lastOpenFiles": [
     "懸垂の時は肩関節をしっかり後傾させ続ける。肘を絞るというより肩だけをしっかり後ろに引いて下げる(肩の外旋)。.md",
     "頭の中のおしゃべりや怒りは「私は」などではなく、「彼は」など他人視点を意識する。自分を友人だと考えて想像する。.md",
