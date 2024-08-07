@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c417e345ce79144",
+            "id": "c25ebd67a3679ccd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/ゆっくり多く噛むことで食後のエネルギー消費量が増えるため減量に有効。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f2603a3f37322f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/人を助ける時は見返りを求めない。執着しないで助ける。相手が幸福になって喜ぶ。助けたらあとはすぐに立ち去る。相手の負担になってはだめ。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7cfe48187885721",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/妄想するなかれ。人生を楽しむコツは他人、世間と比較しないこと。不安は妄想。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17dca6ad4e098822",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/人間関係はノンデリメンヘライキリ攻撃的はNG。悪口愚痴を言わない。沈黙は金。口は災いの元。他人に期待しない。他人はコントロールできない。善口.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8afd23ce3096daba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "プログラミング.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea902c7658b959c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/勉強/学習の作法.md",
+                "file": "Notes/Inbox/角度θ, (単位時間あたりの進む度合い)速度vで弾とかを出したいならx += v * cos(θ) y += v*sin(θ).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/勉強/学習の作法.md",
+                "file": "Notes/Inbox/角度θ, (単位時間あたりの進む度合い)速度vで弾とかを出したいならx += v * cos(θ) y += v*sin(θ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/勉強/学習の作法.md",
+                "file": "Notes/Inbox/角度θ, (単位時間あたりの進む度合い)速度vで弾とかを出したいならx += v * cos(θ) y += v*sin(θ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/勉強/学習の作法.md"
+                "file": "Notes/Inbox/角度θ, (単位時間あたりの進む度合い)速度vで弾とかを出したいならx += v * cos(θ) y += v*sin(θ).md"
               }
             }
           }
@@ -209,11 +148,13 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "ea902c7658b959c4",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
+    "Notes/Index/プログラミング/プログラミング.md",
+    "Notes/Inbox/角度θ, (単位時間あたりの進む度合い)速度vで弾とかを出したいならx += v * cos(θ) y += v*sin(θ).md",
+    "Notes/Index/勉強/学習の作法.md",
     "Notes/Index/勉強/資格.md",
-    "勉強を始めるには「合図」と「セリフ」で条件反射を利用する。「手を叩く」など。.md",
-    "プログラミング.md",
+    "Notes/Inbox/勉強を始めるには「合図」と「セリフ」で条件反射を利用する。「手を叩く」など。.md",
     "Notes/Inbox/スクレイピングするならこれを見る。.md",
     "Notes/Inbox/ゆっくり多く噛むことで食後のエネルギー消費量が増えるため減量に有効。.md",
     "Notes/Inbox/妄想するなかれ。人生を楽しむコツは他人、世間と比較しないこと。不安は妄想。.md",
@@ -232,11 +173,9 @@
     "Notes/Inbox/無常、無我に逆らう事が苦しみを生む。無常に言わせれば不幸は主観的な見方で愚かな見方。無常無我に反する期待をしない。家がなくなったりお金がなくなったり病気になったり、苦しむのは無常に反している。.md",
     "Notes/Inbox/人は誰しも認めてもらいたいアピールしたい自己主張したいという\"欲\"がある。これは我が存在し苦しみの元になる。心に空洞がある人ほど承認欲求が強い。.md",
     "頭の中のおしゃべりや怒りは「私は」などではなく、「彼は」など他人視点を意識する。自分を友人だと考えて想像する。.md",
-    "懸垂の時は肩関節をしっかり後傾させ続ける。肘を絞るというより肩だけをしっかり後ろに引いて下げる(肩の外旋)。.md",
+    "Notes/Inbox/懸垂の時は肩関節をしっかり後傾させ続ける。肘を絞るというより肩だけをしっかり後ろに引いて下げる(肩の外旋)。.md",
     "Notes/Inbox/懸垂はバーを折り曲げるように上げていくイメージ。それをスキャプラープルで練習する。肘は曲げない。手は猫の手グリップ　指が見えないように.md",
     "瞑想をよりよくするには、日常の中の瞑想を増やす、.md",
-    "Notes/Inbox/勉強の効果をあげるには勉強を減らしてでも日々の運動を大事にする。筋トレとウォーキングがいい。.md",
-    "Notes/Inbox/懸垂は肩関節の内転の動きが大事。正しく内転できていればバーの下付近から肘は動かない。肘から上は固定されてるイメージ。.md",
     "Notes/Index/勉強/英語",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
