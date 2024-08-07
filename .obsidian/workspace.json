@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "73978500f9a2053e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/腸内環境はやる気や思考に影響する。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5503ee829db45711",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inbox/角度θ, (単位時間あたりの進む度合い)速度vで弾とかを出したいならx += v * cos(θ) y += v*sin(θ).md",
+                "file": "無題のファイル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inbox/角度θ, (単位時間あたりの進む度合い)速度vで弾とかを出したいならx += v * cos(θ) y += v*sin(θ).md",
+                "file": "無題のファイル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Inbox/角度θ, (単位時間あたりの進む度合い)速度vで弾とかを出したいならx += v * cos(θ) y += v*sin(θ).md"
+                "file": "無題のファイル.md"
               }
             }
           }
@@ -150,8 +175,10 @@
   },
   "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "Notes/Index/プログラミング/プログラミング.md",
+    "Notes/Inbox/腸内環境はやる気や思考に影響する。.md",
+    "無題のファイル.md",
     "Notes/Inbox/角度θ, (単位時間あたりの進む度合い)速度vで弾とかを出したいならx += v * cos(θ) y += v*sin(θ).md",
+    "Notes/Index/プログラミング/プログラミング.md",
     "Notes/Index/勉強/学習の作法.md",
     "Notes/Index/勉強/資格.md",
     "Notes/Inbox/勉強を始めるには「合図」と「セリフ」で条件反射を利用する。「手を叩く」など。.md",
@@ -174,8 +201,6 @@
     "Notes/Inbox/人は誰しも認めてもらいたいアピールしたい自己主張したいという\"欲\"がある。これは我が存在し苦しみの元になる。心に空洞がある人ほど承認欲求が強い。.md",
     "頭の中のおしゃべりや怒りは「私は」などではなく、「彼は」など他人視点を意識する。自分を友人だと考えて想像する。.md",
     "Notes/Inbox/懸垂の時は肩関節をしっかり後傾させ続ける。肘を絞るというより肩だけをしっかり後ろに引いて下げる(肩の外旋)。.md",
-    "Notes/Inbox/懸垂はバーを折り曲げるように上げていくイメージ。それをスキャプラープルで練習する。肘は曲げない。手は猫の手グリップ　指が見えないように.md",
-    "瞑想をよりよくするには、日常の中の瞑想を増やす、.md",
     "Notes/Index/勉強/英語",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
