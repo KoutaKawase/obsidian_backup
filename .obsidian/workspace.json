@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6cc1c4bdfca4dd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/嫌なコンテンツは見ない。寒かったら窓を閉めるのと同じ。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Index/勉強/数学/index.md",
+                "file": "Notes/Inbox/嫌なコンテンツは見ない。寒かったら窓を閉めるのと同じ。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Index/勉強/数学/index.md",
+                "file": "Notes/Inbox/嫌なコンテンツは見ない。寒かったら窓を閉めるのと同じ。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Index/勉強/数学/index.md"
+                "file": "Notes/Inbox/嫌なコンテンツは見ない。寒かったら窓を閉めるのと同じ。.md"
               }
             }
           }
@@ -185,8 +197,10 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "1bd5cd1bbb132995",
+  "active": "d6cc1c4bdfca4dd6",
   "lastOpenFiles": [
+    "Notes/Index/勉強/数学/index.md",
+    "Notes/Inbox/嫌なコンテンツは見ない。寒かったら窓を閉めるのと同じ。.md",
     "Notes/Inbox/数学で新しい概念やすぐ理解できない概念が出てきたらとりあえず一旦そのまま受け入れて進めることが大事。やってるうちにわかることもある。.md",
     "Notes/Inbox/割り算の重要な意味の一つに１あたりの値を求めること。分数で割るというのも１あたりの値を求めるのをイメージ.md",
     "他人と比較して考える習慣は己を破滅させ幸福を奪う。楽しい時は純粋に楽しむ。他の人より楽しくないとか考えてはいけない。比較は喜びを無にする。.md",
@@ -211,8 +225,6 @@
     "Notes/Inbox/とにかく愚か者にならないために自己主張はしない。我を出さない。等身大以上の力を出そうとせず見栄を張らず自分にできる事だけに集中して真面目にやる。固定で学んだ事。.md",
     "Notes/Inbox/偽の幸福感は物や肩書きや個人主義。幸せとは誰かに親切にすること。自分の能力を誰かのために使うこと。自分一人では何もできないという事実を理解すること。.md",
     "Notes/Inbox/執着や愚痴を克服するには諸行無常と諸法無我を知っておく事.md",
-    "Notes/Inbox/無常、無我に逆らう事が苦しみを生む。無常に言わせれば不幸は主観的な見方で愚かな見方。無常無我に反する期待をしない。家がなくなったりお金がなくなったり病気になったり、苦しむのは無常に反している。.md",
-    "Notes/Inbox/人は誰しも認めてもらいたいアピールしたい自己主張したいという\"欲\"がある。これは我が存在し苦しみの元になる。心に空洞がある人ほど承認欲求が強い。.md",
     "Notes/Index/勉強/英語",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
