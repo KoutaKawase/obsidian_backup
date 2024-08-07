@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "勉強を始めるには「合図」と「セリフ」で条件反射を利用する。「手を叩く」など。.md",
+                "file": "Notes/Index/勉強/学習の作法.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "勉強を始めるには「合図」と「セリフ」で条件反射を利用する。「手を叩く」など。.md",
+                "file": "Notes/Index/勉強/学習の作法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "勉強を始めるには「合図」と「セリフ」で条件反射を利用する。「手を叩く」など。.md",
+                "file": "Notes/Index/勉強/学習の作法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "勉強を始めるには「合図」と「セリフ」で条件反射を利用する。「手を叩く」など。.md"
+                "file": "Notes/Index/勉強/学習の作法.md"
               }
             }
           }
@@ -211,8 +211,9 @@
   },
   "active": "ea902c7658b959c4",
   "lastOpenFiles": [
-    "プログラミング.md",
+    "Notes/Index/勉強/資格.md",
     "勉強を始めるには「合図」と「セリフ」で条件反射を利用する。「手を叩く」など。.md",
+    "プログラミング.md",
     "Notes/Inbox/スクレイピングするならこれを見る。.md",
     "Notes/Inbox/ゆっくり多く噛むことで食後のエネルギー消費量が増えるため減量に有効。.md",
     "Notes/Inbox/妄想するなかれ。人生を楽しむコツは他人、世間と比較しないこと。不安は妄想。.md",
@@ -236,7 +237,6 @@
     "瞑想をよりよくするには、日常の中の瞑想を増やす、.md",
     "Notes/Inbox/勉強の効果をあげるには勉強を減らしてでも日々の運動を大事にする。筋トレとウォーキングがいい。.md",
     "Notes/Inbox/懸垂は肩関節の内転の動きが大事。正しく内転できていればバーの下付近から肘は動かない。肘から上は固定されてるイメージ。.md",
-    "Notes/Index/勉強/英語/moc.md",
     "Notes/Index/勉強/英語",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
