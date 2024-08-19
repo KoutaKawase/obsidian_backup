@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "嫉妬はネガティブな感情であり不善心。随喜をしない限り苦しみは続く。.md",
+                "file": "Notes/Inbox/嫉妬はネガティブな感情であり不善心。随喜をしない限り苦しみは続く。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70bb3ff498a7bac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "動画アイデア.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嫉妬はネガティブな感情であり不善心。随喜をしない限り苦しみは続く。.md",
+                "file": "動画アイデア.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嫉妬はネガティブな感情であり不善心。随喜をしない限り苦しみは続く。.md",
+                "file": "動画アイデア.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嫉妬はネガティブな感情であり不善心。随喜をしない限り苦しみは続く。.md"
+                "file": "動画アイデア.md"
               }
             }
           }
@@ -148,10 +161,11 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "a84975d52081edf1",
+  "active": "70bb3ff498a7bac4",
   "lastOpenFiles": [
+    "Notes/Inbox/嫉妬はネガティブな感情であり不善心。随喜をしない限り苦しみは続く。.md",
+    "動画アイデア.md",
     "Notes/Inbox/相手の言動が自分にどう影響しているかばかり考えるのではなく、自分の一挙手一足足、一言一句が相手にも影響していることを自覚せねばならない。言葉遣いや振る舞いは大事。.md",
-    "嫉妬はネガティブな感情であり不善心。随喜をしない限り苦しみは続く。.md",
     "Notes/Inbox/角度θ, (単位時間あたりの進む度合い)速度vで弾とかを出したいならx += v * cos(θ) y += v*sin(θ).md",
     "他人と比較して考える習慣は己を破滅させ幸福を奪う。楽しい時は純粋に楽しむ。他の人より楽しくないとか考えてはいけない。比較は喜びを無にする。妬みは物事をありのままに捉えていない。.md",
     "Notes/Inbox/比較に終わりはない。上には上がいる。栄光が欲しいならナポレオンはシーザーを妬むだろう。２倍の給料をもらってる人はそのまた２倍の人を羨む。大事なのは現状をありのままに受け止め満足し足るを知る事。.md",
@@ -175,7 +189,6 @@
     "Notes/Inbox/「一歩一歩、何かをできるようになってきている自分」に気づいた時の喜びは、名誉欲を時に大きく上回る。比較せず楽しむ。.md",
     "心が汚れた状態で良い人間関係は築けない。嫉妬や怒り恨み差別は良い結果を生まない。人の過ちは許し善人悪人と判断しない。誰も完全ではないと。.md",
     "Notes/Inbox/人を助ける時は見返りを求めない。執着しないで助ける。相手が幸福になって喜ぶ。助けたらあとはすぐに立ち去る。相手の負担になってはだめ。.md",
-    "Notes/Inbox/脳のためのランニングは30分以上せめて1時間以内にする。やりすぎると逆効果で脳機能に悪影響。.md",
     "Notes/Index/勉強/英語",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
