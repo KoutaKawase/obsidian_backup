@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d9b326e13031b8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "意志力は無限。筋トレのようなもの。タスクを「大変」とみなすとその後の意志力が弱くなる。タスクを「大変」という認識を変え楽しみを見つける。ようは考え方次第。また分割しタスクで得られる利益や達成感を意識することも大事。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b152481e4bca1275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "割り算",
+                "query": "tag:#健康",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "動画アイデア.md",
+                "file": "無題のファイル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "動画アイデア.md",
+                "file": "無題のファイル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "動画アイデア.md"
+                "file": "無題のファイル.md"
               }
             }
           }
@@ -147,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,10 +184,12 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "70bb3ff498a7bac4",
+  "active": "b152481e4bca1275",
   "lastOpenFiles": [
-    "Notes/Inbox/嫉妬はネガティブな感情であり不善心。随喜をしない限り苦しみは続く。.md",
+    "意志力は無限。筋トレのようなもの。タスクを「大変」とみなすとその後の意志力が弱くなる。タスクを「大変」という認識を変え楽しみを見つける。ようは考え方次第。また分割しタスクで得られる利益や達成感を意識することも大事。.md",
+    "無題のファイル.md",
     "動画アイデア.md",
+    "Notes/Inbox/嫉妬はネガティブな感情であり不善心。随喜をしない限り苦しみは続く。.md",
     "Notes/Inbox/相手の言動が自分にどう影響しているかばかり考えるのではなく、自分の一挙手一足足、一言一句が相手にも影響していることを自覚せねばならない。言葉遣いや振る舞いは大事。.md",
     "Notes/Inbox/角度θ, (単位時間あたりの進む度合い)速度vで弾とかを出したいならx += v * cos(θ) y += v*sin(θ).md",
     "他人と比較して考える習慣は己を破滅させ幸福を奪う。楽しい時は純粋に楽しむ。他の人より楽しくないとか考えてはいけない。比較は喜びを無にする。妬みは物事をありのままに捉えていない。.md",
@@ -187,8 +212,6 @@
     "Notes/Inbox/下方比較や上方比較を避けてドーパミンを出さない為にニュース、SNSはやめたほうがいい。優越感は良くない。マイペース。.md",
     "Notes/Inbox/Comparison is the thief of joy. セオドアルーズベルト。比較は喜びを盗む者。自分なりに小さな幸せを大事にする.md",
     "Notes/Inbox/「一歩一歩、何かをできるようになってきている自分」に気づいた時の喜びは、名誉欲を時に大きく上回る。比較せず楽しむ。.md",
-    "心が汚れた状態で良い人間関係は築けない。嫉妬や怒り恨み差別は良い結果を生まない。人の過ちは許し善人悪人と判断しない。誰も完全ではないと。.md",
-    "Notes/Inbox/人を助ける時は見返りを求めない。執着しないで助ける。相手が幸福になって喜ぶ。助けたらあとはすぐに立ち去る。相手の負担になってはだめ。.md",
     "Notes/Index/勉強/英語",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
