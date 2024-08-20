@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "最も記憶力や脳の劣化に効くのはHIIT(ランニングマシン).md",
+                "file": "Notes/Inbox/最も記憶力や脳の劣化に効くのはHIIT(ランニングマシン).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98e9c244e05cb603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "トレーニングは収縮とストレッチをしっかり意識して１テンポ遅くやる。対象筋の動きをイメージする。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "最も記憶力や脳の劣化に効くのはHIIT(ランニングマシン).md",
+                "file": "トレーニングは収縮とストレッチをしっかり意識して１テンポ遅くやる。対象筋の動きをイメージする。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "最も記憶力や脳の劣化に効くのはHIIT(ランニングマシン).md",
+                "file": "トレーニングは収縮とストレッチをしっかり意識して１テンポ遅くやる。対象筋の動きをイメージする。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "最も記憶力や脳の劣化に効くのはHIIT(ランニングマシン).md"
+                "file": "トレーニングは収縮とストレッチをしっかり意識して１テンポ遅くやる。対象筋の動きをイメージする。.md"
               }
             }
           }
@@ -196,10 +208,11 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "5e3be42971180214",
+  "active": "98e9c244e05cb603",
   "lastOpenFiles": [
+    "Notes/Inbox/最も記憶力や脳の劣化に効くのはHIIT(ランニングマシン).md",
+    "トレーニングは収縮とストレッチをしっかり意識して１テンポ遅くやる。対象筋の動きをイメージする。.md",
     "Notes/Inbox/ホローボディ懸垂はお腹に向かって引くイメージ。しっかり腹筋と胸に力を入れお腹に向かって引くイメージ。腕は進展。.md",
-    "最も記憶力や脳の劣化に効くのはHIIT(ランニングマシン).md",
     "Notes/Inbox/意志力は無限。筋トレのようなもの。タスクを「大変」とみなすとその後の意志力が弱くなる。タスクを「大変」という認識を変え楽しみを見つける。ようは考え方次第。また分割しタスクで得られる利益や達成感を意識することも大事。.md",
     "動画アイデア.md",
     "Notes/Inbox/嫉妬はネガティブな感情であり不善心。随喜をしない限り苦しみは続く。.md",
@@ -223,7 +236,6 @@
     "Notes/Inbox/人間関係はノンデリメンヘライキリ攻撃的はNG。悪口愚痴を言わない。沈黙は金。口は災いの元。他人に期待しない。他人はコントロールできない。善口.md",
     "Notes/Inbox/行動前に悩む 悪口を言う 嫌いな人を考える 比べて落ち込む 過去を悔やむ 不安で怯える 救われるのを待つ受け身 これらは辞めろ。.md",
     "Notes/Inbox/下方比較や上方比較を避けてドーパミンを出さない為にニュース、SNSはやめたほうがいい。優越感は良くない。マイペース。.md",
-    "Notes/Inbox/Comparison is the thief of joy. セオドアルーズベルト。比較は喜びを盗む者。自分なりに小さな幸せを大事にする.md",
     "Notes/Index/勉強/英語",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
