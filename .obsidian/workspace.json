@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#健康",
+                "query": "k",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,7 +149,7 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "a5a3e0fe8d20167e",
+  "active": "e802643ddfeb5eab",
   "lastOpenFiles": [
     "Notes/Inbox/大胸筋と広背筋は肩甲骨から動き始めるのが大事。スキャプラ腕立てとスキャプラ懸垂。上下斜め上斜め下に自由に動かせるように柔軟性が大事。「腕を伸ばしたまま肩甲骨を動かす」のがスタート。.md",
     "Notes/Inbox/大胸筋下部は腹筋の安定が大事なので腹筋を締めて行う。腕立て伏せは特に胸を反りすぎず腹筋を緩めない。手の重心は小指側に。押す時にトルクを。.md",
