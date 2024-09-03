@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "胸トレに限らず「伸ばされてる時は収縮」「収縮してる時はストレッチ」を意識する。エキセントリック収縮。筋肉痛がきやすい.md",
+                "file": "Notes/Inbox/胸トレに限らず「伸ばされてる時は収縮」「収縮してる時はストレッチ」を意識する。エキセントリック収縮。筋肉痛がきやすい.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2deecd7afbfdbfdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/背中は外側の広がり(広背筋)と中部上部(僧帽筋)にわけて鍛える。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "胸トレに限らず「伸ばされてる時は収縮」「収縮してる時はストレッチ」を意識する。エキセントリック収縮。筋肉痛がきやすい.md",
+                "file": "Notes/Inbox/背中は外側の広がり(広背筋)と中部上部(僧帽筋)にわけて鍛える。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "胸トレに限らず「伸ばされてる時は収縮」「収縮してる時はストレッチ」を意識する。エキセントリック収縮。筋肉痛がきやすい.md",
+                "file": "Notes/Inbox/背中は外側の広がり(広背筋)と中部上部(僧帽筋)にわけて鍛える。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "胸トレに限らず「伸ばされてる時は収縮」「収縮してる時はストレッチ」を意識する。エキセントリック収縮。筋肉痛がきやすい.md"
+                "file": "Notes/Inbox/背中は外側の広がり(広背筋)と中部上部(僧帽筋)にわけて鍛える。.md"
               }
             }
           }
@@ -159,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,10 +185,13 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "9c8911fe8dc6b3b5",
+  "active": "2deecd7afbfdbfdd",
   "lastOpenFiles": [
+    "広背筋はテコの原理で動かす。上腕骨についているので、肩を支点にして真下に動かすイメージ。どちらかというと肩甲骨を下げるイメージ。だから肘を骨盤にぶつけるという表現になる。.md",
+    "Extra/Pasted image 20240903015206.png",
+    "Notes/Inbox/背中は外側の広がり(広背筋)と中部上部(僧帽筋)にわけて鍛える。.md",
+    "Notes/Inbox/胸トレに限らず「伸ばされてる時は収縮」「収縮してる時はストレッチ」を意識する。エキセントリック収縮。筋肉痛がきやすい.md",
     "Notes/Inbox/ワイドグリップの広背筋トレはいらない。ナローのアンダーハンド懸垂が収縮という点では一番.md",
-    "胸トレに限らず「伸ばされてる時は収縮」「収縮してる時はストレッチ」を意識する。エキセントリック収縮。筋肉痛がきやすい.md",
     "Notes/Inbox/筋トレの基本は体幹部の安定。胸トレや背中であっても腹筋や足や骨盤のしっかりとした安定が必要。ベンチなどは足を広げずケツや足に力を入れる。.md",
     "Notes/Inbox/誰もやらない事(掃除など)は誰かに見られてなくてもやるとよい。そういう善行為はきっと自分のためになる。坂本誠志郎選手がペットボトルを捨てていたように。.md",
     "Notes/Inbox/トレーニングの基本はネガティブで耐えないで勢いよくテンポよく押す引く。.md",
@@ -197,9 +213,6 @@
     "Notes/Inbox/角度θ, (単位時間あたりの進む度合い)速度vで弾とかを出したいならx += v * cos(θ) y += v*sin(θ).md",
     "他人と比較して考える習慣は己を破滅させ幸福を奪う。楽しい時は純粋に楽しむ。他の人より楽しくないとか考えてはいけない。比較は喜びを無にする。妬みは物事をありのままに捉えていない。.md",
     "Notes/Inbox/比較に終わりはない。上には上がいる。栄光が欲しいならナポレオンはシーザーを妬むだろう。２倍の給料をもらってる人はそのまた２倍の人を羨む。大事なのは現状をありのままに受け止め満足し足るを知る事。.md",
-    "Notes/Inbox/ネット上では嫌いな物に言及しない。しても「not for me」が大事。角が立つ言葉やネガティブな言葉を使わない。価値観を押し付けない。.md",
-    "Notes/Inbox/嫌なコンテンツは見ない。寒かったら窓を閉めるのと同じ。.md",
-    "Notes/Index/勉強/数学/index.md",
     "Notes/Index/勉強/英語",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
@@ -214,7 +227,6 @@
     "Extra/Pasted image 20240126104108.png",
     "Extra/Pasted image 20240125193012.png",
     "Extra/Pasted image 20240125192944.png",
-    "Extra/Pasted image 20240120171059.png",
     "Notes/Index/勉強",
     "Notes/Index/プログラミング",
     "Projects/中学数学/c1",
