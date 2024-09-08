@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "広背筋自分メモ.md",
+                "file": "Notes/Inbox/広背筋自分メモ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdff9c2c2ce1c90f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/１階ロフト木造川沿いはやめておけ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "広背筋自分メモ.md",
+                "file": "Notes/Inbox/１階ロフト木造川沿いはやめておけ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "広背筋自分メモ.md",
+                "file": "Notes/Inbox/１階ロフト木造川沿いはやめておけ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "広背筋自分メモ.md"
+                "file": "Notes/Inbox/１階ロフト木造川沿いはやめておけ.md"
               }
             }
           }
@@ -195,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,10 +220,11 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "83418e91d31b8c16",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
+    "Notes/Inbox/広背筋自分メモ.md",
+    "Notes/Inbox/１階ロフト木造川沿いはやめておけ.md",
     "技術記事やプログラミングはアウトラインから作る。目的をはっきりさせ機能ごとに分け、各機能ごとにまたパーツに分け、最下位から書いていく。ブログでもざっと目次を作り目次ごとにまた細分化して最後に最下位から書いていく。.md",
-    "広背筋自分メモ.md",
     "Notes/Inbox/数学は翻訳が上手いかどうか。問題文を翻訳し式を立てる。あるいは条件を図やグラフにして翻訳し式を立てる。「異なる実数解が２つ」は「D>0」と翻訳できる。.md",
     "Notes/Inbox/数学は分野をまたいだ関連性を考えるのも大事。最大最小問題なら関数の挙動と捉えたり不等式の範囲と捉えたりできる。.md",
     "Notes/Inbox/数学は視覚化や図形的な情報に翻訳する。問題文の言い換えや図形的情報への変換が大事。.md",
@@ -237,7 +249,6 @@
     "Notes/Inbox/女性と話すときは性欲を向けてはいけない。イヤなことを言わない。女性は友達として見る。.md",
     "Notes/Inbox/「人から幸せと思われることが幸せ」と幸せが他人基準だと終わる。世の中の最大公約数的な価値基準にのっかると劣等感を抱き続ける。幸福とは自分の気の持ちよう。他人の幸福を羨み良い所だけを見ない。隠れた悲しみがある。.md",
     "Notes/Inbox/懸垂は肩甲骨を寄せるイメージをすると逃げやすいので結果的に寄るものと意識する。胸を張るというより胸郭を上げていくイメージ.md",
-    "Notes/Inbox/トレーニングは収縮とストレッチをしっかり意識して１テンポ遅くやる。対象筋の動きをイメージする。.md",
     "Notes/Index/勉強/英語",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
