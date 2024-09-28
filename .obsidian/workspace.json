@@ -4,119 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "eb4465d39f974000",
+        "id": "a7fb525aea96b797",
         "type": "tabs",
         "children": [
           {
-            "id": "bb4106682b3a7d7e",
+            "id": "e5f4cb6ec615c1c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/数学は考えた事を絵やグラフに起こす。とにかく何か書く。逆算して何が必要か吟味する。実験して具体例から法則を見つける。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b88999e33797f986",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/数学は視覚化や図形的な情報に翻訳する。問題文の言い換えや図形的情報への変換が大事。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6b4be28340a00b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/数学は分野をまたいだ関連性を考えるのも大事。最大最小問題なら関数の挙動と捉えたり不等式の範囲と捉えたりできる。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fe0092a7fca6acb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/数学は翻訳が上手いかどうか。問題文を翻訳し式を立てる。あるいは条件を図やグラフにして翻訳し式を立てる。「異なる実数解が２つ」は「D>0」と翻訳できる。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b8022463f4b4aa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技術記事やプログラミングはアウトラインから作る。目的をはっきりさせ機能ごとに分け、各機能ごとにまたパーツに分け、最下位から書いていく。ブログでもざっと目次を作り目次ごとにまた細分化して最後に最下位から書いていく。.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83418e91d31b8c16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/広背筋自分メモ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdff9c2c2ce1c90f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/１階ロフト木造川沿いはやめておけ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2bedc84c44d2f41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "難しい英語の単語の発音はバックワーズで練習する.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da4bde708bd1fb6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "「事実」と「解釈」は分けて仕事は報告する.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "「事実」と「解釈」は分けて仕事は報告する.md",
+                "file": "Notes/Inbox/「事実」と「解釈」は分けて仕事は報告する.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "「事実」と「解釈」は分けて仕事は報告する.md",
+                "file": "Notes/Inbox/「事実」と「解釈」は分けて仕事は報告する.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "「事実」と「解釈」は分けて仕事は報告する.md"
+                "file": "Notes/Inbox/「事実」と「解釈」は分けて仕事は報告する.md"
               }
             }
           }
@@ -244,10 +143,10 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "da4bde708bd1fb6b",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "難しい英語の単語の発音はバックワーズで練習する.md",
-    "「事実」と「解釈」は分けて仕事は報告する.md",
+    "Notes/Inbox/難しい英語の単語の発音はバックワーズで練習する.md",
+    "Notes/Inbox/「事実」と「解釈」は分けて仕事は報告する.md",
     "Notes/Inbox/１階ロフト木造川沿いはやめておけ.md",
     "Notes/Inbox/広背筋自分メモ.md",
     "技術記事やプログラミングはアウトラインから作る。目的をはっきりさせ機能ごとに分け、各機能ごとにまたパーツに分け、最下位から書いていく。ブログでもざっと目次を作り目次ごとにまた細分化して最後に最下位から書いていく。.md",
