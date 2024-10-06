@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "他人の行動が思い通りにならないからとティルトせず自分が出来る事だけに集中する。他人はコントロールできない。.md",
+                "file": "Notes/Inbox/他人の行動が思い通りにならないからとティルトせず自分が出来る事だけに集中する。他人はコントロールできない。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37e9dec3309466ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "配信アイデア.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "他人の行動が思い通りにならないからとティルトせず自分が出来る事だけに集中する。他人はコントロールできない。.md",
+                "file": "配信アイデア.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "他人の行動が思い通りにならないからとティルトせず自分が出来る事だけに集中する。他人はコントロールできない。.md",
+                "file": "配信アイデア.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "他人の行動が思い通りにならないからとティルトせず自分が出来る事だけに集中する。他人はコントロールできない。.md"
+                "file": "配信アイデア.md"
               }
             }
           }
@@ -172,10 +184,11 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "bb12d03c9065cefd",
+  "active": "37e9dec3309466ae",
   "lastOpenFiles": [
+    "Notes/Inbox/他人の行動が思い通りにならないからとティルトせず自分が出来る事だけに集中する。他人はコントロールできない。.md",
+    "配信アイデア.md",
     "Notes/Inbox/自分と異なる意見はまずは肯定、認めること。褒めるのもいい。Yes Butが大事。喧嘩や不仲の原因のほとんどは言い方が9割。.md",
-    "他人の行動が思い通りにならないからとティルトせず自分が出来る事だけに集中する。他人はコントロールできない。.md",
     "Notes/Inbox/勉強の基本は検索学習。思い出すことが大事。ブログを書いて思い出しながら書くのも良い。再チェック再読より徹底的にテスト形式にすること。.md",
     "Notes/Inbox/「事実」と「解釈」は分けて仕事は報告する.md",
     "Notes/Inbox/難しい英語の単語の発音はバックワーズで練習する.md",
@@ -200,7 +213,6 @@
     "Notes/Inbox/トレーニングの基本はネガティブで耐えないで勢いよくテンポよく押す引く。.md",
     "Notes/Inbox/人を貶す言葉はやめろ。言われた人はきっと言い返し怒りを含んだ言葉は己を傷つける。代償を払うのは自分だ。.md",
     "Notes/Inbox/腕立て伏せのトップでは腹筋を締め腰椎を反らせず胸椎を閉じる。背中上部を曲げるイメージ。肩甲骨をしっかり開き、肩を下げ、肩甲骨を内転させて下すのがスタート。押し上げるより押し下げる時の方に集中する。.md",
-    "Notes/Inbox/大胸筋と広背筋は肩甲骨から動き始めるのが大事。スキャプラ腕立てとスキャプラ懸垂。上下斜め上斜め下に自由に動かせるように柔軟性が大事。「腕を伸ばしたまま肩甲骨を動かす」のがスタート。.md",
     "Notes/Index/勉強/英語",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
