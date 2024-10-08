@@ -66,9 +66,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0da820ec42b13684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Index/運動.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67c2d25981ede565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inbox/椅子に座る時は必ず骨盤を立てる。ズルズル座りはヘルニアになり取り返しがつかない。辛いならペットボトルを挟む。大事なのは30-60分ごとにストレッチ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -97,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "juken-hacker",
+                "query": "tag:#運動",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人間関係.md",
+                "file": "Notes/Inbox/椅子に座る時は必ず骨盤を立てる。ズルズル座りはヘルニアになり取り返しがつかない。辛いならペットボトルを挟む。大事なのは30-60分ごとにストレッチ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人間関係.md",
+                "file": "Notes/Inbox/椅子に座る時は必ず骨盤を立てる。ズルズル座りはヘルニアになり取り返しがつかない。辛いならペットボトルを挟む。大事なのは30-60分ごとにストレッチ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人間関係.md"
+                "file": "Notes/Inbox/椅子に座る時は必ず骨盤を立てる。ズルズル座りはヘルニアになり取り返しがつかない。辛いならペットボトルを挟む。大事なのは30-60分ごとにストレッチ.md"
               }
             }
           }
@@ -196,10 +220,13 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "bc1b5d30a7b76321",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "Notes/Index/仕事/index.md",
+    "Notes/Index/運動.md",
+    "Notes/Inbox/椅子に座る時は必ず骨盤を立てる。ズルズル座りはヘルニアになり取り返しがつかない。辛いならペットボトルを挟む。大事なのは30-60分ごとにストレッチ.md",
+    "Notes/Inbox/スクワットは腹圧を高めて腰椎を安定させ胸を張る(胸椎を上げる）。下がる時は大臀筋を絞り自然と膝を外に向ける(うちに向けない。)。座るイメージ.md",
     "人間関係.md",
+    "Notes/Index/仕事/index.md",
     "Notes/Inbox/トラブルで大事なのは「どっちが悪いか」ではなく「どう振る舞えば得か」だけ考える。言い訳は相手を逆撫でする。すぐ認め謝罪することが好感度UP。たとえ自分が悪くなくてもまず言い訳せず謝る。電車遅刻でも.md",
     "Notes/Inbox/口答えしない。間違えたらすぐ認めすぐ謝る。指摘を受けたらまず謝る。人は口答えしたり言い訳するやつには怒るが素直に認め反省するものには許すもの。.md",
     "Notes/Inbox/言い訳がましい謝罪をしない。素直に非を認めてただ謝る。言い訳をしない。言い訳しない宣言もしない。.md",
@@ -222,10 +249,7 @@
     "Notes/Inbox/ベンチをやって胸郭を広げられない人にダンベルベンチは難しい.md",
     "Notes/Inbox/自分でコントロールできないことや過ぎた事は悩むな。過去に囚われているのは今を生きていない。自分でコントロールできることだけを考えろ。.md",
     "Notes/Inbox/背中は外側の広がり(広背筋)と中部上部(僧帽筋)にわけて鍛える。.md",
-    "Notes/Inbox/広背筋はテコの原理で動かす。上腕骨についているので、肩を支点にして真下に動かすイメージ。どちらかというと肩甲骨を下げるイメージ。だから肘を骨盤にぶつけるという表現になる。.md",
     "Extra/Pasted image 20240903015206.png",
-    "Notes/Inbox/胸トレに限らず「伸ばされてる時は収縮」「収縮してる時はストレッチ」を意識する。エキセントリック収縮。筋肉痛がきやすい.md",
-    "Notes/Inbox/ワイドグリップの広背筋トレはいらない。ナローのアンダーハンド懸垂が収縮という点では一番.md",
     "Notes/Index/勉強/英語",
     "Notes/Index/メンタルヘルス",
     "Notes/Index/仕事",
