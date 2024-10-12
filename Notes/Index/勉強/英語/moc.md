@@ -4,7 +4,7 @@ tags:
 ---
 ## 英語への姿勢
 ```dataview
-TABLE FROM #英語 AND #勉強/学び方 
+TABLE FROM #英語/学び方  
 ```
 ## 発音
 ```dataview
