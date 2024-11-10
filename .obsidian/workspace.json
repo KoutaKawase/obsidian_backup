@@ -8,133 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7d1a13eb682db83",
+            "id": "c252f6da90959b76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人間は腸こそが全てを支配し、脳は第二の腸に過ぎない。メンタルやパフォーマンスは腸に始まる。腸を整える。.md",
+                "file": "エピクテトスは自分ではどうにもならないことを求めても仕方ないので、自分次第でなんとかなることに注力せよという考え方。遠くから欲望を投げかけない。.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "人間は腸こそが全てを支配し、脳は第二の腸に過ぎない。メンタルやパフォーマンスは腸に始まる。腸を整える。"
-            }
-          },
-          {
-            "id": "d3c7bc143aeb93f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Scraps/動画アイデア.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "動画アイデア"
-            }
-          },
-          {
-            "id": "9148cddc55069723",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Scraps/悪の心を読むものたちのキムナムギルの服がかっこいい.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "悪の心を読むものたちのキムナムギルの服がかっこいい"
-            }
-          },
-          {
-            "id": "ad7e6eb41e7f0e1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/いかなる場所でも安全と思わない。保護具しっかり。.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "いかなる場所でも安全と思わない。保護具しっかり。"
-            }
-          },
-          {
-            "id": "1f8da3e6ed89eb0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/どんな仕事であっても「油断」してはいけない。油断しないでしっかり手を込んでやることでそれだけで出来る人扱いされる。.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "どんな仕事であっても「油断」してはいけない。油断しないでしっかり手を込んでやることでそれだけで出来る人扱いされる。"
-            }
-          },
-          {
-            "id": "843de2af7b2a717a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/技術記事は全てを理解してから書こうとしない。ある程度理解と推定をベースにアウトラインを固め、学びつつ書いていくのがよい。.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "技術記事は全てを理解してから書こうとしない。ある程度理解と推定をベースにアウトラインを固め、学びつつ書いていくのがよい。"
-            }
-          },
-          {
-            "id": "b77dfc2f63290ff7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/深い人間関係を作ろうとしない。適度に緩い関係がベスト。適度な距離を保つことでお互い好きでいられる。積極的にコンタクトすべきでない。.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "深い人間関係を作ろうとしない。適度に緩い関係がベスト。適度な距離を保つことでお互い好きでいられる。積極的にコンタクトすべきでない。"
-            }
-          },
-          {
-            "id": "003f973d125adada",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/結局勉強法よりも下手でもコツコツ勉強するのが一番。財テクよりもお金を節約するほうがいい。.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "結局勉強法よりも下手でもコツコツ勉強するのが一番。財テクよりもお金を節約するほうがいい。"
-            }
-          },
-          {
-            "id": "c82098cb3f2fdf53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/経験と実績がないなら、熱意とエネルギーを売り込む。.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "経験と実績がないなら、熱意とエネルギーを売り込む。"
+              "title": "エピクテトスは自分ではどうにもならないことを求めても仕方ないので、自分次第でなんとかなることに注力せよという考え方。遠くから欲望を投げかけない。"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,10 +163,11 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "c82098cb3f2fdf53",
+  "active": "c252f6da90959b76",
   "lastOpenFiles": [
-    "Notes/Inbox/結局勉強法よりも下手でもコツコツ勉強するのが一番。財テクよりもお金を節約するほうがいい。.md",
     "Notes/Inbox/経験と実績がないなら、熱意とエネルギーを売り込む。.md",
+    "エピクテトスは自分ではどうにもならないことを求めても仕方ないので、自分次第でなんとかなることに注力せよという考え方。遠くから欲望を投げかけない。.md",
+    "Notes/Inbox/結局勉強法よりも下手でもコツコツ勉強するのが一番。財テクよりもお金を節約するほうがいい。.md",
     "Notes/Inbox/深い人間関係を作ろうとしない。適度に緩い関係がベスト。適度な距離を保つことでお互い好きでいられる。積極的にコンタクトすべきでない。.md",
     "Extra/Pasted image 20241110105233.png",
     "Notes/Inbox/技術記事やプログラミングはアウトラインから作る。目的をはっきりさせ機能ごとに分け、各機能ごとにまたパーツに分け、最下位から書いていく。ブログでもざっと目次を作り目次ごとにまた細分化して最後に最下位から書いていく。.md",
@@ -305,7 +193,6 @@
     "数学と競プロで大事なのは「わからない言葉は調べる曖昧にしない」「具体的な数値でイメージする」「同値性を吟味する。条件の言い換え。何を主張しているのか理解する」「1行理解できたら喜んでいい」.md",
     "Notes/Inbox/発音は母音子音リズムの理論を学ぶのが真似の精度向上になる。楽器と同じでコツを求めず無意識にできるまで練習すること。フィードバックが大事。.md",
     "Notes/Inbox/広背筋の外側をワンハンドでやる場合、骨盤と腕の付け根を近づける意識。肩甲骨を下げるのと同じぐらい側屈が大事。わかりにくいならスタートから収縮&側屈しておく。.md",
-    "Notes/Inbox/英単語は１つずつを意識せず「塊」で覚えると使いやすい。go home, get money outなどよく使うものを一塊に覚える。.md",
     "無題のフォルダ",
     "Extra/Pasted image 20241011185543.png",
     "Extra/Pasted image 20241007073852.png",
