@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "振る舞いは相手に合わせる。相手が一つしか頼んでないなら自分もそうする。相手のニュートラルを判断して合わせるのが礼儀。"
             }
+          },
+          {
+            "id": "e93e0845987ab45e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "6bd12ccfe2fc2d39",
+  "active": "e93e0845987ab45e",
   "lastOpenFiles": [
     "Notes/Inbox/新人は「やる気」を見せないと教える方もイライラするし教える気をなくす。下手でもやる気だけは見せないとダメ.md",
     "振る舞いは相手に合わせる。相手が一つしか頼んでないなら自分もそうする。相手のニュートラルを判断して合わせるのが礼儀。.md",
