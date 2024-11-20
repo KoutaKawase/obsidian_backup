@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "無題のファイル"
             }
+          },
+          {
+            "id": "76f5efbb44cb1902",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "2d31a2d7261b6c38",
+  "active": "76f5efbb44cb1902",
   "lastOpenFiles": [
     "仕事はどんなタスクでも指差喚呼を使う方がいい。慎重すぎるぐらいがいい。大事なのは声に出すこと。指したものに意識を向けて発声しないと無意味。形だけにしない。これをするだけで仕事ができる人間になる。.md",
     "無題のファイル.md",
