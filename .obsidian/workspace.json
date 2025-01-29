@@ -8,91 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47ba11eebc2b7fc5",
+            "id": "c9913c10ccdd7142",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "褒めるのは普段から意識して良い所を見つけないと出来ない。感じたことをすぐ褒めること。3Sより「すごくセンスいいね」は便利。3Sをより具体的に伝えると便利。.md",
+                "file": "工具の盗難対策はしっかり.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "褒めるのは普段から意識して良い所を見つけないと出来ない。感じたことをすぐ褒めること。3Sより「すごくセンスいいね」は便利。3Sをより具体的に伝えると便利。"
-            }
-          },
-          {
-            "id": "07ce609dd6a86782",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "相手が失敗などをしても原因がわかっているなら、それを褒めるとよい。質問に対して良い質問だと褒めるのもよい。どういうことが分からないか素直に利くこと。.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "相手が失敗などをしても原因がわかっているなら、それを褒めるとよい。質問に対して良い質問だと褒めるのもよい。どういうことが分からないか素直に利くこと。"
-            }
-          },
-          {
-            "id": "817a5ac23f8d3a13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "褒めるのは必ず最初にこちらから。大事なのは相手に関心を持つこと。服装だったりそういうのでいい。嫌味なく褒めるのが一番大事。.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "褒めるのは必ず最初にこちらから。大事なのは相手に関心を持つこと。服装だったりそういうのでいい。嫌味なく褒めるのが一番大事。"
-            }
-          },
-          {
-            "id": "bb6c59a5e7f65e1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大事なのはよし褒めるぞという決意を日頃からすること。褒めるのは好意の返答性があり、人間関係によい。.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "大事なのはよし褒めるぞという決意を日頃からすること。褒めるのは好意の返答性があり、人間関係によい。"
-            }
-          },
-          {
-            "id": "e2082cacc258e118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/人生.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "人生"
-            }
-          },
-          {
-            "id": "0eb0a3087dee4bf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/アイデンティティの確立は持続可能性が大事。現実的な小さい目標を積み上げ証拠を集める。モチベがある時の低すぎる目標は逆効果。.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "アイデンティティの確立は持続可能性が大事。現実的な小さい目標を積み上げ証拠を集める。モチベがある時の低すぎる目標は逆効果。"
+              "title": "工具の盗難対策はしっかり"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,8 +73,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,8 +163,10 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "e802643ddfeb5eab",
+  "active": "c9913c10ccdd7142",
   "lastOpenFiles": [
+    "Notes/Inbox/アイデンティティの確立は持続可能性が大事。現実的な小さい目標を積み上げ証拠を集める。モチベがある時の低すぎる目標は逆効果。.md",
+    "工具の盗難対策はしっかり.md",
     "Notes/Inbox/ブッダも欲をなくすことが幸福につながると説く。象と飼い慣らすには刺激しない、象使いを訓練、調教.md",
     "Notes/Inbox/マイクロバースト、マイクロバウトは1日を通しての疲労も少なくなる。仕事にも有効.md",
     "Notes/Index/人生.md",
@@ -261,8 +191,6 @@
     "Notes/Inbox/地位や物質やお金、比較で得られる幸福は持続しない。夢や目標を持つ、感謝と人との繋がり、前向きさと成長マインド、比較しない事が持続する幸福。利他的、他人のために何かをするのが一番。利他が一番大事。.md",
     "Notes/Inbox/食欲や休憩、勉強にはマイクロバウト法がよい。5分軽い運動をする。.md",
     "Notes/Inbox/勉強だけは目減りしない投資。やらなくなると減る。最初伸びも少ないが、重ねるごとに複利が利く。少しずつでもやるのが大事。投資も複利の少ない最初でみんなやめてしまう。できる人はみな元出を積み重ねてる。.md",
-    "Notes/Inbox/自分に対する95が人格攻撃悪口でも残りの5だけを見る。他は見なかった事に。他人の言葉は避けられないが、それをどう受け取るかは決められる。感情的にならずEQを高く持つ事。.md",
-    "Notes/Index/勉強/英語/本.md",
     "Extra/Pasted image 20250121144128.png",
     "無題のフォルダ",
     "Notes/Inbox/Pasted image 20241203142356.png",
