@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "スポンジはセリアの使い捨てスポンジが衛生的でよい。.md",
+                "file": "Notes/Inbox/スポンジはセリアの使い捨てスポンジが衛生的でよい。.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "まな板は極力使うな。軽いカット程度ならまな板シートを使う。包丁は使わず、ハサミ、スライサー、粉砕機をうまく使う。.md",
+                "file": "Notes/Inbox/まな板は極力使うな。軽いカット程度ならまな板シートを使う。包丁は使わず、ハサミ、スライサー、粉砕機をうまく使う。.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "衣類は住所を作り入れる場所を固定化しておく。.md",
+                "file": "Notes/Inbox/衣類は住所を作り入れる場所を固定化しておく。.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "洗剤などは一番大きな容量をまとめ買いしておく。.md",
+                "file": "Notes/Inbox/洗剤などは一番大きな容量をまとめ買いしておく。.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ホットクックは時短料理にとてもよい。.md",
+                "file": "Notes/Inbox/ホットクックは時短料理にとてもよい。.md",
                 "mode": "source",
                 "source": false
               },
@@ -104,9 +104,35 @@
               "icon": "lucide-file",
               "title": "人生"
             }
+          },
+          {
+            "id": "e0c82aa689ded6fe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
+            "id": "bae2001e988338b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "無題のファイル 1"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -125,7 +151,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "ファイルエクスプローラ"
@@ -212,7 +239,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "タグ"
@@ -248,22 +277,23 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "21d0f40eb9fcd18e",
+  "active": "bae2001e988338b9",
   "lastOpenFiles": [
-    "洗剤などは一番大きな容量をまとめ買いしておく。.md",
-    "ホットクックは時短料理にとてもよい。.md",
-    "衣類は住所を作り入れる場所を固定化しておく。.md",
-    "まな板は極力使うな。軽いカット程度ならまな板シートを使う。包丁は使わず、ハサミ、スライサー、粉砕機をうまく使う。.md",
-    "お風呂は極力床や棚を置かず物を置かない。なるべくすべてのものは浮かせる。吊る。洗面所も同様。.md",
+    "無題のファイル 1.md",
+    "Notes/Inbox/洗剤などは一番大きな容量をまとめ買いしておく。.md",
+    "Notes/Inbox/ホットクックは時短料理にとてもよい。.md",
+    "Notes/Inbox/衣類は住所を作り入れる場所を固定化しておく。.md",
+    "Notes/Inbox/まな板は極力使うな。軽いカット程度ならまな板シートを使う。包丁は使わず、ハサミ、スライサー、粉砕機をうまく使う。.md",
+    "Notes/Inbox/お風呂は極力床や棚を置かず物を置かない。なるべくすべてのものは浮かせる。吊る。洗面所も同様。.md",
     "Notes/Index/人生.md",
     "Notes/Inbox/排水溝の蓋は取り、あみあみタイプの鉄網を使う。.md",
     "Notes/Inbox/トイペは250mのロングタイプがおすすめ。.md",
-    "スポンジはセリアの使い捨てスポンジが衛生的でよい。.md",
+    "Notes/Inbox/スポンジはセリアの使い捨てスポンジが衛生的でよい。.md",
     "無題のフォルダ",
     "Notes/Inbox/洗面所の排水溝は100均のゴミガードを使う。.md",
     "Notes/Inbox/ボディソープやシャンプーは詰め替え用を買い、詰め替え口を装着しておくと楽。.md",
     "無題のファイル.md",
-    "即レスと挨拶は無能でもできる無料技。即レスできるだけで評価されるので気を付ける。.md",
+    "Notes/Inbox/即レスと挨拶は無能でもできる無料技。即レスできるだけで評価されるので気を付ける。.md",
     "Notes/Inbox/叱ることは無意味。よくない人を罰したいという欲は良くない。叱ると人は萎縮する。依存性もある。叱るは根底に相手を操作したい欲に基づく。怒るは感情に振り回されてる。理性を。.md",
     "Notes/Index/仕事/読みたい本.md",
     "どんなクソな状況、クソな仕事でも自分なりに楽しみを見つける力は大事。.md",
@@ -276,7 +306,6 @@
     "Notes/Inbox/アイデンティティの確立は持続可能性が大事。現実的な小さい目標を積み上げ証拠を集める。モチベがある時の低すぎる目標は逆効果。.md",
     "Notes/Inbox/ブッダも欲をなくすことが幸福につながると説く。象と飼い慣らすには刺激しない、象使いを訓練、調教.md",
     "Notes/Inbox/マイクロバースト、マイクロバウトは1日を通しての疲労も少なくなる。仕事にも有効.md",
-    "Notes/Inbox/大事なのはよし褒めるぞという決意を日頃からすること。褒めるのは好意の返答性があり、人間関係によい。.md",
     "Extra/Pasted image 20250121144128.png",
     "Notes/Inbox/Pasted image 20241203142356.png",
     "Extra/Pasted image 20241119212846.png",
