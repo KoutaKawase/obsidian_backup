@@ -6,8 +6,14 @@ tags:
 ```dataview
 TABLE FROM #仕事/面接 
 ```
-[武器としての交渉思考 (星海社新書 19) | 瀧本 哲史 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E6%AD%A6%E5%99%A8%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E4%BA%A4%E6%B8%89%E6%80%9D%E8%80%83-%E6%98%9F%E6%B5%B7%E7%A4%BE%E6%96%B0%E6%9B%B8-%E7%80%A7%E6%9C%AC-%E5%93%B2%E5%8F%B2/dp/4061385151/ref=sr_1_5?dib=eyJ2IjoiMSJ9.ILs3M4qW6wgIFumGXyGK9lTIDkM1lzkeXLe9XHjyKP2E2OCz8G3xni3jxZeGLhgXrsuprA57uaR196BeYRp8GqyuhZ4HRR4clMYsdNoeGVHuxeyezCeRwx_K1KAegRHMjUBKv0i-bm8kiq6ER7w4GYyJNCmoJwWCeupL-GuOaWHmtU3WTN9k-yKZu44MmTEQNGEc_HpcEjjuH9TzMSiumk6EdmJeKPGsPoK-0SbptRQ3VN-9RtLr1robQZQykgdoYlRqBZM0HlXtgdDvSazyFBtWUM0EEHcLIiKRGoLbWFo.aq4MVpNQMjoEinfgKmvKmSYoqtjQNVvuteE_ehsjadk&dib_tag=se&keywords=%E4%BA%A4%E6%B8%89+%E6%9C%AC&qid=1718593923&sr=8-5)
+## 交渉 
+
+>[武器としての交渉思考 (星海社新書 19) | 瀧本 哲史 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E6%AD%A6%E5%99%A8%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E4%BA%A4%E6%B8%89%E6%80%9D%E8%80%83-%E6%98%9F%E6%B5%B7%E7%A4%BE%E6%96%B0%E6%9B%B8-%E7%80%A7%E6%9C%AC-%E5%93%B2%E5%8F%B2/dp/4061385151/ref=sr_1_5?dib=eyJ2IjoiMSJ9.ILs3M4qW6wgIFumGXyGK9lTIDkM1lzkeXLe9XHjyKP2E2OCz8G3xni3jxZeGLhgXrsuprA57uaR196BeYRp8GqyuhZ4HRR4clMYsdNoeGVHuxeyezCeRwx_K1KAegRHMjUBKv0i-bm8kiq6ER7w4GYyJNCmoJwWCeupL-GuOaWHmtU3WTN9k-yKZu44MmTEQNGEc_HpcEjjuH9TzMSiumk6EdmJeKPGsPoK-0SbptRQ3VN-9RtLr1robQZQykgdoYlRqBZM0HlXtgdDvSazyFBtWUM0EEHcLIiKRGoLbWFo.aq4MVpNQMjoEinfgKmvKmSYoqtjQNVvuteE_ehsjadk&dib_tag=se&keywords=%E4%BA%A4%E6%B8%89+%E6%9C%AC&qid=1718593923&sr=8-5)
 [Amazon.co.jp: マンガでわかるハーバード流交渉術【四つの原則篇】 eBook : ロジャー・フィッシャー, ウィリアム・ユーリー, ブルース・パットン, 青山敬典（留守Key）, 星井博文: Kindleストア](https://www.amazon.co.jp/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89%E6%B5%81%E4%BA%A4%E6%B8%89%E8%A1%93%E3%80%90%E5%9B%9B%E3%81%A4%E3%81%AE%E5%8E%9F%E5%89%87%E7%AF%87%E3%80%91-%E3%83%AD%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC-ebook/dp/B09CKDJQ16/ref=sr_1_8?dib=eyJ2IjoiMSJ9.ILs3M4qW6wgIFumGXyGK9lTIDkM1lzkeXLe9XHjyKP2E2OCz8G3xni3jxZeGLhgXrsuprA57uaR196BeYRp8GqyuhZ4HRR4clMYsdNoeGVHuxeyezCeRwx_K1KAegRHMjUBKv0i-bm8kiq6ER7w4GYyJNCmoJwWCeupL-GuOaWHmtU3WTN9k-yKZu44MmTEQNGEc_HpcEjjuH9TzMSiumk6EdmJeKPGsPoK-0SbptRQ3VN-9RtLr1robQZQykgdoYlRqBZM0HlXtgdDvSazyFBtWUM0EEHcLIiKRGoLbWFo.aq4MVpNQMjoEinfgKmvKmSYoqtjQNVvuteE_ehsjadk&dib_tag=se&keywords=%E4%BA%A4%E6%B8%89+%E6%9C%AC&qid=1718593923&sr=8-8)
+
+>[Amazon.co.jp: 戦略的交渉入門 (日本経済新聞出版) eBook : 田村次朗, 隅田浩司: Kindleストア](https://www.amazon.co.jp/dp/B079YB9Q1Q?tag=daincocologni-22&linkCode=ogi&th=1&psc=1)
+
+
 ## 仕事
 ```dataview
 TABLE FROM #仕事
