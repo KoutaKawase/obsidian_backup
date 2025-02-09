@@ -118,9 +118,23 @@
               "icon": "lucide-file",
               "title": "腸内環境は食物繊維の方が大事。外から菌を摂取しても生き残れない。"
             }
+          },
+          {
+            "id": "24cfe04b30d5dea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "プログラムは最後まで作り切ってこそ力がつく！経験値が違う。.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "プログラムは最後まで作り切ってこそ力がつく！経験値が違う。"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -265,10 +279,11 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "69b8b44c801fb0bc",
+  "active": "24cfe04b30d5dea4",
   "lastOpenFiles": [
-    "数学の比例に関するメモ.md",
     "腸内環境は食物繊維の方が大事。外から菌を摂取しても生き残れない。.md",
+    "プログラムは最後まで作り切ってこそ力がつく！経験値が違う。.md",
+    "数学の比例に関するメモ.md",
     "Notes/Index/勉強/数学/index.md",
     "めんどうな事でもやり始めてしまえば意外とできることが多い。悩んでる時間で手を動かしたりエディタ起動したほうがよい。.md",
     "Notes/Inbox/歩く時、食事中、お風呂など隙間を瞑想に充てられるとよい。.md",
@@ -292,7 +307,6 @@
     "Notes/Inbox/返信、電話は即返す。人へのプレゼントはケチるな。相手の話は好奇心旺盛に興味を持って聞く事。.md",
     "Notes/Index/勉強/英語/moc.md",
     "Notes/Index/勉強/英語/本.md",
-    "Notes/Inbox/過去形edは息のみ終わりならt。有声音ならd。t,d終わりならid。この三種類.md",
     "無題のフォルダ",
     "Extra/Pasted image 20250121144128.png",
     "Notes/Inbox/Pasted image 20241203142356.png",
