@@ -1,6 +1,6 @@
 ---
 tags:
-  - プログラミング/プロンプト
+  - プログラミング/AI
 ---
 [x.com](https://x.com/Suzacque/status/1865186321024848210)
 
