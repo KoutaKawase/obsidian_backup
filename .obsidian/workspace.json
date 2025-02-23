@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4ed105f2c4264522",
+        "id": "2fa96c190528309f",
         "type": "tabs",
         "children": [
           {
-            "id": "d28f2c689fd9e935",
+            "id": "75ff54cddc5c61c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/willなどの助動詞は重要ではないので弱く発音する。曖昧母音のwillはwal、I'llのlはダークエルで舌はつけずゥのようなイメージ.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "willなどの助動詞は重要ではないので弱く発音する。曖昧母音のwillはwal、I'llのlはダークエルで舌はつけずゥのようなイメージ"
-            }
-          },
-          {
-            "id": "85dc94aa8bb5f478",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "スピーキングはとにかく言いたいことを今知ってる語彙でなんとかするのが大事。言い換え。目薬を知らないならmedicine for the eyesとかでいい。英語は発想力。言い換え。英語に完璧主義は厳禁.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "スピーキングはとにかく言いたいことを今知ってる語彙でなんとかするのが大事。言い換え。目薬を知らないならmedicine for the eyesとかでいい。英語は発想力。言い換え。英語に完璧主義は厳禁"
-            }
-          },
-          {
-            "id": "51b15e5ce7486bcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "無題のファイル.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "無題のファイル"
-            }
-          },
-          {
-            "id": "f4dfbeceb2b7348a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/会社側は真面目に仕事して細かいことに文句を言わなくて人間性に問題のない人がほしい。.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "会社側は真面目に仕事して細かいことに文句を言わなくて人間性に問題のない人がほしい。"
+              "title": "新規タブ"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,11 +162,13 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "51b15e5ce7486bcd",
+  "active": "75ff54cddc5c61c5",
   "lastOpenFiles": [
-    "スピーキングはとにかく言いたいことを今知ってる語彙でなんとかするのが大事。言い換え。目薬を知らないならmedicine for the eyesとかでいい。英語は発想力。言い換え。英語に完璧主義は厳禁.md",
-    "無題のファイル.md",
     "Notes/Inbox/willなどの助動詞は重要ではないので弱く発音する。曖昧母音のwillはwal、I'llのlはダークエルで舌はつけずゥのようなイメージ.md",
+    "スピーキングはとにかく言いたいことを今知ってる語彙でなんとかするのが大事。言い換え。目薬を知らないならmedicine for the eyesとかでいい。英語は発想力。言い換え。英語に完璧主義は厳禁.md",
+    "英会話は使えるフレーズの丸暗記、基礎動詞(take, get系)の応用を使えるように、英英辞典ゲームをやりこむ。.md",
+    "Notes/Index/メンタルヘルス/メンタルヘルス.md",
+    "Notes/Inbox/インターネット依存のようなドーパミンの依存には運動が効果的。ウエイトと有酸素がよい。.md",
     "Notes/Scraps/倉庫は指なくなるかもしれないから注意.md",
     "Notes/Inbox/会社側は真面目に仕事して細かいことに文句を言わなくて人間性に問題のない人がほしい。.md",
     "Notes/Inbox/過去形edは息のみ終わりならt。有声音ならd。t,d終わりならid。この三種類.md",
@@ -236,8 +191,6 @@
     "Notes/Inbox/良い骨盤の前傾は肋骨を開かないこと。腹圧を維持して気持ち前傾維持しながら降ろしていく。.md",
     "Notes/Inbox/ミスは極論うっかりでしかない。理由などはあまり詰めず、頭を下げて報告と謝罪があるならそれで良い。それ以上は余計なガン詰めで逆効果。.md",
     "Notes/Inbox/人生で大事になるのは利他と性格の良さ。機嫌良くいること。自分の能力を分け与えること。相手に敬意を持ち、利他を心がける。.md",
-    "Notes/Inbox/体の機能や連動性を無視して筋肉をつけない。コンパウンド種目が一番よい。.md",
-    "Notes/Inbox/この世の全ての物は小さな物の集まり。それに実体があるというのは妄想。ただ名前や言葉をつけてるだけ。単に変化し続けるエネルギーであり人は必ず死ぬ。.md",
     "無題のフォルダ",
     "Extra/Pasted image 20250121144128.png",
     "Notes/Inbox/Pasted image 20241203142356.png",
