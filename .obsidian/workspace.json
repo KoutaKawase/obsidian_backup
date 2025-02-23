@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71a180218eeaff90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Scraps/倉庫は指なくなるかもしれないから注意.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "倉庫は指なくなるかもしれないから注意"
-            }
-          },
-          {
             "id": "d28f2c689fd9e935",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "賃貸はインターネット回線を自分で引けるのかどうかしっかり確認する。地主にも.md",
+                "file": "Notes/Inbox/willなどの助動詞は重要ではないので弱く発音する。曖昧母音のwillはwal、I'llのlはダークエルで舌はつけずゥのようなイメージ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "賃貸はインターネット回線を自分で引けるのかどうかしっかり確認する。地主にも"
+              "title": "willなどの助動詞は重要ではないので弱く発音する。曖昧母音のwillはwal、I'llのlはダークエルで舌はつけずゥのようなイメージ"
+            }
+          },
+          {
+            "id": "85dc94aa8bb5f478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "スピーキングはとにかく言いたいことを今知ってる語彙でなんとかするのが大事。言い換え。目薬を知らないならmedicine for the eyesとかでいい。英語は発想力。言い換え。英語に完璧主義は厳禁.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "スピーキングはとにかく言いたいことを今知ってる語彙でなんとかするのが大事。言い換え。目薬を知らないならmedicine for the eyesとかでいい。英語は発想力。言い換え。英語に完璧主義は厳禁"
             }
           },
           {
@@ -41,30 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "会社側は真面目に仕事して細かいことに文句を言わなくて人間性に問題のない人がほしい。.md",
+                "file": "Notes/Inbox/会社側は真面目に仕事して細かいことに文句を言わなくて人間性に問題のない人がほしい。.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "会社側は真面目に仕事して細かいことに文句を言わなくて人間性に問題のない人がほしい。"
             }
-          },
-          {
-            "id": "b104f0a0473fa2dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "willなどの助動詞は重要ではないので弱く発音する。曖昧母音のwillはwal、.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "willなどの助動詞は重要ではないので弱く発音する。曖昧母音のwillはwal、"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:プログラミング/プロンプト",
+                "query": "#発音",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,12 +195,14 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "b104f0a0473fa2dd",
+  "active": "85dc94aa8bb5f478",
   "lastOpenFiles": [
-    "会社側は真面目に仕事して細かいことに文句を言わなくて人間性に問題のない人がほしい。.md",
-    "willなどの助動詞は重要ではないので弱く発音する。曖昧母音のwillはwal、.md",
-    "賃貸はインターネット回線を自分で引けるのかどうかしっかり確認する。地主にも.md",
+    "Notes/Inbox/willなどの助動詞は重要ではないので弱く発音する。曖昧母音のwillはwal、I'llのlはダークエルで舌はつけずゥのようなイメージ.md",
+    "スピーキングはとにかく言いたいことを今知ってる語彙でなんとかするのが大事。言い換え。目薬を知らないならmedicine for the eyesとかでいい。英語は発想力。言い換え。英語に完璧主義は厳禁.md",
     "Notes/Scraps/倉庫は指なくなるかもしれないから注意.md",
+    "Notes/Inbox/会社側は真面目に仕事して細かいことに文句を言わなくて人間性に問題のない人がほしい。.md",
+    "Notes/Inbox/過去形edは息のみ終わりならt。有声音ならd。t,d終わりならid。この三種類.md",
+    "Notes/Inbox/賃貸はインターネット回線を自分で引けるのかどうかしっかり確認する。地主にも.md",
     "Extra/Pasted image 20250221224841.png",
     "Notes/Scraps/雪ダイブは死ぬからやめておけ！！！！！.md",
     "Notes/Inbox/仕事で自分に関わる人は全員今後の仕事につながる人だと思うこと。やってあげてるではなく、仕事を「いただいている」のである。.md",
@@ -236,8 +224,6 @@
     "Notes/Inbox/体の機能や連動性を無視して筋肉をつけない。コンパウンド種目が一番よい。.md",
     "Notes/Inbox/この世の全ての物は小さな物の集まり。それに実体があるというのは妄想。ただ名前や言葉をつけてるだけ。単に変化し続けるエネルギーであり人は必ず死ぬ。.md",
     "Notes/Inbox/一族経営は特にやばい。固定残業も結構やばい。社員数少なめの場所はよくない。.md",
-    "Notes/Inbox/プログラムは最後まで作り切ってこそ力がつく！経験値が違う。.md",
-    "Notes/Inbox/腸内環境は食物繊維の方が大事。外から菌を摂取しても生き残れない。.md",
     "無題のフォルダ",
     "Extra/Pasted image 20250121144128.png",
     "Notes/Inbox/Pasted image 20241203142356.png",
