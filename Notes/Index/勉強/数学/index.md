@@ -24,7 +24,7 @@ TABLE FROM #数学 AND #本/参考書
 ```dataview
 TABLE FROM #数学/大学数学  
 ```
-
+>[食える数学 | 神永 正博 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E9%A3%9F%E3%81%88%E3%82%8B%E6%95%B0%E5%AD%A6-%E7%A5%9E%E6%B0%B8-%E6%AD%A3%E5%8D%9A/dp/4887598491?dib=eyJ2IjoiMSJ9.-V62UIQEy9fvfC74tMFxNQ.6ihfke1DnEG4u3oE1lkTTpSYM-yEeXNmaveuNKE91L4&dib_tag=se&keywords=%E9%A3%9F%E3%81%88%E3%82%8B%E6%95%B0%E5%AD%A6%E3%80%8F%EF%BC%88%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%BB%E3%83%88%E3%82%A5%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%83%AF%E3%83%B3&qid=1730187651&sr=8-1&linkCode=sl1&tag=slimemap-22&linkId=7b8234b2bc0edb30978c9d0e30e6dfd6&language=ja_JP&ref_=as_li_ss_tl)(大学数学の学び方としておすすめ)
 ## 三角関数
 ```dataview
 TABLE FROM #数学/三角関数
