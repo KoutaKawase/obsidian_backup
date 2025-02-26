@@ -8,119 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c53237860bce3aac",
+            "id": "88cf5c008712d7cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "あんまり雑用を率先してやりすぎると自分の仕事になってしまう。隠れてやるのはいい。ベストは当番制か偉い人がやる。下手にやるとやらなかった時減点になる。言われたことだけをやる。.md",
+                "file": "賃貸はおとなしく大手の店舗にいくのがよいかもしれない.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "あんまり雑用を率先してやりすぎると自分の仕事になってしまう。隠れてやるのはいい。ベストは当番制か偉い人がやる。下手にやるとやらなかった時減点になる。言われたことだけをやる。"
-            }
-          },
-          {
-            "id": "513b3d0b68629099",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "猫の引っ掻きや噛み、猫吸いは致命傷になりうるので避ける。.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "猫の引っ掻きや噛み、猫吸いは致命傷になりうるので避ける。"
-            }
-          },
-          {
-            "id": "152db364bc26dad6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/瞑想というのは「刺激->反応」の間に一時停止(保留)を設けて価値判断しない、どう行動するか選択する力を養う事。刺激に対して自動的に反応しない練習。.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "瞑想というのは「刺激->反応」の間に一時停止(保留)を設けて価値判断しない、どう行動するか選択する力を養う事。刺激に対して自動的に反応しない練習。"
-            }
-          },
-          {
-            "id": "f56f9ec36457b229",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Scraps/deep reserch系で英語圏で今流行ったりよく検索されてる日本に関係するワードを調べてもらう.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "deep reserch系で英語圏で今流行ったりよく検索されてる日本に関係するワードを調べてもらう"
-            }
-          },
-          {
-            "id": "71f81775437d1c78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "引越しをするときにやる事！.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "引越しをするときにやる事！"
-            }
-          },
-          {
-            "id": "ab38abb23169142d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inbox/マイナンバーはマイナンバーとして、無くしてもあまりリスクがない原付とかどうでもいい運転免許証ととっておきそれを普段使いするとよいかも.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "マイナンバーはマイナンバーとして、無くしてもあまりリスクがない原付とかどうでもいい運転免許証ととっておきそれを普段使いするとよいかも"
-            }
-          },
-          {
-            "id": "3f88271f7a7d13ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "スマホはストラップで首とかと連結させておけばなくしにくいかも.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "スマホはストラップで首とかと連結させておけばなくしにくいかも"
-            }
-          },
-          {
-            "id": "5296776989e0a493",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "忘れ物トラッカー、忘れ物対策カードも紛失対策によさそう.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "忘れ物トラッカー、忘れ物対策カードも紛失対策によさそう"
+              "title": "賃貸はおとなしく大手の店舗にいくのがよいかもしれない"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,10 +166,11 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "5296776989e0a493",
+  "active": "88cf5c008712d7cd",
   "lastOpenFiles": [
-    "スマホはストラップで首とかと連結させておけばなくしにくいかも.md",
     "忘れ物トラッカー、忘れ物対策カードも紛失対策によさそう.md",
+    "賃貸はおとなしく大手の店舗にいくのがよいかもしれない.md",
+    "スマホはストラップで首とかと連結させておけばなくしにくいかも.md",
     "Notes/Inbox/マイナンバーはマイナンバーとして、無くしてもあまりリスクがない原付とかどうでもいい運転免許証ととっておきそれを普段使いするとよいかも.md",
     "引越しをするときにやる事！.md",
     "Notes/Scraps/deep reserch系で英語圏で今流行ったりよく検索されてる日本に関係するワードを調べてもらう.md",
@@ -293,7 +195,6 @@
     "Notes/Inbox/インデックス、投資の基本を学ぶのは「敗者のゲーム」一冊でよい。とにかくこれを読む！.md",
     "Notes/Inbox/インデックスをやるのは大事だけど、全世界株式をおすすめされて脳死でやるのはダメ。SP500や全世界でもそれぞれの特性やリスクリターンを知り自分の投資目的や意思に合わせて自分で考えてやること。.md",
     "Notes/Inbox/投資を始めると必ず欲が出て色々やりたくなるが、絶対にインデックス以外やるな。投機は厳禁。儲けようと思ったら儲からないもの。欲を出せば損をする。.md",
-    "Notes/Inbox/勤め人なら収支改善して、コツコツNISAとidecoを積み立てるぐらいがちょうどいい。将来楽するためであって今金持ちになるためものではない。身の丈にあった投資を。.md",
     "Extra/Pasted image 20250221224841.png",
     "無題のフォルダ",
     "Extra/Pasted image 20250121144128.png",
