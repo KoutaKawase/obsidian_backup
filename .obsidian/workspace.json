@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "数学の比例に関するメモ"
             }
+          },
+          {
+            "id": "73ebd556bf58ca9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "オームの法則のイメージ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "オームの法則のイメージ"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,8 +181,10 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "88cf5c008712d7cd",
+  "active": "73ebd556bf58ca9d",
   "lastOpenFiles": [
+    "Notes/Scraps/数学の比例に関するメモ.md",
+    "オームの法則のイメージ.md",
     "賃貸はおとなしく大手の店舗にいくのがよいかもしれない.md",
     "Notes/Inbox/忘れ物トラッカー、忘れ物対策カードも紛失対策によさそう.md",
     "Notes/Inbox/スマホはストラップで首とかと連結させておけばなくしにくいかも.md",
@@ -193,8 +210,6 @@
     "とにかく考えるだけでなく、「書いてから考える」。手を動かす。間違えてることも書いてもよい。思考を書き出すのは大事。まず手を動かす、試すのは数学以外でも大事。.md",
     "Notes/Index/金融.md",
     "Notes/Inbox/インデックス、投資の基本を学ぶのは「敗者のゲーム」一冊でよい。とにかくこれを読む！.md",
-    "Notes/Inbox/インデックスをやるのは大事だけど、全世界株式をおすすめされて脳死でやるのはダメ。SP500や全世界でもそれぞれの特性やリスクリターンを知り自分の投資目的や意思に合わせて自分で考えてやること。.md",
-    "Notes/Inbox/投資を始めると必ず欲が出て色々やりたくなるが、絶対にインデックス以外やるな。投機は厳禁。儲けようと思ったら儲からないもの。欲を出せば損をする。.md",
     "Extra/Pasted image 20250221224841.png",
     "無題のフォルダ",
     "Extra/Pasted image 20250121144128.png",
