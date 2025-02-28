@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "オームの法則のイメージ"
             }
+          },
+          {
+            "id": "8f8f4af5cac1d4e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "活線作業は南京錠を利用する。大元に鍵をかけ、その鍵を箱に入れ箱に個人ごとに鍵をかけてそれを持つ。.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "活線作業は南京錠を利用する。大元に鍵をかけ、その鍵を箱に入れ箱に個人ごとに鍵をかけてそれを持つ。"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,10 +195,11 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "73ebd556bf58ca9d",
+  "active": "8f8f4af5cac1d4e7",
   "lastOpenFiles": [
-    "Notes/Scraps/数学の比例に関するメモ.md",
     "オームの法則のイメージ.md",
+    "活線作業は南京錠を利用する。大元に鍵をかけ、その鍵を箱に入れ箱に個人ごとに鍵をかけてそれを持つ。.md",
+    "Notes/Scraps/数学の比例に関するメモ.md",
     "賃貸はおとなしく大手の店舗にいくのがよいかもしれない.md",
     "Notes/Inbox/忘れ物トラッカー、忘れ物対策カードも紛失対策によさそう.md",
     "Notes/Inbox/スマホはストラップで首とかと連結させておけばなくしにくいかも.md",
@@ -209,7 +224,6 @@
     "Notes/Inbox/理解していないこと、説明できないことはAnkiカード化しない。.md",
     "とにかく考えるだけでなく、「書いてから考える」。手を動かす。間違えてることも書いてもよい。思考を書き出すのは大事。まず手を動かす、試すのは数学以外でも大事。.md",
     "Notes/Index/金融.md",
-    "Notes/Inbox/インデックス、投資の基本を学ぶのは「敗者のゲーム」一冊でよい。とにかくこれを読む！.md",
     "Extra/Pasted image 20250221224841.png",
     "無題のフォルダ",
     "Extra/Pasted image 20250121144128.png",
