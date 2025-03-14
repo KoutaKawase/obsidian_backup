@@ -19,6 +19,7 @@ TABLE FROM #仕事/面接
 TABLE FROM #仕事
 ```
 
+- Chromeの仕事術ブックマークも役にたつ！
 ## 人間関係
 ```dataview
 TABLE FROM #人間関係 
