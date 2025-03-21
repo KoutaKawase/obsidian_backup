@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inbox/物件下見は共用部分の張り紙に注目するとよい。騒音注意の張り紙などがあると注意。.md",
+                "file": "Notes/Index/勉強/数学/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "物件下見は共用部分の張り紙に注目するとよい。騒音注意の張り紙などがあると注意。"
+              "title": "index"
             }
           }
         ],
@@ -181,10 +181,10 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "4c4d60be4405893a",
   "lastOpenFiles": [
-    "長文も極力単純な日本語にする。要約して言い換えする。食欲をコントロールできませんでした->I ate too much.ぐらいシンプルで良い。.md",
     "Notes/Inbox/物件下見は共用部分の張り紙に注目するとよい。騒音注意の張り紙などがあると注意。.md",
+    "長文も極力単純な日本語にする。要約して言い換えする。食欲をコントロールできませんでした->I ate too much.ぐらいシンプルで良い。.md",
     "全てを理解してから次に進もうとしなくてもいい。理解できないところがあればそこにマークをつけておく。.md",
     "Notes/Inbox/古いビルはエレベーターがメンテされてないことが多いのでなるべく階段を使う。.md",
     "Notes/Inbox/空調服はバッテリーの危険を孕む上に夏場の暑い外じゃ無意味。.md",
