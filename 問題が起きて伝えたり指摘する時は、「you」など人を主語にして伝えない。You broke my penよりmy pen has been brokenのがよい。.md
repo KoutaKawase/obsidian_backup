@@ -19,5 +19,14 @@ My computer has been broken! -> 無生物主語でよい
 伝える文章にすれば良いのです。
 
 
+You have sent the document to the wrong person.
+あなたが違う人に書類を送ってしまった。
+-> 直接的すぎる
+
+The document has been sent to the wrong person.
+書類は違う人に送られてしまった。
+-> 間接的
+
+
 
 
