@@ -4,67 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "5246a50321c2a6f5",
+        "id": "be37a29f9e993257",
         "type": "tabs",
         "children": [
           {
-            "id": "3e765ef1069e2e13",
+            "id": "a9b20d3b9e8b1916",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "マルチビタミンは野菜を食べていればいらないけど、野菜が高かったり普段食べてないなら有効。ネイチャーメイドがおすすめ。.md",
+                "file": "何か問題が起きた時、自分が被害者と決めつけない。思い込みを避ける。相手を悪い人にせずメンツをたたせる。感情的禁止 状況を淡々と説明。問題解決が最優先。犯人探しではない。.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "マルチビタミンは野菜を食べていればいらないけど、野菜が高かったり普段食べてないなら有効。ネイチャーメイドがおすすめ。"
+              "title": "何か問題が起きた時、自分が被害者と決めつけない。思い込みを避ける。相手を悪い人にせずメンツをたたせる。感情的禁止 状況を淡々と説明。問題解決が最優先。犯人探しではない。"
             }
           },
           {
-            "id": "b4d516eb47204cb8",
+            "id": "7c758b6d06874b24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英語で直接的な表現は避けた方が良い。Can you やDo you knowはあんまりよくない。NoだけなどもNG。Thank youを忘れない。.md",
+                "file": "問題が起きて伝えたり指摘する時は、「you」など人を主語にして伝えない。You broke my penよりmy pen has been brokenのがよい。.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "英語で直接的な表現は避けた方が良い。Can you やDo you knowはあんまりよくない。NoだけなどもNG。Thank youを忘れない。"
-            }
-          },
-          {
-            "id": "1721af8231b128c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "命令形は直接的過ぎるのであまり使わない方がよい。pleaseをつければよいというものではない。Could you please...などがよい。.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "命令形は直接的過ぎるのであまり使わない方がよい。pleaseをつければよいというものではない。Could you please...などがよい。"
-            }
-          },
-          {
-            "id": "3c56947f74248071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Why did you... のような表現は直接的すぎて「なんで...したの？」と責めてるようになる。無生物主語にすることが大事。What brings you to...のように無生物を主語に。.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Why did you... のような表現は直接的すぎて「なんで...したの？」と責めてるようになる。無生物主語にすることが大事。What brings you to...のように無生物を主語に。"
+              "title": "問題が起きて伝えたり指摘する時は、「you」など人を主語にして伝えない。You broke my penよりmy pen has been brokenのがよい。"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#自己管理",
+                "query": "tag: #英語/翻訳",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,12 +181,16 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "3c56947f74248071",
+  "active": "7c758b6d06874b24",
   "lastOpenFiles": [
+    "何か問題が起きた時、自分が被害者と決めつけない。思い込みを避ける。相手を悪い人にせずメンツをたたせる。感情的禁止 状況を淡々と説明。問題解決が最優先。犯人探しではない。.md",
+    "問題が起きて伝えたり指摘する時は、「you」など人を主語にして伝えない。You broke my penよりmy pen has been brokenのがよい。.md",
     "命令形は直接的過ぎるのであまり使わない方がよい。pleaseをつければよいというものではない。Could you please...などがよい。.md",
-    "Why did you... のような表現は直接的すぎて「なんで...したの？」と責めてるようになる。無生物主語にすることが大事。What brings you to...のように無生物を主語に。.md",
-    "英語で直接的な表現は避けた方が良い。Can you やDo you knowはあんまりよくない。NoだけなどもNG。Thank youを忘れない。.md",
-    "マルチビタミンは野菜を食べていればいらないけど、野菜が高かったり普段食べてないなら有効。ネイチャーメイドがおすすめ。.md",
+    "Notes/Inbox/Why did you... のような表現は直接的すぎて「なんで...したの？」と責めてるようになる。無生物主語にすることが大事。What brings you to...のように無生物を主語に。.md",
+    "Notes/Inbox/翻訳の日本語は結論から書くべきだ.md",
+    "何か問題が起きたり問題点を伝える時、主語を「you」などの人にしない。You broke my pen...より my pen has been brokenのがよい。.md",
+    "Notes/Inbox/英語で直接的な表現は避けた方が良い。Can you やDo you knowはあんまりよくない。NoだけなどもNG。Thank youを忘れない。.md",
+    "Notes/Inbox/マルチビタミンは野菜を食べていればいらないけど、野菜が高かったり普段食べてないなら有効。ネイチャーメイドがおすすめ。.md",
     "Notes/Inbox/睡眠薬は強い依存性があるので極力使わない。睡眠中の脳の老廃物も流せない。ベンゾジアゼビン系が特にまずい。.md",
     "Notes/Inbox/脇臭や体臭、皮脂臭はアメリカ製のスプレーがよい。男性用ならold spice。海外ではスプレーを活用している。ミョウバン水もよい。.md",
     "Notes/Inbox/面接は嘘をつかないほうがよい。嘘は仏教でもだめ。嘘をつかない正直に言えるやつのほうが一緒に働きたい。嘘は相手から見るとバレバレ。.md",
@@ -233,10 +209,6 @@
     "Notes/Inbox/英会話はイディオムと句動詞を使いこなすのがコツ。idiom in useかEnglish for everyoneシリーズがおすすめ。.md",
     "Notes/Inbox/リュックカバンには緊急時用に水なしで飲める下痢止めを入れておく。ナプキンを後ろよりに貼るのもよい。替えの下着も入れておくとよい。.md",
     "Notes/Inbox/マイナンバーカードはスマホで代用できるので、物理カードは自宅に保管しておいてもいいかも。大事なカードはそもそもなるべく外に出さないことが大事。クレカは特に外では使うべきではない。カードは使ったらちゃんと財布に入れたか指差し声出し。.md",
-    "Notes/Inbox/紛失防止にはスマートタグを活用する。スマホ、財布、カード入れなど大事なものに。バッテリーは大したことない。MAMORIOがよさそう.md",
-    "Notes/Inbox/タイムカードを誤魔化して残業させる企業は証拠を残すことが大事。「今から帰る」といった出退勤連絡やGoogleマップの履歴、職場の時計の写真を保持。.md",
-    "Notes/Inbox/騒音対策はXを活用する。騒音記録をとり、騒音対策コミュニティで知識をつける。.md",
-    "Notes/Inbox/クレカやキャッシュカードなどの磁気カードはスキミング防止の入れ物に入れるとよい。.md",
     "Notes/Inbox/Pasted image 20250317074155.png",
     "Extra/Pasted image 20250224172822.png",
     "Extra/Pasted image 20250221224841.png",
