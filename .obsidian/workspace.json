@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "問題が起きて伝えたり指摘する時は、「you」など人を主語にして伝えない。You broke my penよりmy pen has been brokenのがよい。"
             }
+          },
+          {
+            "id": "5f9be11186753639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "通分と約数と最小公倍数などなどのまとめメモ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "通分と約数と最小公倍数などなどのまとめメモ"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,10 +195,11 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "7c758b6d06874b24",
+  "active": "5f9be11186753639",
   "lastOpenFiles": [
-    "何か問題が起きた時、自分が被害者と決めつけない。思い込みを避ける。相手を悪い人にせずメンツをたたせる。感情的禁止 状況を淡々と説明。問題解決が最優先。犯人探しではない。.md",
     "問題が起きて伝えたり指摘する時は、「you」など人を主語にして伝えない。You broke my penよりmy pen has been brokenのがよい。.md",
+    "通分と約数と最小公倍数などなどのまとめメモ.md",
+    "何か問題が起きた時、自分が被害者と決めつけない。思い込みを避ける。相手を悪い人にせずメンツをたたせる。感情的禁止 状況を淡々と説明。問題解決が最優先。犯人探しではない。.md",
     "命令形は直接的過ぎるのであまり使わない方がよい。pleaseをつければよいというものではない。Could you please...などがよい。.md",
     "Notes/Inbox/Why did you... のような表現は直接的すぎて「なんで...したの？」と責めてるようになる。無生物主語にすることが大事。What brings you to...のように無生物を主語に。.md",
     "Notes/Inbox/翻訳の日本語は結論から書くべきだ.md",
@@ -208,7 +223,6 @@
     "Notes/Inbox/リチウムイオン電池が入ったバッテリーはセーフティバッグやアルミ缶に入れると良い.md",
     "Notes/Inbox/英会話はイディオムと句動詞を使いこなすのがコツ。idiom in useかEnglish for everyoneシリーズがおすすめ。.md",
     "Notes/Inbox/リュックカバンには緊急時用に水なしで飲める下痢止めを入れておく。ナプキンを後ろよりに貼るのもよい。替えの下着も入れておくとよい。.md",
-    "Notes/Inbox/マイナンバーカードはスマホで代用できるので、物理カードは自宅に保管しておいてもいいかも。大事なカードはそもそもなるべく外に出さないことが大事。クレカは特に外では使うべきではない。カードは使ったらちゃんと財布に入れたか指差し声出し。.md",
     "Notes/Inbox/Pasted image 20250317074155.png",
     "Extra/Pasted image 20250224172822.png",
     "Extra/Pasted image 20250221224841.png",
