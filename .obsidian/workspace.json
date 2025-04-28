@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "ポルテの製品は安全性が高そうな服や手袋"
             }
+          },
+          {
+            "id": "cf91925698a9a66a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,7 +193,7 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "1ba85f12afadb5e4",
+  "active": "cf91925698a9a66a",
   "lastOpenFiles": [
     "最初は運動するだけで1日が終わってしまうが続ければ必ず体力がつき1日を有意義に使える。運動は大事。人生の可処分時間を増やすには運動で体力をつけるのがいい。運動は動く時間を増やせる。.md",
     "ポルテの製品は安全性が高そうな服や手袋.md",
