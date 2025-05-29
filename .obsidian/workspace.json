@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f471c4ba78cf0b1d",
+        "id": "303ccc8ff5054f07",
         "type": "tabs",
         "children": [
           {
-            "id": "3ae2b5da8f704b7a",
+            "id": "5611e3a36d85dd4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日焼け止めはこまめに塗り直さないと効果はない。.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "日焼け止めはこまめに塗り直さないと効果はない。"
+              "title": "新規タブ"
             }
           }
         ]
@@ -166,10 +162,11 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "3ae2b5da8f704b7a",
+  "active": "5611e3a36d85dd4a",
   "lastOpenFiles": [
+    "ゴキブリは鏡の隙間、壁の隙間、床の隙間からもくる。.md",
+    "Notes/Inbox/日焼け止めはこまめに塗り直さないと効果はない。.md",
     "Notes/Inbox/脚立は正しい使い方以外絶対にするな。よく学こと。正しいのは片面のみ太ももを当てる。天板乗る足で挟む天板座る、これら全てNG。特に天板乗るのは危な過ぎる。金玉挟むぞ。.md",
-    "日焼け止めはこまめに塗り直さないと効果はない。.md",
     "Extra/Pasted image 20250524223840.png",
     "Notes/Inbox/安全講習は無料で受けられるので安全衛生マネジメント協会で受ける。無料で動画もあるので、それも目を通しておく。高圧とかいろいろある。.md",
     "Notes/Inbox/食前の運動はあまり血糖値を下げるのに効果はない。食後はウォーキングか4秒4秒スクワット40回がよい。座りっぱなしは血糖値を上げる。.md",
@@ -194,7 +191,6 @@
     "Notes/Inbox/when life gives you lemons make lemonade. 人生がレモンを与えるならレモネードを作ろう。人生の苦難があってもポジティブに前向きに良い面を捉えようという意味。.md",
     "Notes/Inbox/カバンに火事で建物から脱出するように頑丈なロープを用意しておくとよい。.md",
     "Notes/Inbox/業務の相談、報連相のついでに上司を立てる、第三者経由、さりげない尊敬表現でヨイショをするのが職場の人間関係で大事。.md",
-    "Notes/Inbox/賃貸は湯船なし物件がコスパいい。.md",
     "無題のフォルダ",
     "Extra/Pasted image 20250428135621.png",
     "Extra/Pasted image 20250428135314.png",
