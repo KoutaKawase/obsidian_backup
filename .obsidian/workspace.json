@@ -11,10 +11,14 @@
             "id": "5611e3a36d85dd4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "I'mはum, you're は yer, We're は wer, They'reはðer,となる。これらの短い発音がネイティブっぽい.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "I'mはum, you're は yer, We're は wer, They'reはðer,となる。これらの短い発音がネイティブっぽい"
             }
           }
         ]
@@ -162,8 +166,9 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "942ca54bce5f0efd",
+  "active": "5611e3a36d85dd4a",
   "lastOpenFiles": [
+    "I'mはum, you're は yer, We're は wer, They'reはðer,となる。これらの短い発音がネイティブっぽい.md",
     "Notes/Inbox/ゴキブリは鏡の隙間、壁の隙間、床の隙間からもくる。.md",
     "Notes/Inbox/日焼け止めはこまめに塗り直さないと効果はない。.md",
     "Notes/Inbox/脚立は正しい使い方以外絶対にするな。よく学こと。正しいのは片面のみ太ももを当てる。天板乗る足で挟む天板座る、これら全てNG。特に天板乗るのは危な過ぎる。金玉挟むぞ。.md",
@@ -190,7 +195,6 @@
     "Notes/Inbox/Gは横から吹きかける正面はダメ。壁のやつは高確率で飛んでくる。地面にいるやつは飛んでこない.md",
     "Notes/Inbox/when life gives you lemons make lemonade. 人生がレモンを与えるならレモネードを作ろう。人生の苦難があってもポジティブに前向きに良い面を捉えようという意味。.md",
     "Notes/Inbox/カバンに火事で建物から脱出するように頑丈なロープを用意しておくとよい。.md",
-    "Notes/Inbox/業務の相談、報連相のついでに上司を立てる、第三者経由、さりげない尊敬表現でヨイショをするのが職場の人間関係で大事。.md",
     "無題のフォルダ",
     "Extra/Pasted image 20250428135621.png",
     "Extra/Pasted image 20250428135314.png",
