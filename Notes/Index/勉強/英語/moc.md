@@ -28,7 +28,7 @@ TABLE FROM #英語/スピーキング
 - [英会話は直訳をやめるとうまくいく！[音声DL付] | ニック・ウィリアムソン |本 | 通販 | Amazon](https://www.amazon.co.jp/%E8%8B%B1%E4%BC%9A%E8%A9%B1%E3%81%AF%E7%9B%B4%E8%A8%B3%E3%82%92%E3%82%84%E3%82%81%E3%82%8B%E3%81%A8%E3%81%86%E3%81%BE%E3%81%8F%E3%81%84%E3%81%8F%EF%BC%81-%E9%9F%B3%E5%A3%B0DL%E4%BB%98-%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BD%E3%83%B3/dp/4757440332/ref=pd_sbs_d_sccl_2_2/358-0743587-1088863?pd_rd_w=75dQy&content-id=amzn1.sym.090fe8ef-0d01-40bb-ae53-6c31fc9de11e&pf_rd_p=090fe8ef-0d01-40bb-ae53-6c31fc9de11e&pf_rd_r=2GH6E9XEXNTCATG7WSH9&pd_rd_wg=z7GzV&pd_rd_r=4ac39a89-855f-4931-b186-ae718eafd30e&pd_rd_i=4757440332&psc=1)
 ## 英作文
 ```dataview
-TABLE FROM #英語 AND #英作文 
+TABLE FROM #英語/英作文
 ```
 
 - [新ユメサク (アルク学参シリーズ) | 木村 達哉, 丸山 晃 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E6%96%B0%E3%83%A6%E3%83%A1%E3%82%B5%E3%82%AF-%E3%82%A2%E3%83%AB%E3%82%AF%E5%AD%A6%E5%8F%82%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E6%9C%A8%E6%9D%91-%E9%81%94%E5%93%89/dp/4757430809/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=24LSBLMWRSSK6&keywords=%E5%92%8C%E6%96%87%E5%92%8C%E8%A8%B3&qid=1702740146&s=books&sprefix=%E5%92%8C%E6%96%87%E5%92%8C%E8%A8%B3%2Cstripbooks%2C193&sr=1-1)
@@ -39,7 +39,7 @@ TABLE FROM #英語 AND #英作文
 
 ## Listening
 ```dataview
-TABLE FROM #英語 AND #語学/リスニング 
+TABLE FROM #英語/リスニング 
 ```
 
 ### 英文法
