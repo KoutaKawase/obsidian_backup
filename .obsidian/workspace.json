@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "熱中症は初期症状が出た時に早めに休憩水覚まし水分補給と対策しないと手遅れになる。手足の痺れや頭痛がしたらすぐ休憩"
             }
+          },
+          {
+            "id": "425a4f67d2429a83",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -166,7 +180,7 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "b2bb0a0406835342",
+  "active": "425a4f67d2429a83",
   "lastOpenFiles": [
     "熱中症は初期症状が出た時に早めに休憩水覚まし水分補給と対策しないと手遅れになる。手足の痺れや頭痛がしたらすぐ休憩.md",
     "工事現場の横は通らないかすぐに走り抜ける方がよい。上からものが落ちてくる。.md",
