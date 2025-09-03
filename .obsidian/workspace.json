@@ -53,12 +53,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:英語/英文法",
+                "query": "tag:英語/学び方",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "検索"
