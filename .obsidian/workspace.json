@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "漫然と作業をしない。最悪死ぬ。指差し声出し周囲の確認を徹底すること。めんどうでもやる。"
             }
+          },
+          {
+            "id": "5000b3b0169f343d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +180,7 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "552526eb8955e7f6",
+  "active": "5000b3b0169f343d",
   "lastOpenFiles": [
     "英語を読む時話す時はシラブルごとに息を吸い力まずに一息で話し切る。弧を描くように息を使い切りストレスとそれ以外で差を生み出す。.md",
     "漫然と作業をしない。最悪死ぬ。指差し声出し周囲の確認を徹底すること。めんどうでもやる。.md",
