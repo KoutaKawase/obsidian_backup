@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "88db9dd85872b2fd",
+        "id": "d07d6794a0e89dfe",
         "type": "tabs",
         "children": [
           {
-            "id": "c97d38216a7d8585",
+            "id": "a766dc7bce4c193e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Index/勉強/英語/本.md",
+                "file": "水道に限らず、ポストに入ったマグネット業者はぼったくりなので使わない。水道は市役所に提携業者を聞く。.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "本"
-            }
-          },
-          {
-            "id": "75a3f729c618ca0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Index/勉強/英語/本.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "本"
+              "title": "水道に限らず、ポストに入ったマグネット業者はぼったくりなので使わない。水道は市役所に提携業者を聞く。"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,15 +167,16 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "75a3f729c618ca0b",
+  "active": "a766dc7bce4c193e",
   "lastOpenFiles": [
+    "Notes/Index/勉強/英語/本.md",
+    "水道に限らず、ポストに入ったマグネット業者はぼったくりなので使わない。水道は市役所に提携業者を聞く。.md",
     "Notes/Index/勉強/数学/index.md",
     "チャットで不満やお気持ちを表明してはいけない。お気持ち表明はマジでだめ。余計なことを言わない。.md",
-    "Notes/Index/勉強/英語/本.md",
     "Notes/Inbox/スピーキングで大事なのは発音よりも正しい\"強勢\"。自信とゆっくりとアメリカ人になりきるのが大事。省略系やスラングは避ける。.md",
     "Notes/Inbox/毎回お水を買うのはもったいないので、ブリタの浄水型水筒ボトルを持ち運ぶとよい。コスパがいい。.md",
     "駐車場の迷惑駐車は盗難者かもしれないと通報するとよい。.md",
-    "リュックにはマイクロファイバーの速乾タオルがあるといい。Matadorのがおすすめ.md",
+    "Notes/Inbox/リュックにはマイクロファイバーの速乾タオルがあるといい。Matadorのがおすすめ.md",
     "Notes/Inbox/良い上司とは何回同じことを安心して聞ける、部下の頑張りに花を持たせてくれる、部下のことをよく覚えててくれる。.md",
     "Notes/Inbox/英語を読む時話す時はシラブルごとに息を吸い力まずに一息で話し切る。弧を描くように息を使い切りストレスとそれ以外で差を生み出す。.md",
     "Notes/Inbox/漫然と作業をしない。最悪死ぬ。指差し声出し周囲の確認を徹底すること。めんどうでもやる。.md",
@@ -209,7 +195,6 @@
     "Notes/Inbox/運というのは普段の振る舞いも大事。真っ当に生きる。悪口を言わないお礼を欠かさない、挨拶をする。そういう基本的な事の積み重ね。普段の行動からそうしておく。運というのは準備して拾いに行くものだ。.md",
     "Notes/Inbox/夏場は塩分をとらない水の摂りすぎは逆効果。水を沢山飲むなら塩分も一緒に摂らないと危険。.md",
     "Notes/Inbox/夏場は乾いたタオルで拭かず濡らして拭くのがよい。冷たい保冷剤やペットボトルは手のひらに当てる。.md",
-    "Notes/Inbox/熱中症は運動不足、睡眠不足(特に!)、食事不足がやばい。.md",
     "無題のフォルダ 1",
     "Extra/Pasted image 20250602234053.png",
     "Extra/Pasted image 20250602234037.png",
