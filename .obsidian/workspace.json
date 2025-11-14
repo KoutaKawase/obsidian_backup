@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4ab4ad9e16e012d8",
+        "id": "69ee60cd88ecbc87",
         "type": "tabs",
         "children": [
           {
-            "id": "a23b36aa9f12bf33",
+            "id": "468e8d4c868b7c95",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "英語を話す時は語尾を不必要にあげない。自信がないように聞こえて続きを期待させる。しっかり言い切るのが大事。.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "英語を話す時は語尾を不必要にあげない。自信がないように聞こえて続きを期待させる。しっかり言い切るのが大事。"
             }
           }
         ]
@@ -165,8 +167,9 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "a23b36aa9f12bf33",
+  "active": "468e8d4c868b7c95",
   "lastOpenFiles": [
+    "英語を話す時は語尾を不必要にあげない。自信がないように聞こえて続きを期待させる。しっかり言い切るのが大事。.md",
     "面接や履歴書など、自分だけで考えず、必ず誰かに見てもらう。自分だけでやろうとするのが悪いところ。これはどの分野でもそう。独断でやろうとしない。.md",
     "誰がどんな背景を持っているのかわからないのだから、誰にでも敬意を持って親切に優しくするのが大事。意外な人が社長だったりするかも。.md",
     "Notes/Scraps/配信アイデア メモ.md",
@@ -192,7 +195,6 @@
     "Notes/Inbox/リュックにはマイクロファイバーの速乾タオルがあるといい。Matadorのがおすすめ.md",
     "Notes/Inbox/良い上司とは何回同じことを安心して聞ける、部下の頑張りに花を持たせてくれる、部下のことをよく覚えててくれる。.md",
     "Notes/Inbox/英語を読む時話す時はシラブルごとに息を吸い力まずに一息で話し切る。弧を描くように息を使い切りストレスとそれ以外で差を生み出す。.md",
-    "Notes/Inbox/漫然と作業をしない。最悪死ぬ。指差し声出し周囲の確認を徹底すること。めんどうでもやる。.md",
     "無題のフォルダ 1",
     "Extra/Pasted image 20250602234053.png",
     "Extra/Pasted image 20250602234037.png",
