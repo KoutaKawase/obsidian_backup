@@ -8,35 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4c0984ba9ae18c9",
+            "id": "a23b36aa9f12bf33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "面接や履歴書など、自分だけで考えず、必ず誰かに見てもらう。自分だけでやろうとするのが悪いところ。これはどの分野でもそう。独断でやろうとしない。.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.10.3"
               },
-              "icon": "lucide-file",
-              "title": "面接や履歴書など、自分だけで考えず、必ず誰かに見てもらう。自分だけでやろうとするのが悪いところ。これはどの分野でもそう。独断でやろうとしない。"
-            }
-          },
-          {
-            "id": "2fdcfa2ea009b9d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "誰がどんな背景を持っているのかわからないのだから、誰にでも敬意を持って親切に優しくするのが大事。意外な人が社長だったりするかも。.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "誰がどんな背景を持っているのかわからないのだから、誰にでも敬意を持って親切に優しくするのが大事。意外な人が社長だったりするかも。"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +165,7 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "2fdcfa2ea009b9d1",
+  "active": "a23b36aa9f12bf33",
   "lastOpenFiles": [
     "面接や履歴書など、自分だけで考えず、必ず誰かに見てもらう。自分だけでやろうとするのが悪いところ。これはどの分野でもそう。独断でやろうとしない。.md",
     "誰がどんな背景を持っているのかわからないのだから、誰にでも敬意を持って親切に優しくするのが大事。意外な人が社長だったりするかも。.md",
