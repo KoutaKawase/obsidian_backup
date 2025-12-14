@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "下剤は人によってすぐ反応するので十分に注意する。おむつや休みを用意しておく。健康診断は注意.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "下剤は人によってすぐ反応するので十分に注意する。おむつや休みを用意しておく。健康診断は注意"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#inbox",
+                "query": "tag:#index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,9 +167,9 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "2964ca237538d19b",
+  "active": "942ca54bce5f0efd",
   "lastOpenFiles": [
-    "無題のファイル.md",
+    "下剤は人によってすぐ反応するので十分に注意する。おむつや休みを用意しておく。健康診断は注意.md",
     "立ち続きの仕事は靴の中の中敷きを買うといい。着圧ソックスも有効。靴下インソールが大事.md",
     "Notes/Inbox/英語の土台はSVO。SVCは補助。SVOだけだとChoppyなのでSVO+Modifierが理想。英語は主語動詞が決まればとは補足チャンクでしかない。SVOC SVOOはただのSVO派生.md",
     "コミュ力とは余計な事を言わないこと。沈黙は金。マイナス点を取らない事が一番大事。貯金と同じで発言するたびに信用が減る。何を言うかより何を言わないかが大事。.md",
