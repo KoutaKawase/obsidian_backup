@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "toは直前は無声音の場合はta 有声音ならdaと発音する。でもゆっくり話す時でdecided to...みたいに一旦泊まる時は文末のto扱いでトゥーでもよさそう"
             }
+          },
+          {
+            "id": "c90c5f53021cc3a0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +180,7 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "6f932d99798b6ab8",
+  "active": "c90c5f53021cc3a0",
   "lastOpenFiles": [
     "英語を真似する時は文字を見ながらじゃなくて、聞いた音を真似するようにする。音が第一級市民。音に始まり声に終わる。音を聞いて文字を見る。.md",
     "toは直前は無声音の場合はta 有声音ならdaと発音する。でもゆっくり話す時でdecided to...みたいに一旦泊まる時は文末のto扱いでトゥーでもよさそう.md",
