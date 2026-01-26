@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "仕事ができない人は準備不足、マルチタスク、焦りすぎ。段取り優先順位を考えていきなり作業しない。シングルタスクのが早い"
             }
+          },
+          {
+            "id": "1a74b857a921c20a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,7 +208,7 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "654eace2bb9fbaed",
+  "active": "1a74b857a921c20a",
   "lastOpenFiles": [
     "should'veやwould've、could'veのavは母音を曖昧にするのが大事。dvのように子音だけ発音するぐらいの勢いでいい。シュドゥヴぐらいでいい。couldn't haveは注意。kudan navになる.md",
     "仕事ができない人は準備不足、マルチタスク、焦りすぎ。段取り優先順位を考えていきなり作業しない。シングルタスクのが早い.md",
