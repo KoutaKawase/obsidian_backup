@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "いわゆる「英語っぽい」のはネイティブが理解しやすいとは限らない。ぶつ切りでもカタカナでもハッキリゆっくり話してくれた方が向こうは聞きやすい。まずは通じる英語を意識すること。ただしフィラーワードは使わない方がいい。間を置く。"
             }
+          },
+          {
+            "id": "715b4f1645277082",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "リリースノート 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "bases:新規ベースを作成": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -167,7 +180,7 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "29c6dfeea929a119",
+  "active": "715b4f1645277082",
   "lastOpenFiles": [
     "Notes/Inbox/頭皮の加齢臭はシャンプーを変える、ヘッドスクラブ、軽く洗ってからマッサージしてからシャンプー、朝晩洗う、きちんとそそぐ。焼きミョウバン水を頭につける。ミョウバンは体臭にもいい。.md",
     "いわゆる「英語っぽい」のはネイティブが理解しやすいとは限らない。ぶつ切りでもカタカナでもハッキリゆっくり話してくれた方が向こうは聞きやすい。まずは通じる英語を意識すること。ただしフィラーワードは使わない方がいい。間を置く。.md",
